@@ -1,0 +1,25 @@
+
+
+division_classes array<
+     struct<
+         id long,
+         link string,
+         name string,
+         slug string
+         >
+     >,
+id long,
+kingdom struct<
+     id long,
+     link string,
+     name string,
+     slug string
+     >,
+name string,
+slug string
+subkingdom struct<
+    id long,
+    link string,
+    name string,
+    slug string
+    >
