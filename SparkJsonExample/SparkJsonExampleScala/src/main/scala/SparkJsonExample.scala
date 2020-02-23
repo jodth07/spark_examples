@@ -6,7 +6,7 @@ import org.apache.log4j.{Level, Logger}
 object SparkJsonExample {
 
   def getPath(name : String): String = {
-    val BasePath : String = "file:///Users/speedy/Desktop/spark_connect_examples/inputdata"
+    val BasePath : String = "file:///home/maria_dev/data/spark_examples/inputdata"
     f"${BasePath}/${name}.json"
   }
 
@@ -22,12 +22,14 @@ object SparkJsonExample {
     val SubkingdomPath : String = getPath("subkingdoms")
     val KingdomPath : String = getPath("kingdoms")
     val DivisionPath : String = getPath("divisions")
+    val FamilyPath : String = getPath("families")
     val GenusPath : String = getPath("genuses")
     val PlantPath : String = getPath("plants")
 
 
     //    val data_df = spark.read.json(JsonPath)
     val sc : SparkContext = spark.sparkContext
+
     val subData  = spark.read.json(SubkingdomPath)
     subData.printSchema()
 
@@ -36,6 +38,10 @@ object SparkJsonExample {
 
     val divData  = spark.read.json(DivisionPath)
     divData.printSchema()
+
+    val famData  = spark.read.json(FamilyPath)
+    famData.printSchema()
+
 
     val genusData  = spark.read.json(GenusPath)
     genusData.printSchema()
