@@ -1,60 +1,39 @@
+set hivevar:db_path=/user/maria_dev/plants;
 CREATE DATABASE IF NOT EXISTS plants;
 
-CREATE EXTERNAL TABLE IF NOT EXISTS plants.plants (
-    common_name string,
-    complete_data boolean,
-    id long,
-    link string,
-    scientific_name string,
-    slug string,
-)
-    STORE AS PARQUET
-    LOCATION 'plants/plants';
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- -- -- subkingdoms  -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
 
-CREATE EXTERNAL TABLE IF NOT EXISTS plants.genuses(
-    class struct<
-         id long,
-         link string,
-         name string,
-         slug string
-         >,
-    division struct<
-         id long,
-         link string,
-         name string,
-         slug string
-         >,
-    family struct,
-         common_name string,
-         id long,
-         link string,
-         name string,
-         slug string
-         >,
-    id long,
-    kingdom struct,
-         id long,
-         link string,
-         name string,
-         slug string
-         >,
-    name string,
-    order struct<
-         id long,
-         link string,
-         name string,
-         slug string
-         >,
-    slug string,
-    subkingdom struct<
-        id long,
-        link string,
-        name string,
-        slug string
-        >
+CREATE EXTERNAL TABLE IF NOT EXISTS plants.subkingdoms(
+    id BIGINT,
+    link STRING,
+    name STRING,
+    slug STRING
 )
-    STORE AS PARQUET
-    LOCATION 'plants/genuses';
+    STORED AS PARQUET
+    LOCATION "${db_path}/subkingdoms";
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- -- -- kingdoms  -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+CREATE EXTERNAL TABLE IF NOT EXISTS plants.kingdoms(
+    id BIGINT ,
+    name STRING ,
+    slug STRING ,
+    subkingdoms array<
+          struct <
+             id: BIGINT,
+             link: STRING,
+             name: STRING,
+             slug: STRING
+           >
+     >
+)
+    STORED AS PARQUET
+    LOCATION "${db_path}/kingdoms";
+
 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
 -- -- -- -- -- -- -- -- -- divisions  -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
@@ -62,27 +41,143 @@ CREATE EXTERNAL TABLE IF NOT EXISTS plants.genuses(
 CREATE EXTERNAL TABLE IF NOT EXISTS plants.divisions(
     division_classes array<
          struct<
-             id long,
-             link string,
-             name string,
-             slug string
+            id: BIGINT,
+            link: STRING,
+            name: STRING,
+            slug: STRING
              >
          >,
-    id long,
+    id BIGINT,
     kingdom struct<
-         id long,
-         link string,
-         name string,
-         slug string
+        id: BIGINT,
+        link: STRING,
+        name: STRING,
+        slug: STRING
          >,
-    name string,
-    slug string
+    name STRING,
+    slug STRING,
     subkingdom struct<
-        id long,
-        link string,
-        name string,
-        slug string
+        id: BIGINT,
+        link: STRING,
+        name: STRING,
+        slug: STRING
         >
 )
-    STORE AS PARQUET
-    LOCATION 'plants/divisions';
+    STORED AS PARQUET
+    LOCATION "${db_path}/divisions";
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- -- -- families  -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+CREATE EXTERNAL TABLE IF NOT EXISTS plants.families(
+    common_name STRING,
+    division struct <
+        id: BIGINT,
+        link: STRING,
+        name: STRING,
+        slug: STRING
+        >,
+    division_class struct <
+        id: BIGINT,
+        link: STRING,
+        name: STRING,
+        slug: STRING
+        >,
+    division_order struct <
+        id: BIGINT,
+        link: STRING,
+        name: STRING,
+        slug: STRING
+        >,
+    genuses array <
+         struct <
+            id: BIGINT,
+            link: STRING,
+            name: STRING,
+            slug: STRING
+         >
+     >,
+    id BIGINT,
+    kingdom struct <
+            id: BIGINT,
+            link: STRING,
+            name: STRING,
+            slug: STRING
+            >,
+    name STRING,
+    slug STRING,
+    subkingdom struct <
+            id: BIGINT,
+            link: STRING,
+            name: STRING,
+            slug: STRING
+            >
+    )
+    STORED AS PARQUET
+    LOCATION "${db_path}/families";
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- -- -- Genus  -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+CREATE EXTERNAL TABLE IF NOT EXISTS plants.genuses(
+    class struct<
+         id: BIGINT,
+         link: STRING,
+         name: STRING,
+         slug: STRING
+         >,
+    division struct<
+         id: BIGINT,
+         link: STRING,
+         name: STRING,
+         slug: STRING
+         >,
+    family struct<
+         common_name: STRING,
+         id: BIGINT,
+         link: STRING,
+         name: STRING,
+         slug: STRING
+         >,
+    id BIGINT,
+    kingdom struct<
+         id: BIGINT,
+         link: STRING,
+         name: STRING,
+         slug: STRING
+         >,
+    name STRING,
+    `order` struct<
+         id: BIGINT,
+         link: STRING,
+         name: STRING,
+         slug: STRING
+         >,
+    slug STRING,
+    subkingdom struct<
+        id: BIGINT,
+        link: STRING,
+        name: STRING,
+        slug: STRING
+        >
+)
+    STORED AS PARQUET
+    LOCATION "${db_path}/genuses";
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- -- -- plants  -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+CREATE EXTERNAL TABLE IF NOT EXISTS plants.plants (
+    common_name STRING,
+    complete_data BOOLEAN,
+    id BIGINT,
+    link STRING,
+    scientific_name STRING,
+    slug STRING
+    )
+    STORED AS PARQUET
+    LOCATION "${db_path}/plants";
+
