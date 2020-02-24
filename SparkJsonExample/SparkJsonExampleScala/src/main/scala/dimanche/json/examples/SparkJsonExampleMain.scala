@@ -47,5 +47,7 @@ object SparkJsonExampleMain {
     val plantData  = spark.read.json(Plant)
     plantData.printSchema()
     outputToJSon(plantData, Plant)
+
+    spark.stop()
   }
 }

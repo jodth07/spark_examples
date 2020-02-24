@@ -3,7 +3,7 @@ import org.apache.spark.sql.{DataFrame, SparkSession}
 
 class ExampleSupports(sparkSession: SparkSession) {
 
-  val BasePath : String = "file:///home/maria_dev/data/spark_examples"
+  val BasePath : String = "file:///home/yashiro/Desktop/spark_examples/"
 
   def getInputPath(name : String): String = {
     f"${BasePath}/inputdata/${name}.json"
