@@ -131,3 +131,4 @@ tmp.txt
 #Scala to Ignore
 # PyBuilder
 target/
+env.conf
