@@ -22,7 +22,12 @@ object SparkCassandraExample {
       .getOrCreate()
 
     val sc = spark.sparkContext
-    
+
+    val constants = new ExampleConstants
+    val supports = new ExampleSupports(spark)
+    import constants._
+    import supports._
+
     println("Hello World")
 
   }

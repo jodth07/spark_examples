@@ -33,7 +33,6 @@ def get_data(end_point: str, base_site: str = BASE_SITE) -> list:
 
 def process_data(endpoint_name):
     """
-
     :param endpoint_name:
     :return:
     """
