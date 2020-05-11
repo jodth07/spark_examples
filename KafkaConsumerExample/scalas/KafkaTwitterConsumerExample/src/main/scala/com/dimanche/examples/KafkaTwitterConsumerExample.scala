@@ -36,8 +36,11 @@ object KafkaTwitterConsumerExample {
         val currentOffset = record.offset()
         println(currentOffset)
         try {
-            val new_data = record.value().parseJson.asJsObject().getFields("text")
-            println(currentOffset, new_data)
+            val jsRecord = record.value().parseJson.asJsObject()
+            val data = (jsRecord.getFields("user"),jsRecord.getFields("lang"),
+              jsRecord.getFields("id"),jsRecord.getFields("text"),
+              jsRecord.getFields("created_at"))
+            println(currentOffset, data)
         } finally {
             println("finally")
         }
