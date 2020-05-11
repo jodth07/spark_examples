@@ -132,3 +132,4 @@ tmp.txt
 # PyBuilder
 target/
 env.conf
+.env
