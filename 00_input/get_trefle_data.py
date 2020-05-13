@@ -43,6 +43,7 @@ def get_str_data(data_li: list) -> StringIO:
         data_io.write(f"{record},\n")
     return data_io
 
+
 def process_data(endpoint_name:str, session_token:str):
     """
     :param endpoint_name:
