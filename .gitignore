@@ -71,6 +71,9 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+# PyBuilder
+target/
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
@@ -127,9 +130,3 @@ dmypy.json
 .DS_Store
 .idea/
 tmp.txt
-
-#Scala to Ignore
-# PyBuilder
-target/
-env.conf
-.env

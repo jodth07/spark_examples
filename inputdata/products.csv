@@ -1,0 +1,14 @@
+﻿SKU,ProductCategory,ProductName,Price
+B0001,Bottle,Lemon (bottle),13.95
+B0002,Bottle,Mandarin (bottle),13.95
+B0003,Bottle,Rosemary (bottle),13.95
+B0004,Bottle,Thyme (bottle),13.95
+B0005,Bottle,Hazelnut (bottle),13.95
+B0006,Bottle,Basil (bottle),13.95
+C0001,Case,Lemon (case),82.95
+C0002,Case,Mandarin (case),82.95
+C0003,Case,Rosemary (case),82.95
+C0004,Case,Thyme (case),82.95
+C0005,Case,Hazelnut (case),82.95
+C0006,Case,Basil (case),82.95
+C0007,Case,Assortment (case),82.95
