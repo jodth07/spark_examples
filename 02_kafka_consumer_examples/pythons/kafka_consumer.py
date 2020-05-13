@@ -15,5 +15,4 @@ if __name__ == '__main__':
     for record in consumer:
         print(record.value,
               record.offset,
-              datetime.fromtimestamp(record.timestamp / 1000.).strftime(fmt)
-              )
+              datetime.fromtimestamp(record.timestamp / 1000.).strftime(fmt))
