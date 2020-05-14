@@ -131,3 +131,4 @@ dmypy.json
 .idea/
 tmp.txt
 application.properties
+file:
