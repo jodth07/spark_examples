@@ -1,0 +1,241 @@
+Technical Marketing Profile 
+
+Hadoop
+
+Consultant Name: 
+
+Dimanche Olson Josue
+
+
+
+
+
+
+
+Levels Explanation
+
+Notes Explanation
+
+
+
+Please refer to the explanation in the table below. I’ve left some comments regarding a performance of the skill. 
+
+
+
+0 = absolutely cannot do it at all, even with heavy technical support (“no go”)
+
+
+
+
+
+1 = cannot do without it technical assistance
+
+
+
+
+
+3 = can do it, but requires moderate support
+
+
+
+
+
+5 = can do without any technical assistance
+
+
+
+
+
+
+
+
+
+
+
+Skillsets 
+
+Level 
+
+Submit for these Keywords
+
+Explanation
+
+Distributed Filesystem
+
+
+
+
+
+4
+
+HDFS + YARN
+
+Core Hadoop good skills
+
+Distributed Programming 
+
+
+
+
+
+4
+
+Map-Reduce, Pig, Spark, Storm, Flink, Tez
+
+Strong on Scala, can code in Python and Java as well
+
+NoSQL Databases 
+
+Column Data Model 
+
+
+
+
+
+3
+
+HBase, Cassandra,  MongoDB
+
+Good understanding of those skills. 
+
+SQL-On-Hadoop 
+
+
+
+
+
+4
+
+Hive, Impala
+
+Preferable Hive, we have not touched any other technologies during the training.  
+
+Data Ingestion 
+
+
+
+ 
+
+			4
+
+Flume, Sqoop, Kafka, Samza, NiFi, 
+
+Good on Kafka, Sqoop and Flume, Then Nifi.
+
+Service Programming 
+
+
+
+
+
+2
+
+Zookeeper, Avro, 
+
+
+
+Scheduling & DR 
+
+
+
+
+
+2
+
+Oozie, Airflow 
+
+He could work with those technologies. 
+
+Security 
+
+
+
+
+
+0
+
+Apache Knox, Apache Ranger
+
+None 
+
+
+
+System Deployment 
+
+
+
+
+
+3
+
+Ambari, HUE, Mesos, Cloudera Manager
+
+He knows how to use Ambari
+
+Applications / Search
+
+
+
+ 
+
+3
+
+Elastic Search, Solr
+
+He could work with those technologies
+
+AWS (big data)
+
+ 
+
+3
+
+EMR, EC2, Kinesis, Redshift, DynamoDB, Amazon RDS, S3, EFS, AWS Lambda, Amazon Athena, Glue
+
+He could work with those technologies
+
+AZURE (big data)
+
+
+
+1
+
+HDInsight, SQL Data Warehouse, Azure Databricks, Stream Analytics, VMs, Cosmos DB, SQL,
+
+Very limited Knowledge
+
+
+
+Linux
+
+
+
+3
+
+RedHat, CentOS, Ubuntu
+
+Overall configuration for bigdata tools
+
+
+
+Visualization
+
+ 
+
+2
+
+Tableau, PowerBI, Google Chart
+
+Ease of Use, can talk about it
+
+General Overview of Consultants Technical Ability – Ranking 
+
+Dimanche is really capable in this field. He could conduct any kinds of positions related with Big Data. His preference: 1) Architect 2) Admin 3) Engineer 4) Developer. He could have lead position. 
+
+-Admin/Engineer/Architect caliber: Developer/Engineer/
+
+-Ability to speak to resume: proficient 
+
+-Preferred job description titles to look for: Big Data Engineer / Developer 
+
+-Could this person be a lead? - Yes

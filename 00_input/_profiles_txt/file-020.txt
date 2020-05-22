@@ -1,0 +1,585 @@
+Collins Enoh  813-882-5638   collinspenoh@gmail.com
+
+Collins Enoh
+
+Hadoop Big Data Engineer
+
+
+
+
+
+
+
+
+
+
+
+Collins Enoh
+
+Hadoop Big Data Engineer
+
+
+
+
+
+
+
+
+
+CONTACT
+
+Phone: (813) 882-5638
+
+Email:  collinspenoh@gmail.com
+
+
+
+
+
+
+
+CHARACTER
+
+Sincere
+
+Hard-working
+
+Dependable
+
+Flexible and Adaptable
+
+Interested, Engaged
+
+Continually Learning
+
+Supportive and Helpful
+
+Collaborative, team spirit
+
+
+
+
+
+
+
+PROJECTS
+
+WellCare
+
+International Paper
+
+UST Global
+
+Bright Systems
+
+Ingalls Memorial Hospital
+
+WSW health Partners
+
+University of Yaoundé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+
+17 years total experience I.T. in Data Systems with the last 5 Years’ Experience in Big Data Architecture and Engineering; 
+
+Experience in a variety of industries including Healthcare and Finance; Familiar with HIPPA compliance and FINRA regulations.
+
+Experience in large scale distributed systems with extensive experience as Hadoop Developer and Big Data Analyst.
+
+Primary technical skills in HDFS, YARN, Pig, Hive, Sqoop, HBase, Flume, Oozie, Zookeeper.
+
+Experience managing data analytics projects over $32 million.
+
+Experienced team lead providing mentoring to engineers, and liaison for team with stakeholders, business units, data scientists/analysts and making sure all teams collaborate smoothly. 
+
+Have good experience in extracting and generating statistical analysis using Business Intelligence tool
+
+Facilitation of meetings following Scrum processes such as Sprint Planning, Backlog, Sprint Retrospective, Requirements Gathering and providing planning and documentation for project; ensuring project is on track with stakeholder wishes.
+
+QlikView for better analysis of data.
+
+In depth understanding/knowledge of Hadoop Architecture and various components such as HDFS, Job
+
+Tracker, Task Tracker, Name Node, Data Node and MapReduce concepts and experience in working with
+
+Used Apache Hadoop for working with Big Data to analyze large data sets efficiently.
+
+Hands on experience in working with Ecosystems like Hive, Pig, Sqoop, MapReduce, Flume, Oozie. Strong
+
+knowledge of Pig and Hive's analytical functions, extending Hive and Pig core functionality by writing custom
+
+UDFs.
+
+Strong Experience in working with Databases like Teradata and proficiency in writing complex SQL, PL/SQL for creating tables, views, indexes, stored procedures and functions.
+
+Hands-on experience developing Teradata PL/SQL Procedures and Functions and SQL tuning of large databases.
+
+Experience in importing and exporting Terabytes of data between HDFS and Relational Database Systems using Sqoop.
+
+ETL from databases such as SQL Server […] Oracle11G to Hadoop HDFS in Data Lake.
+
+Experience in writing SQL queries, Stored Procedures, Triggers, Cursors and Packages.
+
+Experience working with various tools.
+
+Experience in handling XML files and related technologies.
+
+Performed the performance and tuning at source, Target and Data Stage job levels using Indexes, Hints and Partitioning in DB2, ORACLE and DataStage.
+
+
+
+
+
+
+
+
+
+STRENGTHS
+
+
+
+Skilled in managing data analytics and data processing, database and data driven projects
+
+
+
+Skilled in Architecture of Big Data Systems, ETL Pipelines, and Analytics Systems for diverse end users
+
+
+
+Skilled in Database systems and administration
+
+
+
+Proficient in writing technical reports and documentation
+
+
+
+Adept with various distributions such as Cloudera Hadoop, Hortonworks, MapR and Elastic Cloud, Elasticsearch
+
+
+
+
+
+Expert in bucketing and partitioning
+
+
+
+Expert in Performance Optimization
+
+
+
+
+
+Technical Skills
+
+
+
+APACHE
+
+Apache Ant, Apache Flume, Apache Hadoop, Apache YARN, Apache Hive, Apache Kafka, Apache MAVEN, Apache Oozie, Apache Pig, Apache Spark, Apache Tez, Apache Zookeeper, Cloudera Impala, HDFS
+
+Hortonworks, MapR, MapReduce
+
+
+
+SCRIPTING
+
+PIG/Pig Latin, HiveQL, MapReduce, XML, FTP, 
+
+Python, UNIX, Shell scripting, LINUX
+
+FTP, HTML5, CSS3 
+
+
+
+OPERATING SYSTEMS
+
+Unix/Linux, Windows 10, Windows8, Windows XP, Ubuntu, Apple OS X (Yosemite, Mavericks);
+
+
+
+FILE FORMATS
+
+Parquet, Avro & JSON, ORC
+
+
+
+DISTRIBUTIONS
+
+Cloudera, Hortonworks, MapR, AWS, Elastic, Elastic Cloud, Elasticsearch, Cloudera CDH 4/5, Hortonworks HDP 2.3/2.4, Amazon Web Services (AWS)
+
+
+
+DATA PROCESSING (COMPUTE) ENGINES
+
+Apache Spark, Spark Streaming, Storm
+
+
+
+DATA VISUALIZATION TOOLS
+
+Pentaho, QlikView, Tableau
+
+
+
+COMPUTE ENGINES
+
+Apache Spark, Spark Streaming, Storm
+
+
+
+DATABASE
+
+Microsoft SQL Server Database Administration (2005, 2008R2, 2012)
+
+Database & Data Structures, Apache Cassandra, Datastax Cassandra, Amazon Redshift, DynamoDB, Apache Hbase, HCatalog
+
+
+
+SOFTWARE
+
+Microsoft Project, Primavera P6, VMWare, Microsoft Word, Excel, Outlook, Power Point; Technical Documentation Skills
+
+
+
+PROJECT MANAGEMENT
+
+Management experience as team lead, project planning, facilitation and coordination using both waterfall and Agile processes  such as Agile Scrum.  Experience managing costs, materials, labor, time, hiring and managing team memberz.  Managing budgets over $32M.
+
+   
+
+
+
+
+
+
+
+Experience
+
+
+
+March 2016 – Present
+
+WellCare
+
+Tampa, FL
+
+
+
+
+
+HADOOP DATA ENGINEER
+
+Architecture of new data analytics pipelines and migration of data to cloud.
+
+Architected a pipeline to receive, resolve, normalize, route, persistence flows.
+
+Design and development of integration workflows.
+
+Develop automation and processes to enable teams to deploy, manage, configure, scale, monitor applications in Data Centers and in AWS Cloud.
+
+Managed highly available and fault tolerant systems in AWS, through various API's, console operations and CLI.
+
+Used Amazon Web Services (AWS) like Amazon S3 and Amazon EC2.
+
+Migration of content from old data warehouse to AWS Redshift data ware house for columnar data storage.
+
+Design roles and groups for users and resources using AWS Identity Access Management (IAM) and managed network security using Security Groups, and IAM.
+
+Utilized Cloud watch to monitor resources such as EC2, CPU memory, Amazon to design high availability applications on AWS across availability zones.
+
+Created and maintained continuous build and continuous integration environments in SCRUM and Agile projects.
+
+
+
+
+
+
+
+January 2015 – March 2016
+
+International Paper
+
+Atlanta, GA
+
+
+
+
+
+HADOOP DATA ENGINEER
+
+Architected big data systems on AWS using AWS tools and Redshift database.
+
+Worked on AWS to create, manage EC2 instances and Hadoop Clusters. Involved in connecting Pentaho 7.0 to target database to get data.
+
+Used ETL to transfer the data from the target database to Pentaho to send it to reporting tool MicroStrategy.
+
+Used Zookeeper for various types of centralized configurations, GIT for version control, Maven as a build
+
+tool for deploying the code.
+
+moved the data from Hortonworks cluster to AWS EMR cluster.
+
+Involved in running Hadoop jobs for processing millions of records and data gets updated on daily and weekly basis.
+
+Continuous data integration from Mainframe systems to Amazon S3 which is connected via Attunity an ETL tool.
+
+Documentation of the tasks and the issues is done.
+
+POC involved in loading data from LINUX file system to AWS S3 and HDFS.
+
+Worked on AWS to create, manage EC2 instances and Hadoop Clusters.
+
+Ran Spark jobs on top of RAW data and transforming
+
+the data to generate the desired output files.
+
+Created both internal and external tables in Hive and developed Pig scripts to preprocess the data for analysis.
+
+Built a Full-Service Catalog System which has a full workflow using Elasticsearch, Logstash, Kibana, Kinesis, CloudWatch.
+
+Experience in monitoring tools like Nagios and Amazon Cloudwatch to monitor major metrics like Network packets, CPU utilization, Load Balancer Latency etc.
+
+Managed all the bugs and changes into a production environment using the JIRA tracking tool
+
+Integrated JIRA with CI/CD Pipeline as defect tracking system and configured workflows to automate deployment and issue tracking.
+
+
+
+
+
+
+
+
+
+May 2013 – Dec 2014
+
+UST Global
+
+Aliso Viejo, CA
+
+
+
+
+
+HADOOP DATA ENGINEER
+
+Analysis of end user requirements and business rules based on given documentation and worked closely with tech leads and Business analysts in understanding the current system.
+
+Analyzed the business requirements and involved in writing Test Plans and Test Cases.
+
+Involved in creating Hive Tables, loading with data and writing Hive queries which will invoke and run Spark jobs in the backend.
+
+Designed and implemented Incremental Imports into Hive tables.
+
+Involved in collecting, aggregating and moving data from servers to HDFS using Apache Flume
+
+Experienced in managing and reviewing the Hadoop log files.
+
+Implemented the workflows using Apache Oozie framework to automate tasks
+
+Involved in Setup and benchmark of Hadoop /HBase clusters for internal use.
+
+Created and maintained Technical documentation for launching Hadoop Clusters and for executing Pig Scripts.
+
+Wrote SQL queries to perform Data Validation and Data Integrity testing.
+
+Worked on UML diagrams for the project use case.
+
+Created both internal and external tables in Hive and developed Pig scripts to preprocess the data for analysis.
+
+Monitoring Hadoop scripts which take the input from HDFS and load the data into Hive.
+
+Designed appropriate partitioning/bucketing schema to allow faster data retrieval during analysis using HIVE.
+
+Worked on various file formats like AVRO, ORC, Text, CSV, Parquet using Snappy compression.
+
+Created PIG scripts to process raw structured data and developed Hive tables on top of it.
+
+
+
+
+
+
+
+Jan 2012 – May 2013
+
+Brite Systems, Inc.
+
+Indianapolis, IN
+
+
+
+
+
+DATA ENGINEER
+
+Involved in creating Hive tables, loading with data and writing Hive Queries, which will internally run a Map Reduce job. 
+
+Implemented Partitioning, Dynamic Partitions and Buckets in Hive for optimized data retrieval.
+
+Connected various data centers and transferred data between them using Sqoop and various ETL tools.
+
+Extracted the data from RDBMS (Oracle, MySQL) to HDFS using Sqoop. 
+
+Used the Hive JDBC to verify the data stored in the Hadoop cluster.
+
+Worked with the client to reduce churn rate, read and translate data from social media websites.
+
+Generated and published reports regarding various predictive analysis on user comments. Created reports and documented various retrieval times of them using the ETL tools like QlikView and Pentaho.
+
+Performed the performance and tuning at source, Target and Data Stage job levels using Indexes, Hints and
+
+Partitioning in DB2, ORACLE and DataStage.
+
+Performance tuning in the live systems for ETL/ELT jobs. 
+
+Wrote database objects like Stored Procedures, Triggers for Oracle, MS SQL
+
+Good knowledge in PL/SQL, hands on experience in writing medium level SQL queries
+
+Good knowledge in Impala, Spark/Scala, Shark, Storm.
+
+Expertise in preparing the test cases, documenting and performing unit testing and Integration.
+
+In-depth understanding of Data Structures and Optimization.
+
+
+
+
+
+
+
+Jan 2011 – Jan 2012
+
+Ingalls Memorial Hospital, Harvey, Illinois 
+
+DATA SYSTEMS SPECIALIST
+
+Performed data entry functions while creating daily reports on treatment programs through in-house engineered records system.
+
+Accountable for the timely, efficient upgrades of patient health information databases for the behavioral health services and support services to end user terminals and physician practices requiring strong attention to detail, organizational skill, and the ability to maintain tight delivery schedules. 
+
+Accountable for data updates into health information database for HIPPA compliance by logging treatment interventions using secure patient health information management access terminal.
+
+
+
+
+
+Jan 2010 – Jan 2011
+
+WSW Health Partners, Inc., Olympia Fields, Illinois
+
+
+
+DATABASE SPECIALIST
+
+Responsible for the day-to-day database and management operations of a psycho- therapy terminal databases for client access service delivery and customer account management with an average of $400,000-$600, 000 in annual revenue;
+
+Accountable for data updates into patient health information database for HIPPA regulatory compliance by logging various aspects of client treatment interventions programs using secure health information management access terminal;
+
+Managed the in-house operational database for electronic health records; 
+
+Performed other mission critical business needs functions as assigned.
+
+
+
+
+
+Jan 2000 – Dec 2009
+
+The University of Yaoundé I, Yaoundé, Cameroon
+
+
+
+
+
+Services Coordinator
+
+Migration of systems data from different databases and platforms to MS-SQL databases at a leading regional research institution;
+
+Provided exceptional levels of support and customer service to all University guests, visiting researchers and exchange faculty / students within the Divisions of Research and Cooperation;
+
+Responsible for updating inter-University research databases and implementing regulatory compliance mandates through the coordination of research accreditations; 
+
+Research database administration including installation, configuration, upgrades, capacity planning, performance tuning, backup and recovery in a high-transaction and fast pace environment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Education
+
+
+
+Bachelor of Arts in Communication
+
+The University of Yaoundé I, Yaoundé, Cameroon 
+
+
+
+Certification and Training
+
+Certificate in Management Information Systems 
+
+
+
+India Institute of Science
+
+Diploma in Supply Chain Management
+
+   
+
+India Institute of Science
+
+Certificate in Operations Management
+
+
+
+Microsoft SQL Server Database Administration
+
+Management if Client Technical Support

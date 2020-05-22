@@ -1,0 +1,361 @@
+Phone: 404-220-9581 email:. paulbordonez@gmail.com
+
+Paul Baez Ordonez
+
+Hadoop Big Data Engineer
+
+
+
+
+
+
+
+
+
+
+
+CAREER SUMMARY
+
+	Over 6 years of experience in systems engineering with expertise in big data, data analysis, and .NET Architecture.
+
+	More than 10 years’ experience programming and computer science
+
+	Experience in installing Hadoop cluster using different distributions of Apache Hadoop, Hortonworks,
+
+	Cloudera and Mapr.
+
+	Experience in Installation and configuration on Spark.
+
+	Good Experience in understanding the client's Big Data business requirements and transform it into Hadoop centric technologies.
+
+	Able to evaluate clients existing Hadoop infrastructure, performance issues and bottlenecks.
+
+	Experience in deploying and managing the multi-node development, testing and production Hadoop
+
+	Hadoop components (HIVE, PIG, SQOOP, OOZIE, FLUME, HCATALOG, HBASE & ZOOKEEPER).
+
+	Extensive experience with using Hortonworks Ambari and Cloudera Impala, Spark, Storm, and Kafka.
+
+	Strong skill in Hadoop HDFS architecture.
+
+	Sqoop to Import/export data from RDBMS, databases, MySQL, Oracle into HDFS, and Hive.
+
+	Extensive knowledge on performance tuning, Cluster monitoring & troubleshooting.
+
+	Design Big Data solutions for traditional enterprise businesses.
+
+	Defining job flows in Hadoop environment using tools like Oozie for data scrubbing and processing.
+
+	Experience in configuring Zookeeper to provide Cluster coordination services.
+
+	Loading logs from multiple sources directly into HDFS using tools like Flume.
+
+	Familiar in commissioning and decommissioning of nodes on Hadoop Cluster.
+
+	Extensively worked on configuring NameNode High Availability, and Hadoop Cluster Disaster Management.
+
+	Skilled in converting business requirements into concrete deliverables 
+
+Developed add-ins using AngularJS, REST / JSON, JQuery to create customized web forms. 
+
+SQL Server development (query optimization, stored procedures, etc.) and Administration (fail over using high availability, mirroring techniques, jobs, database backups, etc.). 
+
+Provided guidelines and helped in setting up development, staging and production environments for SharePoint
+
+Led team in architecting and designing backend database model, corporate web application and various front-end applications for Windows CE touch based application 
+
+End to end support of all internal online web applications and servers. 
+
+	TECHNICAL QUALIFICATIONS
+
+Programming Languages:  SQL, PL/SQL, U-SQL, R, PIG Latin, HiveQL, Python, Py4J, Scala, Blueprint XML, Ajax, TypeScript, Active Script, Active Directory, PowerShell, .NET programming, C, C++, C#
+
+Web Services & Technologies:  jQuery, REST JSON, SOAP, XML, jQuery, Ajax, HTML, CSS, JavaScript, XML
+
+Big Data ETL /Pipeline:  Talend, Informatica, Flume, Kafka, Camel, Apatar, Atom, Ketl, Kettle, Clover
+
+Hadoop Distributions:  Hadoop, Cloudera Hadoop CHD, Hortonworks, MapR
+
+Big Data Cloud Services:  AWS, Azure, Adobe, Elastic Cloud, Anaconda Cloud
+
+Hadoop Big Data Ecosystem:  Apache Sqoop, Spark, Park Streaming, Storm, Kafka, Presto, Zookeeper, HDFS, Tez, Hive, Hcatalog, Maven, Pig, Oozie, Spark, Impala, Ant, ivy, Pandas, PySpark, Camel, Airflow, Jelly, Solr, Lucene
+
+Data Visualization: Kibana, PowerBI
+
+Database and Data Storage:  SQL, NoSQL, RDBMS, Cassandra, HBase, Data Lake, Data Warehouse, HDFS, NAS, SAN, DAS, Parquet, ORC, Avro
+
+Data Processing:  ETL, Real-time, Stream, Batch, Data Cleansing, Data Mining, Data Modeling
+
+WORK EXPERIENCE
+
+
+
+Cox Communications – Atlanta, GA
+
+Senior Hadoop Engineer
+
+4/2016 – Present
+
+Responsible for building scalable distributed data solutions using Hadoop.
+
+Experience in Job management using Fair scheduler and Developed job processing scripts using Oozie workflow.
+
+Worked with Horton works support to resolve the issues.
+
+Used Spark-Streaming APIs to perform necessary transformations and actions on the fly for building the common learner data model which gets the data from Kafka in near real-time and Persists into Cassandra.
+
+Configured deployed and maintained multi-node Dev and Test Kafka Clusters.
+
+Developed Spark scripts by using Scala shell commands as per the requirement.
+
+Used Spark API over Cloudera Hadoop YARN to perform analytics on data in Hive.
+
+Developed Scala scripts, UDFFs using both Data frames/SQL/Datasets in Spark 2.1.1 for Data Aggregation, queries and writing data back into OLTP system through Sqoop.
+
+Experienced in performance tuning of Spark Applications for setting right Batch Interval time, correct level of Parallelism and memory tuning.
+
+Load the data into Spark RDD and performed in-memory data computation to generate the output response.
+
+Implemented ELK (Elastic Search, Log Stash, Kibana) stack to collect and analyze the logs produced by the spark cluster.
+
+Performed advanced procedures like text analytics and processing, using the in-memory computing capabilities of Spark.
+
+Experienced in handling large datasets using Partitions, Spark in Memory capabilities, Broadcasts in Spark.
+
+Designed, developed and did maintenance of data integration programs in a Hadoop and RDBMS environment with both traditional and non-traditional source systems as well as RDBMS and NoSQL data stores for data access and analysis.
+
+Analyzed the SQL scripts and designed the solution to implement using Spark.
+
+Responsible for developing data pipeline with Amazon AWS to extract the data from weblogs and store in HDFS, and Cassandra implementation using Datastax.
+
+Involved in creating Hive tables, and loading and analyzing data using hive queries.
+
+Developed Hive queries to process the data and generate the data cubes for visualizing.
+
+Implemented schema extraction for Parquet and Avro file Formats in Hive.
+
+Good experience with Talend open studio for designing ETL Jobs for Processing of data.
+
+Implemented Partitioning, Dynamic Partitions, Buckets in HIVE.
+
+Used Reporting tools like Tableau to connect with Hive for generating daily reports of data.
+
+Collaborated with the infrastructure, network, database, application, and BI teams to ensure data quality and availability.
+
+Environment:
+
+Hadoop YARN, Spark Core, Spark Streaming, Spark SQL, Scala, Kafka, Hive, Sqoop, Amazon
+
+AWS, Elastic Search, Impala, Cassandra, Tableau, Talend, Oozie, Horton works, Cloudera, Oracle 12c, Linux,
+
+HDP
+
+
+
+Affirma – Seattle, WA
+
+Hadoop Big Data Consulting Engineer 
+
+1/2015-3/2016
+
+Developing scripts to perform business transformations on the data using Hive and PIG.
+
+Developed UDFs for hive and pig, and worked on reading multiple data formats on HDFS using Scala.
+
+Involved in converting Hive/SQL queries into Spark transformations using Spark RDDs and Scala.
+
+Developed multiple POCs using Scala and deployed on the Yarn cluster, compared the performance of
+
+Spark, with Hive and SQL/Teradata.
+
+Analyzed the SQL scripts and designed the solution to implement using Scala.
+
+Data analysis through Pig, Hive.
+
+Design and develop Data Ingestion component.
+
+Cluster coordination services through Zookeeper.
+
+Import of data using Sqoop from Oracle to HDFS.
+
+Import and export of data using Sqoop from or to HDFS and Relational DB Teradata.
+
+Developed POC on Apache-Spark and Kafka.
+
+Environment
+
+Apache Hadoop, HDFS, Hive, Pig, Sqoop, Spark, Cassandra, HBase, SQL, Scala, VMware, Eclipse, PIG,  Flume.
+
+
+
+State Farm – Bloomington, IL
+
+Big Data Engineer
+
+3/2013 – 12/2014
+
+Expert in implementing advanced procedures like text analytics and processing using the in-memory.
+
+computing capabilities like Apache Spark written in Scala.
+
+Developed and executed shell scripts to automate the jobs.
+
+Wrote complex Hive queries and UDFs.
+
+Worked on the core and Spark SQL modules of Spark extensively.
+
+Experienced in defining job flows using Oozie.
+
+Experienced in collecting, aggregating, and moving large amounts of streaming data into HDFS using Flume.
+
+Working Knowledge in NoSQL Databases like HBase and Cassandra.
+
+Involved in running ad-hoc query through PIG Latin language or Hive.
+
+Developed Power enter mappings to extract data from various databases, Flat files, and load into DataMart.
+
+Log file management; i.e., remove logs greater than 7 days old from log folder and load into HDFS.
+
+Conducted Scrum Daily stand up, Product backlog, Sprint Planning, Sprint Review & Sprint Retrospective.
+
+Involved with reporting team to generating reports from Data Mart using Cognos.
+
+Environment
+
+Apache Hadoop, EDW, SQL Server 2005, TOAD, Rapid SQL, Oracle 10g (RAC), HDFS, VMware, HIVE, PIG, Hive, HBase, Sqoop, Flume, Linux, UNIX, DB2.
+
+
+
+
+
+Trigent – Southborough, MA
+
+Data Analytics Developer
+
+11/2011 – 2/2013
+
+Led a Big Data project on a gigantic amount of taxonomy data and customer portfolio using Hadoop, Cloudera, Hive, Pig, HDInsight, and facilitating real-time data which was both analyzed and also in real time restructured the Dell website on the demographic portfolio of the customers.
+
+I architected, worked and helped to develop the SOLR/Lucene Search deployed to Azure. The indexing was done directly on top of the metadata extracted from various files. 
+
+Used customized faceting to overwrite the default search criteria.
+
+Developed a customized SOLR indexing scheduler in C# which would run periodically to do delta indexing.
+
+Wrote variation of batch files, python for SOLR/Lucene deployment and configurations.
+
+Leading the team, we designed architected and implemented the migrating from legacy normalized SQL taxonomy data, customer portfolio data and other data to a modern high-performance Big Data Warehouses running on multiple DW appliances.
+
+Defined the data governance strategy, designed security patterns, implemented data standards and procedures across the enterprise; drafted business specific methodology to establish business stakeholder-driven data stewardship through MDM.
+
+Led multiple EDW projects, prototyped and evaluated the performance on Azure cloud, AWS Amazon Cloud, Massively Parallel Processing (MPP) Data Warehouse Appliance.
+
+Created Taxonomy data visualization using the Cloudera Visualizations, Dashboards, and Reports to monitor customer profile, demography, and other useful data. Other visualization tools were also created using C#.
+
+Created data quality ETL packages to correct and cleanse the taxonomy data and enhance the quality of consolidated data. The consolidated taxonomy data then were segmented using Hadoop and Cloudera.
+
+Led the design and development of a SQL Server SSAS Analysis cube utilizing star schema with complex MDX calculated measures, named sets and KPIs to present an analytical view for the data and data quality with multiple dimensions.
+
+Leading the team, we migrated and deployed multiple projects to Azure Cloud. I was involved in the full cycle of vendor selection, requirement gathering, design, development and the deployment of these projects. The migration included different aspects of the projects from the frontend, backend, and integration.
+
+
+
+Trigent – Southborough, MA
+
+SharePoint /.Net Developer
+
+11/2010 – 10/2011
+
+	Installed medium-sized SharePoint 2013 farm –with 3 WFE servers, 2 application servers, and 2 Database servers for an internal collaboration portal.
+
+	Involved in requirement gathering, Design, Coding, Testing, and Deployment phase of the project.
+
+	Created project design document with Microsoft SharePoint project templates.
+
+	Used PowerShell scripts to automate user admin tasks.
+
+	Managed backup and recovery of Active Directory and database systems
+
+	Created Content Types and defined the term sets using the managed metadata service.
+
+	Created lists & libraries and implemented claims based security for all the existing users.
+
+	Implemented policies on the Lists and Libraries to enable expiration.
+
+	Created and associated reusable SharePoint designer 2013 workflows on Lists and Libraries.
+
+	Placed the Reusable HTML contents like the Header and the Footer in the Reusable Library.
+
+	Created custom master pages and page layouts for consistent branding.
+
+	Created custom SharePoint Hosted Apps using JavaScript and JQuery within the promise pattern
+
+	Created custom site templates for different departments to be able to use this template to create sites
+
+	Configured FAST Search utilizing continuous crawl to ensure optimal fresh data.
+
+	Created custom HTTPModules to take care of errors such as 404 errors.
+
+	Created the deployment instruction manual with scripts.
+
+	Created the system release plan.
+
+	Created the Acceptance test criteria.
+
+	Interpreted business requirements and provided interpretation as technical requirements
+
+	Planned and executed the application design based on these requirements for a dedicated ECM portal, an extra-net partner portal, and an internal collaborative portal
+
+	Lead SCRUM meetings with developers and managed tasks within an Agile Framework
+
+	Performed Code Reviews of deliverables provided by other developers
+
+	Developed custom web parts for individual project-based tasks leveraging JavaScript and CSS
+
+	Created custom page layouts and templates and custom feature stapling to support automatic site provisioning
+
+	Developed custom KPIs and integrated custom code with PerformancePoint to provide BI reporting for ECM activity
+
+	
+
+Dish – Mexico
+
+.Net Developer
+
+08/2008 – 11/2010 
+
+	Involved in all phases of the SDLC and deployment and maintenance of the web application.
+
+	Developed and created the GUI using C#.NET and ASP.NET.
+
+	Utilized multi-threading for improved performance and better management of resources.
+
+	Used MS SQL.NET Data Providers and ADO.NET to connect to and work with SQL database servers.
+
+	Used TSQL statements, stored procedures and query analyzer to manipulate tables.
+
+	Wrote COM objects for interactions with server-side objects and used client-side scripts for client functions.
+
+	Worked with XML documents and used XMLDocument, XPathIterator, and XPath expressions.
+
+	Created batch files and scripts to move log files once they had expired.
+
+Involved in the design for remote upgrade, remote monitoring applications and auto-updated of service packs
+
+Performance tuning across environments including optimization of search, web services, custom code analysis, and warm-up scripts. 
+
+
+
+EDUCATION & TRAINING
+
+Bachelor of Computer Science
+
+Zacapoaxtlan Superior Technological Institute, 
+
+Mexico
+
+
+
+Advanced Ad-Hoc Courses
+
+Visual Studio, .NET Framework, ADO.NET, ASP.NET

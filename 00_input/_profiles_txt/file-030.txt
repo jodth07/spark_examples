@@ -1,0 +1,441 @@
+Evan Lloyd Flint
+
+evanflint09@gmail.com
+
+(408) -784-5721
+
+Big Data Engineer & Enterprise Architect
+
+
+
+
+
+
+
+
+
+Profile
+
+Profile
+
+5 years of Big Data experience in different industries and environments.
+
+Utilized Spark Data Frame and Data Set through Spark SQL API for optimized processing.
+
+Created a Kafka producer to connect to different external sources and bring the data to a Kafka broker.
+
+Strong understanding of NoSQL databases and hands on work experience in writing applications on NoSQL databases like HBase, Cassandra and Elasticsearch.
+
+Kafka for streaming data ingestion to the Spark distribution environment.
+
+Performed data ingestion, entity resolution and ran ad-hoc queries using HDFS and Hive.
+
+Created multiple reports using data residing in Hive per the request of the client.
+
+Created External Hive tables to store the processed results in a tabular format.
+
+Developed new flume agents to extract log data from data sources into Hadoop file system (HDFS).
+
+Constructed a Kafka broker with proper configurations for the needs of the organization.
+
+Made recommendations and significant improvements through CICD automation.
+
+Infrastructure design for ELK Clusters.  
+
+Coordinated Kafka operation and monitoring with dev ops personnel.
+
+Worked on Multi Clustered environment and set up Hortonworks Hadoop ecosystem.
+
+Used Jenkins with Git for CICD integration.
+
+Implemented advanced procedures of feature engineering for data science team using the in-memory computing capabilities like Apache Spark written in Scala.
+
+Used Hive Query Language (HQL) for getting customer insights, to be used for critical decision making by business users.
+
+Hands-on experience with Spark streaming to receive real time data from Kafka.
+
+Experience with Spark Structured Streaming to process structured streaming data.
+
+Hands-on experience using Apache Spark framework with Scala.
+
+Experience with multiple terabytes of data stored in AWS using Elastic Map Reduce (EMR) and Redshift.
+
+AWS tools (Redshift, Kinesis, S3, EC2, EMR, DynamoDB, Elasticsearch, Athena, Firehose, Lambda).
+
+Created Hive Managed and External tables with partition and bucket in Hive and loaded data in to Hives.
+
+Developed data queries using HiveQL and optimized the Hive queries.
+
+
+
+
+
+
+
+sKILLS
+
+sKILLS
+
+Coding
+
+Spark
+
+Spark Sql
+
+Spark Streaming
+
+Spark Structured Streaming 
+
+Scala
+
+Pyspark
+
+Kafka
+
+Shell Script Language
+
+
+
+DevOps
+
+CICD
+
+Jenkins 
+
+
+
+Cloud
+
+AWS RDS
+
+AWS EMR
+
+AWS Redshift 
+
+AWS S3
+
+AWS Lambda 
+
+AWS Kinesis 
+
+AWS ELK
+
+AWS Cloud Formation
+
+AWS IAM
+
+
+
+Hadoop
+
+HDFS
+
+Hive
+
+
+
+Admin
+
+Ambari 
+
+Zookeeper
+
+Oozie 
+
+Workflows
+
+
+
+ETL
+
+Sqoop
+
+
+
+Database
+
+Hbase, Cassandra 
+
+Elasticesearch
+
+
+
+Stacks
+
+Hadoop, ELK
+
+
+
+Big Data Administrator
+
+Hortonworks
+
+HDP, Cluster
+
+Yarn
+
+Cluster Security 
+
+Kerberos, Ranger
+
+
+
+Data Visualization
+
+Kibana
+
+
+
+Distributions
+
+Hortonworks (HDP)
+
+Cloudera (CDH)
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXPERIENCE
+
+EXPERIENCE
+
+
+
+Big Data Enterprise Architect
+
+Adobe 
+
+San Jose, CA
+
+June 2019 – Present
+
+
+
+This project involved taking data provided by WebMD and formatting it for ingestion into Adobe Audience Manager, which accepts a tab-separated format. Handling schema changes and schema evolution. 
+
+Flattened dataset rows to produce single rows for each User ID.
+
+Participated in project planning for WebMD’s business needs and technical challenges of the project.
+
+Managed communication with remote teams in subsequent meetings to align and control business processes.
+
+Worked with and mentored two junior developers.
+
+Used private Git repository for code base and version control and the team used SalesForce for tracking tasks and reporting.
+
+Administered AWS with IAM privileges for AWS security.
+
+Created an architecture using AWS Lambda in conjunction was an Adobe-designed task scheduler similar to Airflow.
+
+Implemented modifications involving PySpark within a Python application framework.
+
+Data consumption from WebMD stored in Google Cloud, consisting of network clicks and network impressions. (Clickstream) These data sets were to be combined, then flattened so that there was only one row for each unique user ID.
+
+Handled thousands of Files with sizes usually between 1 and 5 GB each compressed.
+
+Managed network clicks data contained about 10 million rows, and Network Impressions contained about 8 billion rows in total.
+
+Data was brought in a PySpark application running on an EMR cluster for processing, to be output to AWS S3.
+
+Optimized data using DataFrame API migrating from old group with joins to the new datasets API with catalyst optimizer.
+
+Improved performance of Data Pipeline by transitioning from the existing Data Frame API and by modifying the schema as a Python list, then applying it to the data.
+
+Worked with the resultant data structure as a Data Frame with a single column and tab-separated values, which was saved to a tab-separated CSV file. 
+
+Resolved the problem of duplicate columns, and thus the inefficiency of the job as a whole.
+
+Achieved the goal of process the entire dataset files (1.34 GB) in under 5 minutes. 
+
+Optimized code to run locally in 1 minute 51 seconds. With a total execution time running on EMR and ingesting and outputting to the cloud, in 3 minutes 45 seconds. 
+
+
+
+Technologies:  Python, Pyspark, AWS S3, AWS Lambda, AWS EMR, Google Cloud Storage
+
+
+
+
+
+
+
+Big Data Engineer
+
+Home Depot 
+
+Atlanta, GA
+
+Mar 2018 – June2019
+
+
+
+Worked with analysts to model Cassandra tables from business rules and enhance/optimize the existing tables.
+
+Versioning with Git and set-up a Jenkins CI to manage CICD practices.
+
+Created Infrastructure design for ELK Clusters.
+
+Handled over millions of messages per a day funneled through Kafka topics.
+
+Implemented advanced procedures of feature engineering for data science team using the in-memory computing capabilities like Apache Spark written in Scala.
+
+Used Hive Query Language (HQL) for getting customer insights, to be used for critical decision making by business users.
+
+Built Real-Time Streaming Data Pipelines with Kafka, Spark Streaming and HBase.
+
+Used Spark Structured Streaming with Spark SQL engine to process real time structured data.
+
+Built a model of the data processing by using the PySpark programs for proof of concept.
+
+Used Apache Spark framework with Scala mainly.
+
+Optimizing the Hive queries using Partitioning and Bucketing techniques.
+
+Created Hive Generic UDF's to process business logic.
+
+Moved Relational Database data using Sqoop into Hive Dynamic partition tables using staging tables.
+
+Integrated Kafka with Spark Streaming for real time data processing
+
+Moved transformed data to Spark cluster where the data is set to go live on the application using Kafka.
+
+Created a Kafka producer to connect to different external sources and bring the data to a Kafka broker.
+
+Handling schema changes in data stream using Kafka.
+
+
+
+
+
+Big Data Engineer
+
+PFIZER
+
+New York, NY
+
+Jan 2017 – Mar 2018
+
+
+
+
+
+Created basic infrastructure of the pipeline using AWS Cloud Formation.
+
+Installed, Configured and Managed AWS Tools such as ELK, Cloud Watch for Resource Monitoring.
+
+Processed multiple terabytes of data stored in AWS using Elastic Map Reduce (EMR) to AWS Redshift.
+
+Implemented AWS IAM user roles and policies to authenticate and control access.
+
+AWS Kinesis used for real time data processing.
+
+Worked with AWS Lambda functions for event-driven processing to various AWS resources.
+
+Managed AWS Redshift clusters such as launching the cluster by specifying the nodes and performing the data analysis queries.
+
+Managed and monitored AWS EC2 instances through AWS Management Console
+
+RDS, Cloud Formation, AWS IAM and Security Group in Public and Private Subnets in VPC.
+
+Worked on Multiple AWS instances, set the security groups, Elastic Load Balancer and AMIs, Auto scaling to design cost effective, fault tolerant and highly available systems on AWS.
+
+Launched and configured The Amazon EC2 (AWS) Cloud Servers using AMI's (Linux/Ubuntu) and configuring the servers for specified applications.
+
+Built Jenkins jobs for CI/CD infrastructure from GitHub repos 
+
+
+
+
+
+
+
+Big Data Developer
+
+SANMINA
+
+Huntsville, AL
+
+Oct 2015 – Dec 2016
+
+
+
+Cloudera Hadoop distribution version CDH5 for executing the respective scripts.
+
+Used Cloudera Manager for maintaining heathy cluster.
+
+Experience collecting log data from various sources and integrating it into HDFS using Flume; staging data in HDFS for further analysis.
+
+Used HiveQL scripts to create and load data into diverse Hive tables
+
+Hands-on experience in working with job scheduling with Oozie.
+
+Developed Shell Scripts, Oozie Scripts and Python Scripts.
+
+Responsible for data loading techniques like Sqoop, Flume.
+
+Used Zookeeper and Oozie for coordinating the cluster and scheduling workflows.
+
+Handled importing of data from RDBMS into HDFS using Sqoop.
+
+Support for the clusters, topics on the Kafka manager.
+
+Worked on Kafka cluster environment and zookeeper.
+
+Knowledge of setting up Kafka cluster.
+
+
+
+
+
+Hadoop Developer
+
+MATTEL
+
+El Segundo, CA
+
+Apr 2014 – Oct 2015
+
+
+
+Monitored Hadoop cluster using tools like Ambari 
+
+Responsible for performance optimization of clusters.
+
+Set-up Hortonworks Infrastructure from configuring clusters to Node security using Kerberos.
+
+Implemented applications on Hadoop/Spark on Kerberos secured cluster.
+
+Installed Oozie workflow engine to run multiple Hive Jobs.
+
+Deep understanding and implementations of various methods to load HIVE tables from HDFS and Local File System.
+
+Migrated the data using Sqoop from HDFS to Relational Database System.
+
+
+
+
+
+
+
+
+
+
+
+EDUCATION
+
+EDUCATION
+
+Bachelor of Arts in Economics
+
+University of Nevada at Las Vegas
+
+Las Vegas, NV

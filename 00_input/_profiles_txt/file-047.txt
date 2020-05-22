@@ -1,0 +1,485 @@
+210-960-3326
+
+pierrejosh647@gmail.com
+
+210-960-3326
+
+pierrejosh647@gmail.com
+
+Josh pierre
+
+--------------------------
+
+Senior Hadoop Big Data Engineer
+
+Josh pierre
+
+--------------------------
+
+Senior Hadoop Big Data Engineer
+
+		
+
+
+
+
+
+
+
+
+
+
+
+PROFILE                                                                                                               +
+
+
+
+PROFILE                                                                                                               +
+
+
+
+
+
+
+
+Big Data Engineer skilled in Hortonworks Hadoop and Cloudera Hadoop distributions, Hadoop Distributed File System (HDFS).  Background in Management information systems provides unique adaptation to understanding business processes and business intelligence, needs and efficiencies.
+
+Big Data Engineer skilled in Hortonworks Hadoop and Cloudera Hadoop distributions, Hadoop Distributed File System (HDFS).  Background in Management information systems provides unique adaptation to understanding business processes and business intelligence, needs and efficiencies.
+
+
+
+
+
+
+
+
+
+summary                                                     + 
+
+
+
+summary                                                     + 
+
+
+
+Experience                    +
+
+ 
+
+Experience                    +
+
+ 
+
+
+
+
+
+SENIOR HADOOP BIG DATA ENGINEER
+
+Ability to troubleshoot and tune relevant programming languages like SQL, Java, Python, Scala, Hive, RDDs, DataFrame DataSet 
+
+Able to design elegant solutions through the use of problem statements.
+
+Accustomed to working with large complex data sets, real-time/near real-time analytics, and distributed big data platforms.
+
+Proficient in major vendor Hadoop distribution like Cloudera, Hortonworks, and MapR.
+
+Strong hands on experience in Hadoop Framework and its ecosystem including but not limited to HDFS Architecture, MapReduce Programming, Hive, Sqoop, HBase, MongoDB, Cassandra, Oozie, Spark RDDs, Spark DataFrames, Spark Datasets, etc.
+
+Creation of UDF functions in Python or Scala.
+
+Data Governance, Security & Operations experience.
+
+Deep knowledge in incremental imports, partitioning and bucketing concepts in Hive and Spark SQL needed for optimization.
+
+Experience collecting log data from various sources and integrating it into HDFS using Flume; staging data in HDFS for further analysis.
+
+Experience collecting real-time log data from different sources like webserver logs and social media data from Facebook and Twitter using Flume, and storing in HDFS for further analysis.
+
+Experience deploying large multiple nodes of a Hadoop and Spark cluster.
+
+Experience developing custom large-scale enterprise applications using Spark for data processing.
+
+Experience developing Oozie workflows for scheduling and orchestrating the ETL process.
+
+Excellent knowledge on Hadoop Ecosystems such as HDFS, configuration of Hadoop clusters, YARN, MapReduce, Spark, Hbase, Hive, Ranger.
+
+
+
+SENIOR HADOOP BIG DATA ENGINEER
+
+Ability to troubleshoot and tune relevant programming languages like SQL, Java, Python, Scala, Hive, RDDs, DataFrame DataSet 
+
+Able to design elegant solutions through the use of problem statements.
+
+Accustomed to working with large complex data sets, real-time/near real-time analytics, and distributed big data platforms.
+
+Proficient in major vendor Hadoop distribution like Cloudera, Hortonworks, and MapR.
+
+Strong hands on experience in Hadoop Framework and its ecosystem including but not limited to HDFS Architecture, MapReduce Programming, Hive, Sqoop, HBase, MongoDB, Cassandra, Oozie, Spark RDDs, Spark DataFrames, Spark Datasets, etc.
+
+Creation of UDF functions in Python or Scala.
+
+Data Governance, Security & Operations experience.
+
+Deep knowledge in incremental imports, partitioning and bucketing concepts in Hive and Spark SQL needed for optimization.
+
+Experience collecting log data from various sources and integrating it into HDFS using Flume; staging data in HDFS for further analysis.
+
+Experience collecting real-time log data from different sources like webserver logs and social media data from Facebook and Twitter using Flume, and storing in HDFS for further analysis.
+
+Experience deploying large multiple nodes of a Hadoop and Spark cluster.
+
+Experience developing custom large-scale enterprise applications using Spark for data processing.
+
+Experience developing Oozie workflows for scheduling and orchestrating the ETL process.
+
+Excellent knowledge on Hadoop Ecosystems such as HDFS, configuration of Hadoop clusters, YARN, MapReduce, Spark, Hbase, Hive, Ranger.
+
+
+
+5 Years’ Experience  Engineering Big Data Ecosystems such as Hadoop, Cloudera and Hortonworks
+
+5 Years’ Experience constructing data systems and pipelines on Cloud platforms
+
+
+
+5 Years’ Experience  Engineering Big Data Ecosystems such as Hadoop, Cloudera and Hortonworks
+
+5 Years’ Experience constructing data systems and pipelines on Cloud platforms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EDUCATION                     +
+
+
+
+EDUCATION                     +
+
+
+
+
+
+
+
+
+
+BACHELOR  DEGREE
+
+Florida International University 
+
+
+
+
+
+BACHELOR  DEGREE
+
+Florida International University 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technical Skills Summary                                                                    + 
+
+
+
+Technical Skills Summary                                                                    + 
+
+
+
+
+
+
+
+APACHE HADOOP
+
+Apache Flume, Apache Hadoop, Apache Hive, Apache Kafka, Apache Oozie, Apache Spark, Apache Tez
+
+ 
+
+SCRIPTING
+
+HiveQL, MapReduce, XML, FTP, 
+
+Python, UNIX, Shell scripting, LINUX
+
+FTP, HTML5, CSS3 
+
+
+
+OPERATING SYSTEMS
+
+Unix/Linux, Windows 10, Windows8, Windows XP, Ubuntu, Apple OS X (Yosemite, Mavericks)
+
+
+
+FILE FORMATS
+
+Parquet, Avro & JSON, ORC
+
+
+
+DISTRIBUTIONS
+
+Cloudera, Hortonworks, MapR, EMR
+
+
+
+DATA PROCESSING (COMPUTE) ENGINES
+
+Apache Spark 
+
+
+
+DATA VISUALIZATION TOOLS
+
+QlikView, Tableau, Kibana
+
+
+
+DATABASE
+
+Microsoft SQL Server Database Administration (2005, 2008R2, 2012)
+
+Database & Data Structures, Apache Cassandra, Amazon Redshift, DynamoDB, Apache Hbase, Elasticsearch 
+
+
+
+SOFTWARE
+
+Microsoft Project, VMWare, Microsoft Word, Excel, Outlook, Power Point; Technical Documentation Skills
+
+
+
+
+
+WORK EXPERIENCES                                                                                +
+
+
+
+WORK EXPERIENCES                                                                                +
+
+
+
+
+
+SENIOR HADOOP ENGINEERING CONSULTANT
+
+(September 2017 - Present)
+
+Valero Energy Corp.- San Antonio, TX
+
+Valero was ahead of the curve many years ago in using data analytics and BI to transform its business strategy which has made it one of the most profitable oil producers today. As big data consultant, I was responsible for delivery of batch data integration and automation in a client consulting environment.  
+
+Consulted in the areas of data and analytics, specifically using Hadoop, spark, hive and related tools.
+
+Hands-on major components in Hadoop Echo Systems like Spark, HDFS, HIVE, HBase, Zookeeper, Sqoop, Oozie, Flume, Kafka.
+
+Responsible for defining and understanding the key business problems to be solved.
+
+Gathered, integrated and prepared data for consumption in machine learning and advanced analytics usages. 
+
+Identify and translate business requirements into data analysis and data acquisition requirements
+
+Assisted in the acquisition, transformation, and preparation of data for analysis and mining.
+
+Used data profiling techniques to profile, mine, and gain deeper understanding of the data to meet and refine the business requirements.
+
+Prepared data for usage in predictive modeling and machine learning.
+
+Implemented technologies to optimize query performance, such as Spark-SQL.
+
+Created ORC tables from Text input format tables.
+
+Created and modified Python and Unix Scripts.
+
+Managed Hadoop batch jobs.
+
+Extracted and translated data from various file formats such as JSON, TEXT, AVRO, and ORC.
+
+Ensured best practices for data integration and automation: quality control checks, reconciliation, error handling, checkpoint/restart design, data profiling, etc.
+
+Worked with automated data and analytic systems, relational databases, Structured Query Language (SQL)
+
+Integrated multiple technologies and datasets to solve the business problem.
+
+Responsible for ETL, Source to Target documentation, and BI and Analytic Solutions in a Big Data environment.
+
+Implemented Hive scripts and ran Hive queries on top of HDFS.
+
+
+
+
+
+BIG DATA HADOOP ENGINEER
+
+(June 2016 – September 2017)
+
+Georgia Pacific – Atlanta, GA
+
+This project required work across a variety of functional stakeholders (marketing, category, supply chain, etc.) to translate business needs into data and visualization requirements, and then back to pipelines to deliver to data analyst and BI teams.  There was a strong focus on data governance processes with an objective to transform manual reporting tools dependent on a refined and optimized data cleaning and delivery system.
+
+Developed Spark scripts by using Scala as per the requirement.
+
+Load the data into Spark RDD and performed in-memory data computation to generate the output response.
+
+Performed different types of transformations and actions on the RDD to meet the business requirements.
+
+Developed a data pipeline using Kafka, Spark and Hive to ingest, transform and analyzing data.
+
+Also worked on analyzing Hadoop cluster and different BigData analytic tools including HBase and Sqoop.
+
+Involved in loading data from UNIX file system to HDFS.
+
+Responsible to manage data coming from various sources.
+
+Worked on loading and transforming of large sets of structured, semi structured and unstructured data.
+
+Performed cluster coordination services through Zookeeper.
+
+Exported the analyzed data to the relational databases using Sqoop for visualization and to generate reports for the BI team.
+
+Analyzed large amounts of data sets to determine optimal way to aggregate and report on it.
+
+Involved in managing and reviewing Hadoop log files.
+
+Imported data using Sqoop to load data from MySQL to HDFS on regular basis.
+
+Developing Scripts and Batch Job to schedule various Hadoop Program.
+
+Responsible for writing Hive queries for data analysis to meet the business requirements.
+
+Responsible for creating Hive tables and working on them using HiveQL.
+
+Responsible for importing and exporting data into HDFS and Hive using Sqoop.
+
+Involved in creating Hive tables, loading with data and writing hive queries which will run internally in map reduce way.
+
+Extended HIVE core functionality by using custom User Defined Function's (UDF), User Defined Table-Generating Functions (UDTF) and User Defined Aggregating Functions (UDAF) for Hive
+
+Used Spark framework on both batch and real-time data processing. 
+
+Hands-on processing of data using Spark Streaming API with Scala.
+
+
+
+BIG DATA ENGINEER
+
+(March 2015 – June 2016)
+
+Kraft- Chicago, IL
+
+Kraft Foods uses Big Data to stay agile and repsonsive to ever changing consumer demands.  Tio do this, it has established a self-sufficient Hadoop ecosystem on an AWS cloud platform, which it harnesses and captures powerful first-party data, and mines it for insights that enables it to build compelling content.
+
+Involved in scheduling Oozie workflow engine to run multiple Hive jobs
+
+Worked in an Hadoop big data ecosystem on Amazon AWS using EMR, EC2, SQS, S3, DynamoDB, Redshift, Cloud Formation.
+
+Work Experience with Cloud Infrastructure like Amazon Web Services.
+
+Developing parser and loader map reduce application to retrieve data from HDFS and store to HBase and Hive.
+
+Importing the unstructured data into the HDFS using Flume.
+
+Hands-on  major components in Hadoop Echo Systems like Spark, HDFS, HIVE,HBase, Zookeeper, Sqoop, Oozie, Flume, Kafka.
+
+Experience in Importing and Exporting data using Sqoop from Oracle, MY-SQL DB to HDFS and Data Lake.
+
+Experience in developing Shell Scripts, Oozie Scripts and Python Scripts.
+
+Used Oozie to orchestrate the map reduce jobs that extract the data on a timely manner.
+
+Automated all the jobs for extracting the data from different Data Sources like MySQL to pushing the result set data to Hadoop Distributed File System.
+
+Responsible for writing Hive Queries for analyzing data in Hive warehouse using Hive Query Language (HQL).
+
+Provide support data analysts in running Hive queries.
+
+Importing and exporting Data from MySQL/Oracle to HiveQL Using SQOOP.
+
+Responsible for defining the data flow within Hadoop eco system and direct the team in implement them.
+
+
+
+BIG DATA ADMINISTRATOR
+
+(November 2013 – March 2015)
+
+Capital Group- Los Angeles, CA
+
+Capital Group is an American financial services company. It ranks among the world’s oldest and largest investment management organizations, with $1.87 trillion in assets under management.
+
+Responsible for building Hadoop Cluster using Hortonworks Distribution with NameNode and Resource Manager
+
+Configured policies for all components.
+
+Troubleshooting of Oozie Workflows, Hive queries, and Spark Jobs.
+
+Created YARN Queues for each Customer and configuring Capacity for each Queue.
+
+Configuring views in Ambari on separate Ambari Server.
+
+Troubleshooting of port opening issues along with Firewall Team for Data Transfer, Kerberos Configuration.
+
+Daily Housekeeping of local file systems, HDFS and involved in scripts creation for automated housekeeping.
+
+Coordinated with different teams SME (Unix, Vmware) for OS configuration/Unix server hung issues.
+
+Responsible for cluster maintenance, adding and removing cluster nodes, cluster monitoring and troubleshooting, manage and review data backups, manage and review Hadoop log files.
+
+Fortunately, involved in the creation of new Clusters from build.
+
+Continuous monitoring and managing the Hadoop cluster, HDFS health check through Ambari.
+
+Installed Oozie workflow engine to run multiple Hive and Pig jobs.
+
+Have Good Understanding on frameworks (MR, Spark, TEZ).
+
+Checking the Compatibility of Spark Jar with the existing Environment & related to Spark tuning.
+
+With the help of IBM Clearquest & BMC Remedy, picking up incidents for Non PROD and PROD env raised by hadoop developers/testers and troubleshoot, resolve the same on our own and sometimes seeking help from Hortonwoks engineers.
+
+EDUCATION                     +
+
+
+
+EDUCATION                     +
+
+
+
+210-960-3326  |  pierrejosh647@gmail.com
+
+210-960-3326  |  pierrejosh647@gmail.com

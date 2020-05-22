@@ -1,0 +1,946 @@
+ANTONIO  SALDIVAR  LEZAMA
+
+HADOOP BIG DATA ENGINEER
+
+ANTONIO  SALDIVAR  LEZAMA
+
+HADOOP BIG DATA ENGINEER
+
+Antonio Saldivar Lezama |   Big Data Engineer |  AntonioLezama552@gmail.com  |  703-936-4065
+
+Antonio Saldivar Lezama |   Big Data Engineer |  AntonioLezama552@gmail.com  |  703-936-4065
+
+
+
+Contact
+
+Antonio Saldivar Lezama 
+
+Phone: 703-936-4065
+
+AntonioLezama552@
+gmail.com
+
+Experience
+
+7 yrs big data engineer
+
+11 yrs Information Tech
+
+Education
+
+Bachelor’s Degree in Information Technology
+
+Universidad Popular Autónoma del Estado de Puebla
+
+Certifications
+
+• Oracle Certified Professional 0 MySQL 5 Developer
+
+ITILv3 Foundations
+
+• VMware Data Center Virtualization 6.0
+
+• Microsoft Certified Professional Windows Server 2012
+
+• Microsoft Certified Solution Associate Windows Server 2012
+
+Contact
+
+Antonio Saldivar Lezama 
+
+Phone: 703-936-4065
+
+AntonioLezama552@
+gmail.com
+
+Experience
+
+7 yrs big data engineer
+
+11 yrs Information Tech
+
+Education
+
+Bachelor’s Degree in Information Technology
+
+Universidad Popular Autónoma del Estado de Puebla
+
+Certifications
+
+• Oracle Certified Professional 0 MySQL 5 Developer
+
+ITILv3 Foundations
+
+• VMware Data Center Virtualization 6.0
+
+• Microsoft Certified Professional Windows Server 2012
+
+• Microsoft Certified Solution Associate Windows Server 2012Able to work with existing EDS platforms and strategic initiatives that are built for future phases of EDS/EBI. 
+
+Research and present potential solutions for current EDS platform in relation to data integration and visualization and reporting.
+
+Experience converting Hive/SQL queries into Spark transformations using Spark RDDs, Python and Scala.
+
+Able to work with team and cross-functionally to research and design solutions to speed up or enhance delivery within the current platform.
+
+Able to design and document the technology infrastructure for all pre-production environment and partner with technology Operations on the design of production implementations.
+
+Ability to conceptualize innovative data models for complex products, and create design patterns.
+
+Fluent in architecture and engineering of the Hadoop, Cloudera, Hortonworks, Amazon AWS, Azure, MapR Hadoop ecosystem.
+
+Hands on experience in coding MapReduce/Yarn Programs using Java, Scala for analyzing Big data. 
+
+Skilled in the use of MapReduce, MapReduce jobs and generating tools like Pig or Hive.
+
+Worked with Apache Spark to provide fast engine for large data processing integrated with functional programming languages Scala, Python, and scripting in Hive QL and Pig Latin.
+
+Uses expert skills across a number of platforms and tools, and working with multiple teams in high visibility roles.
+
+Provide end-to-end data analytics solutions and support using Hadoop systems and tools on cloud services as well a on premise nodes.
+
+Expert in big data ecosystem using Hadoop, Spark, Kafka with column-oriented big data systems such as Vertica and Cassandra.
+
+Worked with various file formats (delimited text files, click stream log files, Apache log files, Parquet files, Avro files, JSON files, XML Files)
+
+
+Technical Skills
+
+Skilled in Architecture of Big Data Systems Using:
+
+Amazon AWS - EC2, SQS, S3, Azure, Google Cloud, Horton Labs, Rackspace
+
+Cloudera Hadoop, Cloudera Impala, Hortonworks Hadoop, MapR, Spark, Spark Streaming, Hive, Kafka, Nifi, Kinesis
+
+Data Pipeline Architecture and Construction
+
+Apache Airflow, Apache Camel, Apache Flink/Stratosphere, Hive, Pig, Sqoop, Flume, Scala, Python
+
+Experience in data modeling and architecture involving realtime database, SQL, No SQL, HDFS, Data Warehouse and Data Lakes
+
+Apache Cassandra, Datastax Cassandra, Apache Hbase, Apache Phoenix, BigSQL, Couchbase, DB2, MariaDB, MongoDB, MS Access, Oracle, RDBMS, SQL, SQL Server, Apache Toad
+
+Skilled in database and data management
+
+Database partitioning, database optimization, building communication channels between structured and unstructured databases.
+
+ETL Architecture, Creation for Various Use Cases 
+
+Apache Camel, Flume, Apache Kafka, Apatar, Atom, Fivetran, Heka, Logstash, Scriptella, Stitch, Talend, Ketl, Kettle, Jaspersoft, CloverETL
+
+Talend, Scriptella, KETL, Pentaho Kettle, Jaspersoft, Geokettle, CloverETL, HPCC Systems, Jedox, Apatar
+
+Batch Processing Expertise
+
+Hadoop and Tez
+
+Implementation and Configuration of Administration Using
+
+Zookeeper, Oozie, Cloudera Manager, Ambari
+
+Scripting
+
+Scala, Python, HiveQL, SQL, Pig Latin
+
+
+
+Professional Experience
+
+October 2018 – PRESENT
+
+Big Data Architect
+
+Capital One, McLean, VA
+
+
+
+I was involved in multiple projects, such as Spark batch processing, and design and development of multiple CI/CD pipelines and work with APIs.
+
+
+
+Spark Batch Processing
+
+In Spark Batch processing with Scala, I was responsible to calculating the interchange amount between CapitalOne, Visa and Mastercard.  This was accomplished by developing a Spark application to consume a set of very large files of various formats(avro, parquet and csv), and process them in accordance with quality and security standards such as Unit testing, ATDDs, licensing and vulnerabilities.  
+
+
+
+CI/CD Pipeline
+
+I was also was responsible for creating the CI/CD pipeline to deploy the infrastructure to run this application.  I performed Disaster Recovery Exercises
+
+And I developed an ECS Task and lambda function to move the file from the source to our s3buckets.
+
+
+
+APIs and Microservices Deployments
+
+I was responsible to design and implement  a CI/CD pipeline to deploy ECS infrastructure that was able to support 2 APIs endpoints with fault Tolerance and high availability.  I also decoupled the platform refactoring the Maven projects and designed a solution in which different teams can have a solid contribution model with have multiple environments to develop the solution. 
+
+
+
+Disaster Recovery
+
+Performed Disaster Recovery Exercises to meet RTO and RPO.
+
+
+
+Responsible for planning and developing two Spark applications to process big data batches.
+
+Performed data analysis on transactions for VISA and Mastercard.
+
+Evaluated the solution and implemented enhancements to support two batch processes within the same EMR Cluster.
+
+Designed and implemented multiple CI/CD pipelines using Terraform and CloudFormation.
+
+EnsuredsSecurity and quality of the applications, microservices and APIs.
+
+Designed a contribution model to allow multiple teams to collaborate with our platform.
+
+Responsible for ATDDs and Unit testing for Java and Scala application.
+
+Worked with SNS, ECS cluster and lambda functions in order to create tasks and move files from S3 location in one AWS account to another.
+
+Tokenized and detokenized records in the data frames, also calculated usage of KMS keys to store files at rest.
+
+Spark data frames joined from multiple sources, and managed metadata of the schemas.
+
+Troubleshot Spark applications in EMR cluster.
+
+Designed and documented end-to-end workflows for the application and how we deploy the application along with the infrastructure.
+
+Cross-functional collaboration with Teams contributing to application development (i.e., Kafka Producer for Kafka topics, Web Interface, Mobile Interface).
+
+Refactored microservices made by lambdas, Kinesis, CloudFormation stack.
+
+Designed and deployed custom solution for team collaboration using GitHub web hooks to deploy Jenkins pipelines working in multiple environments
+
+Designed ECS cluster to support two API endpoints and meet the required performance and on-peak point autoscale in the most optimized and cost-effective way.
+
+Lead Jira epics and created stories to distribute with the team, keeping track and delivering on time.
+
+Provided automated solutions in case of a disaster to meet RTO and RPO.
+
+Contributed to projects using react and NodeJS for web components.
+
+Supported multiple teams to design solutions and remediate security compliance, cost efficiency and optimize the platforms.
+
+Evaluated systems and provided enhancements by designing, documenting and collaborating with teams across the organization.
+
+Refactored Maven projects to keep track of version control.
+
+Migrated expiring security tokens to new ones without impacting customers or other platforms.
+
+Architected ECS, EMR, Microservices and CI/CD pipelines.
+
+Automated monitoring, working with Splunk dashboards and alerts.
+
+
+
+ENVIRONMENT
+
+Hadoop, AWS, Agile 
+
+Technologies:  AWS EMR, ECS, CloudFormation, cloudwatch, Lambda, Kinesis, SNS, SQS, RDS, PstgreSQL, Java, Scala, Terraform, GitHub, Jira, Confluence, Jenkins, Apache Kafka, Spark, HDFS, YARN, Maven, Gradle, Cucumber tests, JUnit, Splunk, Sping, Springboot, groovy, bash, ksh, SonarQube, JMeter.
+
+
+
+
+
+
+
+
+
+
+
+April 2018 – October 2018
+
+Big Data Engineer
+
+Paladion Networks, Reston, VA
+
+
+
+I was involved in the new low latency product development for bank transactions security, in order to reduce the latency on the current one in production and be able to detect fraud. I was responsible for analysis, design, and development of the use case solution. The new engine solution integrates Kafka, Flink, Phoenix, HBase, Ambari, YARN, HDFS, XML, NiFi, Drools and Python Scripts in order to deliver low latency and high-throughput, by matching the current transaction with a set of rules and sending back a response in high-speed to prevent fraud.
+
+Responsible for understanding of business rules, business logic, and use cases to be implemented. 
+
+Data ingestion by using Python Kafka producer and Apache NiFi to send an XML string which has all transaction data required to be transform, analyze and store in Hbase.
+
+Integrated frameworks to match security rules like drools with Flink CEP patterns in a single dataStream.
+
+Worked with parallel tasks to provide high Throughput and Flink windows to hold data in memory and provide low latency response.
+
+Store and query data from Hbase using apache phoenix.
+
+Started Flink yarn-session to provide enough resources for all elements being process.
+
+Integrated the back-end with the front-end to create rule match dynamically.
+
+Worked with flink state, process functions, aggregator, coProcessFuntion and window function.
+
+Maven used for the managing the project lifecycle, SVN repository, log4j for logs.
+
+Developed POC to choose the best way to process and store data and be able to provide low latency response.
+
+Set Kafka brokers and topics with the proper replication factor and partitions to provide Exactly once Kafka semantics.
+
+XML schemas and POJOS to map the input request and send the response.
+
+Worked with Flink Event, process and ingestion time providing the Timestamp extractor, watermarks and allowing late data.
+
+Flink-YARN session setting the JobManager, taskManager and slots resources and be able to start our job with parallelism. 
+
+Hbase Master and region servers, phoenix query servers working to store.
+
+Windows Azure cluster.
+
+Linux CentOS operating system.
+
+HDFS, Zookeeper and YARN to work with the cluster.
+
+Developed object-oriented Java application to create the main engine and python scripts as Kafka producer.
+
+Used SQL queries to get and upsert data into Phoenix Hbase tables.
+
+Stored encrypted data to the data base and certificates to connect via HTTPS and accomplish ISO 8583.
+
+Drools to create the template, drt files and start the KieSession to match all incoming transactions to the engine as a first step.
+
+Aggregate keyed elements in memory and be able to work with the state using valueState and ListState.
+
+Union of multiple streams with coProcessFunction matching the elements by the Key.
+
+Flink working with Tumbling Windows, sliding windows and global windows setting an alert trigger based on the current state for each keyed element.
+
+ENVIRONMENT
+
+Hortonworks Ambari
+
+Windows Azure
+
+Apache Flink
+
+Flink CEP
+
+Flink Table API
+
+Apache Kafka
+
+Java
+
+Drools
+
+Apache Hbase
+
+Apache Phoenix
+
+Ambari
+
+Hadoop YARN
+
+HDFS
+
+Pyhton
+
+Lombok
+
+XML
+
+Apache NiFi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OCTOBER 2016 – April 2018
+
+Hadoop Architect & Big Data Engineer
+
+Horizon Blue Cross Blue Shield of New Jersey, Iselin, NJ
+
+
+
+Architected the Big Data Architecture to create the foundation of this Enterprise Analytics initiative in a Hadoop-based Data Lake.
+
+Created a POC involved in loading data from LINUX on premises ecosystem to Amazon S3 using Redshift, DynamoDB, and HDFS using MongoDB and CassandraDB (Hortonworks Hadoop).
+
+Ensured HIPPA compliance and security of sensitive data using hashing, MD5 SQL encryption, Kerberos.
+
+Implemented Spark using Scala, and utilized DataFrames and Spark SQL API for faster processing of data.
+
+Worked on AWS to create, manage EC2 instances, and Hadoop Clusters.
+
+Used secure VLANS for data transfer security to secure VPC on AWS.
+
+Followed ITIL best practices for ensure data and infrastructure integrity.
+
+Followed Six Sigma for process efficiency and quality performance.
+
+Created Data Modeling and implemented Redshift instance on Amazon.
+
+Developed shell scripting to automate the data flow of daily tasks.
+
+Created both internal and external tables in Hive, and developed Pig scripts to preprocess the data for analysis.
+
+Involved in converting HiveQL/SQL queries into Spark transformations using Spark RDDs, Python and Scala.
+
+Use of spark, python, hive, pig in constructing pipelines and queries.
+
+Used Cassandra and MongoDB to work on JSON files.
+
+Worked on Cassandra query language to load the bulk of data and execute queries.
+
+Designed appropriate partitioning/bucketing schema to allow faster data retrieval during analysis using Hive. 
+
+Performance tuned Spark jobs for setting batch interval time, level of parallelism, and memory tuning.
+
+Used Spark-Streaming APIs to perform necessary transformations and actions on the real-time data using Bedrock data management tool.
+
+Involved in migrating jobs to Spark, using Spark SQL and DataFrames API to load structured data into Spark clusters
+
+ENVIRONMENT
+
+AWS
+
+EC2
+
+Redshift
+
+Cassandra
+
+RDBMS
+
+SQL
+
+JSON
+
+Scala
+
+Python
+
+HIVE
+
+HIVE QL
+
+POC
+
+HDFS
+
+Spark
+
+Performance Tuning
+
+Optimization
+
+Memory Tuning
+
+Spark API
+
+Spark SQL
+
+Spark Transformations
+
+Spark Data Frames
+
+Bedrock
+
+Process Automation
+
+
+
+
+
+
+
+
+
+
+
+
+
+AUGUST 2015 – OCTOBER 2016
+
+Bid Data Architect & Engineer
+
+AC Nielsen, Oldsmar, FL
+
+
+
+Architected the Big Data Architecture to create the foundation of this Enterprise Analytics initiative in a Hadoop-based Data Lake using Cloudera Platform.
+
+Created a POC involved in loading data from LINUX file system to Cloudera Platform and HDFS.
+
+Developed shell scripting to automate the data flow of daily tasks.
+
+Created both internal and external tables in Hive, and developed Pig scripts to preprocess the data for analysis.
+
+Used Cassandra to work on JSON documented data.
+
+Worked on Cassandra query language to load the bulk of data and execute queries.
+
+Involved in converting HiveQL/SQL queries into Spark transformations using Spark RDDs, Python and Scala.
+
+Designed appropriate partitioning/bucketing schema to allow faster data retrieval during analysis using Hive. 
+
+Performance tuned Spark jobs for setting batch interval time, level of parallelism, and memory tuning.
+
+Used Spark-Streaming APIs to perform necessary transformations and actions on the real-time data using Bedrock data management tool.
+
+Involved in migrating jobs to Spark, using Spark SQL and DataFrames API to load structured data into Spark clusters
+
+Involved in converting HiveQL/SQL queries into Spark transformations.
+
+Involved in transforming the relational database to legacy labels to HDFS, and HBASE tables using Sqoop and vice versa.
+
+Created Hive tables and dynamic partitions, with buckets for sampling and working on them using Hive QL.
+
+Created HBase tables to store variable data formats of data coming from different portfolios.
+
+Implemented Spark using Scala, and utilized DataFrames and Spark SQL API for faster processing of data.
+
+Used Sqoop job to import the data from RDBMS using Incremental Import. 
+
+Exported analyzed data to relational databases using Sqoop for visualization, and to generate reports for the BI team.
+
+Wrote shell scripts for exporting log files to Hadoop cluster through automated processes.
+
+Developed Scala scripts and UDFs using DataFrames and RDD in Spark for data aggregation, queries and writing data back into OLTP system through Sqoop.
+
+Worked with various compression techniques to save data and optimize data transfer over network using Lzo, Snappy, etc.
+
+ENVIRONMENT
+
+AWS
+
+EC2
+
+Redshift
+
+Cassandra
+
+RDBMS
+
+SQL
+
+JSON
+
+HIVE
+
+HIVE QL
+
+POC
+
+HDFS
+
+Spark
+
+Scala
+
+Python
+
+Performance Tuning
+
+Optimization
+
+Memory Tuning
+
+Partitioning
+
+Bucketing
+
+Schema
+
+Spark API
+
+Spark SQL
+
+Spark Transformations
+
+Spark Data Frames
+
+Bedrock
+
+Batch Processing
+
+Process Automation
+
+
+
+
+
+
+
+
+
+
+
+
+
+JUNE 2014 – AUGUST 2015
+
+AWS Hadoop Cloud Data Architect
+
+Citizens Insurance, Tallahassee, FL
+
+
+
+Involved in writing incremental imports into Hive tables.
+
+Worked on importing and exporting tera bytes of data using Sqoop from HDFS to Relational Database Systems and vice-versa.
+
+Importing and Exporting data into HDFS using Sqoop.
+
+Worked on AWS to create, manage EC2 instances, and Hadoop Clusters.
+
+Created Data Modeling and implemented Redshift instance on Amazon.
+
+Developed shell scripting to automate the data flow of daily tasks.
+
+Created both internal and external tables in Hive, and developed Pig scripts to preprocess the data for analysis.
+
+Transformed the logs data into data model using Pig and written UDF functions to format the logs data.
+
+Experienced on loading and transforming of large sets of structured and semi structured data from HDFS
+
+through Sqoop and placed in HDFS for further processing.
+
+Involved in transforming data from legacy tables to HDFS, and HBase tables using Sqoop.
+
+Extensively used transformations like Router, Aggregator, Normalizer, Filter, Joiner, Expression, Source Qualifier, Unconnected and connected lookup, Update strategy and store procedure, XML transformations along with error handling and performance tuning.
+
+Designed appropriate partitioning/bucketing schema to allow faster data retrieval during analysis using Hive. 
+
+Designed jobs using DB2 UDB, ODBC, .Net, Join, Merge, Lookup, Remove duplicate, Copy, Filter, Funnel, Dataset, Lookup file set, Change data capture, Modify, Row merger, Aggregator and Peek, Row generator stages.
+
+Performance tuned Spark jobs for setting batch interval time, level of parallelism, and memory tuning.
+
+Involved in converting HiveQL/SQL queries into Spark transformations.
+
+ENVIRONMENT
+
+AWS
+
+EC2
+
+Redshift
+
+Cassandra
+
+RDBMS
+
+SQL
+
+JSON
+
+HIVE
+
+HIVE QL
+
+POC
+
+HDFS
+
+Spark
+
+Scala
+
+Python
+
+Performance Tuning
+
+Optimization
+
+Memory Tuning
+
+Spark API
+
+Spark SQL
+
+Spark Transformations
+
+Spark Data Frames
+
+Partitioning
+
+Bucketing
+
+Schema
+
+Pig
+
+
+
+
+
+
+
+
+
+
+
+MAY 2013 – JUNE 2014
+
+Big Data Cloud Engineer / Architect
+
+Omnium Financial Services, Chicago, IL
+
+
+
+Migrated Big Data Architecture to cloud created on AWS using AWS tools and database instances with Hadoop HDFS to create a data lake in cloud. 
+
+Used HBase to store majority of data which needed to be divided based on region.
+
+Involved in benchmarking Hadoop and Spark cluster on a TeraSort application in AWS.
+
+Created multi-node Hadoop and Spark clusters in AWS instances to generate terabytes of data and stored it in AWS HDFS.
+
+Wrote Spark codes to run a sorting application on the data stored on AWS. 
+
+Deployed the application jar files into AWS instances.
+
+Used the image files of an instance to create instances containing Hadoop installed and running.
+
+Developed a task execution framework on EC2 instances using SQS and DynamoDB.
+
+Developed Scala scripts and UDFs using DataFrames and RDD in Spark for data aggregation, queries and writing data back into OLTP system through Sqoop.
+
+Designed a cost-effective archival platform for storing big data using Hadoop and its related technologies. Created Data Modeling and implemented Redshift instance on Amazon.
+
+Designed appropriate partitioning/bucketing schema to allow faster data retrieval during analysis using Hive. 
+
+Involved in developing Pig Scripts for change data capture and delta record processing between newly arrived data and already existing data in HDFS.
+
+Implemented data ingestion and cluster handling in real time processing using Kafka.
+
+Implemented workflows using Apache Oozie framework to automate tasks. Used Spark-Streaming APIs to perform necessary transformations and actions on the real-time data using Bedrock data management tool.
+
+Used Spark SQL and DataFrames API to load structured data into Spark clusters
+
+
+
+ENVIRONMENT
+
+AWS
+
+EC2
+
+Redshift
+
+Cassandra
+
+RDBMS
+
+SQL
+
+Scala
+
+Python
+
+HIVE
+
+HIVE QL
+
+POC
+
+HDFS
+
+Spark
+
+Performance Tuning
+
+Optimization
+
+Memory Tuning
+
+Spark API
+
+Spark SQL
+
+Spark Transformations
+
+Spark Data Frames
+
+TeraSort
+
+Partitioning
+
+Bucketing
+
+Schema
+
+Data Lake
+
+
+
+
+
+
+
+
+
+
+
+OCTOBER 2011 – MAY 2013
+
+Big Data Engineer
+
+Real Page, Inc., Carrollton, TX
+
+
+
+Extensively worked on performance optimization of hive queries by using map-side join, parallel execution and cost based optimization.
+
+Developed shell scripting to automate the data flow of daily tasks.
+
+Created both internal and external tables in Hive, and developed Pig scripts to preprocess the data for analysis.
+
+Designed appropriate partitioning/bucketing schema to allow faster data retrieval during analysis using Hive. 
+
+Performance tuned Spark jobs for setting batch interval time, level of parallelism, and memory tuning.
+
+Developed Spark scripts by using Scala shell commands as per the requirement.
+
+Used SCALA to store streaming data to HDFS and to implement Spark for faster processing of data.
+
+Used Spark-Streaming APIs to perform necessary transformations and actions on the real-time data using Bedrock data management tool.
+
+Involved in migrating MapReduce jobs to Spark, using Spark SQL and DataFrames API to load structured data into Spark clusters
+
+Involved in converting HiveQL/SQL queries into Spark transformations.
+
+Executed tasks for upgrading clusters on the staging platform before doing it on production cluster.
+
+Performed maintenance, monitoring, deployments, and upgrades across infrastructure that supports all Hadoop clusters.
+
+Installed and configured various components of the Hadoop ecosystem.
+
+Optimized HIVE analytics, SQL queries, created tables, views, wrote custom UDFs, and Hive-based exception processing.
+
+Involved in transforming the relational database to legacy labels to HDFS, and HBASE tables using Sqoop and vice versa.
+
+Replaced default Derby metadata storage system for Hive with MySQL system.
+
+Set-up QA environment and updated configurations for implementing scripts with Pig.
+
+Configured Fair Scheduler to allocate resources to all the applications across the cluster.
+
+Developed custom FTP adaptors to pull the clickstream data from FTP servers to HDFS directly using HDFS File System API.
+
+
+
+ENVIRONMENT
+
+Hadoop
+
+Spark
+
+Spark API
+
+Spark Data Frames
+
+Spark Streaming
+
+Scala
+
+Python
+
+MapReduce
+
+RDBMS
+
+SQL Queries
+
+HIVE
+
+HIVE QL
+
+HDFS
+
+Performance Tuning
+
+Optimization
+
+Memory Tuning
+
+Transformations
+
+Partitioning/bucketing
+
+Schema
+
+Clusters
+
+Sqoop
+
+FTP
+
+
+
+
+
+
+
+
+
+
+
+SEPTEMBER 2007 – SEPTEMBER 2011
+
+WINDOWS AND VMWARE ADMINISTRATOR
+
+T-Systems México, Puebla, Mexico
+
+Windows management for virtual environments VMware and Hyper-v and Physical servers. Where I managed the whole Windows and VMware infrastructure automating and reducing time, human errors and costs, I was able to automate processes and repetitive work, also to keep the windows infrastructure up and running reducing down times from patching servers each month to keep them update and manage security controls for audit propose all following ITIL processes.
+
+
+
+Transitioned Windows server from USA to México taking operations from customer infrastructure to the current environment.
+
+Automated the inventory for more than one thousand Windows servers
+
+Transitioned and transformed projects from the customer to the T-systems standards
+
+
+
+ENVIRONMENT
+
+Windows Server 2000, 2003, 2008, 2008 R2, 2012 and 2012 R2
+
+Microsoft Hyper-V
+
+VMWare
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BIG DATA, HADOOP, AWS, HIVE, PIG, SCALA, PYTHON, SPARK, SQOOP, MAPREDUCE

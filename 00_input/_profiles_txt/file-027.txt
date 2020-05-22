@@ -1,0 +1,496 @@
+Kislay Jha    917-338-9629  |  kislayJha000@gmail.com
+
+Kislay Jha    917-338-9629  |  kislayJha000@gmail.com
+
+
+
+
+
+Kislay Jha
+
+Hadoop Big Data Engineer
+
+917-338-9629
+
+kislayJha000@gmail.com
+
+Kislay Jha
+
+Hadoop Big Data Engineer
+
+917-338-9629
+
+kislayJha000@gmail.com
+
+6 Years Big Data Architecture and Spark Development
+
+8+ Years IoT and Information Technology
+
+
+
+Professional Summary
+
+Data Engineer skilled in architecting and implementing big data analytics platforms using Hadoop, Spark, and Python from Data Lakes, Data Warehouse, and Databases.
+
+Setting up modern Data Centers empowered by Mesos, Kubernetes, Docker Swarm to implement Container Orchestration and run microservices in big data ecosystem
+
+Building Data Lakes from scratch which is highly performant, scalable, fault tolerant multi-tenant. Migrations from Data silos to data lakes
+
+Experience in designing and architecting big data pipelines With Apache Kafka, Spark, Elastic Search, YARN, HDFS, NiFi, Hive, Sqoop, Flume, Oozie, HBase and Zookeeper, Marathon, Aurora 
+
+Experience with Streaming Analysis using Spark Streaming, Kafka Streams and Kinesis Firehose, Storm, Flink, NiFi
+
+Well-versed in installation, configuration, administration, and tuning Hadoop cluster of major Hadoop distributions (Cloudera CDH 3/4/5, Hortonworks HDP 2.3/2.4, and Amazon Web Services (AWS).
+
+Built Kafka Clusters, Spark clusters, ELK cluster and their integration with Hadoop Clusters.
+
+Storage with NoSQL databases such as Cassandra, MongoDB, HBase, ArangoDB, Redis, CouchDB
+
+Data Migrations from Relational Databases like Oracle, MySQL, PostgreSQL, MariaDB, Teradata SQLite to NoSQL databases like Cassandra and HBase
+
+Experience with Data Visualization tools such as Zeppelin notebooks, Kibana, Grafana, Tableau, Informatica, Talend, Kettle
+
+Data Migration from On Premise to cloud services like AWS, Azure, Google Cloud 
+
+ Running Modern data pipe on Cloud using Tools like EC2, EMR, S3, Kinesis, Redshift DynamoDB, RDS, Athena, Aurora, Snowball, Glue
+
+Architected Modern data pipelines with hybrid architecture
+
+Implemented lambda architecture in data Warehouses like Redshift for Business Intelligence Analytics
+
+Extract Real time feed using Kafka and Spark Streaming and process data in the form of Data Frames to do Transformations and aggregations.
+
+Experience in implementing security with Apache Ranger, Apache Sentry, Authentication using Kerberos and Encryption using SSL certificates
+
+Spark MLlib to run machine learning algorithms on Spark Clusters
+
+Troubleshooting and Performance/Memory Tuning in spark with optimization using Tungsten
+
+ Able to design and document the technology infrastructure for all pre-production environment and partner with technology Operations on the design of production implementations.
+
+Developed Spark code using Scala/Python and Spark-SQL/Streaming for faster processing of data and data enrichment.
+
+Experience with Searching tools like ELK Stack (Elasticsearch, Logstash and Kibana), Apache Solr integration with Cassandra for search capabilities.
+
+Understanding of distributed systems, HDFS architecture, internal working details of MapReduce and Spark processing frameworks.
+
+Understanding of ETL architectures, data movement technologies, database partitioning, database optimization, and building communication channels between structured and unstructured databases. 
+
+
+
+Technical Skills
+
+
+
+Programming
+
+Scala C, C++, C#.Net, ADO.NET, Python, R, JavaScript, Visual Basic, Posh Script, JavaScript, Angular.js, React.js, Bootstrap, Entity Framework, Unix
+
+
+
+Database Languages
+
+ ANSI SQL, TSQL, PL/SQL
+
+
+
+Web Frameworks
+
+Web Forms, MVVM, MVC 5.0/4.0.
+
+
+
+Web Scripting
+
+HTML5, CSS 
+
+
+
+Service Layer
+
+Web services (SOAP+GET+POST), WCF, WPF, WEB API 4.0
+
+
+
+Client-Side Scripting
+
+JavaScript, JQuery, Ajax, Knockout, Bootstrap, AngularJS, React JS.
+
+
+
+Data Science
+
+Deep Learning
+
+Neural Networks
+
+IoT
+
+
+
+Big Data Frameworks
+
+Apache Hadoop, HDFS, Apache Spark, MapReduce, Apache Pig, Hive, Sqoop, Hive, Spark, Storm, Kafka, Pig, Hbase, Sqoop 
+
+
+
+Big Data Tools
+
+Zookeeper, Tex, Oozie, Maven, Hcatalog
+
+
+
+Data Visualization
+
+Tableau, Kibana, Talend,
+
+
+
+Search & Query
+
+Cloudera Impala, Apache Lucene, Elasticsearch, Apache SOLR 
+
+
+
+Files
+
+Hadoop HDFS, Parquet, Avro, Orc, JSON
+
+
+
+Virtual Computer
+
+VMWare, Dockers
+
+
+
+
+
+Data Stores
+
+MongoDB,ArangoDB
+
+HBase, Cassandra, Dynamo
+
+
+
+Cloud Platforms & Services
+
+Amazon/AWS, Google Computer Cloud, Azure Cloud
+
+Amazon EMR, EC2, SQS, S3, VPC, DynamoDB, Redshift, Kinesis, Redshift
+
+
+
+
+
+Hadoop
+
+Native Hadoop, Hortonworks Hadoop, Cloudera Hadoop, MapR
+
+
+
+Data Skills
+
+Hive Bucketing and Partitioning
+
+Spark performance Tuning
+
+Tune and optimize,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Professional Experience
+
+
+
+Viacom
+
+New York, NY
+
+11/2016-present
+
+
+
+BIG DATA ENGINEER
+
+
+
+Viacom cable network uses data scientists and big data to calculate ways to help marketers place their commercials with more precision. Once known as “Project Gemini,” the service, known as Vantage, is offered to a broad array of the company’s sponsors.
+
+Implemented new data pipelines for new sponsor projects.
+
+Hands on experience on fetching the live stream data from Rest API to Kafka cluster 
+
+Architected pipeline ingestion from Kafka, Integrating Kafka with Spark streaming for high speed data processing and enrichment
+
+Developed Spark code using Scala and Spark-SQL/Streaming for faster processing of data.
+
+Configured Spark Streaming to receive real time data and store the stream data to HDFS.
+
+Extensively worked on performance optimization of all project by optimizing hive queries by using map-side join, parallel execution and cost-based optimization.
+
+Implementation of Hadoop Data Lake on Amazon S3, with Hadoop ETL processing using Amazon AWS Cloud Services for Batch Processing and Real-Time Processing.
+
+Implemented Spark RDD transformations to map business analysis and apply actions on top of transformations.
+
+Created multi-node Hadoop and Spark clusters in AWS instances to generate terabytes of data and stored it in AWS HDFS.
+
+Communicated deliverables status to stakeholders and facilitated periodic review meetings.
+
+Completed tasks and project on time, per project requirements and quality goals.
+
+Worked with the Data Science team to gather requirements for various data mining projects.
+
+
+
+Technologies: Big Data, Hadoop, Spark, Spark Streaming, Spark RDD, Kafka, AWS, Data Pipeline, Kerberos, Sqoop, Zookeeper, Flume, Hive, HDFS, ETL Processes, Cassandra, Redshift, ArangoDB
+
+
+
+
+
+
+
+Slomin’s
+
+Hicksville, NY
+
+05/2015-11/2016
+
+
+
+BIG DATA ENGINEER
+
+
+
+Slomin's has engaged third-party data analytic providers to act on Slomin's behalf to track and analyze usage of the MyShield App. While providers brought the Data Scientists, I was contracted to Slomin’s to architect an Hadoop environment on AWS and construct pipelines per the specs provided by the analysts based on their needs.
+
+Worked closely with stakeholders and data scientists/data analysts to gather requirements and create an engineering project plan.
+
+Implemented analysis pipelines for internet of things in order to gather sensor data from the Slomin Shields at consumer locations.
+
+Set up stream analytics using Spark Streaming for analysis of IoT time data.
+
+Set-Up virtual environment on AWS EC2 and implemented Hadoop on EC2 with Amazon Redshift and IOT AWS on AWS S3.
+
+Utilized Spark with AWS Cloud Services for IOT data pipeline.
+
+Set-up Hadoop system automation using Zookeeper and Oozie for workflows, processes and job scheduling.
+
+Performance optimized the IoT data pipelines using Hive partitioning and bucketing.
+
+Provided status to stakeholders and facilitated periodic review meetings.
+
+Used Spark SQL to perform transformations and actions on data residing in Hive.
+
+Used Spark Streaming to divide streaming data into batches as an input to Spark engine for batch processing.
+
+Wrote Spark applications for data validation, cleansing, transformation, and custom aggregation.
+
+Imported data from disparate sources into Spark RDD for processing
+
+Used Spark engine, Spark SQL for data analysis and provided to the data scientists for further analysis.
+
+Performed streaming data ingestion to the Spark distribution environment, using Kafka.
+
+Built a prototype for real-time analysis using Spark streaming and Kafka.
+
+Created materialized views, partitions, tables, views and indexes.
+
+Wrote custom UDFs in PIG and HIVE in accordance with business requirements.
+
+
+
+Technologies: Big Data, Hadoop, AWS, IoT, Data Pipeline, Kafka, Sqoop, Zookeeper, Flume, Spark, Spark Streaming, Spark RDD, Hive, HDFS Partitioning, Bucketing, data cleansing, data transformation, real-time streaming, batch processing, data ingestion, ETL Processes
+
+
+
+
+
+
+
+Altice USA
+
+Long Island, NY
+
+02/2014-05/2015
+
+
+
+BIG DATA ENGINEER
+
+
+
+Altice USA is one of the largest broadband communications and video services providers in the United States. Altice USA has big plans for data analytics, with focus on long-term plans and investments for mergers, acquisitions and intent to build the most innovative, data rich, and intelligent advertising platform, offering advertising and MVPD clients the ability to implement multiscreen addressability and advanced analytics.  To this end, Altice chose to implement a proprietary advanced analytics environment to utilize massive amounts of user intelligence applicable to advertising.  
+
+
+
+Worked closely with the architect and assisted with aspects of the project involving stakeholders, planning and documentation.
+
+Used Spark-SQL and Hive Query Language (HQL) for getting customer insights, to be used for critical decision making by business users.
+
+Used Spark SQL to perform transformations and actions on data residing in Hive.
+
+Used Spark Streaming to divide streaming data into batches as an input to Spark engine for batch processing.
+
+Designed batch processing jobs using Apache Spark to increase speed.
+
+Wrote Spark applications for data validation, cleansing, transformation, and custom aggregation.
+
+Imported data from disparate sources into Spark RDD for processing.
+
+Developed custom aggregate functions using Spark SQL and performed interactive querying.
+
+Utilized Spark DataFrame and Spark SQL API extensively for processing.
+
+Used Spark SQL and Data Frame API extensively to build Spark applications.
+
+Used Spark engine, Spark SQL for data analysis and provided to the data scientists for further analysis.
+
+Performed streaming data ingestion to the Spark distribution environment, using Kafka.
+
+Built a prototype for real-time analysis using Spark streaming and Kafka.
+
+
+
+Technologies: Spark, Hadoop, AWS, Cloud, Data Frame, Spark Streaming, Kafka, Pig, Hive, Spark SQL, SQL API
+
+
+
+
+
+
+
+Southern Company
+
+Atlanta, GA
+
+06/2012-02/14
+
+
+
+BIG DATA ENGINEER
+
+Southern Company is an American gas and electric utility holding company based in the southern United States. It is headquartered in Atlanta, Georgia, with executive offices also located in Birmingham, Alabama. The company is currently the second largest utility company in the U.S., in terms of customer base. Through its subsidiaries it serves 9 million gas and electric utility customers in nine states.  The use of big data analytics drives the business strategy for acquisitions, expansion, implantation of power grids, stations and service areas. 
+
+Participated in planning meetings and assisted with documentation and communication.
+
+Worked on moving some on-prem data repositories to cloud using Amazon AWS to make use of reduced cost as well as scalability.
+
+Aggregator, Merge, Join, Lookup, Sort, Remove duplicate, Funnel, Filter, Pivot, Shared container for developing jobs.
+
+Implemented all SCD types using server and parallel jobs. Extensively implemented error handling concepts, testing, debugging skills and performance tuning of targets, source, transformation logics and version control to promote the jobs.
+
+Involved in loading and transforming large sets of structured, semi-structured and unstructured data.
+
+Involved in loading data from UNIX file system to HDFS.
+
+Developed ETLs to pull data from various sources and transform it for reporting applications using PL/SQL
+
+Hands-on experience extracting data from different databases and scheduling Oozie workflows to execute the task daily.
+
+Successfully loaded files to HDFS from Teradata, and loaded from HDFS to HIVE.
+
+Successfully loaded files to Hive and HDFS from Oracle, SQL Server using SQOOP.
+
+Captured data and importing it to HDFS using Flume and Kafka for semi-structured data and Sqoop for existing relational databases.
+
+Worked with Linux systems and RDBMS database on a regular basis in order to ingest data using Sqoop.
+
+Aggregation, queries and writing data back to OLTP system directly or through Sqoop.
+
+Loaded RDBMS of large datasets to big data by using Sqoop
+
+
+
+Technologies: Hive, Data Warehouse, Teradata, HDFS, ETL, Kafka, Sqoop, AWS, Haoop, Hive, Pig
+
+
+
+
+
+Defense Research & Development
+
+New Delhi, India
+
+01/2012-06/2012
+
+
+
+PHYSICS INTERN
+
+Dissertation in SSPL (Solid State Physics Laboratory), DRDO, in a project entitled “Gallium Nitride Monolithic Microwave Integrated Circuit based Amplifier designing”.
+
+
+
+
+
+
+
+Professional Development
+
+
+
+Education
+
+Master of Science in Computer Science
+
+University of Bridgeport, Bridgeport, CT
+
+(GPA: 3.575/4.0)
+
+
+
+Bachelor of Engineering in Nanotechnology
+
+Amity Institute of Nanotechnology, Amity University, Noida, India
+
+(GPA: 4.0/4.0)
+
+
+
+Awards
+
+Honor Society of the Upsilon Pi Epsilon for the Computing and Information
+
+disciplines
+
+Awarded Academic Scholarship for the year 2016 by University of Bridgeport, CT, USA
+
+
+
+Professional Training
+
+EduPristine (Mumbai) - Big Data and Hadoop
+
+Training in Apache Hadoop with learning in Apache Spark, Map Reduce Programing, Apache Pig, Hive,Sqoop, HBase.
+
+
+
+Certifications
+
+Big Data and Hadoop
+
+Poster Presentations
+
+American Society for Engineering Education (ASEE)
+
+“IoT Challenges in The Future Internet” based on Internet of Things”
+
+
+
+2 | Page

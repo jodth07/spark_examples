@@ -1,0 +1,737 @@
+
+
+Professional Summary
+
+
+10 years of experience in data engineering and analytics, working with
+Hadoop and RDBMS data pipelines, transformation, and cleansing.  Skilled in
+a variety of data processing and transformation tools and data storage
+technologies.
+
+
+ ▪ Performance tune Hadoop data systems and pipelines with optimized
+   system configuration and processing using data processing tools Hadoop
+   Cycle, Apache Camel, Apache Flume, Kafka, Apatar, Clover, and others.
+
+ ▪ Worked with systems employing Hive, RDDs, DataFrames.
+
+ ▪ Forensic analysis with large complex data sets, using real-time
+   analytics, and distributed big data platforms.
+
+ ▪ Comfortable working with Hadoop distributions, Cloudera, Cloudera
+   Impala, and Hortonworks.
+
+ ▪ Strong in planning and development of Data Governance, Security, and
+   Systems.
+
+ ▪ Deep knowledge in incremental imports, partitioning and bucketing
+   concepts in Hive and Spark SQL needed for optimization.
+
+ ▪ Experience collecting log data from various sources using various file
+   types such as SQL, RDBMS, Data Lake, Data Storage, Data Mining.
+
+ ▪ Manages integration of files of various file types into HDFS using
+   Apache Flume.
+
+ ▪ Skilled at staging data in HDFS for further analysis.
+
+ ▪ Collection of log data from different sources like web server logs and
+   social media data from Facebook and Twitter using Flume, and storing in
+   HDFS for analytic purposes.
+
+ ▪ Experience deploying large multiple nodes of a Hadoop and Spark
+   cluster.
+
+ ▪ Experience using custom enterprise applications for data processing,
+   using ETL, and data cleansing.
+
+    ▪ Experience developing Oozie workflows for scheduling and
+      orchestrating the ETL process.
+
+    ▪ Expertise at Zookeeper for the administration of the Hadoop system,
+      configuration of namespaces, znode data registers.
+
+    ▪ Able to achieve high throughput and low latency using ZooKeeper.
+
+    ▪ Skilled in Hadoop Architecture, implementation and configuration of
+      nodes in the Hadoop ecosystems.
+
+    ▪ Design and implementation of Hadoop ecosystems using YARN, Sentry,
+      Spark, Falcon, Hbase, Hive, Pig, Sentry, Ranger.
+
+    ▪ Automation of data management from end to end and sync between
+      clusters.
+
+    ▪ Worked on disaster management with Hadoop cluster.
+
+    ▪ Involved in building a multi-tenant cluster.
+
+    ▪ Experience in Mainframe data and batch migration to Hadoop.
+
+    ▪ Skilled in data analysis and forensic analysis using Hadoop tools,
+      data scraping, data warehousing tools
+
+    ▪ Skilled in forensic methods of data cleaning and refining data.
+
+    ▪ Use of various data visualization and reporting tools.
+
+    ▪ Hands on experience in installing, configuring Cloudera's and Horton
+      distribution.
+
+    ▪ Extending Hive and Pig core functionality by writing custom UDFs.
+
+    ▪ Extensively used Apache Flume to collect logs and error messages
+      across the cluster.
+
+
+Technical Skills
+
+
+|Languages/Scripting                 |Platforms & Distributions           |
+|Apache Spark, Python, SQL, Oracle   |Cloudera, Hortonworks, MS Azure,    |
+|SQL, PowerShell, Ansible, HTML, PHP,|AWS, Impala                         |
+|CSS, Bash                           |Hadoop Ecosystem                    |
+|Open Stack                          |Hadoop, Hive, Spark, Maven, Ant,    |
+|AWS, Kali, Cisco, Palo Alto         |Kafka, HBase, yarn, Flume,          |
+|Operating Systems                   |Zookeeper, Impala. HDFS, Pig, Oozie,|
+|Windows Active Directory, Windows   |Tez, Zookeeper, Apache Airflows     |
+|Server 2003, 2008, 2008R2, Red Hat  |Search Tools                        |
+|Linux 6-7, Red Hat, Windows 7/10,   |Apache Solr, Lucene, Elasticsearch, |
+|Linux                               |Kibana, Cloudera Impala             |
+|Software                            |File Formats                        |
+|Nessus, Maltego, SET, Shodan, API,  |Apache Parquet, Avro                |
+|Metaspoilt, Wireshark, VMWare,      |File Compression                    |
+|vSphere, AppDynamics, Confluence,   |Snappy, Gzip, ORC                   |
+|JIRA, SolarWinds, RabbitMQ, Sensu,  |Data Mining                         |
+|Nimsoft, Nagios, Cloudclock         |RapidMiner, IBM SPSS Modeler, Oracle|
+|Data Pipelines/ETL                  |Data Mining                         |
+|Apache Camel, Flume, Apache Kafka,  |Data Visualization                  |
+|Apatar, Atom, Fivetran, Heka,       |Apache Kudu/Arcadia, Knime, Tableau,|
+|Logstash, Scriptella, Stitch,       |PowerBI                             |
+|Talend, Talend, Ketl, Pentaho Data  |Misc                                |
+|Integration (Kettle), Jaspersoft,   |BigQuery, Jupyter Notebooks, Google |
+|CloverETL                           |Analytics, Hue, Apache Hive, Apache |
+|Data Cleansing                      |Impala, Apache Kudu, Apache Oozie,  |
+|DataCleaner, Winpure Data Cleaning  |1010data                            |
+|Tool, Patnab, OpenRefine, Drake     |                                    |
+|Database/Data Stores                |                                    |
+|HDFS, SQL, PLSQL, PSQL/GA,          |                                    |
+|PostgreSQL, NoSQL, Cassandra, Amazon|                                    |
+|S3                                  |                                    |
+
+
+
+
+
+Experience
+
+
+Senior Big Data Engineer          October 2018- Present
+Redbox – Chicago, IL
+
+
+Led POCs to test Spark solutions for production tasks involving Kinesis and
+Redshift, as well as workflows to transfer AWS Glue log files to Confluence
+Wiki page. Also attached to agile project to create ETL workflows for event
+data using AWS Lambda, Kinesis, and StreamSets.Used Tendo CLI to export
+customer data from 1010data to HDFS.
+
+    • Built AWS Lambda functions for raw data extraction, schema
+      transformation, and reformat/load to Kinesis as part of new analytics
+      pipeline for customer data.
+    • Tested viability of Kinesis-to-Redshift workflow without storage layer
+      for staging.
+    • Replicated deployed Kinesis-to-Redshift capability in Apache Airflow.
+    • Developed Kinesis-to-Redshift projects via JDK and Maven builds.
+    • Led POC involving Confluence API call to populate Wiki with log data
+      in AWS Glue.
+    • Worked with data team to integrate StreamSet into deployed projects.
+    • Served as resource for newer developers on more-complex topics like
+      Spark, Python, and Kinesis.
+    • Provisioned, maintained, and terminated EMR clusters and Kinesis tools
+      for Airflow, Redshift project.
+
+Environment: AWS:  Kinesis,  Redshift,  Lambda, AWS CLI.
+Other:  JDK,  Maven,  StreamSets,  Airflow,  Confluence,  Jira,  Pyspark,
+Linux (RedHat),  Spark
+
+
+
+Senior Hadoop Data Engineer       January 2018- October 2018
+Procter & Gamble – Cincinnati, OH
+
+
+Supported data science and sales analytics departments on big-data use
+cases. These included provisioning new, cloud-based data hubs and creating
+automated ETL workflows from older databases, ETL workflows for information
+security data, and POC benchmark testing between 1010data and Apache
+Kudu/Arcadia for BI analytics. Creation of Hive Tables, loading with data,
+and running jobs in the backend.
+
+    • Used Tendo CLI to export customer data from 1010data to HDFS
+    • Automated workflows with Cron/Oozie
+    • Built row/column-count validation for workflows into shell script
+    • Performed analytics using 1010data’s macro language
+    • Created ad-hoc, concatenated views for new DBs by analyst request
+    • Built Kudu tables with 1010 customer data and tested for speed/fault
+      tolerance against that platform using Impala/Spark (querying) and
+      Arcadia (visuals)
+    • Presented Kudu findings to management, who approved further, practical
+      tests
+    • Taught a Spark class at a P&G “Data Engineering University” in Warsaw,
+      Poland
+    • Worked with sales analysts and 4 data engineers to create a data hub
+      for sales teams
+    • Translated complex Knime data transformations into SQL
+    • Created joiner tables for mapping between unconnected primary keys
+    • Wrote/updated company documentation for use case processes
+    • Used PostgreSQL CLI for automated ETL of data
+    • Loaded datasets from Google Analytics to BigQuery for export
+    • Used AWS CLI for automated data pulls from PSQL/GA to S3
+    • Wrote Python scripts in Jupyter to loop through daily, dynamic
+      BigQuery tables and export to S3
+    • Wrote Python scripts in Jupyter to pull information security logs,
+      compress to Parquet format, and reorganize in S3
+    • Created Python functions to parse CEF-formatted information security
+      logs into headers and key/values
+    • Integrated disparate versions of Python/Spark to update older code
+
+Environment: Windows 7/10, Linux, MS Azure, AWS, Cloudera, Hue, Apache
+Hive, Apache Impala, Apache Kudu, Apache Oozie, Apache Spark, HDFS,
+1010data, SQL Server, Arcadia, PostgreSQL, Google Analytics/BigQuery,
+Jupyter Notebooks, Knime
+
+
+
+
+
+Senior Hadoop Data Engineer       November 2016- December 2017
+Georgia Pacific – Atlanta, GA
+
+
+Georgia Pacific uses Hadoop big data analytics for audits of the consumer
+products businesses which include brands such as Angel Soft, Quilted
+Northern, Dixie, Brawny, Sparkle, Vanity Fair, Mardi Gras and enMotion.
+This data is also used to direct innovation across Georgia Pacific.
+
+    • Creation of Hive Tables, loading with data, and running jobs in the
+      backend.
+
+    • Optimization of data storage in Hive through partitioning and
+      bucketing on all tables.
+
+    • Data import, export with Sqoop to go between HDFS and RDBMS.
+
+    • Responsible for collecting, aggregating and ETL of data from RDBMS to
+      HDFS.
+
+    • Worked with engineers to configure Apache Spark & Spark Streaming.
+
+    • Migrated ETL jobs to Pig scripts for transformations, joins,
+      aggregations before HDFS.
+
+    • Implemented and administered Cloudera Hadoop cluster(CDH); reviewed
+      log files of all daemons.
+
+    • Implemented Cloudera Impala for faster data analysis.
+
+    • Performed data cleansing and data analytics in Hadoop HDGS.
+
+    • Worked with engineers to implement YARN for analytics on data in Hive.
+
+    • Used Spark SQL and DataFrames API to load structured and semi-
+      structured data into Spark Clusters.
+
+    • Migrated complex programs into Apache Spark RDD operations.
+
+    • Implemented Kafka for realtime processing with data ingestion and
+      cluster handling.
+
+    • Automated workflow tasks using Apache Oozie.
+
+    • Responsible for maintenance and upgrades to the Cloudera Hadoop
+      cluster.
+
+    • Implemented high availability of name node and resource manager on the
+      Hadoop Cluster.
+
+    • Managed Hadoop authentication by Integrating Hadoop with Active
+      Directory along with Kerberos.
+
+    • Modeled data in Hive using Hive external tables.
+
+    • Architected data system using Apache Cassandra for data storage and
+      modeling.
+
+    • Implemented YARN Resource pools to share resources of the cluster for
+      YARN jobs submitted by users.
+
+    • Performed storage capacity management, performance tuning and
+      benchmarking of clusters.
+
+    • Performance tuning of HIVE service for better Query performance on ad-
+      hoc queries.
+
+    • Performed performance tuning for Spark Steaming e.g. setting right
+      Batch Interval time, correct level of Parallelism, selection of
+      correct Serialization & memory tuning.
+
+    • Data ingestion is done using Flume with source as Kafka Source & sink
+      as HDFS.
+
+    • For one of the use case, used Spark Streaming with Kafka & HDFS &
+      MongoDB to build a continuous ETL pipeline. This is used for real-time
+      analytics performed on the data.
+
+    • Performed import and export of dataset transfer between traditional
+      databases and HDFS using Sqoop.
+
+    • Worked on disaster management with Hadoop cluster.
+
+    • Designed and presented a POC on introducing Impala in project
+      architecture.
+
+    • Configured Spark streaming to receive real-time data from Kafka and
+      store the stream data to HDFS.
+
+
+Environment: HDFS, PIG, Hive, Sqoop, Oozie, HBase, Zookeeper, Cloudera
+Manager, Ambari, Oracle, MYSQL, Cassandra, Sentry, Falcon, Spark, YARN
+
+
+
+
+Hadoop Data Engineer   July 2015- October 2016
+Evolent Health – Arlington, VA
+
+
+Evolent Health is involved in the analysis of high-risk patient data for
+the purpose of improving patient care and managing risk.  By pooling and
+analyzing patient data from discrete sources, insights into patient risk
+and care level needed can be ascertained to take proactive measures on
+behalf of those identified.
+
+    • Import/export data into HDFS and Hive using Sqoop and Kafka.
+
+    • Involved in creating Hive tables, loading the data and writing hive
+      queries. 
+
+    • Design and develop ETL workflows using Python and Scala for processing
+      data in HDFS & MongoDB.
+
+    • Worked on importing the unstructured data into the HDFS using Spark
+      Streaming & Kafka.
+
+    • Wrote complex Hive queries, Spark SQL queries and UDFs.
+
+    • Implemented Partitioning, Dynamic Partitions and Buckets in HIVE for
+      increasing performance benefit and helping in organizing data in a
+      logical fashion. 
+
+    • Scheduled and executed workflows in Oozie to run Hive and Pig jobs 
+
+    • Worked with Spark Context, Spark -SQL, DataFrame and Pair RDDs.
+
+    • Used Hive, Spark SQL Connection to generate Tableau BI reports.
+
+    • Created Partitions, Buckets based on State to further process using
+      Bucket based Hive joins.
+
+    • Created Hive Generic UDF's to process business logic that varies based
+      on policy
+
+    • Worked with Amazon Web Services (AWS) and involved in ETL, Data
+      Integration, and Migration.
+
+    • Loading data from diff servers to AWS S3 bucket and setting
+      appropriate bucket permissions.
+
+    • Apache Kafka to transform live streaming with the batch processing to
+      generate reports
+
+    • Cassandra data modeling for storing and transformation in Apache Spark
+      using Datastax Connector.
+
+    • Imported data into HDFS and Hive using Sqoop and Kafka. Created Kafka
+      topics and distributed to different consumer applications.
+
+    • Worked on Spark SQL and DataFrames for faster execution of Hive
+      queries using Spark and AWS EMR.
+
+    • Implemented Partitioning, Dynamic Partitions and Buckets in HIVE for
+      increasing performance benefit and helping in organizing data in a
+      logical fashion.
+
+    • Analyzed Hadoop cluster using big data analytic tools including Kafka,
+      Pig, Hive, Spark.
+
+    • Configured Spark streaming to receive real-time data from Kafka and
+      store to HDFS using Scale.
+
+    • Implemented Spark using Scala and Spark SQL for faster analyzing and
+      processing of data.
+
+    • Built continuous Spark streaming ETL pipeline with Spark, Kafka,
+      Scala, HDFS, and MongoDB.
+
+    • Scheduled and executed workflows in Oozie to run Hive and Pig jobs 
+
+    • Worked with Spark Context, Spark -SQL, DataFrame and Pair RDDs.
+
+    • Used Hive, Spark SQL Connection to generate Tableau BI reports.
+
+    • Created Partitions, Buckets based on State to further process using
+      Bucket based Hive joins.
+
+    • Created Hive Generic UDF's to process business logic that varies based
+      on policy.
+
+    • Developed various data connections from data sourced to SSIS, and
+      Tableau Server for report and dashboard development.
+
+    • Worked with clients to better understand their reporting and
+      dashboarding needs and present solutions using structured Waterfall
+      and Agile project methodology approach.
+
+    • Developed metrics, attributes, filters, reports, dashboards and also
+      created advanced chart types, visualizations and complex calculations
+      to manipulate the data.
+
+Environment: Hadoop HDFS, Hive, Spark, YARN, Kafka, Pig, MongoDB, Sqoop,
+Storm, Cloudera, Impala
+
+
+
+
+Hadoop Data Engineer   March 2014- June 2015
+SealedAir Corp. – Charlotte, N.C.
+
+
+SealedAir is a global corporation involved in food safety, security,
+facility hygiene, and cleaning.  This project focused on the development of
+a data analysis system specific to cleaning and the Internet of Clean (IoC)
+to analyze metrics of cleaning runtimes, labor, to hone in on labor
+efficiencies.
+
+    • Transferred data using Informatica tool from AWS S3.
+
+    • Using AWS Redshift for storing the data on the cloud.
+
+    • Designed a cost-effective archival platform for storing big data using
+      Hadoop and its related technologies.
+
+    • Connected various data centers and transferred data between them using
+      Sqoop and various ETL tools.
+
+    • Extracted the data from RDBMS (Oracle, MySQL) to HDFS using Sqoop.
+
+    • Integrated Kafka with Spark Streaming for real-time data processing
+
+    • Imported data from disparate sources into Spark RDD for processing.
+
+    • Built a prototype for real-time analysis using Spark streaming and
+      Kafka.
+
+    • Deployed the application jar files into AWS instances.
+
+    • Used the image files of an instance to create instances containing
+      Hadoop installed and running.
+
+    • Developed a task execution framework on EC2 instances using SQL and
+      DynamoDB.
+
+    • Involved in Design and Development of technical specifications using
+      Hadoop technologies.
+
+    • Load and transform large sets of structured, semi-structured and
+      unstructured data.
+
+    • Used different file formats like Text files, Sequence Files, Avro.
+
+    • Used the Hive JDBC to verify the data stored in the Hadoop cluster.
+
+    • Worked with the client to reduce churn rate, read and translate data
+      from social media websites.
+
+    • Loaded data from various data sources into HDFS using Kafka.
+
+    • Tuning and operating Spark and its related technologies like Spark SQL
+      and Streaming.
+
+    • Used shell scripts to dump the data from MySQL to HDFS.
+
+    • Used NoSQL databases like MongoDB in implementation and integration.
+
+    • Worked on streaming the analyzed data to Hive Tables using Sqoop for
+      making it available for visualization and report generation by the BI
+      team.
+
+    • Configured Oozie workflow engine scheduler to run multiple Hive, Sqoop
+      and pig jobs.
+
+    • Consumed the data from Kafka queue using Storm
+
+    • Used Oozie to automate/schedule business workflows which invoke Sqoop,
+      and Pig jobs as per the requirements.
+
+Environment:  Hadoop HDFS, Spark, HDF, Oozie, Sqoop, MongoDB, Hive, Pig,
+Storm, Kafka, SQL, Acro, RDD. SQS S3, Cloud, MySQL, Informatica, Dynamo DB
+
+
+
+
+Hadoop Data Engineer   August 2012- February 2014
+Drillinginfo, Austin, TX
+
+
+The focus of this Texas oil analytics company is to accelerate workflows
+and business critical decision processes in the oil and gas industry.  Big
+data has thus created a more cost-effective approach to hydrocarbon
+exploration across the industry.  The industry relies heavily on oils and
+gas data to minimize drilling risks and to create optimal production
+results.
+
+
+
+    • • Responsible for building scalable distributed data solutions using
+      Hadoop.
+
+    • Installed and configured Pig for ETL jobs and made sure we had Pig
+      scripts with a regular expression for data cleaning.
+
+    • Creating Hive external tables to store the Pig script output. Working
+      on them for data analysis in order to meet the business requirements.
+
+    • Involved in loading the created Files into HBase for faster access of
+      all the products in all the stores without taking the Performance hit.
+
+    • Used Zookeeper for providing coordinating services to the cluster.
+
+    • Imported data using Sqoop to load data from MySQL and Oracle to HDFS
+      on regular basis.
+
+    • Moving data from Oracle to HDFS and vice-versa using SQOOP.
+
+    • Collected and aggregated large amounts of log data using Apache Flume
+      and staging data in HDFS for further analysis.
+
+    • Used Sqoop to efficiently transfer data between databases and HDFS and
+      used Flume to stream the log data from servers.
+
+    • Implemented partitioning, bucketing in Hive for better organization of
+      the data.
+
+    • Worked with different file formats and compression techniques to
+      determine standards.
+
+    • Worked on installing the cluster, commissioning and decommissioning of
+      data node, NameNode recovery, capacity planning, and slots
+      configuration.
+
+    • Involved in loading data from Linux file system to HDFS.
+
+    • Used Linux shell scripts to automate the build process, and to perform
+      regular jobs like file transfers between different hosts.
+
+    • Involved in production support, which involved monitoring server and
+      error logs, and foreseeing and preventing potential issues, and
+      escalating issue when necessary.
+
+    • Documented Technical Specs, Dataflow, Data Models and Class Models.
+
+    • Documented requirements gathered from stakeholders.
+
+    • Successfully loaded files to HDFS from Teradata, and loaded from HDFS
+      to HIVE.
+
+    • Used Zookeeper and Oozie for coordinating the cluster and scheduling
+      workflows.
+
+Environment: Hadoop Cluster, HDFS, Hive, Pig, Sqoop, Linux, HBase, Shell
+Scripting, Eclipse, Oozie, Navigator.
+
+
+
+
+Data Privacy Specialist      September 2010- July 2012
+Research Now – Plano, TX
+
+    • Developed a double-blind comparative encryption utility with SciPy, C,
+      and Fortran for comparing
+    • business to business data.
+    • The application obfuscates and creates a hash code to allow personal
+      identifying information to be transferred and processed outside of
+      countries that have mentioned they will restrict PII processing in the
+      future.
+    • An integrated solution that saves the company millions in data
+      processing and labor cost while decreasing the quote to cash time.
+    • Eliminated the company's liability for client and company data because
+      the application renders all data unidentifiable to the human eye.
+    • Work in cooperation with our Infragaurd partners to resolve fraud
+      cases.
+    • Developed a next-generation threat intelligence application to
+      identify cyber-criminals stealing incentives and member information.
+    • Utilized machine learning to map normal member behavior.
+    • Irregular member behavior would trigger OSINT to begin intelligence
+      gathering.
+    • Decreased fraud loss by thirty-five percent.
+    • Decreased labor cost needed to investigate by eighty percent.
+    • Moved fraud investigations from reactive to proactive.
+    • Configured and managed DLP policies for CloudLock, Netskope, and
+      Microsoft Exchange.
+    • Eliminated the sharing and/or selling of the company’s revenue
+      generating information/data.
+    • Framed employee access roles (Role Based Access Control) across all
+      systems and applications.
+    • Discovered several terminated employees with active accounts to third-
+      party vendors costing the
+    • company a significant amount of money.
+    • Standardized Active Directory roles and groups for all titles allowing
+      for automated access
+    • provisioning and deauthorization.
+    • Decreased onboarding time and labor costs.
+    • Developed an automated employee access audit with PowerShell, Python,
+      SQL,
+    • Salesforce/DocuSign API, and Bash.
+    • Quarterly scheduled audits allowed the company to stay compliant with
+      client contracts and avoid any legal/revenue damages.
+    • Provided a significant step to ISO 2701 certification
+    • Vulnerability and privacy advisor for all client contracts and third-
+      party software.
+    • Decreased the average scan time from ninety minutes to thirty-two
+      seconds.
+    • Decreased the load of scans ninety percent.
+    • Discovered several vulnerabilities and exploit code that our propriety
+      scanners did not detect.
+    • Change detection decreased downtime caused by undocumented changes
+      that needed to be “rolled back”.
+    • Internal forensic, Incident Response, and threat hunting using SANS
+      Institute Sift workstation to identify breaches and bad actors.
+
+
+
+
+
+
+Interim Lead/Application Support Engineer    May 2008- August 2010
+Research Now – Plano, TX
+
+
+    • Automation of deployments with Ansible.
+    • Decreased average deployment downtime from three hours to five
+      minutes.
+    • Automated smoke testing for application deployments.
+    • Writing and implementing SQL, Bash, and PowerShell scripts for
+      propriety application workarounds, changes, and deployments.
+    • Team Lead for Infrastructure ITIL reporting and documentation.
+    • Developed and deployed a centralized knowledge base and documentation
+      using HTML, CSS Script, and Atlassian Confluence.
+    • Created executive weekly reports for the Vice President of
+      Infrastructure containing RCA reports of outages, updates of problem
+      management issues, and progress of teams' projects.
+    • Created templates, automated reporting, and documentation for
+      infrastructure knowledge bases and playbooks.
+         o Decreased onboarding time by thirty-seven percent.
+         o Decreased downtime by twenty-six percent.
+    • Linked technology issue ticket creation to knowledge base which
+      provided employees with the common resolutions to problems.
+         o Decreased labor costs and time to resolution for technology by
+           forty-two percent.
+    • Tested, configured, and deployed new monitoring solutions for 2000+
+      servers, 300 applications, and our internal network using Bash, SQL,
+      Python, Batch scripts.
+    • Performed a proof of concept for seven commonly accepted open source
+      monitoring solutions to replace the current proprietary application.
+    • The open source replacement saved the company $350,000 dollars
+      annually.
+    • Wrote ansible scripts to deploy Nagios agents to the infrastructure.
+    • Created MySQL events for table maintenance.
+    • Linked all alerts to knowledge base playbooks.
+    • Decrease incident resolution by forty-eight percent.
+    • Generated AppDynamics byte code to run with proprietary applications
+      for transaction analysis, code debugging, and incident management.
+    • Resolved efficiency issues that were previously unknown.
+    • Application logging development for ELK stack with python for
+      clustered applications worldwide.
+    • Wrote plugins, crons, and configuration files in bash for monitoring.
+    • Used SolarWinds to determine packet loss, gateway issues, and node
+      disruptions.
+    • Migrated SolarWinds monitoring to Nagios network monitoring and
+      integrated network monitoring into one dashboard.
+    • Troubleshot incidents through Oracle SQL, Red Hat Linux, AppDynamics,
+      SolarWinds, Nagios, and Nimsoft.
+    • Diagnosed root cause of outages and directing other teams needed for
+      resolution.
+    • Provided application support and guidance which included service
+      packs, upgrades, application code promotions (hotfixes), report
+      modifications, and release management tasks.
+
+
+
+
+
+
+Presentation & Facilitation
+
+Taught a Spark class at a P&G “Data Engineering University” in Warsaw,
+Poland.  The class was part of the larger big data workshop.  The Spark
+segment was an introductory course consisting of understanding Spark, the
+various applications of Spark, and how to use it in the big data
+environment.  As the capstone, I walked the participants through how to
+create a data frame in Spark and query it using SparkSQL.
+
+
+
+Education
+
+CANDIDATE:  MBA/MBS
+
+Master of Business Administration and Business Computer Information Systems
+
+
+University of North Texas
+
+
+
+Honors and Awards
+
+Invented a platform-independent double-blind comparative encryption utility
+– patent pending
+
+
+
+Certifications
+
+Candidate:  GCFE – GIAC Forensic Examiner Certification
+
+[pic]
+
+-----------------------
+
+
+                                   Contact
+
+Blake Hamilton
+
+Phone:
+
+708-669-9905
+
+Email: hamiltonblakejames@gmail.com
+
+
+
+
+
+Hadoop Big Data
+
+ ▪ Engineering
+
+ ▪ Processing
+
+ ▪ Analysis
+
+
+
+
+

@@ -1,0 +1,419 @@
+ETHAN KARLSON  |  HADOOP |  702-430-3575 | ethanlkarlson@gmail.com
+
+ETHAN KARLSON
+
+HADOOP BIG DATA ANALYTICS PROJECT MANAGER
+
+ETHAN KARLSON  |  HADOOP |  702-430-3575 | ethanlkarlson@gmail.com
+
+ETHAN KARLSON
+
+HADOOP BIG DATA ANALYTICS PROJECT MANAGER
+
+
+
+CONTENTS
+
+PROFILE
+
+SKILLS
+
+EXPERIENCE
+
+MGM Las Vegas
+
+Experian
+
+Comcast
+
+Expedia
+
+Syntel
+
+Maricopa Cty
+
+Nat’l Guard
+
+EDUCATION
+
+CONTENTS
+
+PROFILE
+
+SKILLS
+
+EXPERIENCE
+
+MGM Las Vegas
+
+Experian
+
+Comcast
+
+Expedia
+
+Syntel
+
+Maricopa Cty
+
+Nat’l Guard
+
+EDUCATIONPROFESSIONAL PROFILE
+
+Expert analytics manager specializing in engineering and predictive/prescriptive analytics using Hadoop, Spark, MLlib, and related ecosystem tools along with reporting a visualization tools (Tableau, PowerBI).
+
+10 years in data related technologies. 5-8 years in a management position
+
+Seasoned experience in project management (Agile/Scrum, Waterfall and various Agile processes).
+
+Proven success in team leadership, focusing on mentoring team members, and managing task for efficiency.
+
+Worked with various stakeholders for gathering requirements to create as-is and as-was dashboards.
+
+Modified existing and added new functionalities to Financial and Strategic summary dashboards.
+
+Analyzed the MS-SQL data model and provided inputs for converting the existing dashboards that used Excel as a data source.
+
+Created dashboards for TNS Value manager in Tableau using various features of Tableau like Custom-SQL, Multiple Tables, Blending, Extracts, Parameters, Filters, Calculations, Context Filters, Data source filters, Hierarchies, Filter Actions, Maps etc.
+
+Involved in Performance tuning the data heavy dashboards and reports for optimization using various options like Extracts, Context filters, writing efficient calculations, Data source filters, Indexing and Partitioning in data source etc.
+
+Writing SQL queries for data validation of the reports and dashboards as necessary.
+
+Recommended and used various best practices to improve dashboard performance for Tableau server users.
+
+Worked with Data Lakes and Big Data ecosystems (Hadoop, Spark, Hortonworks, Cloudera)
+
+Expert with BI tools like Tableau and PowerBI, data interpretation, modeling, data analysis, and reporting with the ability to assist in directing planning based on insights.
+
+Track record of results as a project manager in an Agile methodology using data-driven analytics.
+
+Used to working in a production environment, managing migrations, installations, and development.
+
+Have managed teams ranging from 5 to 20 members with on-site and remote members, across multiple time zones, in a culturally diverse environment.
+
+Expert with design of custom reports using data extraction and reporting tools, and development of algorithms based on business cases.
+
+Able to design new custom solutions to solve business issues and advance goals.
+
+Keeps managers and stakeholders apprised of project status and informed of any pertinent events.
+
+Expert in project management tools such as Microsoft Team Foundation Server (TFS), Jira, and MS Project.
+
+Knowledgeable of database technologies and frameworks involving structured data, unstructured data, and semi-structured data as well as various storage formats such as RDMS and data lakes.
+
+
+
+TECHNICAL SUMMARY
+
+
+
+SCRIPTS
+
+SQL, Spark, Pig, Hive, XML
+
+
+
+DISTRIBUTIONS:  Hortonworks, Cloudera
+
+
+
+HADOOP ECOSYSTEM
+
+Apache Ant, YARN, Flume, Hcatalog, Hive, Kafka, Maven, Oozie, Pig, Spark, Tez, ZooKeeper, HDFS, Kibana, SOLR, Lucene
+
+
+
+DATABASE:  SQL, MySQL, Oracle, Cassandra, Hbase
+
+
+
+CONTINUOUS INTEGRATION SERVERS
+
+Jenkins, Hudson, Travis, Continuum
+
+
+
+SOURCE CONTROL MANAGEMENT
+
+Git, SVN, Perforce, Clearcase, RTC
+
+
+
+PROJECT MANAGEMENT
+
+Waterfall, Agile, Budget Forecast, Resource Allocation, Documentation, Scheduling, Strategic Planning, Deliverables, Dependencies, Project Plan, Managing Expectations, Project Charter, Project Scope Document, Test Plans, Risk Management, Governance, Daily Scrum, Sprint Planning, Sprint Review, Sprint Retrospective, Sprint Backlog, Prioritizing Tasks, Time Management, Project Metrics, Reporting, Staff Management, Onboarding, Mentoring
+
+PROFESSIONAL EXPERIENCE
+
+ANALYTICS PROJECT MANAGER
+
+	MGM CASINOS| Las Vegas, NV	May 2016 – Present
+
+	
+
+Involved in implementation of analytics solutions through Agile/ Scrum processes for development and quality assurance.
+
+Participated in strategic planning and responsible for dependencies, deliverables and assignment of projects across managers of diverse groups.
+
+Prepared project Charter comparing Scope of the project.
+
+Documented the requirements in project approval document for approvals from stake holders and further reference in subsequent phases of the project.
+
+Created the system requirement documents, to detail the functional requirements, and changes expected from various technical teams.
+
+Created process flow diagrams, to lay out the dependency on the various database systems involved.
+
+Managed data modeling, forecasting and predictive analytics, and the creation of reports and presentations for management.
+
+Responsible for presenting information and insights in plain English and facilitating discussion to generate possible options for practical application.
+
+Performed impact analysis on various systems, for the changes requested.
+
+Identified and ingested source data from different systems into Hadoop HDFS and creating Hbase tables to store variable data formats.
+
+Conducted exploratory data analysis and managed dashboard for weekly report, using
+
+Tableau Desktop connecting to Hadoop Hive tables.
+
+Created Hive and Impala queries to spot emerging trends by comparing data with historical metrics.
+
+Imported data from web service into HDFS and transformed data using Pig.
+
+Developed new flume agents to extract data from Kafka and other web servers into HDFS.
+
+Implemented test scripts to support test driven development and continuous integration.
+
+Environment: Hadoop, Cloudera, Tableau, HDFS, Hive, Pig, Impala, SQL, Sqoop, Kafka, Flume, R-Studio, SAS.
+
+Reviewed and approved the test cases, and scenarios so that the testing team can validate the changes against the requirements listed.
+
+
+
+Environment: Hadoop Cloudera Distribution, Spark, Spark Streaming, Kafka, HIVE, HDFS services, Microsoft Azure, Microsoft team Foundation Server (TFS), Big Data, Distributed Computing.
+
+Methodologies: PMI, Project Portfolio Management (PPM), Agile/Scrum
+
+Tools:  Microsoft PowerBI, Microsoft Visio, Microsoft PowerPoint, Microsoft Excel, Microsoft Word
+
+
+
+LEAD BUSINESS INTELLIGENCE ANALYST /PROJECT COORDINATOR
+
+		Experian | Costa Mesa, CA	January 2015 – April 2016
+
+Assisted the Project Manager in preparing the project charter comparing scope of project, and responsible for Agile/Scrum requirements gathering and planning project scope, dependencies and defining deliverables.
+
+Effectively communicated project scope, schedule, and budget with both consumers and contractors.
+
+Worked with various stakeholders for gathering requirements to create as-is and as-was dashboards.
+
+Worked with various stakeholders for gathering requirements to create as-is and as-was dashboards.
+
+Design workbooks and dashboards and publishing to the server and managing the user base and access for user groups.
+
+Managing Extracts, schedules and users on Tableau Server.
+
+Developed Tableau visualizations and dashboards using Tableau Desktop.
+
+Developed Tableau workbooks from multiple data sources using Data Blending.
+
+Drill down the data and maps.
+
+Created Filter Actions, Highlight Actions & URL Actions to link worksheets.
+
+Developed visualizations using Parameters, Calculated Fields, Dynamic sorting, Filtering, Parameter driven analysis.
+
+Leading the Team for testing the data and liaising with the developers and the stakeholders to ensure quality.
+
+Automated the Tableau server extract refreshes of the data sources hosted on SQL server.
+
+Created various visualizations to analyze Broker, Claims and Customer details.
+
+Created Various Dashboards which includes Claim analysis, Sales Management, Broker Management and Fraud Analysis.
+
+Recommended and used various best practices to improve dashboard performance for Tableau server users.
+
+Modified existing and added new functionalities to Financial and Strategic summary dashboards.
+
+Analyzed the MS-SQL data model and provided inputs for converting the existing dashboards that used Excel as a data source.
+
+Created dashboards for TNS Value manager in Tableau using various features of Tableau like Custom-SQL, Multiple Tables, Blending, Extracts, Parameters, Filters, Calculations, Context Filters, Data source filters, Hierarchies, Filter Actions, Maps etc.
+
+Writing SQL queries for data validation of the reports and dashboards as necessary.
+
+Recommended and used various best practices to improve dashboard performance for Tableau Server users.
+
+
+
+Environment: Hadoop Cloudera Distribution, Spark, Spark Streaming, Kafka, HIVE, HDFS services, Microsoft Azure, Microsoft team Foundation Server (TFS), Big Data, Distributed Computing. 
+
+Methodologies: PMI, Project Portfolio Management (PPM), Agile/Scrum
+
+Tools:  Microsoft PowerBI, Microsoft Visio, Microsoft PowerPoint, Microsoft Excel, Microsoft Word
+
+
+
+LEAD ANALYST/BI PROJECT TEAM LEAD
+
+	Comcast | Philadelphia, PA	October 2013 – December 2014
+
+Reviewing Business requirement document for completeness, analyzes actual, and forecast budgeting and forecasting requirements.
+
+Implementation and transition of reporting solution based on MS Power BI/Tableau/Cognos to all level of stakeholders.
+
+Developed strategy for implementing data cleaning, data profiling, and Data quality.
+
+ Worked with various stakeholders for gathering requirements to create as-is and as-was dashboards.
+
+Design workbooks and dashboards and publishing to the server and managing the user base and access for user groups.
+
+Managing Extracts, schedules and users on Tableau Server
+
+Developed Tableau visualizations and dashboards using Tableau Desktop.
+
+Requirement Analysis
+
+Created and delivered presentations to various business teams regarding the current status and key decisions regarding their business issues
+
+Requirement gathering for data warehouse
+
+Defined data marts as per requirement.
+
+Migrated existing Cognos reports to Tableau and MS Power BI embedded in applications by replacing semantic layer.
+
+Expert evaluation of data models to design Tableau solutions.
+
+Designed and developed interactive Tableau dashboards and reports that portray business intelligence.
+
+Created Tableau dashboards using stack bars, bar graphs, scattered plots, geographical maps, Gantt charts, line charts using show me functionality.
+
+Worked extensively with advance analysis actions, calculations, parameters, background images, and maps in Tableau desktop.
+
+Analysis, design, coding, performance tuning, and implementation of new BI solutions using Power BI and Tableau.
+
+Published Power BI reports to server and Power BI mobile.
+
+Built and maintained Power BI dashboards, and used Power Query, Power Pivot, Power Q & A, and Power Map, with various transformations using DAX language. 
+
+Developed complex list reports, cross tab reports, chart reports, and drill through reports with advanced multidimensional reporting.
+
+Made use of data view, relationship view and report view in Microsoft Power BI.
+
+Created complex mappings of slowly changing dimensions, and change data capture process.
+
+Environment:  Tableau, Power BI, Gantt, Power Map, Hadoop,  Agile, Scrum
+
+
+
+
+BUSINESS INTELLIGENCE ANALYST
+
+	Expedia | Bellevue, WA	August 2011 – September 2013
+
+
+
+Developed Key Performance Indicators covering all aspects of operations.
+
+Integrated with the business users and documented their query, business, and reporting needs and analyzed the data and business logic underlying the requirement.
+
+Worked with various stakeholders for gathering requirements to create as-is and as-was dashboards.
+
+Design workbooks and dashboards and publishing to the server and managing the user base and access for user groups
+
+Managing extracts, schedules and users on Tableau Server
+
+Developed Tableau visualizations and dashboards using Tableau Desktop.
+
+Requirement Analysis
+
+Planning the activities of the team, monitoring and reporting on progress.
+
+Generated database design to the highest level of scalability and performance.
+
+Developed numerous ad-hoc queries and reports to collect and present information that satisfied clients and contributed to achieve organizational goals.
+
+Created numerous processes through MS Visual Studio (SSIS, SSAS, and SSRS) and MS SQL Server 2012 to develop a data warehouse project.
+
+Contributed to build business dashboards to conduct trend analysis on retail metrics, especially relating to driving sales revenue, customer retention and sales person productivity.
+
+Applied technical skills using SAS, Tableau and SQL in data collection, data analysis and reporting to procure data from database structures to report and provide solutions to client requests in a timely manner.
+
+Created and delivered presentations to various business teams regarding the current status and key decisions regarding their business issues
+
+Defined data marts as per requirement.
+
+Define measures• Developing Reports in Business Objects.
+
+Participated in the design, development, deployment and support of reporting solutions in the areas of sales and marketing, forecasting and planning, and supplier performance to identify, investigate and
+
+recommend analytical systems to support the business management process.
+
+Prepared and promoted reports of financial and operational data from company's financial reporting
+
+system.
+
+Worked with drill through, drill down analysis studio reports to report studio reports such as MOLAP- ROLAP.
+
+Prepared financial and operational analytics reports and visualizations at the direction of senior financial
+
+management personnel.
+
+Developed lists, cross tab, chart, master detail and complex reports involving multiple prompts in Report Studio.
+
+Environment:  OLAP, MOLAP, SAS, SQL, Tableau, Business Objects, Reports, Drill, SQL
+
+
+
+
+
+
+
+
+BUSINESS ANALYST
+
+	Syntel, Inc. – Phoenix, Arizona	May 2008 – July 2011
+
+
+
+A business analyst is responsible for understanding and utilizing the various Agile methods used in the organization. The SDLC is integral to keeping a business innovating and staying ahead of the competition. The business analyst will research business trends to obtain the validity of any projects the organization needs to move forward. Opening a dialogue with department heads to develop User Stories to understand the functional and nonfunctional requirements. Received a Syntel certificate for Level 1 Insurance, a basic knowledge of insurance functionality along with risk evaluation.
+
+Develop Acceptance Testing Procedures and conduct Acceptance Testing.
+
+Create Use Case documents based on research of similar products or scenarios. 
+
+Interview business leaders to develop a feasible objective. 
+
+
+
+DETENTION OFFICER
+
+	Maricopa County Sheriff’s Office – Phoenix, Arizona	August 2005 – May 2008
+
+
+
+The daily goal is to maintain care, custody, and control of the Maricopa County Inmate population. Conducting bi-hourly security checks inspecting the welfare of all individuals incarcerated within the assigned housing. The facility integrity must be examined and reported to keep the operations running. Maintain accountability of all Inmates via headcounts by Identification Bands. This ensures that no Inmates have escaped or been falsely released. Being able to communicate with various individuals in order to build a level of trust. Using attention to detail to complete daily logs, Incident Reports, and various other documents that can be used in legal proceedings.
+
+Analyzing and predicting the behaviors of individuals to help avoid conflict.
+
+Received a Unit Citation for returning Accreditation to Clinical Health Services
+
+CPR/First Aid certifications
+
+
+
+AIR TRAFFIC CONTROLLER
+
+		Arizona Army National Guard – Phoenix, Arizona	May 1997 – July 2004
+
+	
+
+	The primary duty is the safe, orderly, and expeditious flow of air traffic in the designated air space. Conducted air traffic operations in Al Asad, Iraq during Operation Iraqi Freedom/Operation Enduring Freedom. During this Operation earned the prestigious Order of the Spur from the 3rd Cavalry and a Certificate of Appreciation from the TALCE. This required using encrypted radio transmissions within a hostile environment. Using clear and concise communication with pilots and airfield crew in order to complete operations. During post 9/11 operations was assigned to airport checkpoint security and earned three awards. Two Certificate of Appreciation from Phoenix PD and Department of the Army Homeland Defense Mission. Passed the Passenger Screening Checkpoint Training from US DOT FAA. 
+
+EDUCATION
+
+Bachelor of Science in Information Technology 
+
+Information Systems Security
+
+	University of Phoenix  GPA: 3.58

@@ -1,0 +1,691 @@
+Dirk Sorkin
+
+Lead Hadoop Data Engineer
+
+Phone: (703) 910-3326  Email: dirksorkin0@gmail.com
+
+
+
+
+
+PROFESSIONAL SUMMARY
+
+
+
+MORE THAN 7 YEARS HADOOP BIG DATA EXPERIENCE; 
+20 YEARS TOTAL I.T. EXPERIENCE.
+
+Extending HIVE core functionality by using custom User Defined Function's (UDF), User Defined Table-Generating Functions (UDTF) and User Defined Aggregating Functions (UDAF) for Hive. 
+
+Good Knowledge on Spark framework on both batch and real-time data processing. 
+
+Hands-on experience processing data using Spark Streaming API.
+
+Skilled in AWS, Redshift, Cassandra, DynamoDB and various cloud tools.
+
+Use of cloud platforms AWS, Microsoft Azure, and Google Cloud platform.
+
+Have worked with over 100 terabytes of data from data warehouse and over 1 petabyte of data from Hadoop cluster.
+
+Have handled over 70 billion messages a day funneled through Kafka topics.
+
+Responsible for moving and transforming massive datasets into valuable and insightful information.
+
+Capable of building data tools to optimize utilization of data, and configure end-to-end systems.
+
+Spark SQL to perform transformations and actions on data residing in Hive.
+
+Spark Streaming to divide streaming data into batches as an input to Spark engine for batch processing.
+
+Responsible for building quality for data transfer pipelines for data transformation using Flume, Spark, Spark Streaming, and Hadoop.
+
+Able to design and develop new systems and tools to enable clients to optimize and track using Spark. 
+
+Provide end-to-end data analytics solutions and support using Hadoop systems and tools on cloud services as well as on premise.
+
+Expert in big data ecosystem using Hadoop, Spark, Kafka with column-oriented big data systems such as Cassandra and Hbase.
+
+Worked with various file formats (delimited text files, click stream log files, Apache log files, Avro files, JSON files, XML Files).
+
+Uses Flume, Kafka, Nifi, and HiveQL scripts to extract, transform, and load the data into database.
+
+Able to perform cluster and system performance tuning.
+
+
+
+
+
+
+
+
+
+TECHNICAL SKILLS SUMMARY
+
+
+
+AMAZON AWS CLOUD
+
+AAWS Lambda, AWS S3, AWS RDS, AWS EMR, 
+
+AWS Redshift, AWS Lambda, AWS Kinesis, AWS, ELK, AWS Cloud Formation, AWS IAM
+
+
+
+HADOOP DISTRIBUTIONS
+
+Cloudera CDH, Hortonworks HDP
+
+
+
+COMPUTE ENGINES
+
+Apache Spark, Spark Streaming, Storm
+
+
+
+DATA PIPELINE
+
+Apache Airflow & Camel
+
+Apache Flink/Stratosphere
+
+
+
+ARCHITECTURE
+
+Design and develop cloud-based data solutions
+
+POC, Architectural Planning, Hadoop Cycle, 
+
+Virtualization, HAAS environments, Lambda
+
+
+
+HADOOP ADMINISTATION
+
+Ambari, Yarn, Workflows, Zookeeper, Oozie, Cluster Management, Cluster Security
+
+
+
+LOG ANALYTICS
+
+ELK Stack or Elastic Stack
+
+(Elasticsearch, Logstash, and Kibana)
+
+
+
+TOOLS
+
+Elasticsearch, Lambda Functions, Toad, 
+
+
+
+NoSQL DATABASE
+
+Apache Cassandra, DynamoDB
+
+Apache Hbase, Amazon Redshift
+
+
+
+OPERATING SYSTEMS
+
+Windows  XP, 7, 8, 10, 2016, 2012, 2008 2003, 2000, UNIX, Linux
+
+
+
+
+
+
+
+
+
+
+
+Hadoop / Apache Big Data Technologies
+
+HDFS, Hive, Zookeeper, Sqoop, Oozie, Yarn
+
+Also: Maven, Ant, Flume, Apache Airflows
+
+
+
+PROGRAMMING LANGUAGES
+
+Scala, Python, SQL
+
+
+
+SCRIPTING
+
+UNIX Shell Scripting, , PL/SQL Scripting, HTML, DHTML,HTML5, CSS3, JavaScript, VB Script
+
+
+
+IDE
+
+Eclipse, Oracle J Developer, Visual Studio, SQL Navigator, IntelliJ
+
+
+
+
+
+FRAMEWORKS
+
+Spark, Kafka
+
+
+
+INGESTION
+
+Kinesis, Kinesis Stream, Firehose, Kafka, Sqoop, Flume
+
+
+
+ETL PIPELINE
+
+Apache Camel, Flume, Apache Kafka, Logstash
+
+
+
+STORAGE
+
+S3, HDFS, DHW, DATALAKE
+
+
+
+FILE FORMATS & COMPRESSION
+
+Parquet, Avro, JSON, ORC, Snappy, Gzip
+
+
+
+DATA STORES
+
+HDFS, Data Lake, Data Warehouse, Database 
+
+
+
+SOFTWARE
+
+Adobe Acrobat, Lotus Notes, MS Office, Rumba, Oracle CRM
+
+
+
+PROTOCOLS
+
+HTTP, TCP/IP, FTP, POP3, SMTP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROFESSIONAL EXPERIENCE
+
+
+
+Hadoop Big Data Architect
+
+Capital One, McLean, VA
+
+July 2018-Present
+
+I worked on two different big data teams at Capital One, CLIP and SRE.
+
+
+
+CLIP Project
+
+
+
+CLIP – Credit Limit Increase Program. This project involved moving the CLIP process from Teradata on-premise infrastructure to AWS using technologies like S3, Lambda, Redshift, and other AWS technologies. Throughout each day data is collected for thousands of potential Capital One credit card customers who want their credit limit increased and for customers who qualify for automated credit increase. Once a day a process is run to collect and run business rules against this data.  This process contacts several databases and data sources with millions of records and determines if a credit increase is approved or declined, and by how much.
+
+
+
+SRE Project
+
+
+
+The SRE - System Reliability Engineering. This team was responsible for processing all credit card applications - Capital One credit card and all third-party brands Capital One handles. I was responsible of the development of dashboards to monitor the health of the 20+ APIs for the upper management and developers. Technology used was Kibana, ELK, Elastic Search, Data Dog. Most of the dashboards were created in Grafana. Kibana dashboards were created when limitations on the Grafana were encountered. Also created dashboards using New Relic insights and Data Dog.
+
+
+
+
+
+Project environment based on Amazon Cloud (AWS), ELK, Grafana, New Relic.
+
+Redshift knowledge transfer: Created PowerPoint and presented to team covering AWS Data Warehouse, OLTP vs OLAP, Managed, Cluster based, Scalable, Architecture, What makes Redshift fast, Formats of data, Create Redshift cluster.
+
+POC of Redshift based on Postgres (AWS RDS) for QA and DEV environments.
+
+Created RDS Postgres instances to substitute and test Redshift, creating databases, tables and inserting data.
+
+Implemented Spark Quantum Set-up including preparation of JSON workflows, Spark set-up, AWS deployment, and workflow demo creation.
+
+Re-wrote SQL scripts written in Teradata SQL scripts to Postgres SQL scripts that required a output derived from two tables.
+
+Onboarded existing Spark features in production so it could be used with Quantum Spark jobs.
+
+AWS RDS creation using Cloud Formation.
+
+Deployed and tested RDS database in AWS.
+
+Created multiple data visualization with reports and dashboards in Kibana
+
+Developed a dashboard for errors and linked Kibana dashboard to give a drill down effect.
+
+Made a dashboard to display business metrics.
+
+Demoed each dashboard to leadership team.
+
+Conducted Kibana training for the team.
+
+Automated backups of the Grafana dashboards using Selenium and Linux Bash shell to download the .json files from Grafana. 
+
+Deployed visualization files to GitHub.
+
+Created many leadership boards for upper management to keep track of twenty plus APIs and endpoints first with New Relic Insight. Then using Grafana using the New Relic data source.
+
+Developed multiple QA dashboard 
+
+Used JIRA for ticket tracking, change management and Agile/SCRUM methodologies
+
+Have worked on Jenkins and Git tools.
+
+
+
+Technologies Used:  Spark, Quantum, Jira, Jenkins, CICD Pipelines, AWS S3, AWS Lambda, AWS Redshift, AWS RDS, Postgress, AWS Security groups, IM Roles, Cloud Formation, AWS CLI, Docker. ELK, Kibana, Logstash, Elasticsearch, InfluxDB, New Relic, Grafana, Data Dog. File formats Parquet, csv, AVRO, Jira, Git, Linux, Bash shell scripting.
+
+	
+
+
+
+
+
+
+
+
+
+Hadoop Data Engineer
+
+Assima, Inc., Atlanta, GA
+
+April 2015 - 
+
+June 2018
+
+Created custom Hadoop analytics solution integrating data analytics platform to pull data from decentralized Assima systems for various analytical used such from marketing to actual use data.
+
+Worked with stakeholders and sales and marketing management to gather requirements and determine needs.
+
+Evaluated proprietary software and current systems to determine gaps.
+
+Documented findings including current environment and technologies, in addition to anticipated use cases.
+
+Created architecture schematics and implementation plan.  
+
+Led implementation and participated in hands-on data system engineering.
+
+Created Cloudera Hadoop system on AWS consisting of multiple nodes with defined systems by use case.
+
+Used Spark as an ETL tool to remove the duplicates from the input data, apply certain Joins and aggregate the data which intern is provided as an input to the TwitteR Package to calculate the Time series for Anomaly Detection.
+
+Developed a Pipeline that runs once a day which does a copy job.
+
+Developed a JDBC connection to get the data from SQL and feed it to a Spark Job.
+
+Worked closely with HDInsight production team for the optimization of the performance of Spark Jobs on the cluster.
+
+Involved in reverse engineering to obtain the Business Rules from the current Commerce Platform.
+
+Familiarized using SQL Server Management Studio and SQL Server 2014 to develop the business rules.
+
+Implemented the Business Rules in SPARK/SCALA to get the business logic in place to run the Rating Engine.
+
+Used Ambari UI to observe the running of a submitted Spark Job at the node level.
+
+Used Pentaho to showcase the Hive tables in an interactive way of Pie Charts and Graphs.
+
+Used Spark to do Parsing of the data to get the required fields of data.
+
+Created external Hive tables on the Blobs to showcase the data to the Hive MetaStore.
+
+Used both Hive context as well as SQL context of Spark to do the initial testing of the Spark job.
+
+Worked on Putty and Jupyter Note book to run the Spark SQL commands.
+
+
+
+
+
+Hadoop Engineer
+
+IT Neer, Inc., 
+
+Atlanta, GA
+
+January 2013-
+
+April 2015
+
+Implemented a Data Analytics system for collection and analysis of global marketing data to be used by sales.  By utilizing big ata analytics the company was able to reduce wasted time and effort by sales to get better marketing intelligence and create a more efficient sales process.
+
+Architected Hadoop system pulling data from Linux systems and RDBMS database on a regular basis in order to ingest data using Sqoop.
+
+Integrated web scrapers and pulled data from web and social media.
+
+Aggregation, queries and writing data back to OLTP system directly or through Sqoop.
+
+Loading RDBMS of large datasets to big data by using Sqoop.
+
+Used Pig as ETL tool to do transformations, joins and some pre-aggregations before storing the data into HDFS.
+
+Transformed data from legacy tables to HDFS, and HBase tables using Sqoop.
+
+Analyzed the data by performing Hive queries (HiveQL), Impala and running Pig Latin scripts.
+
+Involved in writing Pig Scripts for cleansing the data and implemented Hive tables for the processed data in tabular format.
+
+Parsed data from various sources and store parsed data into HBase and Hive using HBase-Hive Integration.
+
+Used HBase to store majority of data which needed to be divided based on region.
+
+Involved in benchmarking Hadoop and Spark cluster on a TeraSort application in AWS.
+
+Created multi-node Hadoop and Spark clusters in AWS instances to generate terabytes of data and stored it in AWS HDFS.
+
+Used Spark codes to run a sorting application on the data stored on AWS. 
+
+Deployed the application jar files into AWS instances.
+
+Used the image files of an instance to create instances containing Hadoop installed and running.
+
+Developed a task execution framework on EC2 instances using SQS and DynamoDB.
+
+Designed a cost-effective archival platform for storing big data using Hadoop and its related technologies.
+
+
+
+
+
+Data Engineer
+
+Synergy Software
+
+Duluth, GA
+
+August 2012-
+
+December 2012
+
+
+
+Evaluated needs and engineered a data analytics platform for marketing for this software company headquartered in Great Britain.
+
+Worked with cross-functional teams and project management and collaborated with British Architect to help architect and engineer additions and improvement to facilitate a marketing initiative using Hadoop analytics platform.
+
+Used Hibernate ORM framework with Spring framework for data persistence and transaction management.
+
+Used the lightweight container of the Spring Framework to provide architectural flexibility for Inversion of Controller (IOC).
+
+Involved in designing web interfaces using HTML/ JSP as per user requirements. Improved the look and feel of these screens.
+
+Involved in creating Hive tables, loading with data and writing Hive Queries, which will internally run a Map Reduce job. 
+
+Implemented Partitioning, Dynamic Partitions and Buckets in Hive for optimized data retrieval.
+
+Connected various data centers and transferred data between them using Sqoop and various ETL tools.
+
+Extracted the data from RDBMS (Oracle, MySQL) to HDFS using Sqoop. 
+
+Used the Hive JDBC to verify the data stored in the Hadoop cluster.
+
+Worked with the client to reduce churn rate, read and translate data from social media websites.
+
+Generated and published reports regarding various predictive analysis on user comments. Created reports and documented various retrieval times of them using the ETL tools like QlikView and Pentaho.
+
+Performed sentiment analysis using text mining algorithms to find out the sentiment/emotions & opinion of the company/product in the social circle.
+
+Implemented logistic regression in MapReduce to find the customer's claim probability and k-means clustering in Mahout to group customers with similar behavior.
+
+Worked with Phoenix, a SQL layer on top of HBase to provide SQL interface on top of No-SQL database.
+
+Extensively used Impala to read, write, and query Hadoop data in HDFS.
+
+Developed workflow in Oozie to automate the tasks of loading data into HDFS and pre-processing with Pig and Hive.
+
+
+
+
+
+
+
+Data/System Administrator
+
+America’s Value Channel,
+
+Lawrenceville, GA
+
+September 2007-
+
+December 2012
+
+Migrated the client facing database from Postgres to MongoDB leading to a 90% decrease in query response times. 
+
+Optimized the data pipeline by using in-memory datastores for faster object dereferencing which lead to a 60% reduction in job duration. 
+
+log files.
+
+Implemented the workflows using Apache Oozie framework to automate tasks
+
+Involved in Setup and benchmark of Hadoop /HBase clusters for internal use.
+
+Created and maintained Technical documentation for launching Hadoop Clusters and for executing Pig
+
+Scripts.
+
+Wrote SQL queries to perform Data Validation and Data Integrity testing.
+
+Developed UNIX shell scripts to run the batch jobs.
+
+
+
+
+
+
+
+System Administrator
+
+IT Neer Inc.
+
+Atlanta, GA
+
+October 2006-
+
+September 2007
+
+Responsible for maintaining, supporting, and troubleshooting network and peripheral systems.
+
+System Administrator for three Windows 2003 Servers
+
+Network Administrator for company LAN
+
+PC and Printer Support and Repair
+
+Manage hosting and administration of website
+
+Installation configuration and troubleshooting IP DVRs and surveillance cameras
+
+Software installation, configuration and troubleshooting
+
+Administrator of security system including issuing badges
+
+Liaison between staff at all levels of a client organization
+
+Provided end user Production Support
+
+Trained customers on how to use the Knowlagent Applications
+
+Resolved Open Trouble tickets using salesforce.com
+
+Utilized MS SQL to Troubleshoot and resolve customer reporting issues
+
+Managed weekly client meetings
+
+Created documentation for training for Knowlagent customized Salesforce CRM application.
+
+Managed test environment for reproducing customer issues
+
+
+
+
+
+Oracle Support
+
+Accenture Technology Solutions.
+
+Atlanta, GA
+
+December 2003-
+
+October 2006
+
+Created a design document from customer requirement document.
+
+Maintained BellSouth inventory items on Oracle CRM database.
+
+Maintained and developed price lists for BellSouth.
+
+Implemented new promotions and discounts for services and hardware in database.
+
+Implemented design using Oracle Apps “Service for Comms” manually as well with PL/SQL.
+
+Trained, managed and supported 2 offshore recourses.
+
+Developed validation PL/SQL scripts to verify SETUPS.
+
+Developed PL/SQL scripts that inputted most of the data for release.
+
+Developed and implemented component testing scripts.
+
+Key person for SETUPS in production release nights.
+
+Responsible for training resources for Setups team.
+
+Maintained matrix of what setup done on any one of the twelve environments.
+
+Analyzed defects in Test Director with PL/SQL using SQL Plus, Toad and SQL Navigator 4
+
+Identified the root cause of defect.
+
+Created, suggested and produced documents with one or more suggestions on how to fix defect.
+
+
+
+
+
+Misc Project Tasks, Accomplishments and Responsibilities
+
+Made changes to web pages for Bellsouth’s front end online order application.
+
+Wrote detailed design documents from requirements from customer.
+
+Coded the design after approval from design.
+
+Helped maintain code version control using Harvest for multiple environments.
+
+Tested code change and make sure changes made did not affect other parts of application.
+
+Wrote test scripts to verify changes made meet customer requirements.
+
+Defect fixing
+
+Analyze defects assigned to myself in Test Director with PL/SQL using SQL Plus, Toad and SQL
+
+Navigator 4 and other methods to identify the root cause of defect.
+
+Produced a document with one or more suggestions on how to fix defect.
+
+Code the JSP, J2EE, HTML or Java Script solution approved by team lead.
+
+Setup and implemented JSERV and apache web server.
+
+Helped assemble tested application by running test scripts written by developers on team.
+
+Recorded defect found in Test Director.
+
+Oracle CRM fallout handling for Bellsouth support.
+
+Shared 24/7 on call every 5 week
+
+Analyzed Peoplesoft REM tickets to help determine fall out issue.
+
+Looked up customers in Oracle CRM using SQL Plus
+
+Found orders in Oracle Workflow to see where it got stuck.
+
+Pushed the order to completion in workflow.
+
+Ran shell scripts in UNIX environment to manually get customer provisions and billed correctly for
+
+the DSL services ordered.
+
+Wrote document on how to recover customer lost IP
+
+Updated Peoplesoft REM ticket and e-mailed Bellsouth CSR that issues were resolved.
+
+Analyzed identified, and fixed ADSL accounts issues so customers were billed and surfed correct
+
+ADSL speed
+
+Installed Peoplesoft, Oracle, and many other software application tools for users
+
+Delegated work to others on team to optimize efficiency
+
+
+
+EDUCATION
+
+
+
+BACHELOR OF SCIENCE IN COMPUTER INFORMATION SYSTEMS
+
+DeVry University, Atlanta, GA
+
+
+
+CERTIFICATIONS
+
+Certificate in Software Development Life Cycle in Big data and Business Intelligence (SDLC-BD & BI)
+
+
+
+CERTIFICATIONS PENDING
+
+CCA (Cloudera Certified Associate) Spark and Hadoop Developer Exam (CCA175)
+
+
+
+AD HOC TRAINING
+
+CCNA / Server 2008 Classes – Lanier Technical College, Oakwood, GA
+
+
+
+
+
+
+
+12
+
+Dirk Sorkin | Phone: (703) 910-3326  Email: dirksorkin0@gmail.com

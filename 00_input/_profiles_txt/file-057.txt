@@ -1,0 +1,541 @@
+Shiva Teja
+
+Hadoop/Big Data Engineer
+
+
+
+
+
+
+
+Shiva Reddy 
+
+Hadoop/Big Data Engineer
+
+
+
+
+
+
+
+6 Years Hadoop - Big Data Engineering
+
+6 Years Hadoop - Big Data Engineering
+
+Professional Summary
+
+Proven track record of increasing responsibilities, turning around low performing teams & enhancing operational processes. Strong Analytical & problem-solving skills
+
+	Extremely large-scale Big Data, databases and data warehouses such as Amazon Redshift, Apache Cassandra, Oracle, Mondo DB, NoSQL, and more.
+
+	Large scale distributed systems, knowledge of all aspects of database technology from hardware to tuning to modeling.
+
+	Integrated Kafka with Spark Streaming for real time data processing.
+
+	Used Spark to fine-tune query responsiveness for better user experience.
+
+	Experienced in Spark Data Frames. Spark SQL,and Spark Streaming APIs.System Architecture, and Infrastructure Planning
+
+	Implemented Hadoop based data warehouses, integrated Hadoop with Enterprise Data Warehouse systems
+
+	Built real-time Big Data solutions using HBase handling billions of records
+
+	Troubleshooting Spark applications to make them more error tolerant.
+
+	Built scalable, cost-effective solutions using Cloud technologies using data lake, data warehouse and database; experience with Cassandra, Redshift, MongoDB SQL and more.
+
+	Implemented Big Data analytical solutions that 'close the loop' and provide actionable intelligence
+
+	Developed free text search solution with Hadoop and Apache Solr. Analyzing emails for compliance and eDiscovery.
+
+	Expert knowledge in Hadoop/HDFS, MapReduce, HBase, Pig, Sqoop, Cloud: Amazon Elastic Map Reduce (EMR), Amazon EC2, Rackspace, Google Cloud.
+
+	Distributed systems, large-scale non-relational data stores, RDBMS, NoSQL map-reduce systems, data modeling, database performance, and multi-terabyte data warehouses.
+
+	Hadoop framework, Hadoop Distributed file system and Parallel processing implementation.
+
+	Experience in Hadoop Framework and its ecosystem including but not limited to HDFS Architecture, MapReduce Programming, Hive, Pig, Sqoop, Hbase, Oozie etc.
+
+	Large scale Hadoop environments build and support including design, configuration, installation, performance tuning and monitoring.
+
+
+
+Professional Summary
+
+Proven track record of increasing responsibilities, turning around low performing teams & enhancing operational processes. Strong Analytical & problem-solving skills
+
+	Extremely large-scale Big Data, databases and data warehouses such as Amazon Redshift, Apache Cassandra, Oracle, Mondo DB, NoSQL, and more.
+
+	Large scale distributed systems, knowledge of all aspects of database technology from hardware to tuning to modeling.
+
+	Integrated Kafka with Spark Streaming for real time data processing.
+
+	Used Spark to fine-tune query responsiveness for better user experience.
+
+	Experienced in Spark Data Frames. Spark SQL,and Spark Streaming APIs.System Architecture, and Infrastructure Planning
+
+	Implemented Hadoop based data warehouses, integrated Hadoop with Enterprise Data Warehouse systems
+
+	Built real-time Big Data solutions using HBase handling billions of records
+
+	Troubleshooting Spark applications to make them more error tolerant.
+
+	Built scalable, cost-effective solutions using Cloud technologies using data lake, data warehouse and database; experience with Cassandra, Redshift, MongoDB SQL and more.
+
+	Implemented Big Data analytical solutions that 'close the loop' and provide actionable intelligence
+
+	Developed free text search solution with Hadoop and Apache Solr. Analyzing emails for compliance and eDiscovery.
+
+	Expert knowledge in Hadoop/HDFS, MapReduce, HBase, Pig, Sqoop, Cloud: Amazon Elastic Map Reduce (EMR), Amazon EC2, Rackspace, Google Cloud.
+
+	Distributed systems, large-scale non-relational data stores, RDBMS, NoSQL map-reduce systems, data modeling, database performance, and multi-terabyte data warehouses.
+
+	Hadoop framework, Hadoop Distributed file system and Parallel processing implementation.
+
+	Experience in Hadoop Framework and its ecosystem including but not limited to HDFS Architecture, MapReduce Programming, Hive, Pig, Sqoop, Hbase, Oozie etc.
+
+	Large scale Hadoop environments build and support including design, configuration, installation, performance tuning and monitoring.
+
+
+
+
+
+Contact
+
+ 470-728-5232
+
+  reddyshiva0007@gmail.com
+
+
+
+Expertise
+
+Hadoop
+
+Cloud Data Systems
+
+Transformation
+
+Engineering
+
+Programming & Scripting
+
+
+
+
+
+Contact
+
+ 470-728-5232
+
+  reddyshiva0007@gmail.com
+
+
+
+Expertise
+
+Hadoop
+
+Cloud Data Systems
+
+Transformation
+
+Engineering
+
+Programming & Scripting
+
+
+
+
+
+
+
+Education
+
+Master’s in Applied Computer Science
+
+Frostburg, Maryland
+
+Bachelor’s in Computer Science & Engineering
+
+SRM University, India
+
+
+
+Skilled in Leadership, Team Lead, Mentoring, Time Management, Budget and Resource Allocation
+
+
+
+Focused on Results and Team Centric Performance
+
+
+
+Education
+
+Master’s in Applied Computer Science
+
+Frostburg, Maryland
+
+Bachelor’s in Computer Science & Engineering
+
+SRM University, India
+
+
+
+Skilled in Leadership, Team Lead, Mentoring, Time Management, Budget and Resource Allocation
+
+
+
+Focused on Results and Team Centric Performance
+
+
+
+Professional Technical Skills
+
+DATABASE
+
+Cassandra, Datastax, Hbase, Phoenix, Redshift, DynamoDB, MongoDB, MS Access, SQL, MySQL, Oracle, PL/SQL, Postgres SQL, RDBMS
+
+
+
+DATABASE SKILLS
+
+Database partitioning, database optimization, building communication channels between structured and unstructured databases.
+
+
+
+DATA STORES (repositories)
+
+Data Lake, Data Warehouse, SQL Database, RDBMS, NoSQL Database, Amazon Redshift, Apache Cassandra, MongoDB, SQL, MySQL, Oracle, and more
+
+
+
+PROGRAMMING AND SCRIPTING
+
+Spark, Python, Scala, Hive, Pig, Kafka, SQL
+
+
+
+SEARCH TOOLS
+
+Apache Lucene, Elasticsearch, Elastic Cloud, Kibana, Apache SOLR
+
+
+
+DATA PIPELINES/ETL
+
+Flume, Apache Storm, Apache Spark, Nifi, Apache Kafka, Talend, ELK
+
+
+
+DATA CLEANSING
+
+Cloudera CDH 4/5, Hortonworks HDP 2.3/2.4, Amazon Web Services (AWS)
+
+
+
+BATCH & STREAM PROCESSING
+
+Apache Hadoop, Spark, Storm, Tez, Flink
+
+
+
+Professional Technical Skills
+
+DATABASE
+
+Cassandra, Datastax, Hbase, Phoenix, Redshift, DynamoDB, MongoDB, MS Access, SQL, MySQL, Oracle, PL/SQL, Postgres SQL, RDBMS
+
+
+
+DATABASE SKILLS
+
+Database partitioning, database optimization, building communication channels between structured and unstructured databases.
+
+
+
+DATA STORES (repositories)
+
+Data Lake, Data Warehouse, SQL Database, RDBMS, NoSQL Database, Amazon Redshift, Apache Cassandra, MongoDB, SQL, MySQL, Oracle, and more
+
+
+
+PROGRAMMING AND SCRIPTING
+
+Spark, Python, Scala, Hive, Pig, Kafka, SQL
+
+
+
+SEARCH TOOLS
+
+Apache Lucene, Elasticsearch, Elastic Cloud, Kibana, Apache SOLR
+
+
+
+DATA PIPELINES/ETL
+
+Flume, Apache Storm, Apache Spark, Nifi, Apache Kafka, Talend, ELK
+
+
+
+DATA CLEANSING
+
+Cloudera CDH 4/5, Hortonworks HDP 2.3/2.4, Amazon Web Services (AWS)
+
+
+
+BATCH & STREAM PROCESSING
+
+Apache Hadoop, Spark, Storm, Tez, Flink
+
+
+
+
+
+Professional Experience
+
+
+
+AT&T
+
+Atlanta, GA
+
+June 2016 – Present
+
+
+
+Hadoop Big Data Engineer
+
+Provide proof-of-concepts to reduce engineering churn.
+
+Give extensive presentations about the Hadoop ecosystem, best practices, data architecture in Hadoop. 
+
+Implemented Spark using Scala, and utilized Data Frames and Spark SQL API for faster processing of data.
+
+Provide mentorship and guidance to other architects to help them become independent.
+
+Implemented partitioning, dynamic partitions, and buckets in Hive. Involved in converting HiveQL/SQL queries into Spark transformations using Spark RDDs, Python and Scala.
+
+Provide review and feedback for existing physical architecture, data architecture and individual code. Moved transformed data to Spark cluster where the data is set to go live on the application using Kafka.
+
+Debug and solve issues with Hadoop as on-the-ground subject matter expert. This could include everything from patching components to post-mortem analysis of errors.
+
+Experience in Importing and exporting data into HDFS and Hive using Sqoop.
+
+Provided proof of concepts converting Avro data into parquet format to improve query processing by using Hive.
+
+Migrated MapReduce jobs to Spark, using Spark SQL and Data Frames API to load structured data into Spark clusters.
+
+Handling schema changes in data stream using Kafka.
+
+Integrated Kafka with Spark Streaming for real time data processing.
+
+Experienced in managing and reviewing Hadoop log files.
+
+Participated in development/implementation of Cloudera Hadoop environment.
+
+Load and transform large sets of structured, semi structured and unstructured data.
+
+Experience in working with various kinds of data sources such as MongoDB and Oracle.
+
+Successfully loaded files to Hive and HDFS from Mongo DB, and created a Data Lake with Hadoop HDFS and Amazon Redshift.
+
+Installed Oozie workflow engine to run multiple map-reduce programs which run independently with time and data.
+
+Performed Data scrubbing and processing with Oozie and Spark.
+
+Responsible for managing data coming from different sources.
+
+Experience in working with Flume to load the log data from multiple sources directly into HDFS.
+
+Involved in loading data from UNIX file system to HDFS.
+
+Installed and configured Hive and also written Hive UDFs.
+
+
+
+
+
+
+
+UPS
+
+Atlanta, GA
+
+January 2015 – June 2016
+
+
+
+Hadoop Data Engineer
+
+Involved in creating Hive tables, loading with data and writing hive queries, which will run internally in map, reduce way.
+
+Worked in installing cluster, commissioning & decommissioning of data node, name node recovery, capacity planning, and cluster configuration.
+
+Implemented best income logic using Pig scripts.
+
+Load and transform large sets of structured, semi structured and unstructured data working with data on Amazon Redshift, Apache Cassandra, and HDFS in Hadoop Data Lake.
+
+Exported the analyzed data to the relational databases using Sqoop for ingestion and Tableau for data visualization to generate reports for the BI team.
+
+Supported in setting up QA environment and updating configurations for implementing scripts with Pig and Sqoop.
+
+Worked with Hive on Tez, and various configuration options for improving query performance.
+
+Worked on analyzing Hadoop cluster and different big data analytic tools including Pig, Hbase Amazon Redshift, Apache Cassandra, SQL, and Sqoop.
+
+Create columnar format in Hive like Parquet, ORC for storing and for use with file compression tools such as Gzip and Snappy.
+
+Responsible for building scalable distributed data solutions using Hadoop.
+
+Involved in loading data from LINUX file system to HDFS.
+
+Devised and lead the implementation of the next generation architecture for more efficient data ingestion and processing.
+
+Proficiency with mentoring and on-boarding new engineers who are not proficient in Hadoop and getting them up to speed quickly.
+
+Experience with being a technical lead of a team of engineers.
+
+Proficiency with modern natural language processing and general machine learning techniques and approaches.
+
+Extensive experience with Hadoop and HBase and Redshift, including multiple public presentations about these technologies.
+
+Experience with hands on data analysis and performing under pressure.
+
+
+
+
+
+Intuit, Inc.
+
+Menlo Park, CA
+
+September 2013 – December 2014
+
+
+
+Hadoop Big Data Engineer
+
+Worked on tuning the performance Pig queries.
+
+Worked with application teams to install operating system, Hadoop updates, patches, version upgrades as required. Worked with Flume to load the log data from multiple sources directly into HDFS.
+
+Performance tuning and troubleshooting of MapReduce by reviewing and analyzing log files.
+
+Responsible to manage data coming from different sources.
+
+Involved in loading data from UNIX file system to HDFS.
+
+Load and transform large sets of structured, semi structured and unstructured data
+
+Cluster coordination services through Zookeeper.
+
+Experience in managing and reviewing Hadoop log files.
+
+Job management using Fair scheduler. Involved in scheduling Oozie workflow engine to run multiple Hive, Sqoop and Pig jobs.
+
+Responsible for cluster maintenance, adding and removing cluster nodes, cluster monitoring and Troubleshooting, manage and review data backups, manage and review Hadoop log files.
+
+Installed Oozie workflow engine to run multiple Hive and pig jobs.
+
+Analyzed large amounts of data sets to determine optimal way to aggregate and report on it. 
+
+Developed Sqoop jobs to populate Hive external tables using incremental loads
+
+Supported in setting up QA environment and updating configurations for implementing scripts with Pig and Sqoop.
+
+Crawled some websites using Python and collected information about users, questions asked and the answers posted.
+
+Hands- on experience in developing web applications using Python on Linux and UNIX platform.
+
+Experience in Automation Testing, Software Development Life Cycle (SDLC) using the Waterfall Model and good understanding of Agile Methodology.
+
+
+
+
+
+
+
+Merck, Inc.
+
+New York, NY
+
+August 2012 – September 2013
+
+
+
+Big Data Developer
+
+Exported data from DB2 to HDFS using Sqoop.
+
+Developed Map Reduce jobs using API.
+
+Installed and configured Pig and also wrote Pig Latin scripts.
+
+Wrote Map Reduce jobs using Pig Latin.
+
+Developed workflow using Oozie for running MapReduce jobs and Hive Queries.
+
+Worked on Cluster coordination services through Zookeeper.
+
+Worked on loading log data directly into HDFS using Flume.
+
+Involved in loading data from LINUX file system to HDFS.
+
+Wrote multiple MapReduce programs in Java for data extraction, transformation, and aggregation from multiple file formats.
+
+Responsible for managing data from multiple sources.
+
+Experienced in running Hadoop streaming jobs to process terabytes of xml format data.
+
+Responsible to manage data coming from different sources.
+
+Assisted in exporting analyzed data to relational databases using Sqoop.
+
+Implemented JMS for asynchronous auditing purposes.
+
+Involved in developing Message Driven and Session beans for claimant information integration with MQ based JMS queues.
+
+Created and maintained Technical documentation for launching Cloudera Hadoop Clusters and for executing
+
+Hive queries and Pig Scripts to make UDFs.
+
+Worked on developing custom MapReduce programs and User Defined Functions (UDFs) in Hive to transform large volumes of data with respect to business requirements.
+
+Worked on installing cluster, commissioning & decommissioning of data node, name node recovery, capacity
+
+planning, and slots configuration.
+
+Created Hbase tables to store variable data formats of PII data coming from different portfolios.
+
+
+
+
+
+
+
+Epic Systems
+
+Verona, WI
+
+May 2012 – August 2012
+
+
+
+Database Developer
+
+Technical support for Care Everywhere, the interoperability product to exchange electronic medical records between organizations.
+
+Collaborated with customers on a frequent basis to define and accomplish long-term objectives for organization’s success
+
+Assisted with setup and ongoing support issues for product’s end-user facing side, back-end configuration, and Windows Server-side.
+
+Troubleshot issues regarding Windows Server and networking, working alongside customer and outside healthcare organizations.
+
+Designed and developed code to enhance and support the product.
+
+Worked on internal project to prevent downtime across the network.
+
+
+
+6 | Page

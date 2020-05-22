@@ -1,0 +1,465 @@
+
+
+Hadoop Big Data Engineer
+
+Master Data Engineer and Developer: Expert in cloud-based data services,
+Hadoop, data lakes, data warehousing, and database. Proficient in
+architecting data analytics systems and data processing pipelines to
+optimize data analytics processes using Spark, Hive, Storm, Pig, Sqoop,
+AWS, Azure, Cloudera, Hortonworks.
+
+
+
+
+Summary of Experience
+
+ • 5 years of experience in the field of data analytics, data processing and
+   database technologies.
+ • 5 years of experience in IT and with database, data storage, and data
+   platforms and technologies.
+ • Specializing in big data platform design and implementation and
+   development of custom data pipelines for analytics use cases
+ • Hadoop, Cloudera, Hortonworks, Cloud Data Analytic Platforms, AWS, Azure
+
+
+
+
+ • Expertise with the tools in Hadoop Ecosystem including HDFS,  Pig, Hive,
+   Sqoop, Storm, Spark, Kafka, Yarn, Oozie, Zookeeper etc.
+ • Expertise in Python and Scala, user-defined functions (UDF) for Hive and
+   Pig using Python.
+ • ETL, data extraction, transformation and load using Hive, Pig and HBase.
+ • Spark Architecture including Spark Core, Spark SQL, Spark Streaming,
+   Spark
+ • MLlib, Spark GraphX.
+ • Hands-on use of Spark and Scala API's to compare the performance of Spark
+   with Hive and SQL, and Spark SQL to manipulate Data Frames in Scala.
+ • Expert in writing complex SQL queries with databases like DB2, MySQL, SQL
+   Server and MS SQL Server.
+ • Experience in using Kafka as a messaging system to implement real-time
+   Streaming solutions using Spark Streaming.
+ • Effective in HDFS, YARN, Pig, Hive, Impala, Sqoop, HBase, Cloudera.
+ • Proficient in extracting and generating analysis using Business
+   Intelligence Tool, Tableau for better analysis of data.
+ • Experience in importing and exporting data using Sqoop and SFTP for
+   Hadoop to/from RDBMS.
+ • Excellent understanding of Hadoop architecture and its components such as
+   HDFS, Job Tracker, Task Tracker, Name Node, and Data Node.
+ • Extensive experience with Databases such as MySQL, Oracle 11G.
+ • Experience in implementing User Defined Functions for Pig and Hive.
+ • Very Good knowledge and Hands-on experience in Cassandra, Flume and YARN.
+
+
+ • Expertise in preparing the test cases, documenting and performing unit
+   testing and Integration testing.
+ • Extensive Knowledge in Development, analysis and design of ETL
+   methodologies in all the phases of Data Warehousing life cycle.
+
+
+
+
+
+[pic]
+[pic]
+Technical Skills
+
+Scripting
+
+Hive QL, SQL, Spark, Python, Scala, Pig Latin, C, C++, SQL
+
+
+
+Hadoop Big Data Components
+
+Apache Spark, Hive, Kafka, Storm, Pig, Sqoop
+
+
+
+Web Technologies & APIs
+
+XML, Blueprint XML, Ajax, REST API, Spark API, JSO
+
+
+
+Database
+
+
+SQL, MySQL, RDBMS, NoSQl, Apache Cassandra, Apache Hbase, MongoDB, DB2,
+DynamoDB
+
+
+
+
+
+Data Storage and Files
+
+HDFS, Data Lake, Data Warehouse, Redshift, Parquet, Avro, JSON, Snappy,
+Gzip
+
+
+
+
+Big Data Platforms
+
+Hadoop, Cloudera Hadoop, Cloudera Impala, Hortonworks
+
+
+
+
+Cloud Platforms and Tools
+
+AWS, S3, EC2, EMR, Lambda services, Microsoft Azure, Adobe Cloud, Amazon
+Redshift, Rackspace Cloud, Intel Nervana Cloud, Open Stack, Google Computer
+Cloud, IBM Bluemix Cloud, CloudFoundry, MapR cloud, Elastic Cloud, Anaconda
+Cloud
+
+
+
+
+Data Reporting and Visualization
+
+Tableau, PowerBI, Kibana, Pentaho, QlikView
+
+
+
+
+Data Tools
+
+Apache, Solr, Lucene, Databricks, Drill, Presto
+
+
+
+
+Hadoop Ecosystem Components
+
+
+Apache Ant, Apache Cassandra, Apache Flume, Apache Hadoop, Apache Hadoop
+YARN, Apache HBase, Apache Hcatalog, Apache Hive, Apache Kafka, Apache
+MAVEN, Apache Oozie, Apache Pig, Apache Spark, Spark Streaming, Spark
+MLlib, GraphX, SciPy, Pandas, RDDs, DataFrames, Datasets, Mesos, Apache
+Tez, Apache ZooKeeper, Cloudera Impala, HDFS, Hortonworks, Apache Airflow
+and Camel, Apache Apache Hue, Sqoop, Kibana, Tableau, AWS, Cloud Foundry,
+GitHub, BitBucket
+
+[pic]
+
+Experience
+
+May 2016    Hadoop Data Architect/Engineer
+Present     Recording Industry Association of America (RIAA)
+      Washington, D.C.
+      |
+Big data is being used in the music industry to analyze royalty payouts
+from streaming services.  Streaming royalties are the future of artists'
+revenue.  The analysis looks at how to get music into the ears of
+consumers, and how to create sustainable revenue for artists.  Predictive
+analysis of revenue models and analytics of consumer purchasing habits
+reveals declining market shares as subscription models replace classic pay
+models like CDs and iTunes.
+
+    • Prepared ETL design document which consists of the database structure,
+      change data capture, Error handling, restart and refresh strategies.
+    • Created mapping documents to outline data flow from sources to targets
+    • Worked with different feeds data like JSON, CSV, XML, DAT and
+      implemented Data Lake concept.
+    • Involved in Dimensional modeling (Star Schema) of the Data warehouse
+      and used Erwin to design the business process, dimensions, and
+      measured facts.
+    • Developed Informatica design mappings using various transformations.
+    • Maintained end to end ownership for analyzed data, developed
+      framework's, Implementation building and communication of a range of
+      customer analytics projects.
+    • Good exposure to IRI end-end analytics service engine, new big data
+      platform (Hadoop loader framework, Big data Spark framework)
+    • Most of the infrastructure is on AWS (AWS EMR Distribution for Hadoop,
+      AWS S3 for raw file storage, 3. AWS EC2 for Kafka)
+    • Used AWS Lambda to perform data validation, filtering, sorting, or
+      other transformations for every data
+    • change in a DynamoDB table and load the transformed data to another
+      data store
+    • Created ETL functions between Oracle and Amazon Redshift
+    • Used Kafka producer to ingest the raw data into Kafka topics run the
+      Spark Streaming app to process clickstream events.
+    • Performed data analysis and predictive data modeling.
+    • • Explore clickstream events data with SparkSQL.
+    • • Optimized the configuration of Amazon Redshift clusters, data
+      distribution, and data processing
+    • • Architecture and Hands-on production implementation of the big data
+      MapR Hadoop solution for Digital Media
+    • Marketing using Telecom Data, Shipment Data, Point of Sale (POS),
+      exposure and advertising data related to Consumer Product Goods.
+    • Spark SQL is used as a part of Apache Spark big data framework for
+      structured, Shipment, POS, Consumer, Household, Individual digital
+      impressions, Household TV impressions data processing.
+    • Created DataFrames from different data sources like Existing RDDs,
+      Structured data files, JSON Datasets, Hive tables, External databases
+    • Load terabytes of different level raw data into Spark RDD for data
+      Computation to generate the Output response.
+    • Imported the data from HDFS into Spark RDD.
+    • Used Hive Context which provides a superset of the functionality
+      provided by SQLContext and Preferred to write queries using the HiveQL
+      parser to read data from Hive tables (fact, syndicate).
+    • Modeled Hive partitions extensively for data separation and faster
+      data processing and followed Hive best practices for tuning.
+    • Caching of RDDs for better performance and performing actions on each
+      RDD.
+    • Created Hive Fact tables on top of raw data from different retailers
+      which indeed partitioned by IRI Time dimension key, Retailer name,
+      Data supplier name which further processed pulled by analytics service
+      engine.
+    • Successfully loading files to Hive and HDFS from Oracle, SQL Server
+      using SQOOP.
+
+   Environment: Hadoop HDFS, Hive, Python, Scala, Kafka, Spark streaming,
+   Spark SQL, MongoDB ETL, Oracle, Informatica 9.6, SQL, Sqoop, Zookeeper,
+   AWS EMR, AWS S3, AWS EC2
+
+
+
+Sept 2015   Hadoop Data Engineer
+Sept 2016   WMS – Jersey City, NJ
+      |
+This Global Business Process consulting company provides analytics for a
+variety of industries.  This project involved the custom development of
+data processing and analysis for the corporate travel industry.  I
+architected and implemented a cloud platform for data storage and analytics
+using Amazon cloud services such as Redshift, and Hadoop ecosystem tools.
+
+    • Ran jobs on YARN and Hadoop clusters to produce daily and monthly
+      reports.
+    • Used Pig and Hive, and imported data using Sqoop to load data from
+      MySQL to HDFS on regular basis.
+    • Worked with Deep knowledge in incremental imports, partitioning and
+      bucketing concepts in Hive needed for optimization.
+    • Worked on developing User Defined Functions (UDFs) in Hive to
+      transform the large volumes of data with respect to business
+      requirement. Involved in creating UDFs in Hive like - Simple UDF,
+      UDTF, UDAF.
+    • ETL (extract, transform, load) large sets of Structured, Semi-
+      Structured and Unstructured data and analyzed them by running Hive
+      queries and Pig scripts.
+    • Analyzed data by performing Hive queries (HiveQL), Impala and running
+      Pig Latin scripts to study customer behavior.
+    • Involved in writing Pig Scripts for Cleansing the data and implemented
+      Hive tables for the processed data in tabular format.
+    • Wrote code to process and parse data from various sources and stored
+      parsed data into HBase and Hive using HBase-Hive Integration.
+    • Used HBase to store a majority of data which needs to be divided based
+      on region.
+    • Benchmarked Hadoop and Spark cluster on a TeraSort application in AWS.
+
+
+    • Created multi-node Hadoop and Spark clusters in AWS instances to
+      generate terabytes of data and store it in AWS HDFS.
+    • Wrote Spark to run a sorting application on the data stored AWS.
+    • Deployed application jar files into AWS instances.
+    • Created instances which contain Hadoop installed and running.
+    • Implemented images conversion and hosting on a static website using S3
+      to have a back-up of images.
+Developed a task execution framework on EC2 instances using SQL and
+DynamoDB.
+Environment: Hadoop, HDFS, Hive, MapReduce, Impala, Sqoop, Pig, HBase, Git,
+Sqoop, Oracle, Oozie, AWS- EC2, S3, SQS, DynamoDB, YARN
+
+Jan 2014    Hadoop Data Engineer
+Sept 2015   Gulfstream – Savannah, GA
+      |
+Architected data storage and processing capabilities in the cloud for
+reduced costs and ease of maintenance and scalability.  Designed and
+implemented ETL to RedShift on Amazon, as well as employing other data
+lakes and tools.
+
+    • Optimized Amazon Redshift clusters, Apache Hadoop clusters, data
+      distribution, and data processing.
+
+    • Devised ETL functions between Oracle and Amazon Redshift.
+
+    • Used Rest API to Access HBase data to perform analytics.
+
+    • Perform analytics on Time Series Data exists in Cassandra using
+      Cassandra API.
+
+    • Designed and implemented Incremental Imports into Hive tables.
+
+    • Involved in creating Hive tables, loading with data and writing Hive
+      queries that will run internally.
+
+    • Involved in collecting, aggregating and moving data from servers to
+      HDFS using Flume.
+
+    • Imported and Exported Data from Different Relational Data Sources like
+      DB2, SQL Server, Teradata to HDFS using Sqoop.
+
+    • Experienced in collecting the real-time data from Kafka using Spark
+      Streaming and perform transformations and aggregation on the fly to
+      build the common learner data model and persists the data into HBase.
+
+    • Worked on POC for IoT devices data, with Spark.
+
+    • Used SCALA to store streaming data to HDFS and to implement Spark for
+      faster processing of data.
+
+    • Worked on creating the RDD's, DF's for the required input data and
+      performed the data transformations using Spark Python.
+
+    • Involved in developing Spark SQL queries, Data frames, import data
+      from Data sources, perform
+
+    • transformations, perform read/write operations, save the results to
+      output directory into HDFS.
+
+    • Written Hive jobs to parse the logs and structure them in tabular
+      format to facilitate effective querying on the log data.
+
+Environment: Hadoop Cluster, HDFS, Hive, Pig, Sqoop, Linux, HBase, Shell
+Scripting, Eclipse, Oozie, Navigator.
+
+
+Sep 2012    Data Analytics Developer
+Dec 2013    JPMorgan Private Bank – Austin, TX
+      |
+Involved in building Data Warehousing/Storage solutions along with data
+processing pipelines to enable pulling data from various sources and file
+formats into Hadoop HDFS in preparation to cleansing and analysis.
+
+    • Designed an archival platform, which provided a cost-effective
+      platform for storing big data using Hadoop and its related
+      technologies.
+
+    • Archived the data to Hadoop cluster and performed search, query and
+      retrieve data from the cluster.
+
+    • Analyzed the data originating from various Xerox devices and stored it
+      in Hadoop warehouse. Used Pig as ETL tool to do transformations, joins
+      and some pre-aggregations before storing the data into HDFS.
+
+    • Extensively worked on performance optimization of hive queries by
+      using map-side join, parallel execution, and cost-based optimization.
+
+    • Involved in creating Hive tables, loading with data and writing Hive
+      Queries, Implemented Partitioning, Dynamic Partitions and Buckets in
+      Hive for optimized data retrieval.
+
+    • Connected various data centers and transferred data between them using
+      Sqoop and various ETL tools. Extracted the data from RDBMS (Oracle,
+      MySQL) to HDFS using Sqoop.Used the Hive JDBC to verify the data
+      stored in the Hadoop cluster.
+
+    • Worked with the client to reduce Churn Rate, read and translated the
+      data from social media websites.
+
+    • Generated and published reports regarding various predictive analysis
+      on user comments. Created reports and documented various retrieval
+      times of them using the ETL tools like QlikView and Pentaho
+
+    • Performed Sentiment Analysis using text mining algorithms to find out
+      the sentiment/emotions & opinion of the company/product in the social
+      circle.
+
+    • Worked with Phoenix, a SQL layer on top of HBase to provide SQL
+      interface on top of No-SQL database.
+
+    • Extensively worked on Impala to compare processing time of Impala with
+      Apache Hive for batch applications to implement the former in project.
+      Extensively Used Impala to read, write and query the Hadoop data in
+      HDFS.
+
+    • Developed workflow in Oozie to automate the tasks of loading data into
+      HDFS and pre-processing with Pig and Hive.
+
+    • Involved in designing web interfaces using HTML/ JSP as per user
+      requirements. Improved the look and feel of these screens using CSS,
+      BootStrap, JQuery, Javascript, JSTL.
+
+    • Used Spring Framework for developing business objects and integrating
+      all the components in the system. Hands-on integrating spring with
+      HDFS.
+
+    • Done POC on Stratosphere (a Big Data Analytics Platform) to perform
+      Web log analytics.
+
+Environment: JQuery, JavaScript, CSS, Bootstrap, Hadoop, HDFS, Hive,
+Impala, Sqoop, Pig, HBase, Git, Sqoop, Phoenix, Eclipse, Stratosphere, SQL,
+Oracle, Oozie, QlikView, Pentaho
+
+
+
+Sept 2008   Big Data Developer
+Aug 2012    Lockheed Martin – New Orleans, LA
+      |
+Lockheed Martin uses big data analytics for everything from aircraft
+maintenance to aircraft readiness and reliability.  Data analytics can
+streamline diagnostics and maintenance process, and can streamline
+logistics, transport of carriers and fuel.
+
+    • Created tables, views in Teradata, according to the requirements.
+    • Collected stats every week on the tables to improve performance.
+    • Considering both the business requirements and the factors to create
+      NUSI, created appropriate NUSI for smooth (fast and easy) access of
+      data.
+    • Performed bulk data load from multiple data source (ORACLE 8i, legacy
+      systems) to TERADATA RDBMS using BTEQ, Fastload, Multiload, and TPump.
+    • Used BTEQ and SQL Assistant (Query man) front-end tools to issue SQL
+      commands matching the business requirements to Teradata RDBMS.
+    • Modified BTEQ scripts to load data from Teradata Staging area to
+      Teradata data mart
+    • Developed scripts to load high volume data into empty tables using
+      FastLoad utility.
+    • Used FastExport utility to extract large volumes of data at high speed
+      from Teradata RDBMS.
+    • Performance tuning for TERADATA SQL statements using Teradata EXPLAIN
+      command.
+    • Identified and tracked the slowly changing dimensions, heterogeneous
+      Sources and determined the hierarchies in dimensions.
+    • Developed a number of Informatica Mappings, Mapplets, and
+      Transformations to load data from relational and flat file sources
+      into the data mart.
+    • Used various transformations like Source Qualifier, Lookup, Update
+      Strategy, Router, Filter, Sequence
+    • Generator and Joiner on the extracted source data according to the
+      business rules and technical specifications.
+    • Created reusable transformations and Mapplet and used with various
+      mappings.
+    • Done various optimization techniques in Aggregator, Lookup, Joiner
+      transformations.
+    • Developed and Implemented Informatica parameter files to filter the
+      daily data from the source system.
+    • Used Informatica debugging techniques to debug the mappings and used
+      session log files and bad files to
+    • trace errors occurred while loading.
+    • Creating Test cases for Unit Test, System Integration Test and UAT to
+      check the data.
+    • Performed scheduling techniques with ETL jobs using scheduling tools,
+      cron jobs through pmcmd commands,
+    • based on the business requirement.
+    • Created UNIX shell scripts and called them as pre-session and post-
+      session commands.
+
+Environment: Informatica PowerCenter 7.1.3, NCR's Unix Servers 5100, IBM PC
+/Windows 2000, Teradata, RDBMS V2R5, TUF (Teradata Utility Foundation)
+which Includes Teradata SQL Assistant, Teradata Manager 6.0, BTEQ, MLOAD,
+Erwin Designer.
+
+[pic]
+Education
+
+BACHELOR OF SCIENCE IN COMPUTER SCIENCE
+
+University of New Orleans, New Orleans, LA
+
+BACHELOR OF SCIENCE IN INTERDISCIPLINARY STUDIES/BUSINESS HEALTH
+
+University of New Orleans, New Orleans, LA
+
+
+
+[pic][pic]
+
+-----------------------
+                  Sean Roussel   202-640-5960 | seanmichaelroussel@gmail.com
+
+
+
+
+
+

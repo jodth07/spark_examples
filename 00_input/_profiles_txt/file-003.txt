@@ -1,0 +1,507 @@
+Kayode Hammed
+
+Hadoop Big Data Architect & Administrator
+
+AremuKayode01@gmail.com 917-677-5790
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+
+Certified HDP Big Data Administrator and Systems Architect with combined 6 years of IT experience. Strong and demonstrable experience administering, managing and supporting industrial grade Hadoop solutions for a competitive edge.
+
+	
+
+
+
+
+
+5 years of experience in administrating and managing Oracle database, Cloud and Big Data environment for multinational companies in financial, telecom and information technology.
+
+Experience in Big Data security using Kerberos, LDAP, Active Directory, Apache Ranger, Apache KMS, SSL, and Apache Knox Gateway.
+
+Certified expert in Hortonworks Hadoop Platform architecture, engineering and administration.
+
+Expert in leveraging Apache Yarn for workload management and resource management.
+
+Use of Apache Oozie to schedule workflows for streamlined processes with efficiency and automation.
+
+Use of Puppet for node configuration, and cluster management.
+
+Experienced and certified professional in Cloudera Distributed Apache Hadoop (CDAH) and Oracle Big Data Appliance (BDA) in development and production environment.
+
+ Migrated multiple databases environments to Exadata machine using multiple migration approach.
+
+Successfully support 99.99% database availability uptime within different LoBs of financial domain.
+
+Manage and support for multiple large databases sized in multi terabits.
+
+Experience in data migration from RDBMS for streaming or static data into the Hadoop cluster using Hive, Pig, Flume and Sqoop.
+
+Expert in troubleshooting, diagnosing, performance tuning, and solving Oracle database and Hadoop related issues in production and SDLC database environments.
+
+Skilled in performance tuning to provide robust systems for low latency and fast retrieval on cloud (AWS) and on-premise environments.
+
+Cloud professional in Amazon Web Service(AWS) and Microsoft Azure infrastructure solutions.
+
+
+
+
+
+
+
+SKILLS MATRIX
+
+
+
+Hadoop Distributions
+
+HortonWorks HDP 2.6 & HDF 3.0
+
+Cloudera Hadoop (CDH) 4.1.1 – 5.13.0
+
+MapR
+
+
+
+Hadoop Ecosystem
+
+Hadoop (HDFS, YARN, MRv2), Flume, Sqoop, Zookeeper, Pig, Hive, HBase, Oozie, Apache NiFi, Kafka, Storm, Knox, Kerberos, Apache Ranger
+
+
+
+Cloud Data Center Solutions
+
+AWS EC2 & EBS, S3
+
+
+
+Architecture
+
+Requirements Gathering, Documentation, Data Modeling, Data System Design, Pipeline and ETL Architecture, Search Architecture, Dashboard Architecture, Toad Data Modeler, Lambda Functions, Data modelling, Data structures, algorithms, and problem solving
+
+
+
+Operating Systems
+
+RHEL(6 &7)/Centos/Ubuntu
+
+
+
+Security
+
+Kerberos, Knox Gateway, Apache Ranger
+
+
+
+Cluster Monitoring
+
+Ambari v2.5
+
+
+
+Configuration Management
+
+Puppet
+
+
+
+NoSQL Data Store
+
+Apache Hbase, DynamoDB,  Apache Cassandra, Datastax Cassandra, Apache Phoenix, MongoDB 
+
+
+
+RDBMS
+
+Amazon Redshift, Oracle, MySQL
+
+
+
+Programming Languages
+
+SQL, BASH Scripting, Python
+
+
+
+Search
+
+Apache Lucene, Elasticsearch, Elastic Cloud, Kibana, Apache SOLR
+
+
+
+Big Data Tools
+
+Apache Drill, Presto, ELK, Elasticsearch, Logstash, Apache Jelly 
+
+
+
+Visualization
+
+Pantaho, Power BI, Qlikview, Tableau, Informatica
+
+
+
+Pipeline & ETL
+
+Apache Nifi, Apache Camel, Flume, Apache Kafka,Talend, KETL, Pentaho, 
+
+Google DataProc
+
+
+
+
+
+
+
+
+
+EXPERIENCE
+
+
+
+
+
+
+
+Hadoop /AWS Data Architect
+
+Warner Music Group
+
+New York, NY
+
+September 2016 to Present
+
+
+
+Responsibilities
+
+
+
+Architected structured data on Redshift and unstructured on DynamoDB using Amazon AWS services.
+
+Provided Big Data and general distributed system technology, design/development and expertise. This was an AWS cloud implementation with heavy duty Redshift using the technologies below.
+
+Redshift, queues, tuning, scaling, 100tb implementation
+
+AWS Redshift, Data Pipeline, SQL, Loading, Compression/Encoding
+
+AWS administration, Hardware architecture and scaling
+
+VPC, S3, EC2, CloudWatch, RDS, Lambda, EMR
+
+Architected ETL pipelines on AWS cloud using Spark EMR.
+
+Paraccel, Elasticsearch, Cassandra, Aurora
+
+Integrated BI Tools for ad hoc queries, reporting and visualization using tools such as Tableau, and Qlikview.
+
+Key role in migrating production and development Hortonworks Hadoop clusters to a new cloud based cluster solution.
+
+Cluster consolidation saved administrative overhead cost and service contract cost and reduce technical debt.
+
+Integrating on-premises cluster to better work with transient, cloud-based Hadoop clusters and storage.
+
+Transferred ETL workflow to processes from Hive to Redshift
+
+Importing the data from the MySql and Oracle into the HDFS using Sqoop
+
+Experienced on loading and transforming of large sets of structured and unstructured data
+
+Developed PIG Latin scripts to extract the data from the web server output files to load into HDFS
+
+Created Hive Internal and External tables and loaded the data in to tables and query data using HQL
+
+Deployment of applications using AWS EC2
+
+Perform tuning, firewall setup, monitor and troubleshooting cluster-wide as needed.
+
+Integrated Zeppelin notebook with Spark EMR for developer use.
+
+
+
+
+
+
+
+Big Data Architect/Admin
+
+Verizon Wireless
+
+Irving, TX
+
+March 2015 to August 2016
+
+
+
+Responsibilities
+
+Primarily responsible for architecting and administering the HDFS distributed file systems for over 15 petabytes of data.
+
+Installed and maintained the client’s first Elasticsearch (ELK) cluster on AWS hosting about 4TB of indexes used primarily to ingest log data with information dashboards created with Kibana.
+
+Performed performance tuning and troubleshooting by analyzing and reviewing Hadoop log files.
+
+Involved in complete Big Data flow of the application starting from data ingestion upstream to HDFS, processing the data in HDFS and analyzing the data and involved Low level design for MR, Hive, Impala, Shell scripts to process data.
+
+Handling Hive queries using Spark SQL that integrate with Spark environment implemented in Scala.
+
+Used Spark Streaming API with Kafka to build live dashboards; Worked on Transformations & actions in
+
+RDD, Spark Streaming, Pair RDD Operations, Check-pointing, and SBT.
+
+Implemented POC to migrate map reduce jobs into Spark RDD transformation using Scala IDE for Eclipse
+
+ETL Data Cleansing, Integration & Transformation using Pig: Managing data from disparate sources.
+
+Exported analyzed data to the relational databases using Sqoop for visualization & Report generation
+
+Data Warehousing: Designed a data warehouse using Hive, created and managed Hive tables in Hadoop
+
+Workflow Management: Developed workflow in Oozie to automate the tasks of loading the data into HDFS and pre-processing with Pig
+
+
+
+
+
+
+
+
+
+Big Data Architect/Admin
+
+Sun Power Corp.
+
+Austin, TX
+
+March 2014 to March 2015
+
+
+
+Responsibilities
+
+Installed and administered client’s first Hadoop cluster utilizing the Cloudera distribution.
+
+Built and supported several AWS, multi-server environment's using Amazon EC2, EBS and Redshift
+
+for benchmark testing and general functional comparison.
+
+Directly supporting and managing clustered VMware ESXi \/5 with vCenter.
+
+Involved in Cassandra and Teradata for Nosql database.
+
+Involved in designing, installations and maintenance of KAFKA and Talend.
+
+Worked on DB2 to extract data and transfer it to Hadoop.
+
+Loaded data into the cluster from dynamically generated files using FLUME and from RDBMS using Sqoop
+
+Expert in Informatica for data analytics, data integration and management.
+
+Worked on Sequence and ORC files, bucketing, partitioning for Hive performance and storage improvement
+
+Used Oozie scheduler to automate the pipeline workflow and orchestrate the map reduce jobs that Extract the data on a timely manner
+
+Created Design documents, Architectural Documents and Technical documents for POC
+
+Managed and reviewed Hadoop log files to identify issues when job fails
+
+Rolled out new staging tier by repurposing existing hardware, integrating with Puppet and following the development team software and configuration specifications.
+
+
+
+
+
+
+
+
+
+Hadoop Administrator
+
+Chicago Transit Authority
+
+Chicago, IL
+
+March 2012 to March 2014
+
+
+
+Chicago Transit Authority (CTA) is the second largest public transportation system in the nation and covers the city of Chicago and surrounding suburbs. With two modes of transportation – Bus and Train – CTA provides 1.64 Million rides per day on average.
+
+At CTA, we want to continue to offer clean, reliable and timely transit services to our customers and we believe putting to use all our data, not just some, plays critical roles toward our goals. We collect and analyze large amounts of data from sensors and tracking devices on our buses, rail vehicles, rail tracks and other equipment, as well as when our customers interact with our fare machines. Raw data from these sources could be structured, semi-structured or unstructured. Hadoop distributed platform allows us to store, process and analyze huge amount of data from these disparate sources in entirety like never, as oppose to traditional database systems, where we had to choose what data to keep and what to discard. Some of our use cases includes Planning and demand model, Predictive maintenance, Event response and personalized services for our Chicago Card and Chicago Card Plus loyal subscribers.
+
+Responsibilities
+
+Hadoop clusters design, installation, configuration and monitoring, troubleshooting, security, backup, re-sizing, addition/deletion of nodes, performance monitoring, HDFS balancing and fine-tuning for MapReduce applications.
+
+Performed clusters capacity and growth planning; recommended nodes configuration for test, production and DR clusters based on business needs and workloads.
+
+Worked on highly available 120 nodes Production cluster running HDP 2.50
+
+Worked with highly unstructured and structured data of 1.2 PB in raw size.
+
+Strong experience on Hadoop system administration (Hortonworks/Ambari) and Linux system administration (RHEL 7, Centos.)
+
+Strong understanding of the internals and interrelationships of Hadoop components and Hardware/software infrastructure on which they are built.
+
+Strong experience in resource and workload management to configure YARN Capacity and Fair scheduler based on organizational needs.
+
+Good working knowledge of open source configuration management and deployment tools such as Puppet and Python.
+
+Experience in working with Relational databases and design database schemas using SQL.
+
+Develop data migration plan for other data sources into the Hadoop system.
+
+Optimized and Integrated Hive, SQOOP and Flume into existing ETL processes, accelerating the extraction, transformation, and loading of massive structured and unstructured data.
+
+Used Hive to simulate data warehouse for performing client based transit system analytics.
+
+Leveraged pig for transformation and processing of unstructured and semi-structured data.
+
+Configure High Availability for Namenode, Resource manager, HiveServer2 and Metastore.
+
+Monitor production cluster by setting up alerts and notifications using metrics thresholds.
+
+Strong experience in JVM, Hive, MapReduce, Operating Systems performance tuning.
+
+Expert in MapReduce counters tuning for faster and optimal data processing.
+
+Highly skilled in troubleshooting and finding root causes.
+
+Setup Apache Ranger for cluster ACL’s and audits to meet compliance specifications.
+
+Kerberized the cluster for user authentication.
+
+Helped design back-up and disaster recovery methodologies involving Hadoop clusters and related databases.
+
+Work with multiple customer teams and support teams to execute Hadoop engagements.
+
+Utilize new and latest Open Source tools for addressing business challenges.
+
+Performed upgrades, patches and fixes using either rolling or express method.
+
+
+
+
+
+MySQL Database Administrator
+
+Chicago Transit Authority
+
+Chicago, IL
+
+March 2011 to March 2012
+
+
+
+
+
+Responsibilities
+
+Designed and configured MySQL server cluster, and managing each node on the Cluster.
+
+Responsible for MySQL installations, upgrades, performance tuning, etc.
+
+Collected and analyzed business requirements to derive conceptual and logical data models.
+
+Developed database architectural strategies at the modeling, design and implementation stages.
+
+Translated a logical database design or data model into an actual physical database implementation.
+
+Mentored and worked with developers and analysts to review scripts and better querying.
+
+Performed security audit of MySQL internal tables and user access.  Revoked access for unauthorized users.
+
+Setup replication for disaster and point-in-time recovery.  Replication was used to segregate various types of queries and simplify backup procedures.
+
+Defined procedures to simplify future upgrades.  Standardized all MySQL installs on all servers with custom configurations.
+
+Applied performance tuning to improve issues with a large, high-volume, multi-server MySQL installation for job applicant site of clients.
+
+Modified database schema as needed.
+
+Analyzing, profiling data for quality and reconciling data issues using SQL.
+
+Regular database maintenance.
+
+Created and implemented database standards and procedures for management.
+
+Prepare documentations and specifications.
+
+
+
+
+
+
+
+
+
+JR. DATA ANALYST
+
+MACHINE LEARNING
+
+Lautech Group Technology
+
+Skokie, IL
+
+May 2010 to March 2011
+
+
+
+Responsibilities
+
+Worked both independently and in a team-oriented collaborative environment.
+
+Used different mathematical and computational algorithms such as Neural network, k-Means, Association rules, Naïve Bayes to unlock various insights and make future forecasts.
+
+Cleaned and made necessary changes to data as part of data transformation.
+
+Worked with mining tools such as RapidMiner and Orange to unlock trends and patterns and derive insights in complex datasets.
+
+Suggested continuous improvements to data collection, organization and delivery processes.
+
+Documented and provided status, updates and technical information to project manager.
+
+
+
+
+
+
+
+
+
+
+
+
+
+EDUCATION & CERTIFICATIONS
+
+
+
+
+
+                          Chicago State University 
+
+                          Bachelor of Science Degree in Computer Science
+
+
+
+                          Hortonworks, Inc.
+
+                          HDP Certified Administrator Certificate
+
+
+
+9

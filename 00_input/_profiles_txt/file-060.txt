@@ -1,0 +1,275 @@
+Data Engineer
+
+Email:  consultant@gmail.com
+
+Phone: 999-999-9999
+
+Data Engineer
+
+Email:  consultant@gmail.com
+
+Phone: 999-999-9999
+
+Abdulrahman Alqahtani
+
+
+
+Abdulrahman Alqahtani
+
+
+
+
+
+
+
+
+
+Professional Profile
+
+Ability to troubleshoot and tune relevant programming languages like SQL, Java, Python, Scala, PIG, Hive, RDDs, DataFrames & MapReduce. Able to design elegant solutions through the use of problem statements.
+
+Accustomed to working with large complex data sets, real-time/near real-time analytics, and distributed big data platforms.
+
+Excellent Knowledge in understanding Big Data infrastructure, distributed file systems -HDFS, parallel processing - MapReduce framework and complete Hadoop ecosystem - Hive, Hue, Pig, HBase, Zookeeper, Sqoop, Kafka-Storm, Spark, Flume, and Oozie.  In-depth understanding/knowledge of Hadoop Architecture and various components such as HDFS, Job Tracker, Task Tracker, Name Node, Data Node, and MapReduce concepts and experience in working with MapReduce programs using Apache Hadoop for working with Big Data to analyze large datasets efficiently.  In-depth knowledge of real-time ETL/Spark analytics using Spark SQL with visualization  Hands-on experience on YARN (MapReduce 2.0) architecture and components such as Resource Manager, Node Manager, Container and Application Master and execution of a MapReduce job. 
+
+Experience in collecting the log data from different sources (web servers and social media- Tweets) using Flume and storing in HDFS to perform the MapReduce jobs/Hive queries.  Knowledge in installing, configuring, and using Hadoop ecosystem components like Hadoop Map Reduce, HDFS, HBase, Oozie, Hive, Zookeeper, Sqoop, Kafka-Storm, Spark, Pig, Impala, and Flume.  Experience in installation, configuration, supporting and managing - Cloudera's Hadoop platform along with CDH4 & CDH5 clusters, HDP 2.2 with Kafka-Storm and EC2 platform, IBM's Big Insight Hadoop ecosystem. 
+
+Strong knowledge of Pig and Hive's analytical functions, extending Hive and Pig core functionality by writing custom UDFs. 
+
+Experience in developing REST API's for use in single page or native applications and 
+
+Implementing Rails Migrations, Active Record, Action Pack and Action Mailer. 
+
+Experience in importing and exporting data using Sqoop from HDFS to Relational Database Systems/ Non- Relational Database Systems and vice-versa. 
+
+Expertise in developing PIG Latin Scripts and Hive Query Language for data analytics.  Well-versed in and implemented Partitioning, Dynamic-Partitioning and bucketing concepts in Hive to compute data metrics. 
+
+Created classes that simulate real-life objects, and write loops to perform actions on your data. 
+
+Expertise in development of multi-tiered web-based enterprise applications using J2EE technologies like Servlets, JSP, JDBC, Java Beans, Spring Framework, MVC and Hibernate.  Having Experience of applications development on tools Eclipse, STS (spring tool), Android Studio, etc with deployment on server/cloud like IBM's Bluemix using inbuilt services. 
+
+Detailed knowledge and experience of Design, Development and Testing Software solutions using Java and J2EE technologies with developing and maintaining the Web Applications using the Web Server Tomcat 
+
+Experience with front-end technologies like HTML5, CSS3, JavaScript and jQuery for UI to get a complete end to end system 
+
+Strong analytical skills with ability to quickly understand client’s business needs.
+
+
+
+
+
+
+
+
+
+Professional Skills
+
+EXPERIENCE
+
+10 years of experience in the field of data analytics, data processing and database technologies.
+
+5 years of experience with the Hadoop ecosystem and Big Data tools and frameworks.
+
+
+
+PROJECT MANAGEMENT
+
+Agile, Kanban, Scrum, DevOps, Continuous Integration, Test-Driven Development, Unit Testing, Functional Testing, Design Thinking, Lean, Six Sigma
+
+DATABASE
+
+SQL, NoSQL, Apache Cassandra, MongoDB, Hbase, RDBMS, Hive
+
+SOFTWARE
+
+AutoCAD • MATLAB • Revit • LTspice • PSpice • Multisim • Microsoft Office Suites
+
+
+
+BIG DATA PLATFORMS
+
+	Amazon AWS, Microsoft Azure, Elasticsearch, Apache Solr, Lucene, Cloudera Hadoop, Cloudera Impala, Databricks, Hortonworks Hadoop
+
+
+
+PROGRAMMING
+
+Python, Scala, PHP • Python • Bash • LISP • SQL • JavaScript • JQuery • C • C++ • XML • HTML • CSS, Visual Basic, VBA, .Net, Spark, HiveQL, Spark API, REST API
+
+DATA VISUALIZATION
+
+Tableau, Microsoft Power BI
+
+FILES
+
+HDFS, Avro, Parquet, Snappy, Gzip, SQL, Ajax, JSON, GSON, ORC
+
+OPERATIGN SYSTEMS
+
+Linux, MacOS, Microsoft Windows
+
+
+
+HADOOP ECOYSTEM COMPONENTS & TOOLS
+
+Apache Ant, Apache Cassandra, Apache Flume, Apache Hadoop, Apache Hadoop YARN, Apache Hbase, Apache Hcatalog, Apache Hive, Apache Kafka, Apache MAVEN, Apache Oozie, Apache Pig, Apache Spark, Spark Streaming, Spark MLlib, GraphX, SciPy, Pandas, RDDs, DataFrames, Datasets, Mesos, Apache Tez, Apache ZooKeeper, Airflow and Camel, Apache Lucene, Elasticsearch, Apache SOLR, Apache Drill, Presto, Apache Hue, Sqoop, Kibana, 
+
+
+
+
+
+
+
+
+
+Professional Experience
+
+
+
+	DATA ENGINEER		June 2017 - Present
+
+	SIEMENS		Princeton, NJ
+
+	__________________________________________________________________________________________
+
+Together with our global network of experts, we are a strategic partner to Siemens’ operative units and provide important services along the entire value chain – from research and development to production and quality assurance, as well as optimized business processes. Our support provided to the businesses in their research and development activities is ideally balanced with our own future-oriented research.ject Description
+
+
+
+Project Points
+
+
+
+
+
+Note:  Siemens Big Data is in Princeton New Jersey.  The use Cosmos
+
+
+
+
+
+	DATA ENGINEER		Month, year
+
+	COMPANY NAME		City, ST
+
+	__________________________________________________________________________________________
+
+Project Description
+
+
+
+Project Points
+
+
+
+
+
+
+
+
+
+	DATA ENGINEER		Month, year
+
+	COMPANY NAME		City, ST
+
+	__________________________________________________________________________________________
+
+Project Description
+
+
+
+Project Points
+
+
+
+
+
+
+
+
+
+	DATA ENGINEER		Month, year
+
+	COMPANY NAME		City, ST
+
+	__________________________________________________________________________________________
+
+Project Description
+
+
+
+Project Points
+
+
+
+
+
+
+
+
+
+	DATA ENGINEER		Month, year
+
+	COMPANY NAME		City, ST
+
+	__________________________________________________________________________________________
+
+Project Description
+
+
+
+Project Points
+
+
+
+
+
+
+
+	DATA ENGINEER		Month, year
+
+	COMPANY NAME		City, ST
+
+	__________________________________________________________________________________________
+
+Project Description
+
+
+
+Project Points
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Education
+
+	
+
+	
+
+	
+
+		
+
+CONSULTANT NAME   |   PHONE  999-999-9999   |  EMAIL@GMAIL.COM

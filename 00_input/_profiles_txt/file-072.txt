@@ -1,0 +1,390 @@
+Hadoop Consultant  912-421-0128 | georgeatarpeh@gmail.com
+
+George Tarpeh
+
+Big Data Architect
+
+
+
+
+
+Professional Profile
+
+5+ Hadoop Engineering and 7 yrears total Information Technology /Database
+
+
+
+Expert infrastructure engineers skilled in design, documentation and implementation of Enterprise Data Services solutions.
+
+Hands-on experience architecting and implementing Hadoop clusters on Amazon (AWS), using EMR, S2, S3, Redshift, Cassandra, AnangoDB, CosmosDB, SimpleDB, AmazonRDS, DynamoDB, Postgresql., SQL, MS SQL.
+
+Research and present potential solutions for current AWS platform in relation to data integration and visualization and reporting.
+
+Able to work with team and cross-functionally to research and design solutions to speed up or enhance delivery within the current platform.
+
+Expertise is dealing with multi-petabytes of data from mobile ads, social media, IoT in various formats, structure, unstructures and semi-structured.
+
+Use of Amazon Cloud (AWS) using Elastic MapReduce, Elasticsearch, Cloudera Impala.
+
+Able to design and document the technology infrastructure for all pre-production environment and partner with technology Operations on the design of production implementations.
+
+Provide end-to-end data analytics solutions and support using Hadoop systems and tools on cloud services as well a on premise nodes.
+
+Expert in big data ecosystem using Hadoop, Spark, Kafka with column-oriented big data systems on cloud platforms such as Amazon CLoud (AWS), Microsoft Azure and Google Cloud Platform.
+
+Ability to conceptualize innovative data models for complex products, and create design patterns.
+
+Fluent in architecture and engineering of the Cloudera Hadoop ecosystem.
+
+Experience working with Clouderera Distributions, Hortonworks Distributions and Hadoop.
+
+Managed architecture and  integration of real-time systems processing and near real-time processing using Apache Spark, Sprk Streaming and Apache Storm.
+
+Uses Flume and HiveQL scripts to extract, transform, and load the data into database.
+
+Able to perform cluster and system performance tuning.
+
+Works with cluster subscribers to ensure efficient resource usage in the cluster and alleviate multi-tenancy concerns.
+
+Inform and recommend cluster upgrades and improvements to functionality and performance.
+
+Interaction with NOC team to work with Hadoop to provide large-scale solutions.
+
+Experience with large-scale Hadoop deployments (40+ nodes; 3+ clusters).
+
+Experience data processing like collecting, aggregating, moving from various sources using Apache Flume and Kafka. 
+
+Hands on experience in ETL, Data Integration and Migration and Extensively used ETL methodology for supporting Data Extraction, transformations and loading
+
+
+
+Technical Skills
+
+Hadoop File System
+
+
+
+HDFS, MapReduce
+
+Amazon Cloud
+
+
+
+AWS, EMR, EC2, EC3, SQS, S3, DynamoDB, Redshift, Cloud Formation
+
+Hadoop Distributions
+
+
+
+Cloudera (CDH), Hortonworks (HDP)
+
+Hadoop Platforms
+
+
+
+MapR, Elastic Cloud, Anaconda Cloud
+
+Vizualization Tools
+
+
+
+Pentaho, Qlikview, Tableau, Informatica, Power BI 
+
+Query Engines 
+
+
+
+SQL, HiveQL, Impala
+
+Databases
+
+
+
+SQL, MySQL, Oracle, DB2, Redshift, Amazon Aurora, MongoDB, DynamoDB, CassandraDB, Amazon RDS, ArangoDB
+
+Frameworks
+
+
+
+Hive, Pig, Spark, Spark Streaming, Storm, 
+
+File Formats
+
+
+
+Parquet, Avro, Orc, Json, XML, CSV
+
+ETL Tools/Frameworks
+
+
+
+Hive, Spark, Kafka, Sqoop, Flume, Camel, Apatar, Talend, Tez
+
+Data Modeling
+
+
+
+Toad Database Management Toolset, Podium, Informatica, Talend
+
+Admin Tools
+
+
+
+Zookeeper, Oozie, Cloudera Manager, Ambari
+
+Apache Misc
+
+
+
+Apache Ant, Flume, HCatalog, Maven, Oozie, Tez
+
+Databases
+
+
+
+Apache Cassandra, Apache Cassandra, Datastax Cassandra, Apache Hbase, Couchbase, DB2, MySQL, PostreSQL, DynamoDB, AuroraDB, ArangoDB, SImpleDB, CosmosDB, AmazonRDS
+
+Scripting
+
+
+
+Hive, Pig, MapReduce, Yarn, Python, Scala, Spark, Spark Streaming, Storm 
+
+
+
+
+
+
+
+
+Work Experience
+
+Gulfstream
+
+Savannah, GA
+
+Jan 2016 – Present
+
+Hadoop Big Data Architect
+
+Participated in a pipeline building project focused on the predictive engine maintenance and aircraft health analytics.
+
+
+
+Worked directly with the Big Data Architecture Team which created the foundation of this Enterprise Analytics initiative in a Hadoop-based Data Lake.
+
+Created multi-node Hadoop and Spark clusters in AWS instances to generate terabytes of data and stored it in AWS HDFS.
+
+Design included a variation of the lambda architecture 
+
+consisting of near real-time using Spark SQL; Spark cluster.
+
+Developed a task execution framework on EC2 instances using Amazon RedShift and ArangoDB.
+
+Extracted real time feed using Kafka and Spark Streaming and convert it to RDD and process data in the form of Data Frame and save the data as Parquet format in HDFS.
+
+Manipulated and analyzed complex, high volume, and high dimensional data in AWS using various querying tools.
+
+Involved in loading data from LINUX file system to AWS S3 and HDFS.
+
+Implemented Partitioning, Dynamic Partitions and Buckets in Hive for optimized data retrieval.
+
+Used Kafka producer to ingest the raw data into Kafka topics run the Spark Streaming app to process clickstream events.
+
+IAM user, group, roles & policy management. AWS Access Key management
+
+Fetched live stream data from IoT data sources and streamed to Hadoop data lake using Spark Streaming and Apache Kafka
+
+VPC, Route 53, Security Groups, manage Route, Firewall policy, Load Balance DNS setup.
+
+EC2 Instance creation and Auto Scaling, snapshot backup and managing template.
+
+Cloud formation scripting, security and resources automation. 
+
+Cloud watch MonitoriS3 & Glacier storage management, Access control and policing
+
+
+
+ 
+
+Graybar Electric
+
+St. Louis, MO
+
+January l 2015 – December 2015
+
+Hadoop Architect & Engineer
+
+Worked to create a new system that would enable analysts to improve operational efficiencies.  After the necessary technology architecture was put in place, Graybar identified initial Big Data and Predictive Analytics use cases that could produce immediate results. Fleet management and asset utilization were some of the first beneficiaries of using open source software solutions to extract patterns and predict trends from existing data sets.
+
+Used sed Spark SQL to perform transformations and actions on data residing in Hive.
+
+Used Spark Streaming to divide streaming data into batches as an input to Spark engine for batch processing.
+
+Wrote Spark applications for data validation, cleansing, transformation, and custom aggregation.
+
+Imported data from disparate sources into Spark RDD for processing.
+
+Developed custom aggregate functions using Spark SQL and performed interactive querying.
+
+Implemented Spark using Scala, and utilized DataFrames and Spark SQL API for faster processing of data.
+
+Involved in converting HiveQL/SQL queries into Spark transformations using Spark RDDs, Python and Scala.
+
+Configured Jupyter for Spark web clients.
+
+ Integrated Zeppelin daemon with Spark master node.
+
+Spark notebooks.
+
+Implemented Partitioning, Dynamic Partitions and Buckets in Hive for optimized data retrieval.
+
+Using Flume to handle streaming data and loaded the data into Hadoop cluster.
+
+Integrating Kafka with Spark streaming for high speed data processing.
+
+Developed Spark code using Scala and Spark-SQL/Streaming for faster processing of data.
+
+Handled the real time streaming data from different sources such as Cassandra DB, CosmoDB and SQL, using flume and set destination as HDFS.
+
+Exported analyzed data to relational databases using Sqoop for visualization, and to generate reports for the BI team.
+
+Extracted the data from RDBMS (Oracle, MySQL) to HDFS using Sqoop.
+
+Worked with various compression techniques to save data and optimize data transfer over network using Lzo, Snappy, etc.
+
+Involved in running Hadoop jobs for processing millions of records and data which was updated daily/weekly.
+
+Developed the build script for the project using Maven Framework.
+
+
+
+Mars, Inc.
+
+McLean, VA
+
+September 2013 – December 2014
+
+Big Data Engineer
+
+Mars, Inc. holding so many food and pet food product companies launched an effort to sample the vast resources of data available on food pathogens and microbiomes transmitted and transformed throughout the food process, packaging and distribution chain.
+
+Created materialized views, partitions, tables, views and indexes.
+
+Used IoT with Big Data Analytics architecture on AWS to transform supply chain management.
+
+Implementation of DATA LAKE ON S3 ,AWS and Cloud Service: Batch Processing and Real time Processing.
+
+Developed dynamic parameter file and environment variables to run jobs in different environments.
+
+Worked on installing clusters, commissioning & decommissioning of data node, configuring slots, and on name node high availability, and capacity planning.
+
+Executed tasks for upgrading clusters on the staging platform before doing it on production cluster.
+
+Used different file formats like text files, sequence files, and Avro.
+
+Used Kafka producer to ingest the raw data into Kafka topics run the Spark Streaming app to process clickstream events.
+
+Collected the real-time data from Kafka using Spark Streaming and perform transformations.
+
+Used Kafka producer to ingest the raw data into Kafka topics run the Spark Streaming app.
+
+Extensively used Impala to read, write, and query Hadoop data in HDFS.
+
+Implemented Partitioning, Dynamic Partitions and Buckets in Hive for optimized data retrieval.
+
+Used Spark to transfer data with Kafka to and from Redshift and Dynamo DB stored on S3.
+
+
+
+Menards
+
+Eau Claire, WI
+
+August  2012 – August 2013
+
+Big Data Engineer
+
+Created analytics system for marketing and inventory analysis for this home improvement store chain.  Having experience in this area, I was brought onto this project to assist in designing and implementing an analytics system.
+
+Designed a cost-effective archival platform for storing big data using  MapReduce jobs. 
+
+Designed jobs using Oracle, ODBS, Join, Merge, Lookup, Remove, Duplicate, Copy, Filter, Funnel, Dataset, File Set, Change Data, Capture, Modify, Role Merger, aggregator and Peek, Role Generator Stages.
+
+Design of Kibana dashboard over Elasticsearch for log monitoring
+
+Analyzed MapReduce programs to moderate complexity.
+
+Implemented Partitioning, Dynamic Partitions and Buckets in Hive for optimized data retrieval.
+
+Wrote MapReduce code to process and parse data from various sources and store parsed data into HBase and Hive using HBase-Hive Integration.
+
+Maintained and ran MapReduce jobs on YARN clusters to produce daily and monthly reports per requirements.
+
+Responsible for developing data pipeline using Sqoop, MR and Hive to extract the data from weblogs and store the results for downstream consumption.
+
+Worked on various file formats AVRO, ORC, Text, CSV, and Parquet using Snappy compression.
+
+Using Sqoop to extract the data back to relational database for business reporting.
+
+
+
+Giant Eagle
+
+Pittsburg,  PA
+
+August 2011 – July 2012
+
+Big Data Developer
+
+Created analytics system for marketing and inventory analysis for this retail grocery chain.  Responsible for coding to develop custom pipelines and visualization reports and queries.
+
+Transformed the logs data into data model using Pig and written UDF functions to format the logs data.
+
+Experienced on loading and transforming of large sets of structured and semi structured data from HDFS
+
+through Sqoop and placed in HDFS for further processing.
+
+Wrote Sqoop scripts to inbound and outbound data to HDFS, and validated the data before loading to check the duplicated data.
+
+Imported data using Sqoop to load data from MySQL to HDFS on regular basis.
+
+Involved in transforming data from legacy tables to HDFS, and HBase tables using Sqoop.
+
+Connected various data centers and transferred data between them using Sqoop and various ETL tools.
+
+Worked with Flume to load the log data from multiple sources directly into HDFS.
+
+Analyzed large sets of structures, semi-structured and unstructured data by running Hive queries and Pig scripts.
+
+Analyzed the data by performing Hive queries (HiveQL), Impala and running Pig Latin scripts to study customer behavior.
+
+Involved in writing Pig Scripts for cleansing the data and implemented Hive tables for the processed data in tabular format.
+
+Involved in creating Hive tables, loading with data and writing Hive Queries, which will internally run a MapReduce job. 
+
+Implemented Partitioning, Dynamic Partitions and Buckets in Hive for optimized data retrieval.
+
+Used the Hive JDBC to verify the data stored in the Hadoop cluster.
+
+
+
+Education
+
+
+
+Stratford University
+
+Bachelor’s of Healthcare Administration and Policy
+
+
+
+Amazon University
+
+Certification: AWS Solutions Architect
+
+
+
+Oracle University
+
+Oracle Certified Associate

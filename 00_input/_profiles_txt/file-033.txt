@@ -1,0 +1,301 @@
+CLIFORD K ROJAS
+
+Senior Big Data Engineer
+
+Contact:  Phone:  999-999-9999 | Email: cliford.rojas121@gmail.com
+
+
+
+
+
+PROFESSIONAL HIGHLIGHTS
+
+5 years of experience engineering Big Data environments on premises and migration to cloud environments using Amazon Web Services (AWS) for hosting cloud-based data warehouses, and data based using Redshift, Cassandra, MongoDB and RDBMS sources.
+
+Used Spark SQL to perform transformations and actions on data residing in HDFS.
+
+Creation of UDF functions in Python or Scala.
+
+Knowledge of incremental imports, partitioning, bucketing in Hive and Spark SQL for optimization.
+
+Implemented data ingestion and cluster handling for real time processing using Kafka.
+
+Implemented Spark and Spark SQL for faster testing and processing.
+
+Performance tuning of Spark jobs for setting batch interval time, level of parallelism, and memory tuning.
+
+Hands on experience in working with Ecosystems like Hive, Sqoop, MapReduce, Oozie
+
+Performed continuous data integration from mainframe systems to Amazon S3, connected using ETL tool.
+
+Scheduled daily jobs in Oozie, Job Dependency Manager and Airflow.
+
+Develop custom pipelines for real-time or near Realtime data analysis using Spark, Spark Streaming and Kafka.
+
+Data ingestion, extraction and transformation using ETL processes developed using Hive, Sqoop, Kafka, Firehose, Flume, Kinesis and MapReduce.
+
+Ability to conceptualize innovative data models for complex products and create design patterns.
+
+Fluent in architecture and engineering of the Hadoop ecosystem.
+
+Implementation and management of data systems using Cloudera Hadoop, Hortonworks Hadoop, Hadoop or AWS cloud platform or on premise.
+
+Design and build big data architecture for unique projects, ensuring development and delivery of the highest quality, on-time and on budget.
+
+Significant contribution to the development of big data roadmaps.
+
+Creates and maintains environment configuration documentation for all pre-production environments
+
+Provides clear and effective testing procedures and systems to ensure an efficient and effective process.
+
+Clearly documents big data systems, procedures, governance and policies.
+
+Design, development and system migration of high performant metadata-driven data pipeline with Kafka and Hive, providing data export capability through API and UI.
+
+Hands-on experience with AWS, EMR and S3.
+
+
+
+TECHNICAL SKILLS
+
+Apache
+
+Apache Kafka, Apache MAVEN, Apache Oozie, Apache Pig, Apache Hue, Apache Sqoop, Apache Flume, Apache Hadoop, Apache HBase, Apache Cassandra, Apache Airflow, Apache Mesos, Apache Tez, Apache ZooKeeper
+
+BI Visualization 
+
+Kibana, Tableau
+
+Programming
+
+Python, Scala, SQL, Hive, Spark
+
+File Types
+
+XML, Ajax, JSON, Avro, Parquet, ORC
+
+APIs
+
+Spark API, REST API, SOAP API
+
+Development
+
+Agile, Scrum, Continuous Integration, Unit Testing, Functional Testing, Design Thinking
+
+Soft Skills
+
+Communication, Collaboration, Customer Service, Help Desk, Mentoring, Reviewing
+
+
+
+Big Data
+
+RDDs, UDFs, DataFrames, Datasets, Pipelines, Data Lakes, Data Warehouse, Data Analysis
+
+Hadoop
+
+Hadoop, HDFS, Hadoop YARN, Hortonworks, Cloudera, Impala
+
+Spark & Hive
+
+Apache Spark, Spark Streaming, Spark MLlib, , Apache Hive, Hive QL
+
+Database
+
+Redshift, Cassandra, HBase, MongoDB, SQL, NoSQL, MySQL, RDBMS, Access, Oracle
+
+File Management
+
+HDFS, Snappy, Gzip, DAS, NAS, SAN
+
+Cloud Services & Distributions
+
+AWS, Azure, Elasticsearch, Cloudera, Databricks, Hortonworks, Elastic.  Cloud Foundry, Elastic Cloud
+
+Operating Systems
+
+Linux/UNIX, Windows
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROFESSIONAL EXPERIENCE
+
+	Meineke Car Care Center 	Senior Big Data Engineer
+
+	Charlotte, NC 	October 2018 – Present
+
+
+
+	Automated jobs for extracting the data from different Data Sources like MySQL to pushing the result set data to Hadoop Distributed File System.
+
+	Implemented YARN Resource pools to share resources of cluster for YARN jobs submitted by users.
+
+	Performance tuning the data heavy dashboards and reports for optimization using various options like Extracts, Context filters, writing efficient calculations, Data source filters, Indexing and Partitioning in data source etc.
+
+	Worked on Spark SQL and DataFrames for faster execution of Hive queries using Spark and AWS EMR.
+
+	Loading data from different servers to AWS S3 bucket and setting appropriate bucket permissions.
+
+	Involved in continuous Integration of application using Jenkins.
+
+	Creation of Kafka brokers in structured streaming to get structured data by schema.
+
+	ETL to Hadoop file system (HDFS) and wrote HIVE UDFs.
+
+	Worked in an environment consisting of Linux RHEL 6/7 + Hortonworks 2.6/3.1 + DELL S3 + AWS S3 + Windows + Scala + Docker.
+
+	Design Spark Scala POC to consume data from S3 Buckets
+
+	Define Spark data schema and set up of development environment inside the cluster
+
+	Monitor background operation in Hortonworks Ambari 
+
+	Managed hive beeline connection with tables, databases and external tables 
+
+	Create standardized documents for company usage  
+
+	Work one on one with clients to resolve issues regarding Spark jobs submissions  
+
+	Work using Agile methodology to utilize tasks and delegated between team member
+
+	Use Scala to connect to EC2 and push files to AWS S3
+
+	
+
+	Ebay	Big Data Engineer
+
+	San Jose, CA	July 2017 – October 2018
+
+
+
+Experience in configuring, installing and managing Hortonworks (HDP) Distributions.
+
+Cluster coordination services through Zookeeper and Kafka.
+
+Monitored multiple Hadoop clusters environments using Ambari.
+
+Run multiple Spark jobs in sequence for processing data.
+
+Skilled in on-prem and cloud environments such as AWS, Hadoop, Hortonworks, Cloudera
+
+Able to work with a variety of data stores including SQL Database like MySQL and Oracle SQL and NoSQL such as Cassandra and Hbase.
+
+Integrated Kafka with Spark streaming for high speed data processing.
+
+Loaded data from UNIX file system to Hadoop file system (HDFS) and wrote HIVE UDFs.
+
+Created Hadoop clusters using HDFS, Amazon Redshift for NoSQL 
+
+Implemented Spark using Scala and utilized DataFrames and Spark SQL API for faster processing of data.
+
+Used Spark Streaming to divide streaming data into batches as an input to Spark engine for batch processing.
+
+Used Amazon Elastic Compute Cloud (Amazon EC2) instances to process 16 TB of sales data weekly from promotions in the U.S., modeling dozens of data simulations a day.
+
+
+
+	Century 21 	Big Data Consultant
+
+	Madision, NJ	June 2016 – January 2017
+
+
+
+Very Good knowledge and Hands-on experience in Cassandra, Flume and YARN. 
+
+Experience in implementing User Defined Functions for Pig and Hive.
+
+Developed workflows to read parquet files from S3 buckets and apply transformations, joins, filters, and SQL queries to different dataframes and create output datasets.
+
+Performed streaming data ingestion to the Spark distribution environment, using Kafka.
+
+Involved in transforming data from legacy tables to HDFS and HBase tables using Sqoop.
+
+Developed Sqoop jobs to populate Hive external tables using incremental loads.
+
+Designed and implemented SQL Server database objects (stored procedures, functions, views and complex T-SQL/queries) to support data integration (SSIS), reporting and various business processes.
+
+Data Warehousing Using Data Transformation Services Package (DTS).
+
+Ability to troubleshoot and tune relevant programming languages like SQL, Java, Python, Scala, PIG, Hive, RDDs, DataFrames & MapReduce. 
+
+Able to design elegant solutions through the use of problem statements.
+
+Created a Data Lake in S3 for offloading infrequently accessed data from data warehouse and for staging purposes
+
+Designed managed/external Hive Tables as per the requirements and stored them in ORC format for efficiency
+
+Used Spark SQL and Data Frame API extensively to build Spark applications.
+
+Used Spark engine, Spark SQL for data analysis and provided to the data scientists for further analysis.
+
+Performed streaming data ingestion to the Spark distribution environment, using Kafka.
+
+Built a prototype for real-time analysis using Spark streaming and Kafka.
+
+Used Spark SQL and DataFrames API to load structured and semi structured data into Spark Clusters.
+
+Created Executive Dashboards for ETL Process and reporting
+
+Developed oozie workflow for scheduling and orchestrating the ETL process
+
+
+
+
+
+	JP Morgan	Data Engineer
+
+	New York, NY	January 2015 – June 2016
+
+
+
+allowing it to use security groups to control access to the platform.
+
+Used Spark Streaming to divide streaming data into batches as an input to Spark engine for batch processing.
+
+Used Amazon Kinesis and Amazon Redshift to provide real-time analytics. 
+
+Transformed log data into data model using Pig and wrote UDF functions to format the logs data.
+
+Loaded and transformed large sets of structured and semi structured data from HDFS.
+
+through Sqoop and placed in HDFS for further processing.
+
+Implemented Spark using Scala and utilized DataFrames and Spark SQL API for faster processing of data.
+
+Involved in transforming data from legacy tables to HDFS, and HBase tables using Sqoop.
+
+Used Sqoop to extract the data back to relational database for business reporting.
+
+Involved in loading and transforming large sets of structured, semi-structured and unstructured data.
+
+Hands-on experience extracting data from different databases and scheduling Oozie workflows to execute the task daily.
+
+Involved in loading data from UNIX file system to HDFS.
+
+
+
+
+
+EDUCATION & TRAINING
+
+
+
+UNIVERSITY OF NORTH CAROLINA at Wilmington, Wilmington, NC 
+
+Bachelor of Science in Computer Science 
+
+
+
+
+
+1 | Page

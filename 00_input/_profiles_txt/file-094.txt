@@ -1,0 +1,349 @@
+Yuchen Zhou
+
+Yuchen Zhou
+
+Big Data Engineer
+
+Phone:  1 (999) 999-9999 | Email:  consultant@gmail.com
+
+
+
+
+
+
+
+Yuchen Zhou
+
+Yuchen ZhouBIG DATA ENGINEER | Phone:  1 (999) 999-9999 | Email:  consultant@gmail.com
+
+
+
+Hadoop Big Data Engineer and Developer with skills in legacy Hadoop Ecosystems, Cloudera Hadoop, Hortonworks Hadoop and Amazon Web Services. Skilled in use of Spark, Spark Streaming, Spark SQL, Kafka, and Kibana. 
+
+Professional Summary
+
+7 years’ experience in Hadoop Big Data and 9 years’ experience in I.T.
+
+Proven success in team leadership, focusing on mentoring team members, and managing task for efficiency.
+
+Worked with various stakeholders for gathering requirements to create as-is and as-was dashboards.
+
+Recommended and used various best practices to improve dashboard performance for Tableau server users.
+
+Expert with design of custom reports using data extraction and reporting tools, and development of algorithms based on business cases.
+
+Analyzed the MS-SQL data model and provided inputs for converting the existing dashboards that used Excel as a data source.
+
+Involved in Performance tuning the data heavy dashboards and reports for optimization using various options like Extracts, Context filters, writing efficient calculations, Data source filters, Indexing and Partitioning in data source etc.
+
+Used to working in a production environment, managing migrations, installations, and development.
+
+Created dashboards for TNS Value manager in Tableau using various features of Tableau like Custom-SQL, Multiple Tables, Blending, Extracts, Parameters, Filters, Calculations, Context Filters, Data source filters, Hierarchies, Filter Actions, Maps etc.
+
+Modified existing and added new functionalities to Financial and Strategic summary dashboards.
+
+Writing SQL queries for data validation of the reports and dashboards as necessary.
+
+Worked with Data Lakes and Big Data ecosystems (Hadoop, Spark, Hortonworks, Cloudera)
+
+Expert with BI tools like Tableau and PowerBI, data interpretation, modeling, data analysis, and reporting with the ability to assist in directing planning based on insights.
+
+In-depth understanding/knowledge of Hadoop Architecture and various components such as HDFS, Job Tracker, Task Tracker, Name Node, Data Node, and MapReduce concepts and experience in working with MapReduce programs using Apache Hadoop for working with Big Data to analyze large datasets efficiently.  
+
+Track record of results as a project manager in an Agile methodology using data-driven analytics.
+
+Seasoned experience in project management (Agile/Scrum, Waterfall and various Agile processes).
+
+Have managed teams ranging from 5 to 20 members with on-site and remote members, across multiple time zones, in a culturally diverse environment.
+
+Excellent Knowledge in understanding Big Data infrastructure, distributed file systems -HDFS, parallel processing - MapReduce framework and complete Hadoop ecosystem - Hive, Hue, Pig, HBase, Zookeeper, Sqoop, Kafka-Storm, Spark, Flume, and Oozie.  
+
+In-depth knowledge of real-time ETL/Spark analytics using Spark SQL with visualization Hands-on experience on YARN (MapReduce 2.0) architecture and components such as Resource Manager, Node Manager, Container and Application Master and execution of a MapReduce job. 
+
+Technical Skills
+
+IDE:
+
+Jupyter Notebooks (formerly iPython Notebooks), Eclipse, IntelliJ, PyCharm
+
+PROJECT METHODS:  
+
+Agile, Kanban, Scrum, DevOps, Continuous Integration, Test-Driven Development, Unit Testing, Functional Testing, Design Thinking, lean, Six Sigma
+
+
+
+HADOOP DISTRIBUTIONS:  
+
+Hadoop, Cloudera Hadoop, Hortonworks Hadoop
+
+CLOUD PLATFORMS:  
+
+Amazon AWS - EC2, SQS, S3, MapR, Elastic Cloud
+
+
+
+CLOUD SERVICES:  
+
+Solr Cloud, Databricks, Datastax
+
+CLOUD DATABASE & TOOLS:  
+
+Redshift, DynamoDB, Cassandra, Apache Hbase, SQL
+
+PROGRAMMING LANGUAGES:
+
+Spark, Spark Streaming, Java, Python, Scala, PySpark, PyTorch
+
+SCRIPTING:  
+
+Hive, Pig, MapReduce, SQL, Spark SQL, Shell Scripting
+
+CONTINUOUS INTEGRATION (CI CD):  
+
+Jenkins
+
+VERSIONING:
+
+Git, GitHub
+
+PROGRAMMING METHODOLOGIES:
+
+Object-Oriented Programming, Functional Programming
+
+
+
+FILE FORMAT AND COMPRESSION:  
+
+CSV, JSON, Avro, Parquet, ORC
+
+FILE SYSTEMS:  
+
+HDFS
+
+ETL TOOLS:  
+
+Apache Camel, Flume, Kafka, Talend, Pentaho, Sqoop
+
+
+
+DATA VIZIUALIZATION TOOLS:
+
+Tableau, Kibana
+
+SEARCH TOOLS:
+
+Apache Lucene, Elasticsearch
+
+SECURITY:  
+
+Kerberos, Ranger, Blockchain
+
+AWS:  
+
+AWS Lambda, AWS S3, AWS RDS, AWS EMR, AWS Redshift, AWS Kinesis, AWS ELK, AWS Cloud Formation, AWS IAM
+
+Data Query:
+
+Spark SQL, Data Frames
+
+
+
+		
+
+Professional Experience
+
+AWS Big Data Engineer
+
+	Alibaba, San Mateo, CA		December 2018- Present
+
+Set up the Cloudera (Hortonworks) Ambari, troubleshooting the distributed of different components of apache big data tools to ensure performance of pipelines
+
+Collected data using REST API, built HTTPS connection with client server, sent GET request and collected response in Kafka producer
+
+Decoded the raw data and loaded into JSON before sending the batched streaming file over the Kafka producer 
+
+Created Kafka topics for Kafka brokers to listen from and data transferring to function in a distributed system
+
+Created a consumer and listened to the topic and brokers on port and created a direct streaming
+
+Parsed the Json file received and loads it again for further transformation
+
+Built schema in the form of structype to access the information from layered JSON file
+
+Created a data frame in Apache Spark by passing in the schema as a parameter to the ingested data 
+
+Used Spark to parse out the needed data by using Spark SQL Context and select the columns with target information and assigned names
+
+Configured the packages and jars for spark work to load data into hbase
+
+Split the JSON file into RDD level to be processed in parallel for better performance and fault tolerance 
+
+Loaded the data into hbase under default namespace, assigned row key and datatype
+
+Worked with unstructured data and parsed out the information by Python built in function
+
+Started and configured master and slave nodes for spark session and initiated spark context in standard of Spark2 
+
+Utilized the transformation and action in spark to interact with the dataframe to show and to process the data
+
+Configured the hbase and YARN settings to build connections between hbase and task manager to assign adequate tasks to the hbase node
+
+Worked in standalone virtual machine as the node and ran the pipeline to implement distributed system
+
+Hands-on experience with Spark Core, Spark SQL and Data Frames/Data Sets/RDD API
+
+Spark jobs, Spark SQL and Data Frames API to load structured data into Spark clusters
+
+Created a Kafka broker which uses schema to fetch structured data in structured streaming
+
+Spark streaming to receive real time data using Kafka
+
+Interacted with data residing in HDFS using Spark to process the data
+
+
+
+AWS Big Data Engineer
+
+	NCR Corporation, Atlanta, GA	September 2017- December 2018
+
+Configured flume agent with the source, memory as channel and HDFS as sink 
+
+Configured flume agent batch size, capacity and transaction capacity, roll size, roll count and roll intervals
+
+Created spark session using the client mode and configured a Spark cluster 
+
+Retrieved data from HDFS directory in the form of serialized Avro and text files
+
+Transferred the data into RDDs and further transform rdds into Dataframe 
+
+Used spark to load batches of Dataframe into Hive
+
+Listening to flume sink by accessing through port name and number
+
+Created SQLcontext in spark and connected to Hive, created a Hive table and populated 
+
+Installed spark and configured the spark config files, environment path, 
+
+Transformed data from unstructured to structured Dataframe for data analysts to query the information
+
+Worked with different big data format like Avro, csv, Parquet, JSON, and seq file
+
+Created a spark stream to receive the data stream sent from Flume’s Avro Sink and set checkpoint to store the status
+
+Implemented the spark program in Scala and built dependencies by running sbt.build
+
+Wrote Hive queries and optimized the Hive queries with Hive QL
+
+ETL to Hadoop file system (HDFS) and wrote HIVE UDFs
+
+Experienced in importing real-time logs to HDFS using Flume
+
+Created UNIX shell scripts to automate the build process, and to perform regular jobs like file transfers
+
+
+
+AWS Big Data Engineer
+
+	Cirrus Logic, Austin, TX 	June 2015- September 2017
+
+	Configured access for inbound and outbound traffic RDS DB services, DynamoDB tables, EBS volumes to set alarms for notifications or automated actions on AWS
+
+	Developed AWS Cloud Formation templates to create custom infrastructure of our pipeline
+
+	Implemented AWS IAM user roles and policies to authenticate and control access
+
+	Specified nodes and performed the data analysis queries on Amazon redshift clusters on AWS
+
+	Worked on AWS Kinesis for processing huge amounts of real time data
+
+	Developed multiple Spark Streaming and batch Spark jobs using Scala and Python on AWS
+
+	RDS, Cloud Formation, AWS IAM and Security Group in Public and Private Subnets in VPC
+
+	Worked with AWS Lambda functions for event-driven processing to various AWS resources
+
+	Processed multiple terabytes of data stored in AWS using Elastic Map Reduce (EMR) to AWS Redshift
+
+	AWS EMR to process big data across Hadoop clusters of virtual servers on Amazon Simple Storage Service (S3)
+
+	Automated AWS components like EC2 instances, Security groups, ELB, RDS, Lambda and IAM through AWS cloud Formation templates
+
+	Installed, Configured and Managed AWS Tools such as ELK, Cloud Watch for Resource Monitoring
+
+	Implemented security measures AWS provides, employing key concepts of AWS Identity and Access Management (IAM)
+
+	Created multiple batch Spark jobs using Java
+
+	Launched and configured The Amazon EC2 (AWS) Cloud Servers using AMI's (Linux/Ubuntu) and configuring the servers for specified applications
+
+	Ingested data through AWS Kinesis Data Stream and Firehose from various sources to S3
+
+	Responsible for Designing Logical and Physical data modelling for various data sources on AWS Redshift
+
+
+
+Big Data Developer
+
+	Cliff Bar, Emeryville, CA 	November 2013-January 2015
+
+Extracted metadata from Hive tables with Hive QL
+
+Loaded into HBase tables and Hive tables consumption purposes
+
+Wrote Hive queries and wrote custom UDF’s
+
+Experience collecting log data from various sources and integrating it into HDFS using Flume; staging data in HDFS for further analysis.
+
+Performed upgrades, patches and bug fixes in Hadoop in a cluster environment
+
+Wrote shell scripts to automate workflows to pull data from various databases into Hadoop framework for users to access the data through Hive based views
+
+Writing Hive Queries for analyzing data in Hive warehouse using Hive Query Language
+
+Built the Hive views on top of the source data tables, and built a secured provisioning Interaction with NOC team to work with Hadoop to provide large-scale solutions
+
+Created Hive queries to spot emerging trends by comparing Hadoop data with historical metrics
+
+Used Cloudera Manager for installation and management of single-node and multi-node Hadoop cluster
+
+Wrote shell scripts for automating the process of data loading
+
+Wrote the Hive scripts to process the HDFS data
+
+Installed and configured Tableau Desktop to connect to the Hortonworks Hive Framework (Database) which contains the Bandwidth data 
+
+Created Hive tables, loading with data and writing Hive queries
+
+	
+
+
+
+
+
+Education & Training
+
+Indiana University, Kelley School of Business Bloomington, IN                                      Dec 2014 Master of Science in Information Systems   
+
+Major: Business Intelligence.   
+
+Minor: Enterprise System (SAP ERP)        
+
+Indiana University, Kelley School of Business, Bloomington, IN                                    May 2013
+
+Bachelor of Science in Business 
+
+Majors: Accounting, Finance
+
+                                                         
+
+Certifications
+
+Certification in ITIL v3 Foundation 
+
+IT Service Management
+
+Spark Overview for Scala Analytics
+
+Accessing Hadoop Data Using Hive
+
+Spark Fundamentals I

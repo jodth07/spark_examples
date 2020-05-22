@@ -1,0 +1,395 @@
+Jermaine Felder
+
+Hadoop Big Data Engineer
+
+
+
+
+
+
+
+Phone:	 219-315-0311
+
+Email: mainefelder222@gmail.com
+
+Phone:	 219-315-0311
+
+Email: mainefelder222@gmail.com
+
+About Me
+
+About Me
+
+
+
+Hadoop Big Data Engineer, creating custom data pipelines and systems using open source tools and technologies on premises and in the cloud.  Skilled with Hadoop ecosystem such as Kafka, Spark,Storm, Hive,  Mesos, Yarn, Flume, Ambari, Tez, and more.
+
+Able to develop custom pipelines and dashboards, clean data and manage all aspects of data processing.
+
+
+
+Hadoop Big Data Engineer, creating custom data pipelines and systems using open source tools and technologies on premises and in the cloud.  Skilled with Hadoop ecosystem such as Kafka, Spark,Storm, Hive,  Mesos, Yarn, Flume, Ambari, Tez, and more.
+
+Able to develop custom pipelines and dashboards, clean data and manage all aspects of data processing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Experience
+
+Experience
+
+
+
+
+
+5+ years experience in the Hadoop  and Big Data Ecosystems
+
+5+ years of experience in Information Technology
+
+5+ years experience in the Hadoop  and Big Data Ecosystems
+
+5+ years of experience in Information Technology
+
+
+
+
+
+HADOOP
+
+HADOOP
+
+
+
+
+
+Expertise
+
+Expertise
+
+
+
+		Extract data from HDFS, MongoDB, Cassandra, HBase, Hive, MS SQL, and other.
+
+		Extending HIVE core functionality by using custom User Defined Function's (UDF), User Defined Table-Generating Functions (UDTF) and User Defined Aggregating Functions (UDAF) for Hive.
+
+		Good Knowledge on Spark framework on both batch and real-time data processing. 
+
+		Hands-on experience processing data using Spark Streaming API with Scala.
+
+		Ensure data accuracy by validating data for new and existing tools.
+
+		Work with teams to identify key initiatives to apply sophisticated analytical decisions.
+
+Experience with data visualization tools.
+
+Develop and automate reports, and develop analytical dashboards to provide insights at scale.
+
+Experience in designing and implementing of secure Hadoop cluster using Kerberos.
+
+Effective communicator of technical information to all levels of the organization.
+
+Experience in scripting with SQL extracting large sets of data, and design of ETL flows.
+
+Experience working on various Cloudera distributions like (CDH 4/CDH 5).
+
+Knowledge of Horton works and Amazon EMR Hadoop distributions.
+
+Experience in migrating the data using Sqoop from HDFS to Relational Database System and vice-versa according to client's requirement.
+
+Experience data processing like collecting, aggregating, moving from various sources using Apache Flume and Kafka.
+
+
+
+
+
+
+
+
+Skills
+
+Skills
+
+
+
+Programing Languages, Types, Tools
+
+Unix shell scripting, Object-oriented design, Object-oriented programming, Functional programming, FTP,  SQL, Java,  HiveQL, Hive, MapReduce, Python, Scala, HTML, CSS, JavaScript, jQuery, XML, Blueprint XML, Ajax, TypeScript, REST API, Spark API, JSON, Avro, Parquet, ORC
+
+
+
+Big Data Frameworks & Tools
+
+Apache Cassandra, Apache Flume, Apache Hadoop, Apache Hadoop YARN, Apache Hbase, Apache Hcatalog, Apache Hive, Apache Kafka, Apache Oozie, Apache Spark, Spark Streaming, SciPy, Pandas, RDDs, DataFrames, Datasets, Mesos, Apache Tez, Apache ZooKeeper, Cloudera Impala, HDFS, Hortonworks, MapR, MapReduce, Elasticsearch, Elastic Cloud, Kibana, Apache Hue, Sqoop, Tableau, AWS, Git Hub
+
+
+
+Big Data Platforms
+
+Apache Hadoop
+
+Cloudera Hadoop (CDH)
+
+Hortonworks Hadoop
+
+AWS EMR
+
+
+
+
+
+
+
+Database & File Systems
+
+HDFS, Cassandra, Hbase, MongoDB, MySQL, SQL, Parquet, ORC, Avro, JSON, Snappy, Gzip 
+
+
+
+Hard Skills
+
+ETL Processes, Real-time processing, Batch processing, Streaming Processes
+
+
+
+Cloud Services
+
+Amazon Web (AWS)
+
+
+
+
+
+Systems Software
+
+Linux
+
+Windows
+
+Visualization Tools
+
+
+
+Microsoft PowerBI
+
+Tableau
+
+Qlikview
+
+
+
+Skills, Tools, Software
+
+Microsoft Office
+
+Microsoft Visio
+
+
+
+
+
+
+
+
+
+
+
+
+Experience
+
+Experience
+
+
+
+	Senior Big Data Engineer
+
+	Navy Federal Credit Union |  Vienna, VA	May 2019 - Present
+
+	Helped create data ingestion framework for multiple source systems using PySpark.   
+
+	Met with architects to discuss planning of the migration.
+
+	Met with tech team to discuss best practices for coding on python.
+
+	Developed PySpark scripts for ingestion of structured and unstructured data.
+
+Usage of DataFrames, RDDs along with SparkSQL and SparkCore
+
+	Found solutions to data mapping for unstructured data by applying schema inference
+
+	Suggested new technologies and approaches for new tasks.
+
+Drove POC"s to define the technolody roadmap
+
+	Leveraged Unix Shell Scripts for the pipeline of projects.
+
+	Modeled data based on business requirements using PySpark
+
+	Performed Spark optimizations based on Shuffling reduction.
+
+	Worked with Test Team to fix character issues within data.
+
+	Worked with Hadoop Admins to fix encoding issue on data files.
+
+	Tested scripts of pyspark, shell and Spark
+
+	Peer reviewed scripts based on project criteria.
+
+	Documented Unit Test of ingestion process using pytest and unittest.
+
+	Documented how to execute ingestion process thorugh pyspark.
+
+	Wrote partitioned data into Hive external tables using Parquet format.
+
+	Presented and defined testing process for business and tech teams.
+
+	Worked in an Agile production environment and advised on Spark best practices.
+
+	Worked with a team of developers with specialty in RDBMS, mainframe, Unix scripting, Java, Sqoop, PySpark.
+
+	Worked in an Hadoop environment with coding in Java, Python and use of PySpark and Unix Shell Scripting.
+
+	
+
+	
+
+	Senior Big Data Engineer
+
+	ArcelorMittal | Burns Harbor, IN	Aug 2017 – May 2019
+
+Implemented Spark RDD transformations to map business analysis and apply actions on top of transformations.
+
+Involved in requirement gathering and analyzing the Business requirements
+
+Cleanse, aggregate, and organize Hadoop HDFS data lake to build data science insights.
+
+Experience with using Hadoop clusters, Hadoop HDFS, Hadoop tools and Spark, Kafka, Hive in social data and media analytics using Hadoop ecosystem.
+
+Hadoop ecosystem tools for ETL and analysis, pipelines, and cleaning data in prep for analysis.
+
+Hands on experience using Cassandra, HIVE, No-SQL databases (like Hbase, MongoDB), SQL databases (like Oracle, SQL, PostgresSQL, My SQL server, as well as data lakes and cloud repositories to pull data for analytics.
+
+Hands on programming using Spark, Scala, Python to refine Hadoop data analytics.
+
+Comprehensive knowledge and experience in process improvement, normalization/de-normalization, data extraction, data cleansing, data manipulation
+
+Supports Hadoop business data and analytics projects using Spark and Hive.
+
+Engineers structured and unstructured data from source systems to fit business need
+
+Understands user requirements for use cases involving analytics using Hadoop, Spark, Hive.
+
+Identify and organize source and transactional data for delivering solutions using Hadoop data lakes and Hadoop clusters in Hadoop ecosystem, and Spark and Hive.
+
+Hands-on experience in Hadoop Distribution in Hortonworks
+
+Knowledge in incremental imports, partitioning, windowing, and bucketing concepts in Hive and Spark SQL needed for optimization.
+
+
+
+	Hadoop Data Engineer
+
+	Duke Energy | Charlotte, North Carolina	June 2015 – Aug 2017
+
+Involved in requirement gathering and analyzing the Business requirements
+
+Involved in full life cycle of the project from Design, Analysis, feature extraction, training, model optimization, development, Implementation, testing, visualization.
+
+Analyzed transaction event & history data and credit card holder profile data for fraud detection and risk assessment, using Hadoop Technologies including Hive, Impala, DataFrames, SparkSQL.
+
+Identified and ingested source data from different systems into Hadoop HDFS using Sqoop, Flume and python, creating Hive tables to store variable data formats.
+
+Conducted exploratory data analysis and managed dashboard for weekly report, using Tableau Desktop connecting to Hadoop Hive tables.
+
+Developed MapReduce programs to process raw data, populated staging tables and stored the refined data in partitioned tables.
+
+Created Hive queries to spot emerging trends by comparing data with historical metrics.
+
+Used Python Pandas to import data from web service into HDFS and transformed data using Spark RDDs.
+
+Developed new topics to segment data from Kafka and other web servers into HDFS.
+
+Worked closely with other data scientists to complete special projects and achieve project deadlines.
+
+Implemented test scripts to support test driven development and continuous integration.
+
+
+
+	Big Data Engineer
+
+	Intel Corporation | Santa Clara, CA	May 2014– June 2015
+
+Worked with business analysts and data scientists in leverage business rules and ingesting data into Hadoop environment
+
+Used Parquet file compression with Snappy Codecs for low latency data analysis
+
+Developed pig scripts for analyzing large data sets in the HDFS.
+
+Migrating the needed data from Oracle, MySQL in to HDFS using Sqoop and importing various formats of flat files in to HDFS.
+
+Proposed an automated system using shell script to Sqoop the job.
+
+Worked in Agile development approach.
+
+Created the estimates and defined the sprint stages.
+
+Developed a strategy for full load and incremental load using Sqoop.
+
+Mainly worked on Hive queries to categorize data of different claims.
+
+Integrated the hive warehouse with Hbase
+
+Implemented Partitioning, Dynamic Partitions, Buckets in HIVE.
+
+Generate final reporting data using Tableau for testing by connecting to the corresponding Hive tables using Hive ODBC connector.
+
+Created over 10 dashboards, 20 reports written in Hive for daily reports
+
+
+
+	Hadoop Administrator
+
+	AnswerLab | San Francisco, CA	March 2013– May 2014
+
+Designing and creation of Hive tables, and load data to Hive.
+
+Provided quick response to ad hoc internal and external client requests for data.
+
+Written Hive QL scripts for business needs.
+
+Wrote complex Hive and SQL queries for data analysis to meet business requirements.
+
+Used Hive optimization tools like partitioning, bucketing, Map side join etc.
+
+Used Oozie scheduler to automate the pipeline workflow and orchestrate the Sqoop, hive and pig jobs that extract the data on a timely manner.
+
+Loaded data into HBase for online lookups to business using Scala
+
+Partitioning and bucketing done for the log file data to differentiate data on a daily basis and aggregate based on business requirements.
+
+Performed aggregations and analyses on large sets of log data.
+
+Exported the analyzed data to the relational databases using Sqoop for virtualization and to generate reports for the BI team.
+
+	
+
+
+
+Education
+
+Education
+
+BACHELOR OF SCIENCE IN MATHEMATICS
+
+Saint Peter’s Univeristy, Jersey City, NJ

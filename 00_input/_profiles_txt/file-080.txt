@@ -1,0 +1,525 @@
+Jarod A. Beardsley
+
+
+
+Jarod A. Beardsley
+
+
+
+
+
+
+
+
+
+
+
+
+
+neerxxxxxxxxxxxxxxxxxxx@gmail.com
+
+(XXX) XXX-XXXX
+
+neerxxxxxxxxxxxxxxxxxxx@gmail.com
+
+(XXX) XXX-XXXX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More than 6 years Big Data Experience
+
+
+
+More than 6 years Big Data Experience
+
+
+
+Professional Profile
+
+Experience converting Hive/SQL queries into Spark transformations using Spark RDDs, Python and Scala.
+
+Able to work with team and cross-functionally to research and design solutions to speed up or enhance delivery within the current platform.
+
+Able to design and document the technology infrastructure for all pre-production environment and partner with technology Operations on the design of production implementations.
+
+Ability to conceptualize innovative data models for complex products and create design patterns.
+
+Fluent in architecture and engineering of the Hadoop, Cloudera, Hortonworks, Amazon AWS, Azure, MapR Hadoop ecosystem.
+
+Hands on experience in coding MapReduce/Yarn Programs using Java, Scala for analyzing Big data. 
+
+Skilled in the use of MapReduce, MapReduce jobs and generating tools like Pig or Hive.
+
+Worked with Apache Spark to provide fast engine for large data processing integrated with functional programming languages Scala, Python, and scripting in Hive QL and Pig Latin.
+
+Uses expert skills across a number of platforms and tools and working with multiple teams in high visibility roles.
+
+Provide end-to-end data analytics solutions and support using Hadoop systems and tools on cloud services as well a on premise nodes.
+
+Expert in big data ecosystem using Hadoop, Spark, Kafka with column-oriented big data systems such as Vertica and Cassandra.
+
+Worked with various file formats (delimited text files, click stream log files, Apache log files, Parquet files, Avro files, JSON files, XML Files).
+
+Proficient in writing stored procedures, Complex SQL Queries, optimizing the SQL to improve performance, Packages, Functions and Database Triggers using SQL and Possess Strong data analysis skills using Python, Hive, Apache Spark, MS Excel and Access DB.
+
+Experience in using IDE's such as Eclipse, IntelliJ for debugging and developing Python and Spark Applications.
+
+Proficient in mapping business requirements, use cases, scenarios, business analysis, and workflow analysis. Act as liaison between business units, technology and IT support teams.
+
+
+
+Professional Skills
+
+Skilled in Architecture of Big Data Systems Using:
+
+Amazon AWS - EC2, SQS, S3, Azure, Google Cloud, Horton Labs, Rackspace
+
+Cloudera Hadoop, Cloudera Impala, Hortonworks Hadoop, MapR, Spark, Spark Streaming, Hive, Kafka, Nifi, Kinesis
+
+Data Pipeline Architecture and Construction
+
+Apache Airflow, Apache Camel, Apache Flink/Stratosphere, Hive, Pig, Sqoop, Flume, Scala, Python
+
+Experience in data modeling and architecture involving realtime database, SQL, No SQL, HDFS, Data Warehouse and Data Lakes
+
+Apache Cassandra, Datastax Cassandra, Apache Hbase, Apache Phoenix, BigSQL, Couchbase, DB2, MariaDB, MongoDB, MS Access, Oracle, RDBMS, SQL, Apache Toad
+
+Skilled in database and data management
+
+Database partitioning, database optimization, building communication channels between structured and unstructured databases.
+
+ETL Architecture, Creation for Various Use Cases 
+
+Apache Camel, Flume, Apache Kafka, Apatar, Atom, Fivetran, Heka, Logstash, Scriptella, Stitch, Talend, Ketl, Kettle, Jaspersoft, CloverETL
+
+Talend, Scriptella, KETL, Pentaho Kettle, Jaspersoft, Geokettle, CloverETL, HPCC Systems, Jedox, Apatar
+
+Batch Processing Expertise
+
+Hadoop and Tez
+
+Implementation and Configuration of Administration Using
+
+Zookeeper, Oozie, Cloudera Manager, Ambari
+
+Programming & Scripting
+
+Scala, Python, HiveQL, SQL, Pig Latin
+
+	C, Java, SQL, JavaScript, Python
+
+
+
+
+
+
+
+More than 5 years Big Data Experience
+
+
+
+More than 5 years Big Data Experience
+
+Professional Experience
+
+
+
+July 2019 – Present
+
+Senior Data Engineer 
+
+Slack, San Francisco, CA
+
+
+
+Design & implement end-to-end data pipeline using Matillion ETL tool
+
+Implemented a Hive to Snowflake migration plan using Matillion
+
+Migrated a solution from Hive to Snowflake for high-volume data analytics in a centralized data model that emphasizes cloud scalability
+
+Implemented a dimensional/fact model in Snowflake using SQL
+
+Implemented a daily incremental load from Salesforce to stage tables & stage tables to dimension and fact tables
+
+Assisted in the implementation and debugging of a Dimensional/Fact model in Snowflake
+
+Explore possible machine learning use case for dynamic anomaly-detection
+
+Worked with BI analysts to define aggregate tables, migrate logic from Hive to Snowflake and implement new logic for visualization
+
+Used Matillion scripts to populate stage tables for visualization in Looker
+
+Maintained & debugged SCD type I & type II tables in sales data model design using SQL
+
+Used Matillion scripting to track active status, created & updated dates for tables
+
+Data transformation from JSON to tables using Snowflake & Matillion
+
+Wrote several comprehensive testing suites to verify data quality in new data models
+
+Kept comprehensive up-to-date documentation of new code & functionality
+
+Backfilled aggregate tables using Matillion
+
+Developed tables & ETL jobs in Matillion to replace Heroku Connect for Salesforce data moving into data warehouse
+
+Developed Okta to Looker integration in Matillion to sync deactivated user account security access
+
+Integrated custom API endpoint & Matillion components using Python
+
+
+
+February 2019- July 2019
+
+	Senior Data Engineer
+
+	ALLSTATE, Irving, TX
+
+	__________________________________________________________________________________________
+
+Custom ETL Solution
+
+I was involved in updating Allstate’s data analysis system. I was responsible for analysis, design, and development of the new Data ETL solution which integrates Kafka, KStreams, Java, HDFS, Avro, JSON, and Landoop Lenses. The new system delivers a high-throughput of data and transformation & serves as a pluggable solution for Allstate’s internal developers.  I developed a framework using KStreams & Java for event driven solutions in Allstate applications and other data sources in various file formats.
+
+Implemented a Flume to Kafka-Connect migration plan.
+
+Migrated a solution from Flume to Kafka-Connect to send high volume of records.
+
+Created a migration plan to move from Cloudera Kafka to Confluent Kafka.
+
+Kafka-Connect project planning.
+
+Kafka architecture design and implementation.
+
+Tune Kafka.
+
+Updated Kafka-HDFS connector to ingest records coming from claims.
+
+Supervised implementation of Kafka-Hive connector.
+
+Updated Kafka connector with Kerberos password authentication.
+
+Created plan to use Kafka-Connect on speed-testing.
+
+Build POC of Java KStreams to Benchmark against Python Faust.
+
+Collaborated on Lenses integration with Kafka-Connect.
+
+Managed Lenses (Landoop) integration with KStreams.
+
+KStreams integration with internal REST service to consume and produce records
+
+PResented KStreams presentation.
+
+Explore KStreams use cases.
+
+Complex KStreams data processing using Windows & Streams DSL.
+
+Calculate a rolling median value in KStreams using windowing functions and Watermarks.
+
+Documentation of Kafka-Connect to implement configuration in Allstate environment.
+
+Documentation of KStreams program to scale up the solution.
+
+Successfully customized Confluent HDFS connector code to expand security options.
+
+Worked with Landoop Lenses team to expand security options in Hive connector.
+
+Managed project backlog through Jira.
+
+Evaluated a possible switch to Faust from KStreams and made recommendations 
+
+Recommended Spark for data processing, decided not to use for heavyweight computation requirements
+
+Interfaced with internal servers through Putty & FileZilla
+
+Successfully integrated KStreams to consume/produce to REST API
+
+Understanding of insurance data privacy requirements and use case logic 
+
+The solution is intended to be highly customizable by the final user, enabling the end user to create their own data pipelines, transformations and final loading destinations.
+
+GitHub used for managing the project lifecycle
+
+Environment: Cloudera, Confluent, Windows, Outlook
+
+Technologies:  Hadoop, Kafka, KStreams, Java, IntelliJ, Python
+
+
+
+December 2016- February 2019
+
+	Senior Data Engineer
+
+	SENSELY, San Francisco, CA
+
+	__________________________________________________________________________________________
+
+NLP AI Application for Medical
+
+This Virtual Medical Assistant avatar integrates AI to recommend diagnoses based on patient symptoms using a smartphone.  The platform uses algorithms trained on large volumes of clinical content, such as medical protocols and chronic disease information, to interpret patient symptoms and to recommend an appropriate diagnosis. Patients can describe their symptoms to the virtual medical assistant named Molly, using speech, text, images and video.  The platform can be integrated with electronic health records to provide continuity of care, allowing clinicians to monitor patients outside of the clinical care setting.  The project required capture of real-time streaming voice data for analysis and response.
+
+Involved in running Hadoop jobs for processing millions of records and data which was updated daily/weekly.
+
+Developed the build script for the project using Maven Framework.
+
+Worked with SQL and NO SQL databases: Oracle, Mongo DB, Cassandra, DB2, MYSQL, along with installation and infrastructure design for the same, locking, transactions, indexes, replication and schema design.
+
+Extracted real-time feed using Kafka and Spark Streaming and convert it to RDD and process data in the form of Data Frame and save the data as Parquet format in HDFS.
+
+Handled the real time streaming data from different sources using flume and set destination as HDFS.
+
+Used Kafka producer to ingest the raw data into Kafka topics run the Spark Streaming app to process clickstream events.
+
+Implementation of Data Lake on Hadoop clusters on Amazon Web Service (AWS).
+
+Collaborated with the infrastructure, network, database, application and analysis teams to ensure data quality and availability.
+
+Completed tasks and project on time, per project requirements and quality goals.
+
+Optimized the data storage in Hive using partitioning and bucketing on both the managed and external tables.
+
+Implemented a cost-effective archival platform for storing big data using Hadoop and its related technologies.
+
+Developed the build script for the project using Maven Framework.
+
+Worked on streaming the analyzed data to the HBase using SQOOP for making it available for visualization.
+
+Extensively worked on DataStage sever and parallel job controls and sequencers. Designed and developed parallel jobs by using different types of stages such as transformers, Aggregator, Merge, Join, Lookup, Sort, Remove duplicate, Funnel, Filter, Pivot, Shared container for developing jobs.
+
+Implemented all SCD types using server and parallel jobs. Extensively implemented error handling concepts, testing, debugging skills and performance tuning of targets, source, transformation logics and version control to promote the jobs.
+
+Involved in loading and transforming large sets of structured, semi-structured and unstructured data.
+
+Involved in loading data from UNIX file system to HDFS.
+
+Developed ETLs to pull data from various sources and transform it for reporting applications using PL/SQL
+
+Hands-on experience extracting data from different databases and scheduling Oozie workflows to execute the task daily.
+
+Successfully loaded files to HDFS from Teradata, and loaded from HDFS to HIVE.
+
+
+
+	June 2015 – December 2016
+
+	DATA ENGINEER
+
+	THE CHEMOURS COMPANY, Wilmington, DE
+
+	__________________________________________________________________________________________
+
+Chemical Pricing Strategy
+
+The project follows a strategic initiative in chemical pricing strategy for this Dow spinoff company to improve market share and profitability.  Chemours manufactures and sells performance chemicals falling within three segments: Titanium Technologies (titanium dioxide); Fluoroproducts (refrigerants and industrial fluoropolymer resins and derivatives including Freon, Teflon and Viton); and Chemical Solutions (cyanide, sulfuric acid, aniline, methylamines, and reactive metals).
+
+Chemical pricing strategy is complex and often relies on outdated data. With Big Data and analytics, the company can leverage accurate and timely price information from multiple sources, including sales information, to provide competitive and profitable pricing solutions to customers.
+
+Data on consumption, sales, and unit costs helps companies also evaluate the inventory of available products. By analyzing profitability, market forecasting, and raw material availability, companies can make better decisions about the products and grades they offer. This information can help companies unearth new markets for existing or new products, too.
+
+
+
+Transformed the logs data into data model using Pig and written UDF functions to format the logs data.
+
+Experienced on loading and transforming of large sets of structured and semi structured data from HDFS
+
+through Sqoop and placed in HDFS for further processing.
+
+Involved in transforming data from legacy tables to HDFS, and HBase tables using Sqoop.
+
+Extensively used transformations like Router, Aggregator, Normalizer, Filter, Joiner, Expression, Source Qualifier, Unconnected and connected lookup, Update strategy and store procedure, XML transformations along with error handling and performance tuning.
+
+Involved in loading and transforming large sets of structured, semi-structured and unstructured data.
+
+Involved in complete Big Data flow of the application starting from data ingestion from upstream to HDFS, processing the data into HDFS using Spark Streaming.
+
+Using Flume to handle streaming data and loaded the data into Hadoop cluster.
+
+Developed Spark code using Scala and Spark-SQL/Streaming for faster processing of data.
+
+Successfully loaded files to HDFS from Teradata, and loaded from HDFS to HIVE.
+
+Wrote shell scripts for automating the process of data loading.
+
+Used ETL to transfer the data from the target database to Pentaho to send it to Tableau. 
+
+Migrated data from RDBMS for streaming or static data into the Hadoop cluster using Hive, Pig, Flume and Sqoop.
+
+Real-time data indexing using AWS SQS messaging service.
+
+Expert in migrating streaming or static RDBMS data into Hadoop cluster from dynamically-generated files using Flume and Sqoop.
+
+Successfully loaded files to Hive and HDFS from Oracle, SQL Server using SQOOP.
+
+Captured data and importing it to HDFS using Flume and Kafka for semi-structured data and Sqoop for existing relational databases.
+
+Worked with Linux systems and RDBMS database on a regular basis in order to ingest data using Sqoop.
+
+Aggregation, queries and writing data back to OLTP system directly or through Sqoop.
+
+Setup cloud compute engine managed and unmanaged mode and SSH key management. 
+
+IAM user, group, roles & policy management. AWS Access Key management
+
+VPC setup for multiple project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+January 2014 - June 2015
+
+	DATA ENGINEER		
+
+	TEXAS INSTRUMENTS, Dallas, TX
+
+	__________________________________________________________________________________________
+
+Accelerated analytics with big data for signal processing
+
+Participated in development of big data pipelines online personalization (demand creation), supply chain and sales.  Data Science algorithms currently in production both directly and indirectly impact revenue.  TI transitioned business in 2009 from a digital signal processing company to an analog and embedded processing company. Analog and embedded processing gathers information from the real world, converts it with an analog-to-digital converter, processes it, converts it using a digital-to-analog converter, and outputs it to the real world.  The company had several large data warehouses containing disparate data. The company has established a big data platform to make entire copies of the data sets in warehouses to provide business users with accelerated analytics capability. 
+
+http://www.argylejournal.com/chief-information-officer/chief-it-architect-at-texas-instruments-talks-about-tis-big-data-journey/
+
+	Configuring Spark Streaming to receive real time data from IBM MQ and store the stream data to HDFS.
+
+	Ran Hadoop streaming jobs to process terabytes of XML format data.
+
+	Real Time/Stream processing Apache Storm, Apache Spark
+
+	Transfered Streaming data from different data sources into HDFS and HBase using Apache Flume.
+
+	Fetching the live stream data from DB2 to Hbase table using Spark Streaming and Apache Kafka.
+
+	Involved in complete Big Data flow of the application starting from data ingestion from upstream to HDFS, processing the data into HDFS using Spark Streaming.
+
+	Using Flume to handle streaming data and loaded the data into Hadoop cluster.
+
+	Integrating Kafka with Spark streaming for high speed data processing.
+
+	Developed Spark code using Scala and Spark-SQL/Streaming for faster processing of data.
+
+	Created modules for Spark streaming in data into Data Lake using Storm and Spark.
+
+	Configured Spark Streaming to receive real time data and store the stream data to HDFS.
+
+	Extract Real time feed using Kafka and Spark Streaming and convert it to RDD and process data in the form of Data Frame and save the data as Parquet format in HDFS.
+
+	Performed ETL operations between Data Warehouse and HDFS.
+
+	Migrated data from RDBMS for streaming or static data into the Hadoop cluster using Hive, Pig, Flume and Sqoop.
+
+	Expert in migrating streaming or static RDBMS data into Hadoop cluster from dynamically-generated files using Flume and Sqoop.
+
+	Successfully loaded files to Hive and HDFS from Oracle, SQL Server using SQOOP.
+
+	Captured data and importing it to HDFS using Flume and Kafka for semi-structured data and Sqoop for existing relational databases.
+
+	Worked with Linux systems and RDBMS database on a regular basis in order to ingest data using Sqoop.
+
+	Aggregation, queries and writing data back to OLTP system directly or through Sqoop.
+
+	Loaded RDBMS of large datasets to big data by using Sqoop.
+
+	Handled the data exchange between HDFS and different Web Applications and databases using Flume and Sqoop.
+
+	Successfully loaded files to HDFS from Teradata, and loaded from HDFS to HIVE.
+
+	Involved in transforming the relational database to legacy labels to HDFS, and HBASE tables using Sqoop and vice versa.
+
+	Wrote Flume and HiveQL scripts to extract, transform, and load the data into database.
+
+	
+
+	January 2013 - January 2014
+
+	DATA ADMINISTRATOR		
+
+	ESURANCE, San Francisco, CA
+
+	__________________________________________________________________________________________
+
+Marketing Analysis Framework
+
+Esurance’s target demographic was 25-to-49 year-olds who manage their lives online and ideally, are coupled or married and thus more likely to want auto or home insurance.  Esurance used big data analytics to determine its ideal target audience.  It is successfully using big data derived from social media to engage the target audience with highly effective social media marketing campaigns.  The platform to support this highly successful analytic activity is built on Hadoop and AWS cloud services.  As real-time social media sentiment analysis reveals changes in attitudes of the target market, the company builds new pipelines nimbly to capture and analyze specific niche areas ripe for marketing.  Current pipelines focused on text analysis and sentiment analysis.
+
+https://www.forbes.com/sites/kathleenchaykowski/2016/02/08/how-esurance-engineered-its-way-to-winning-the-hashtag-bowl/#310883f12783
+
+Worked on Reporting, Data extraction, Data cleansing, Replication, Data Mapping and Data uploading programs related to Retail and Ecommerce using ETL Tools.
+
+Performed continuous data integration from mainframe systems to Amazon S3, connected using Attunity ETL tool.
+
+Involved in transforming the relational database to legacy labels to HDFS, and HBASE tables using Sqoop and vice versa.
+
+Migrated complex MapReduce programs into Apache Spark RDD operations like transformations and actions.
+
+Developed MapReduce programs from scratch of moderate complexity.
+
+Wrote MapReduce code to process and parse data from various sources and store parsed data into HBase and Hive using HBase-Hive Integration.
+
+Developed and ran Map-Reduce jobs on YARN and Hadoop clusters to produce daily and monthly reports per requirements.
+
+Wrote Flume and HiveQL scripts to extract, transform, and load the data into database.
+
+Handled importing of data from various data sources, performed transformations and analysis using Hive and MapReduce.
+
+Handled the data exchange between HDFS and different Web Applications and databases using Flume and Sqoop.
+
+Aggregation, queries and writing data back to OLTP system directly or through Sqoop.
+
+Loaded and transformed large sets of structured, semi-structured, and unstructured data.
+
+Data transformation for proper scaling, decomposition, and aggregation of data.
+
+Responsible for installing and configuring Apache Hadoop and tools on the cloud.
+
+Managed, configured, tuned and continuous deployment of 80 Hadoop nodes in a Red Hat Enterprise edition 5; configured via the AWS console for 2 medium scale AMI instances for the Name Nodes
+
+Zookeepertarball, configured Zookeeper ensemble of 3 nodes in standalone and multi-node cluster
+
+Implemented custom logs for ZAB Zookeeper Atomic Broadcast; implemented a Zookeeper Watcher interface(Java API); installed, configured Ganglia - gmond, gmetad, gweb, set up multicast/UDP topologies and designed RDD files for high IO demand; set up the Web interface for grid/cluster/physical/host and node views; set up Ganglia advanced metric monitoring and debugging
+
+
+
+Education
+
+	James Madison University
+
+	Bachelor of Science Computer Science
+
+	Ad Hoc Training in Robotics
+
+	
+
+	Certifications
+
+	IBM – Big Data 
+
+	IBM – Hadoop 
+
+	IBM – Moving Data into Hadoop	
+
+JAROD A. BEARDSLEY  |   PHONE  (469) 472-2894  |  Email: Beardsleyjarod8@gmail.com

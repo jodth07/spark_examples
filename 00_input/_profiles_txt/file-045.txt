@@ -1,0 +1,419 @@
+Leon Li
+
+BIG DATA ENGINEER
+
+Phone: (203) 936-6943
+
+Email: xiangliangli101@gmail.com
+
+
+
+
+
+
+
+
+
+Leon Li
+
+(203) 936-6943
+
+xiangliangli101gmail.com
+
+
+
+5 years Big Data Engineering
+
+
+
+5 years I.T.
+
+
+
+
+
+
+
+Leon Li
+
+(203) 936-6943
+
+xiangliangli101gmail.com
+
+
+
+5 years Big Data Engineering
+
+
+
+5 years I.T.
+
+
+
+ 
+
+Summary of Qualifications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 years of experience engineering Big Data environments on premise and cloud environments using Amazon Web Services (AWS) for hosting cloud-based data warehouses, and databases using Redshift, Cassandra, and RDBMS sources.
+
+Develop custom pipelines for real-time or near Realtime data analysis using Spark, Spark Streaming and Kafka.
+
+Data ingestion, extraction and transformation using ETL processes developed using Hive, Sqoop, Kafka, Firehose, Flume, and Kinesis.
+
+Fluent in architecture and engineering of the Hadoop ecosystem.
+
+Implementation and management of data systems using Cloudera Hadoop, Hortonworks Hadoop, Hadoop on AWS cloud platform or on premise.
+
+Design and build big data architecture for unique projects, ensuring development and delivery of the highest quality, on-time and on budget.
+
+Significant contribution to the development of big data roadmaps.
+
+Creates and maintains environment configuration documentation for all pre-production environments
+
+Able to drive architectural improvement and standardization of the environments.
+
+Provides clear and effective testing procedures and systems to ensure an efficient and effective process.
+
+Design, development and system migration of high performant metadata-driven data pipeline with Kafka and Hive, providing data export capability through API and UI.
+
+Hands-on experience with AWS, EMR and S3.
+
+Dealing with multiple terabytes of mobile ad data stored in AWS using Elastic Map Reduce and Redshift Postgresql. 
+
+Experience working on various Cloudera distributions like (CDH 4/CDH 5), Knowledge of working on Hortonworks and Amazon EMR Hadoop distributors. 
+
+Good experience in working with cloud environment like Amazon Web Services (AWS) EC2 and S3.
+
+Experience working closely with operational data to provide insights and value to inform company strategy.
+
+
+
+
+
+Technical Skills
+
+PROGRAMMING
+
+Spark API, Scala, Java, Python, C, Assembly Language, UNIX Shell Scripting
+
+
+
+HADOOP
+
+Hive, MapReduce, Zookeeper, Yarn
+
+
+
+QUERY LANGUAGE
+
+SQL, HiveQL, Spark SQL, CQL
+
+
+
+SOFTWARE DEVELOPMENT
+
+Agile, Continuous Integration, Test-Driven Development, Unit Testing, Functional Testing, Gradle, Git, SVN, Jenkins, Travis, Jira, Maven
+
+
+
+DEVELOPMENT ENVIRONMENTS
+
+Jupyter Notebooks, PyCharm, IntelliJ, Eclipse, Netbeans, VScode
+
+
+
+AMAZON CLOUD
+
+Amazon AWS (EMR, EC2, EC3, SQL, S3, DynamoDB, Cassandra, Redshift, Cloud Formation)
+
+
+
+DATA REPOSITORIES
+
+HDFS, Data Warehouse, Data Lake, S3
+
+DATABASE
+
+Apache Cassandra & Hbase, AWS Redshift
+
+
+
+HADOOP DISTRIBUTIONS
+
+Cloudera, Hortonworks, Hadoop
+
+
+
+QUERY/SEARCH
+
+SQL, HiveQL, Spark SQL, Elasticsearch
+
+
+
+Frameworks
+
+Spark, Kafka, Spark Streaming
+
+
+
+Visualization
+
+Kibana, Tableau, PowerBI, Excel
+
+
+
+File Formats
+
+Parquet, Avro, Orc, JSON
+
+
+
+Data Pipeline Tools
+
+Apache Airflow, Apache Oozie, Nifi
+
+
+
+Admin Tools
+
+Cloudera Manager, Ambari, Zookeeper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Work Experience
+
+
+
+	BIG DATA ENGINEER	06/2018 - Present
+
+Traveler's Insurance
+
+Hartford, CT
+
+
+
+" I was in charge of the development team for Spark, building the skeleton for Spark Jobs using technologies like S3, to merge datasets using complex transformations. In charge of Hadoop Administrative tasks like security configuration, rack awareness, integration with multiple technologies to secure the Hadoop cluster, also creation of containerized applications using technologies to automate the process of instantiation.”
+
+
+
+Worked in an environment consisting of Linux RHEL 6/7 + Hortonworks 2.6/3.1 + DELL S3 + AWS S3 + Windows + Scala + Kubernetes + Docker. 
+
+Configured Linux on multiple Hadoop environments setting up Dev, Test, and Prod clusters within the same configuration 
+
+Create sudo files white and black listing to add additional layer of security to Hadoop environment 
+
+Design Spark Scala job to consume information from S3 Buckets 
+
+Define Spark data schema and set up development environment inside the cluster 
+
+Management of Spark-submit jobs to all environments 
+
+Monitor background operations in Hortonworks Ambari 
+
+HDFS Monitoring job status and life of the DataNodes according to the specs 
+
+Managed Zookeeper configurations and ZNodes to ensure High Availability on the Hadoop Cluster 
+
+Configure and set up of Ranger policy to handle security among the groups 
+
+Collaboration with the security management to Sync Kerberos with Knox 
+
+Managed hive connection with tables, databases and external tables 
+
+Setup ELK collections to all environments and replications of shards 
+
+Create standardized documents for company all usage 
+
+Work one on one with clients to resolve issues regarding Spark jobs submissions 
+
+Implemented Hortonworks medium and low recommendations on all environment 
+
+Use Jira for ticketing system 
+
+Use Trello for tracking task and Kanban 
+
+Work using Agile methodology to utilize tasks and delegated between team members 
+
+Lead development by managing and coaching not spark developers in the Hadoop team 
+
+Work with Docker containers launching spark applications with Scala 
+
+Develop a proof of concept to benchmark Kubernetes and Dockers 
+
+Pushing containers into AWS ECS
+
+Use Scala to connect to EC2 and push files to AWS S3 
+
+Work with off-shore team to troubleshoot Oozie jobs, ELK, Hive, Ranger in all environment
+
+
+
+	BIG DATA/AWS ENGINEER 	05/2017 - 06/2018
+
+Bloomin' Brands
+
+Tampa, FL
+
+
+
+" I was working on a project that allows the company to track data about their sourced and transported goods. We also used Kinesis and AWS EMR to do sentiment analysis on Social Media and visualize it using AWS ELK.”
+
+
+
+Worked on AWS Cloud Formation templates for using Terraform with existing plugins. 
+
+Used AWS Cloud Formation to ensure successful deployment of database.
+
+Sqoop to import/export data from database to HDFS and Data Lake on AWS.
+
+Implemented Spark in EMR for processing Big Data across our Data Lake in AWS System.
+
+Developed Docker images to support Development and Testing Teams and their pipelines and distributed images like Jenkins, Selenium, JMeter and ElasticSearch, Kibana and Logstash (ELK) and handled the containerized deployment using Kubernetes.
+
+Installed, configured and managed the ELK (Elasticsearch, Logstash and Kibana) for Log management within AWS EC2 /Elastic Loabalancer for Elasticsearch Involving in cloud automation with configuration management system Ansible.
+
+Implemented usage of Amazon EMR for processing Big Data across Hadoop Cluster of virtual servers on Amazon Elastic Compute Cloud (EC2) and Amazon Simple Storage Service (S3)
+
+Configured AWS IAM and Security Group as per requirement and distributed them as groups into various availability zones of the VPC.
+
+Worked on architecting Serverless design using AWS API, Lambda, S3 and Dynamo DB with optimized design with Auto scaling performance.
+
+Populated database tables via AWS Kinesis Firehose and AWS Redshift.
+
+Led many critical on-prem data migration to AWS cloud, assisting the performance tuning and providing successful path towards Redshift Cluster and AWS RDS DB engines.
+
+Setup the scala scripts to create the snapshots on AWS S3 buckets and delete the old snapshots.
+
+Worked on AWS S3 bucket integration for application and development projects.
+
+Experience in managing and reviewing Hadoop log files in AWS S3.
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	BIG DATA DEVELOPER 	02/2016 – 05/2017
+
+AnswerLab
+
+San Francisco, CA
+
+
+
+Wrote incremental imports into Hive tables.
+
+Created Dataframe to store the processed results in a tabular format.
+
+Installed Oozie workflow engine to run multiple spark Jobs.
+
+Wrote Spark SQL queries and optimized the Spark queries with Spark SQL.
+
+ETL to Hadoop file system (HDFS) and wrote Spark UDFs.
+
+Experienced in importing real-time logs to HDFS using Flume.
+
+Created UNIX shell scripts to automate the build process, and to perform regular jobs like file transfers.
+
+Hortonworks used for installation of Hortonwork Cluster and performance monitoring.
+
+Made incremental imports to Hive with Sqoop.
+
+Managed Hadoop clusters and check the status of clusters using Ambari.
+
+Moved Relational Database data using Sqoop into Hive Dynamic partition tables using staging tables.
+
+Initiated data migration from/to traditional RDBMS with Apache Sqoop.
+
+Developed scripts to automate the workflow processes and generate reports.
+
+
+
+
+
+	
+
+	HADOOP DEVELOPER	11/2014 – 02/2016
+
+KeyCorp
+
+Cleveland, OH
+
+
+
+Monitored workload, job performance and capacity planning using Ambari.
+
+Monitored job performances, file system/disk-space management, cluster & database connectivity, log files, management of backup/security and troubleshooting various user issues.
+
+Installed and configured Hortonworks Hadoop (HDP) cluster, using Hortonworks Ambari for easy management of existing cluster.
+
+Inform and recommend cluster upgrades and improvements to functionality and performance.
+
+Setup, configuration and management of security for Hortonworks Hadoop clusters using Kerberos and integration of Ranger at an Enterprise level.
+
+Worked on tickets related to various Hortonworks Hadoop/Big data services which include HDFS,  Yarn, Hive, Sqoop, Spark, Kafka, HBase, Kerberos, Ranger, Knox.
+
+Developed Oozie workflow for scheduling and orchestrating the ETL process within the Hortonworks Hadoop system.
+
+Performed cluster tuning and ensured high availability.
+
+Cluster coordination services through Zookeeper and Kafka.
+
+Configure Yarn capacity scheduler to support various business SLA's.
+
+
+
+
+
+Education
+
+BACHELOR OF SCIENCE IN COMPUTER ENGINEERING
+
+Michigan Technological University
+
+Location Houghton, Michigan
+
+
+
+Certifications
+
+Hadoop Fundamentals IBM 
+
+Big Data Fundamentals IBM

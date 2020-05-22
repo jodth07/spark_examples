@@ -1,0 +1,672 @@
+VINCENT NWOBODO  |  Phone: 978-708-1080  |   Email:  vincent.nwobodo888@gmail.com
+
+
+
+Vincent Nwobodo
+
+SENIOR HADOOP ENGINEER
+
+
+
+
+
+Vincent Nwobodo
+
+SENIOR HADOOP ENGINEER
+
+
+
+
+
+PROJECT SUMMARY
+
+
+
+PROJECT SUMMARY
+
+
+
+ANALYSIS
+
+DASHBOARD
+
+ANALYSIS
+
+DASHBOARD
+
+DATA CLEANING
+
+TRANSFORMING
+
+DATA CLEANING
+
+TRANSFORMING
+
+ARCHITECTURE
+
+SCRIPTING
+
+ARCHITECTURE
+
+SCRIPTING
+
+
+
+
+
+
+
+
+
+MCGRAW-HILL EDUCATION // Boston, MA
+
+SENIOR BIG DATA ENGINEER
+
+
+
+HOME DEPOT // Atlanta, GA
+
+SENIOR BIG DATA ENGINEER
+
+
+
+FOOT LOCKER // New York, NY
+
+BIG DATA / HADOOP ENGINEER
+
+
+
+KOMODO Health // San Francisco, CA
+
+HADOOP ENGINEER
+
+
+
+CARGILL // Minnetonka, MN
+
+HADOOP SYSTEM ADMINISTRATOR
+
+
+
+
+
+
+
+MCGRAW-HILL EDUCATION // Boston, MA
+
+SENIOR BIG DATA ENGINEER
+
+
+
+HOME DEPOT // Atlanta, GA
+
+SENIOR BIG DATA ENGINEER
+
+
+
+FOOT LOCKER // New York, NY
+
+BIG DATA / HADOOP ENGINEER
+
+
+
+KOMODO Health // San Francisco, CA
+
+HADOOP ENGINEER
+
+
+
+CARGILL // Minnetonka, MN
+
+HADOOP SYSTEM ADMINISTRATOR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Big Data Engineering with strong understanding of Hadoop big data architectures, data movement technologies, database partitioning, database optimization, and building communication channels between structured and unstructured databases; cloud technologies and tools.
+
+
+
+5 Years Big Data Engineering
+
+5 Years Information Technology
+
+
+
+Big Data Engineering with strong understanding of Hadoop big data architectures, data movement technologies, database partitioning, database optimization, and building communication channels between structured and unstructured databases; cloud technologies and tools.
+
+
+
+5 Years Big Data Engineering
+
+5 Years Information Technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+EDUCATION
+
+EDUCATION
+
+
+
+
+
+
+
+MASTER DEGREE IN COMPUTER INFORMATION SYSTEMS
+
+University of Michigan, Flint
+
+Flint, Michigan
+
+
+
+BACHELOR OF SCIENCE IN INFORMATION SYSTEMS
+
+American University
+
+Nigeria
+
+
+
+TRAINING
+
+AWS Associate
+
+
+
+
+
+
+
+
+
+MASTER DEGREE IN COMPUTER INFORMATION SYSTEMS
+
+University of Michigan, Flint
+
+Flint, Michigan
+
+
+
+BACHELOR OF SCIENCE IN INFORMATION SYSTEMS
+
+American University
+
+Nigeria
+
+
+
+TRAINING
+
+AWS Associate
+
+
+
+
+
+
+
+
+
+
+
+1- 978-708-1080 
+
+1- 978-708-1080 
+
+
+
+
+
+vincent.nwobodo888@gmail.com
+
+vincent.nwobodo888@gmail.com
+
+
+
+Atlanta, GA
+
+
+
+Atlanta, GA
+
+
+
+
+
+
+
+
+
+
+
+PROFESSIONAL SKILLS
+
+
+
+PROFESSIONAL SKILLS
+
+
+
+
+
+LEADERSHIP
+
+PROJECT MGMNT
+
+COMMUNICATION
+
+LEADERSHIP
+
+PROJECT MGMNT
+
+COMMUNICATION
+
+
+
+PROFESSIONAL SUMMARY
+
+
+
+PROFESSIONAL SUMMARY
+
+
+
+Experience working in Hadoop-as-a-Service (HAAS) environments with SyncSort-DMX-H, subversion (SVN), and SQL and NoSQL databases
+
+Experience with Hadoop Big Data infrastructure for batch data processing and real-time data processing. 
+
+Design and build scalable Hadoop distributed data solutions using native, Cloudera and Hortonworks, Spark, and Hive.
+
+Experienced in Ansible, Jenkins, and PySpark.
+
+Write Hadoop streaming applications with Spark Streaming and Kafka.
+
+Handling of large datasets using partitions, Spark in-memory capabilities, broadcasts, joins, transformations in the ingestion process.
+
+Experienced in Amazon Web Services (AWS), and cloud services such as EMR, EC2, S3, EBS and IAM entities, roles, and users.
+
+Importing real-time logs to Hadoop Distributed File System (HDFS) using Flume.
+
+Performance tuning of Spark jobs in Hadoop for setting batch interval time, level of parallelism, and memory tuning, and changing the configuration properties, and using broadcast variables.
+
+Administration of Hadoop cluster(CDM); review of log files of all daemons.
+
+Skilled in phases of data processing (collecting, aggregating, moving from various sources) using Apache Flume and Kafka.
+
+Experience in Hadoop ecosystems with database and ETL.
+
+Design and build big data architecture for unique projects, ensuring development and delivery of the highest quality, on-time and on budget.
+
+Significant contribution to the development of big data roadmaps.
+
+Creates and maintains environment configuration documentation for all pre-production environments
+
+Able to drive architectural improvement and standardization of the environments.
+
+Provides clear and effective testing procedures and systems to ensure an efficient and effective process.
+
+Expertise in Storm for reliable real-time data processing capabilities to Enterprise Hadoop. 
+
+Extending HIVE and PIG core functionality by using custom User Defined Function's (UDF), User Defined Table-Generating Functions (UDTF) and User Defined Aggregating Functions (UDAF) for Hive and Pig. 
+
+Good Knowledge on Spark framework on both batch and real-time data processing. 
+
+Hands-on experience processing data using Spark Streaming API with Scala.
+
+Clearly documents big data systems, procedures, governance and policies.
+
+
+
+
+
+
+
+
+
+
+
+
+SKILLS SUMMARY
+
+
+
+SKILLS SUMMARY
+
+
+
+
+
+Apache
+
+Apache Drill, Apache Kafka, Apache MAVEN, Apache Oozie, Apache Pig, Apache Hue, Apache Sqoop, Apache Flume, Apache Hadoop, Apache HBase, Apache HCatalog, Apache Ant, Apache Cassandra, Apache Lucene, Apache SOLR, Apache Airflow, Apache Camel, Apache Mesos, Apache Tez, Apache ZooKeeper
+
+BI Visualization 
+
+Kibana, Tableau
+
+Programming
+
+C++, Visual Basic,  JavaScript, R
+
+
+
+Development
+
+Drupal, UX Design
+
+File Types
+
+XML, Ajax, JSON, Avro, Parquet, ORC
+
+APIs
+
+Spark API, REST API, SOAP API
+
+Development
+
+Agile, Kanban, Scrum, Continuous Integration, TDD, Unit Testing, Functional Testing, Design Thinking, Lean, Six Sigma
+
+Security & Forensics
+
+SQL Injection, Data FTK imager, XXS
+
+Soft Skills
+
+Communication, Collaboration, Customer Service, Help Desk, Mentoring, Reviewing
+
+
+
+Big Data
+
+RDDs, UDFs, Data Frames, Datasets, Pipelines, Data Lakes, Data Warehouse, Data Analysis
+
+Hadoop
+
+Hadoop, HDFS, Hadoop YARN, Hortonworks, Cloudera, Impala
+
+Spark & Hive
+
+Apache Spark, Spark Streaming, Spark MLlib, GraphX, Apache Hive, Hive QL
+
+Database
+
+Redshift, ArangoDB, Cassandra, HBase, MongoDB, SQL, NoSQL, MySQL, RDBMS, Access, Oracle
+
+File Management
+
+HDFS, Snappy, Gzip, DAS, NAS, SAN
+
+Cloud Services & Distributions
+
+AWS, Azure, Anaconda Cloud, Elasticsearch, Solr, Lucene, Cloudera, Databricks, Hortonworks, Elastic.  Cloud Foundry, Elastic Cloud
+
+Software
+
+Microsoft Office Suite, Peoplesoft, WEKA, PandaDoc
+
+Operating Systems
+
+Linux/UNIX, Windows
+
+Virtualization & Network
+
+SQL Injection, Data FTK imager, WAN/LAN, TCP/IP, Routing, VMware, VirtualBox, OSI Model
+
+
+
+
+
+
+
+PROFESSIONAL EXPERIENCE
+
+
+
+PROFESSIONAL EXPERIENCE
+
+
+
+
+
+	SENIOR BIG DATA ENGINEER	February 2019 – Present
+
+	McGraw-Hill Education, Boston, MA
+
+	Open Learning data migration – all McGraw-Hill data was stored in old legacy systems and that data needed to be consolidated and migrated into the new Open Learning ecosystem. This involved building streaming pipelines to stream this data into DataMarts.
+
+Worked in a Databricks environment on AWS using Spark.
+
+Migrated data stored in old legacy systems that used batch ETL jobs to load data to streaming pipelines that stream real-time events and store them in DataMart.
+
+Used Databricks, Jenkins, CircleCI, IntelliJ IDEA, third-party tools in software development.
+
+Transferred Data from Data Lake comprised of AWS buckets where the raw events are stored into DataMart which is loaded via Spark streaming pipelines.
+
+Used Databricks running Spark Scala for event processing and transformations on event data.
+
+Loaded the transformed data into staging tables for data analysis with database functions.  
+
+Followed Agile Scrum processes for Software Development Lifecycle (SDLC) with 2-week Sprints and daily 30-minute standups (Scrums).
+
+All relevant documentation created and recorded in Confluence pages. 
+
+Tasks, sprints, stories and backlog management tracked using Jira Agile development software.  
+
+Major contributions included design, code, configuration and documentation for components that manage data ingestion, real time streaming, batch processing, data extraction and transformation.
+
+Building Zero-Down-Time Spark Scala pipelines that ingest data from McGraw-Hill software products.
+
+Built data ingestion and processing pipelines with Spark on Databricks.
+
+Built complex SQL functions to fetched data and returned results used in reports and other API’s.
+
+Technologies:  Spark, Spark Streaming, Spark SQL, Spark Scala, Databricks, AWS, S3, SQL, SumoLogic, ETL, DataMart, IntelliJ IDEA, AWS Buckets, Jenkins, CircleCI, SDLC, Agile Scrum, SQL, Jira, Confluence
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	SENIOR BIG DATA ENGINEER	August 2017 – February 2019
+
+	Home Depot, Atlanta, GA
+
+Imported data from AWS S3 and into Spark RDD and performed transformations and actions on RDD’s.
+
+Utilized Amazon Web Services (AWS) Cloud services like EC2, S3, EBD, RDS and VPC.
+
+Used Spark-SQL to Load JSON data and created Schema RDD and loaded it into Hive Tables and handled Structured data using SparkSQL.
+
+Involved in HBASE setup and storing data into HBASE, which will be used for analysis.
+
+Loaded data into spark RDD and do in memory data computation to generate the Output response.
+
+Implemented Spark using scala and SparkSQL for faster testing and processing of data.
+
+Used Spark API over Hortonworks Hadoop YARN to perform analytics on data in Hive.
+
+Designed and created Hive external tables using shared meta-store instead of Derby with partitioning, dynamic partitioning and buckets.
+
+Created solutions to transform data from various sources and load it into platforms such as Hadoop, Snowflake to create a data lake.
+
+Configured SQL database to store Hive metadata.
+
+Installed and configured Apache Hadoop and Hive environment on the prototype server.
+
+Loaded unstructured data into Hadoop File System (HDFS).
+
+Excellent understanding of Hadoop Architecture and underlying Hadoop framework including Storage Management.
+
+Worked on analyzing Hadoop cluster and different big data analytic tools including MapReduce, Hive,  HDFS, Spark, Kafka and Apache NiFi.
+
+Experience in importing and exporting data using Sqoop 1.99.7 from HDFS to RDBMS and vice-versa.
+
+Experience in analyzing data using HiveQL 2.1.1 and custom MapReduce programs in Java.
+
+Hands on experience in Linux Shell Scripting. Worked with Big Data distribution Cloudera.
+
+Developed complete end-to-end Big Data processing in Hadoop eco system.
+
+Developed spark code using Scala and Spark-SQL/Streaming for faster processing of data.
+
+Created Hive Schemas using performance techniques like partitioning and bucketing.
+
+Imported data from different sources like HDFS/Hbase 0.94.27 to Spark RDD.
+
+Developed MapReduce program to extract and transform the data sets and resultant dataset were loaded to Hbase and vice-versa using Kafka 2.0.x.
+
+
+
+
+
+	BIG DATA ENGINEER	May 2016 – August 2017
+
+	Foot Locker, New York, NY
+
+Responsible for that day-to-day operation and support of Hadoop environments.
+
+Collaborate with Corporate IT function around integrating Hadoop ecosystems with critical enterprise systems.
+
+Responsible for development and management of all cluster related testing activities.
+
+Responsible for creating roadmaps for ongoing cluster deployment and growth.
+
+Function as expert consulting resources around Hadoop integration points with any ETL and BI teams.
+
+Setup, installed, and monitored 3-node enterprise Hadoop cluster on Ubuntu Linux
+
+Analyzed and interpreted transactions behaviors and clickstream data with Hadoop and HDP to predict what customers might buy in the future.
+
+Implemented Hadoop data pipeline to identify customer behavioral patterns, improving UX on e-commerce website.
+
+Develop MapReduce jobs in Java for log analysis analytics and data cleaning.
+
+Perform big data processing using Hadoop, MapReduce, Sqoop, Oozie and Impala.
+
+Import data from MySQL to HDFS, using Sqoop to load data.
+
+Analyze Hadoop clusters using big data analytic tools including Hive, and MapReduce.
+
+Conduct in-depth research on Hive to analyze partitioned and bucketed data.
+
+Leveraged Sqoop to import data from RDBMS into HDFS.
+
+Integrated Hadoop into traditional ETL, accelerating the extraction, transformation, and loading of massive structured and unstructured data.
+
+Loaded unstructured data (Log files, XML data) into HDFS using flume.
+
+Used Hive to analyze partitioned and bucketed data and compute various metrics for reporting.
+
+
+
+	BIG DATA ENGINEER	February 2015 – May 2016
+
+	KOMODO Health, San Francisco, CA
+
+Building large-scale and complex data processing pipelines.
+
+Solid experience with Apache Spark data structures, critical features and performance tuning.
+
+Cluster and configuration management systems, like Docker and Kubernetes
+
+Amazon AWS services (EC2, S3, RDS etc)
+
+Analyze Hadoop clusters using big data analytic tools including Hive, and MapReduce.
+
+Developed Spark code using Scala and Spark-SQL/Streaming for faster processing of data.
+
+Used Spark-SQL to Load JSON data and created Schema RDD and loaded it into Hive Tables and handled Structured data using SparkSQL.
+
+Used Spark API over Hortonworks Hadoop YARN to perform analytics on data in Hive.
+
+Worked on analyzing Hadoop cluster and different big data analytic tools including MapReduce, Hive, HDFS, Spark, Kafka and Apache NiFi.
+
+Responsible for development and management of all cluster related testing activities.
+
+Excellent understanding of Hadoop Architecture and underlying Hadoop framework including Storage Management.
+
+
+
+	HADOOP SYSTEM ADMINISTRATOR	November 2013 – February 2015
+
+	Cargill, Minnetonka, Minnesota
+
+Helped the team to increase cluster size from 16 nodes to 52 nodes. The configuration for additional data nodes managed by using Puppet.
+
+Installed, Configured and deployed a 30 node Cloudera Hadoop cluster for development and production
+
+Worked on setting up high availability for major production cluster and designed for automatic failover.
+
+Performance tune Hadoop cluster to achieve higher performance.
+
+Configured Hive meta store with MySQL, which stores the metadata of Hive tables
+
+Configured Flume for efficiently collecting, aggregating and moving large amounts of log data.
+
+Enabled Kerberos for Hadoop cluster Authentication and integrate with Active Directory for managing users and application groups. Used Ganglia and Nagios for monitoring the cluster around the clock.
+
+Wrote Nagios plugins to monitor Hadoop NameNode Health status, number of Task trackers running, number of Data nodes running.
+
+Designed and implemented a distributed network monitoring solution based on Nagios and Ganglia using puppet.
+
+Developed multiple MapReduce jobs in java for data cleaning and preprocessing.
+
+ Developed HIVE queries and UDFs to analyze in HDFS and Performed Analyzing/Transforming data with Hive and Pig.
+
+Performed various configurations, which includes, networking and IPTable, resolving hostnames, user accounts and file permissions, http, ftp, SSH keyless login. Moved data from HDFS to RDBMS and vice-versa using SQOOP.
+
+Worked with the Linux administration team to prepare and configure the systems to support Hadoop deployment
+
+Created volume groups, logical volumes and partitions on the Linux servers and mounted file systems on the created partitions.
+
+Upgraded the Hadoop cluster from cdh3 to cdh4. Designed and allocated HDFS quotas for multiple groups.
+
+Implemented Fair scheduler on the job tracker to allocate the fair amount of resources to small jobs.
+
+Implemented Kerberos for authenticating all the services in Hadoop Cluster.
+
+Deployed Network file system for Name Node Metadata backup.
+
+Configured and deployed Hive metastore using MySQL and thrift server.
+
+Environment: Hadoop, HDFS, Map Reduce, Hive Pig, Sqoop, Oozie, HBase, Linux, Java, Xml.

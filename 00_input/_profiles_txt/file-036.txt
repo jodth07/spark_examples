@@ -1,0 +1,305 @@
+Luke T Richter
+
+BIG DATA ENGINEER
+
+
+
+(470) 407-2467
+
+lukerichterr@gmail.com
+
+
+
+Luke T Richter
+
+BIG DATA ENGINEER
+
+
+
+(470) 407-2467
+
+lukerichterr@gmail.com
+
+
+
+
+
+
+
+5 years’ experience in Big Data Engineering
+
+5 years’ experience in Big Data Engineering
+
+	Professional Profile
+
+	5 years total experience I.T. in Data Systems with the last 5 Years’ Experience in Big Data Architecture and Engineering; 
+
+	Experience in a variety of industries including Healthcare and Finance; Familiar with PCI and PII regulations.
+
+	Experience in large scale distributed systems with extensive experience as Hadoop Developer and Big Data Analyst.
+
+	Primary technical skills in Spark, Spark Streaming, SparkSQL, Kafka, Kibana
+
+	Hadoop experience hands-on with HDFS, YARN, Hive, Sqoop, HBase, Flume, Oozie, Zookeeper.
+
+	Works as team member, individual contributor or team lead providing mentoring to engineers.
+
+	Liaison for team with stakeholders, business units, data scientists/analysts and making sure all teams collaborate smoothly. 
+
+	Hands-on extracting and generating statistical analysis using Business Intelligence tools and data visualization tools like Tableau for data analysis.
+
+	Facilitation of meetings following Scrum processes such as Sprint Planning, Backlog, Sprint Retrospective, Requirements Gathering and providing planning and documentation for project; ensuring project is on track with stakeholders requirements.
+
+Worked with Parquet, Avro, and ORC file formats.
+
+	Knowledgeable of Hadoop Architecture and various components such as HDFS, Job Tracker, Task Tracker, Name Node, Data Node and legacy systems using MapReduce.
+
+	Used Apache Hadoop HDFS/S3 for creating data lakes for large disparate data sets. 
+
+	Familiar with Hive's analytical functions, extending Hive core functionality by writing custom UDFs.
+
+	Hands-on work with databases like Cassandra and writing SQL, PL/SQL for creating tables, views, indexes, stored procedures and functions.
+
+	Hands-on experience developing PL/SQL Procedures and Functions and SQL tuning of large databases.
+
+	Importing and exporting Terabytes of data between HDFS and Relational Database Systems using Sqoop.
+
+	ETL from databases such as SQL Server and Oracle11G to Hadoop HDFS in Data Lake.
+
+	
+
+	Technical Skills Profile
+
+
+
+Programming/Scripting, etc. █████████
+Spark, Spark Streaming, Spark, Spark SQL, Scala, Python, PySpark, PyTorch, Java, JavaScript, SQL, Hive QL, MapReduce, Shell scripting, Ruby, Groovy, C#, C++, C
+
+Misc Development █████████
+
+AWS, EC2, EBS, Softlayer, PostgreSQL, MySQL, SQL Server, DNS, Flask, RESTful, LAMP, node.js, Grails, Ruby on Rails, Git, Redis, RabbitMQ, Chef, Jenkins, Gitlab, Cron jobs, Bash Shell, ASP.NET
+
+Database/Datastore █████████
+S3, RedShift, Hadoop HDFS, Apache Cassandra, Apache Hbase, Hive QL, Spark
+
+Query Language █████████
+Hive QL, Spark SQL, SQL, CQL
+
+Data Visualization █████████
+Kibana, Tableau, PowerBI, Excel
+
+Hadoop Distributions █████████
+Hadoop, Cloudera Hadoop (CDH), Hortonworks Hadoop (HDP)
+
+Amazon Cloud Platform (AWS) █████████
+AWS RDS, AWS EMR, AWS Redshift, AWS S3, AWS Lambda, AWS Kinesis, AWS ELK, AWS EC2, AWS IAM, AWS CloudFormation
+
+Elastic █████████
+Elasticsearch, Elastic MapReduce, ELK Stack (Elasticsearch, Logstash, Kibana)
+
+Hadoop Components █████████
+Apache Flume, Ranger, Ambari, Yarn, Cluster Management, Cluster Security, Zookeeper, Oozie, AirFlow
+
+
+
+	
+
+	Professional Experience
+
+	
+
+	The Coca-Cola Company 	May 2018- Present
+
+	Big Data Engineer 	Atlanta, GA
+
+	Worked as a big data developer, where I leveraged various AWS services to build and developed complex Big Data pipelines. These pipelines were used to analyze drink sales in relation to social media ads (particularly Twitter and YouTube.) Several Kafka producers were built to ingest ad click data. I leveraged EMR clusters to ingest data from Kinesis. We analyzed data to find which cities and regions have people that are more likely to buy our drinks. We built heat maps and other dashboard visuals for the end user. The end user then uses the dashboards to target which cities and regions to focus sales on.
+
+	Implemented applications on Hadoop/Spark on Kerberos secured cluster.
+
+	Worked on streaming the processed data to RedShift using EMR/Spark to make it available for visualization and report generation by the BI team.
+
+	Used Kinesis with Spark streaming for high speed data processing.
+
+	Moved data to EMR cluster where the data is set to go live on the application using Kinesis.
+
+	Applied the latest development approaches including applications in Spark using Scala. Integrated Spark code into the SDLC with the CI/CD pipeline using Jenkins CI with GitLab.
+
+	Spark SQL to create real-time processing of structured data with Spark Streaming processed through micro-batching.
+
+	Handled structured data with Spark SQL to process in real time from Spark micro-batching.
+
+	Spark jobs, Spark SQL and Data Frames API to transform structured data into EMR.
+
+	Created Kafka cluster which uses a schema to send structured data via micro-batching.
+
+	Developed a Spark streaming service to receive real time data using Kibana.
+
+	Played a key role in installation and configuration of the various Big Data ecosystem tools such as (ELK) Elastic Search, Logstash, Kibana, Kafka and Cassandra.
+
+	Log monitoring and generating visual representations of logs using ELK stack. Implement CI/CD tools Upgrade, Backup and Restore.
+
+	Coordinated Kafka operation and monitoring with dev ops personnel; formulated balancing impact of Kafka producer and Kafka consumer message(topic) consumption.
+
+Implemented Hadoop cluster automation using Docker containers.
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+	Macy’s                                                                       April 2017 - May 2018
+
+	AWS Big Data Engineer	Cincinnati, Ohio
+
+	I worked as an AWS developer, were I leveraged various AWS services to create a big data pipeline. The purpose of this pipeline is to take data sources from our stores to create custom displays and sales that target a geographical region’s overall interests. AWS Lambdas and API calls were used to ingest the data into Apache Kafka. The data is then put into S3 buckets via Firehose. The data in these buckets is then consumed by EMR to perform ETL and Machine Learning. For hot data, the data is put in AWS RedShift. For long-term storage, data is ingested into Hive external tables and stored in S3 buckets. ElasticSearch and Kibana are used to display data from RedShift and Hive via Kibana dashboards for our end users. An ELK stack is used to ingest logs from all pipeline pieces to gain insights into pipeline health and performance.
+
+	Designed and Developed ETL jobs to extract data from AWS S3 and load it in Amazon Redshift.
+
+	Hands-on data extraction from different databases on AWS and scheduling Oozie workflows to execute the task daily.
+
+	Implemented data processing using Hadoop Cloudera distributions on AWS.
+
+	Worked on managing policies for S3 buckets and Glacier for storage and backup on AWS.
+
+	Migrated data from Hortonworks cluster to AWS EMR cluster.
+
+	Experience in working with Flume to load the log data from multiple sources directly into HDFS on AWS platform.
+
+	Responsible for Designing Logical and Physical data modelling for various data sources on Amazon Redshift.
+
+	Installed, configured, and tested AWS Lambda function workflows in Python
+
+	Responsible for continuous monitoring and managing Elastic MapReduce (EMR) cluster through AWS console.
+
+	Automated and defined Spark and AWS Best practices for future deployment.
+
+	Worked on Multiple AWS instances, set the security groups, Elastic Load Balancer and AMIs, Auto scaling to design cost effective, fault tolerant and highly available systems on AWS.
+
+	Configured Elastic search, Log stash and Kibana (ELK) for log analytics, full text search, application monitoring in integration with AWS Lambda and Cloud Watch.
+
+	Deploy Spark Jobs into AWS EMR.
+
+	Managed AWS Redshift clusters such as launching the cluster by specifying the nodes and performing the data analysis queries.
+
+	Created complex infrastructure of the pipeline using AWS Cloud Formation.
+
+	
+
+	
+
+
+
+
+
+	Lockheed Martin 	June 2016- April 2017
+
+	Data Engineer 	Atlanta, Georgia
+
+	In this position I worked extensively with large Hadoop and Spark clusters managing terabytes of data by creating a complex pipeline. Sensor data is ingested through Kafka and then into Spark Streaming. ETL is performed, and then the data is stored within Hive. Legacy data is imported into Hive using Sqoop. This legacy data is then processed in batch jobs with Hadoop. I was also responsible for performance optimizations for our clusters.
+
+	Used Hive Query Language (HQL) for getting customer insights, to be used for critical decision making by business users.
+
+	Handled importing of data from RDBMS into HDFS using Sqoop.
+
+	Import/export data from MySQL and Oracle into HDFS and HIVE using Sqoop.
+
+	Handled security of the cluster by administering Kerberos and Ranger services.
+
+	Used Unix shell scripting to automate common tasks.
+
+	Used Cloudera Manager for maintaining heathy cluster.
+
+	Collaborated with the Hadoop Team to add and decommission nodes from the Hadoop cluster 
+
+	Responsible for data loading techniques like Sqoop, Flume.
+
+	Experienced collecting real-time log data from different sources like webservers and social media using Flume, and storing in HDFS for further analysis.
+
+	Loaded data into HBase tables and Hive tables for consumption purposes.
+
+	Optimization of Hive tables and large sets of structured, semi structured, and unstructured data.
+
+	Performed Hive partitioning, bucketing, performing joins on Hive tables.
+
+	Installed Oozie workflow engine to run multiple jobs with Hive HQL.
+
+	Hands-on experience in working with job scheduling with Oozie.
+
+	Performed  Partitioning and bucketing to optimize Hive app.
+
+	Used HiveQL scripts to create and load data into diverse Hive tables
+
+	Worked with over 100 terabytes of data from data warehouse and over 1 petabyte of data from Hadoop cluster.
+
+	Created UNIX shell scripts to automate the build/test/deploy process, and to perform regular jobs like file transfers.
+
+	Job management using Airflow, and development of job processing scripts using Airflow workflow to run multiple Spark Jobs in sequence for processing data.
+
+	Responsible for performance optimization of clusters.
+
+	
+
+	
+
+	
+
+
+
+
+
+	Digital World’s Institute	May 2014 - June 2016
+
+	Data Developer	Gainsville, Florida
+
+	Developed a Big Data pipeline that streams Microsoft Kinect data through Kafka and into Spark with Spark Streaming. Machine Learning and ETL is performed, and the data is stored within Hive. Legacy data is imported into Hive via Sqoop, and then processed with Hadoop. An ELK stack was set up to give visualizations to the end user. 
+
+	
+
+Worked extensively with Kafka, Spark Streaming, Hive and ELK stack
+
+	Involved in implementing security on HDP Hadoop Clusters with Kerberos for authentication and Ranger for authorization and LDAP integration for Ambari and Ranger
+
+	Coordinated with monitors cluster upgrade needs, and monitored cluster health and builds proactive tools to look for anomalous behaviors.
+
+	Worked with cluster users to ensure efficient resource usage in the cluster and alleviate multi-tenancy concerns.
+
+	Set-up Kerberos for more advanced security features for users and groups.
+
+	Configure Yarn capacity scheduler to support various business SLA's.
+
+	Used Zookeeper and Oozie for coordinating the cluster and scheduling workflows.
+
+	Used Ambari to monitor workload, job performance and capacity planning.
+
+	Managed Hadoop clusters via Command Line, and Hortonworks Ambari agent.
+
+	Performed cluster and system performance tuning.
+
+	Integrated Maven build and designed workflows to automate the build and deploy process.
+
+	
+
+	Education
+
+Bachelor of Computer Engineering
+
+University of Florida
+
+	Gainesville, Florida
+
+
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |

@@ -1,0 +1,400 @@
+
+
+Hadoop Data Engineer
+
+I am a Hadoop data systems engineer with 8 years of professional experience
+focused in the medical and financial sectors.  I have a Bachelor’s degree
+in economics from Virginia State University, and an Associate degree in
+Database Management.    My expertise focuses on design and development of
+Hadoop ecosystem and Spark structures along with Hive, to collect and
+process data from various sources for analysis for use in continuous
+quality improvement, and risk management.  I have focused on Hadoop big
+data ecosystem design and development exclusively for the last 5 year.
+
+
+Professional Summary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technical Skills
+
+
+Database Management
+
+
+SQL, Oracle, MSQL, TOAD, NoSQL, RDBMS, Apache Cassandra, Apache Hbase in
+Hadoop big data ecosystems.
+
+
+File Systems & Formats
+
+Hadoop Distributed File System (HDFS); Avro, Parquet, ORC for Hadoop.
+
+
+Cloud Computing
+
+Amazon AWS, Microsoft Azure, Anaconda Cloud, Elasticsearch, Solr, Lucene,
+Cloudera, Databricks, Hortonworks
+
+
+Apache Frameworks
+
+Apache Hadoop Core, Apache Ant, Apache Flume, Apache YARN, Apache Hcatalog,
+Apache Hive, Apache Kafka, Apache MAVEN, Apache Oozie, Apache Pig, Apache
+Spark, Apache Tez, Apache ZooKeeper, Apache Airflow, Apache Camel, Apache
+Lucene, Apache SOLR, Apache Drill, Apache Hue
+
+
+Hadoop Distributions
+
+
+Apache Hadoop, Hortonworks Hadoop, Cloudera Hadoop
+
+
+Visualization and Reporting Tools
+
+Apache Kibana, Tableau, Microsoft Power BI
+
+
+
+
+Experience
+
+Hadoop Data Architect/Engineer    May 2016   Present
+EQ Health Solutions     Baton Rouge, LA
+Participated in managing big data solutions to help cut costs and improve
+care in the medical industry. Used Cloudera Distribution, Apache Sqoop,
+YARN, RDBMS, DataFrames, Apache Spark, Apache Oozie, Apache Kafka, HDFS,
+PIG, Sqoop, Oozie, ZooKeeper, Cloudera Manager, Sentry, Kerberos
+    • Employed Apache Spark, Spark API, and Spark streaming, creating
+      queries in Hadoop.
+    • Optimization of data storage using partitioning and bucketing
+      mechanisms on both the managed and external tables in Hadoop
+      distributed ecosystems.
+    • Import/export of data using Sqoop between Hadoop Distributed File
+      System (HDFS) to RDBMS database.
+    • Collect, aggregate, and move data from servers to Hadoop Distributed
+      File System (HDFS) using Apache Spark & Spark Streaming.
+    • Managed system security using Sentry, and administered Hadoop cluster
+      (Cloudera Distribution Hadoop) (CDH) and reviewed log files of all
+      daemons.
+    • Coding SQL statements for back end communication using JDBC.
+    • Debugging and fixing production issues in the Hadoop environment.
+    • Created conditional logics in pages using JSF tags and JSTL.
+    • Used Spark SQL and DataFrames API to load structured and semi
+      structured data into Spark Clusters.
+    • Migrated ETL jobs to Pig scripts for transformations, joins,
+      aggregations before Hadoop Distributed File System (HDFS).
+    • Hadoop data ingestion and Hadoop cluster handling in real time
+      processing using Kafka.
+    • Implemented workflows using Apache Oozie framework to automate Hadoop
+      system tasks.
+    • Performed both major and minor upgrades to the existing Cloudera
+      Hadoop cluster.
+    • High Availability of Name Node, Resource manager on the Hadoop
+      Cluster.
+    • Integrated Hadoop with Microsoft Active Directory and enabled Kerberos
+      for Authentication.
+    • Implemented YARN Resource pools to share resources of cluster for YARN
+      jobs submitted by users.
+    • Storage capacity management, performance tuning and benchmarking of
+      Hadoop clusters.
+    • Spark Steaming for performance tuning, e.g. setting right Batch
+      Interval time, correct level of Parallelism, selection of correct
+      Serialization & memory tuning to optimize performance of Hadoop
+      environment.
+    • Data ingestion using Flume with source as Kafka Source & sink as
+      Hadoop Distributed File System (HDFS).
+    • Dataset ETL between databases and Hadoop Distributed File System
+      (HDFS) using Sqoop.
+    • Disaster management with Hadoop cluster.
+    • Configured Spark streaming to receive real time data from Kafka and
+      store the stream data to Hadoop Distributed Files System (HDFS).
+Hadoop Data Architect/Engineer    May 2015 - May 2016
+QualMetrix  Miramar, FL
+Participated in large-scale Hadoop data analytics projects involving
+turnkey big data analytics solutions.  These solutions aimed at value-based
+healthcare to optimize provider networks and population health management.
+Worked with Hadoop ecosystem, Hadoop Distributed File System (HDFS), Hive,
+Spark, YARN, Kafka, Pig, MongoDB, Sqoop, Storm, Cloudera Hadoop and
+Cloudera Impala
+    • Partitioning, Dynamic Partitions, and Buckets in HIVE for increasing
+      performance and data organization.
+    • Oozie workflows used to run Hive and Pig jobs in Hadoop ecosystem for
+      data processing and analytics.
+    • Worked with Spark Context, Spark SQL, DataFrame and Pair RDDs in
+      Hadoop data processing.
+    • Used Hive, Spark SQL Connection to generate Tableau BI reports from
+      Hadoop Distributed File System (HDFS) data. From data lakes and
+      databases.
+    • Created Partitions, Buckets based on State to further process using
+      Bucket based Hive joins in Hadoop systems.
+    • Created Hive Generic UDF's to process business logic that varies based
+      on policy.
+    • Apache Kafka to transform Spark streaming with the batch processing to
+      generate reports based on Hadoop.
+    • Cassandra data modeling for storing and transformation in spark using
+      Datastax connector.
+    • Imported data into Hadoop Distributed File System (HDFS and Hive using
+      Sqoop and Kafka. Created Kafka topics and distributed to different
+      consumer applications.
+    • Spark SQL and DataFrames for faster execution of Hive queries using
+      Spark and AWS EMR.
+    • Developed various data connections from data sourced to SSIS, and
+      Tableau Server for report and dashboard development.
+    • Worked with clients to better understand their reporting and dashboard
+      needs and present solutions using structured Waterfall and Agile
+      project methodology approach.
+    • Developed metrics, attributes, filters, reports, dashboards and also
+      created advanced chart types, visualizations and complex calculations
+      to manipulate the Hadoop derived data.
+    • Design and develop ETL workflows in Hadoop using Python and Scala for
+      processing data in Hadoop Distributed File System (HDFS).
+    • Worked on importing the unstructured data into the Hadoop Distributed
+      File System (HDFS using Spark Streaming & Kafka, and wrote complex
+      Hive queries, Spark SQL queries and UDFs.
+    • Analyzed Hadoop cluster using big data analytic tools including Kafka,
+      Pig, Hive, Spark, Spark Streaming.
+    • Configured Spark streaming to receive real time data from Kafka and
+      store to Hadoop Distributed File System (HDFS).
+    • Implemented Spark using Scala and Spark SQL for faster analyzing and
+      processing of data in Hadoop.
+    • Built continuous Spark streaming ETL pipeline with Spark, Kafka,
+      Scala, HDFS and MongoDB.
+    • Import/export data into Hadoop Distributed File System (HDFS) and Hive
+      using Sqoop and Kafka.
+    • Involved in creating Hive tables, loading the data and writing Hive
+      queries in the Hadoop system.
+    • Wrote scripts in Pig and Hive to move the data files to/from Hadoop
+      Distributed File System (HDFS).
+    • Involved in converting Hive/SQL queries into Spark transformations
+      using Spark RDDs, Python and Scala.
+    • Worked with Amazon Web Services (AWS) and involved in ETL, Data
+      Integration and Migration. 
+    • Handled 20 TB of data volume with 120-node cluster in Production
+      environment.
+    • Loading data from diff servers to AWS S3 bucket and setting
+      appropriate bucket permissions.
+Hadoop Data Engineer   Jan 2014 - May 2015
+Humana      Louisville, KY
+Worked with Humana’s data analytics team in a project that focused on
+management of finances in care and insurance strategies.  Used Hadoop,
+Spark, Kafka, HDF, Oozie, Sqoop, MongoDB, Hive, Pig, Storm, Kafka, Hadoop,
+SQL, Acro, RDD. AWS, Cloud, MySQL, Informatica, Cassandra
+
+    • Deployed the application jar files into AWS instances.
+    • Tuning and operating Spark and its related technologies like Spark SQL
+      and Streaming.
+    • Used shell scripts to dump the data from MySQL to Hadoop Distributed
+      File System (HDFS.
+    • Used NoSQL databases like MongoDB in implementation and integration.
+    • Worked on streaming the analyzed data to Hive Tables using Sqoop for
+      making it available for visualization and report generation by the BI
+      team.
+    • Configured Oozie workflow engine scheduler to run multiple Hive, Sqoop
+      and Pig jobs.
+    • Consumed the data from Kafka queue using Storm.
+    • Used Oozie to automate/schedule business per the requirements.
+    • Used the image files of an instance to create instances containing
+      Hadoop installed and running.
+    • Developed a task execution framework on EC2 instances using SQL and
+      Cassandra DB.
+    • Designed a cost-effective archival platform for storing big data using
+      Hadoop, Spark, Spark Streaming, Kafka, Hive, Sqoop, and related
+      technologies.
+    • Connected various Hadoop data centers and transferred data between
+      them using Sqoop and various ETL tools.
+    • Extracted RDBMS data (Oracle, MySQL) to Hadoop Distributed File System
+      (HDFS using Sqoop.
+    • Used the Hive JDBC to verify the data stored in the Hadoop cluster.
+    • Used different file formats like text files, Sequence Files, Avro, and
+      loaded data from various data sources into Hadoop Distributed File
+      System (HDFS) using Kafka.
+    • Integrated Kafka with Spark Streaming for real time data processing in
+      the Hadoop system.
+    • Imported data from disparate sources into Spark RDD for processing.
+    • Built a prototype for real-time analysis using Spark streaming and
+      Kafka in Hadoop.
+    • Transferred data using Informatica tool from AWS.
+    • Involved in Design and Development of technical specifications using
+      Hadoop technologies.
+    • Involved load and transfer of large sets of structured, semi
+      structured and unstructured data.
+
+Hadoop Data Engineer   Aug 2012 - Dec 2013
+NTT Data    Plano, TX
+   NTT’s work focuses on next generation healthcare systems suing analytics
+   to drive better outcomes and lower costs.  Used Hadoop Cluster, Hadoop
+   Distributed File System (HDFS), Hive, Pig, Sqoop, Linux, HBase, Shell
+   Scripting, Eclipse, Oozie, Navigator.
+
+    • Installed and configured Pig for ETL jobs and made sure we had Pig
+      scripts with regular expression for data cleaning.
+    • Creating Hive external tables to store the Pig script output. Working
+      on them for data analysis in order to meet the business requirements.
+    • Moving data from Oracle to Hadoop Distributed File System (HDFS)  and
+      vice-versa using SQOOP.
+    • Collected and aggregated large amounts of log data using Apache Flume
+      and staging data in Hadoop Distributed File System (HDFS) for further
+      analysis.
+    • Used Sqoop to efficiently transfer data between databases and Hadoop
+      Distributed File System (HDFS)  and used Flume to stream the log data
+      from servers.
+    • Implemented partitioning, bucketing in Hive for better organization of
+      the data.
+    • Worked with different file formats and compression techniques to
+      determine standards.
+    • Developed data pipelines to process the data and create necessary
+      Files.
+    • Involved in loading the created Files into HBase for faster access of
+      all the products in all the stores without taking Performance hit.
+    • Used Zookeeper for providing coordinating services to the cluster.
+    • Responsible for building scalable distributed data solutions using
+      Hadoop.
+    • Used Oozie Scheduler system to automate the pipeline workflow and
+      orchestrate jobs that extract the data on a timely manner.
+    • Imported data using Sqoop to load data from MySQL and Oracle to Hadoop
+      Distributed File System (HDFS) on regular basis.
+    • Worked on installing cluster, commissioning, and decommissioning of
+      data node, NameNode recovery, capacity planning, and slots
+      configuration.
+    • Involved in production support, which involved monitoring server and
+      error logs, and foreseeing and preventing potential issues, and
+      escalating issue when necessary.
+    • Documented Technical Specs, Dataflow, Data Models and Class Models.
+    • Involved in gathering requirements and responsible for documenting
+      requirement, and project plan.
+    • Scheduled workflows using Zookeeper and Oozie.
+
+BI Developer     Sep 2010 - Jul 2012
+Aetna Health     Hartford, CT
+   Structured data to propel HR reporting and analytics capabilities
+   forward. Worked to understand information needs and build solutions to
+   deliver the key metrics to business decisions and expand the content of
+   the HR Data Warehouse. Used Maven, SQL, Oracle, XML.
+
+
+
+    • Worked with several clients with day to day requests and
+      responsibilities.
+    • Involved in analyzing system failures, identifying root causes and
+      recommended course of actions.
+    • Worked closely with peers, other business areas in and outside of HR,
+      senior leaders and AIS resources.
+    • Worked on Hive for exposing data for further analysis and for
+      generating transforming files from different analytical formats to
+      text files.
+    • Assisted in designing, building, and maintaining database to analyze
+      life cycle data events.
+    • Design and of large database systems: Oracle 8i and Oracle 9i, DB2,
+      PL, SQL.
+
+
+
+BI Developer     May 2008 - Aug 2010
+Blue Cross Blue Shield of North Carolina     Charlotte, NC
+Developed custom J2EE and EJB for custom analytical platforms in the
+healthcare industry.
+
+    • Involved in design phase meetings for Business Analysis and
+      Requirements gathering.
+    • Worked with business functional lead to review and finalize
+      requirements and data profiling analysis.
+    • Designed structured multi-source data solution to deliver the
+      dashboards and reports that make data actionable.
+    • Performed impact analysis of HR Data Warehouse and existing reports as
+      changes were proposed or implemented in source systems.
+    • Consulted with other teams to help identify solutions to solve
+      business needs while minimizing the impact to HR DW and other
+      applications.
+    • Responsible for the collection of new data and the refinement of
+      existing data sources to continually improve data quality.
+    • Supported data analysts by turning business requirements into
+      functional specifications and then executing delivery.
+    • Led the technical lifecycle of data presentation from data sourcing to
+      transforming into user-facing metrics.
+    • Worked with teams to translate business requirements into a data
+      model.
+    • Expanded the content of the HR Data Warehouse based on business needs
+    • Worked with IT teams to identify specifically how changes should be
+      implemented to ensure most reporting flexibility while minimizing
+      impact to other data/reports.
+    • Performed user acceptance testing as new content is being added to HR
+      Data Warehouse and hub common format files.
+    • Supported solutions by monitoring and fine-tuning queries and data
+      loads, addressing user questions concerning data integrity, monitoring
+      performance and communicating functional and technical issues.
+    • Evolving the HR Data Warehouse by working with IT and HR Leaders to
+      develop a strategic roadmap for Data Warehousing and BI.
+
+Education
+
+BACHELOR OF SCIENCE IN ECONOMICS, Virginia State University -
+ASSOCIATE OF SCIENCE IN ORACLE DATABASE MANAGEMENT, TechgigSolutions
+[pic]
+
+-----------------------
+    • Experienced in Amazon Web Services (AWS), and cloud services such as
+      EMR, EC2, S3, EBS and IAM entities, roles, and users.
+    • Importing real-time logs to Hadoop Distributed File System (HDFS)
+      using Flume.
+    • Performance tuning of Spark jobs in Hadoop for setting batch interval
+      time, level of parallelism, and memory tuning, and changing the
+      configuration properties, and using broadcast variables.
+    • Administration of Hadoop cluster(CDM); review of log files of all
+      daemons.
+    • Skilled in phases of data processing (collecting, aggregating, moving
+      from various sources) using Apache Flume and Kafka.
+    • Experience in Hadoop ecosystems with database and ETL.
+
+
+
+
+
+
+    • Experience working in Hadoop-as-a-Service (HAAS) environments with
+      SyncSort-DMX-H, subversion (SVN), and SQL and NoSQL databases
+    • Experience with Hadoop Big Data infrastructure for batch data
+      processing and real-time data processing.
+    • Design and build scalable Hadoop distributed data solutions using
+      native, Cloudera and Hortonworks, Spark, and Hive.
+    • Experienced in Ansible, Jenkins, and PySpark.
+    • Write Hadoop streaming applications with Spark Streaming and Kafka.
+    • Handling of large datasets using partitions, Spark in-memory
+      capabilities, broadcasts, joins, transformations in the ingestion
+      process.
+
+
+
+
+
+

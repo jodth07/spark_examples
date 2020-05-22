@@ -1,0 +1,388 @@
+Hadoop Big Data Engineer
+
+Email:  manishkathait484@gmail.com
+
+Phone: (703) 936-4058
+
+Hadoop Big Data Engineer
+
+Email:  manishkathait484@gmail.com
+
+Phone: (703) 936-4058
+
+Manish Kathait
+
+Manish Kathait
+
+
+
+
+
+Professional Profile
+
+6  years  of  professional  experience  in  providing  Analytics-based  business  solutions  using Hadoop ecosystem (Hadoop, Cloudera, Impala, Hortonworks) and cloud computing environments such as Amazon Web Services (AWS), Google Cloud and Microsoft Azure Cloud.
+
+Experience in recruiting/Human Resources data environments and Financial environments.
+
+Hadoop ecosystem and Big Data tools and frameworks.
+
+Ability to troubleshoot and tune relevant programming languages like SQL, Java, Python, Scala, PIG, Hive, RDDs, DataFrames & MapReduce. 
+
+Able to design elegant solutions through the use of problem statements.
+
+Accustomed to working with large complex data sets, real-time/near real-time analytics, and distributed big data platforms.
+
+Proficient in major vendor Hadoop distribution like Cloudera, Hortonworks, and MapR.
+
+Deep knowledge in incremental imports, partitioning and bucketing concepts in Hive and Spark SQL needed for optimization.
+
+Experience collecting log data from various sources and integrating it into HDFS using Flume; staging data in HDFS for further analysis.
+
+Experience collecting real-time log data from different sources like webserver logs and social media data from Facebook and Twitter using Flume, and storing in HDFS for further analysis.
+
+Experience deploying large multiple nodes of a Hadoop and Spark cluster.
+
+Experience developing Oozie workflows for scheduling and orchestrating the ETL process.
+
+Excellent knowledge on Hadoop Architecture and ecosystems such as HDFS, configuration of nodes, YARN, MapReduce, Sentry, Spark, Falcon, Hbase, Hive, Pig, Sentry, Ranger.
+
+Developed Scripts and automated end-end data management and sync between all the clusters.
+
+Strong hands on experience in Hadoop Framework and its ecosystem including but not limited to HDFS Architecture, MapReduce Programming, Hive, Pig, Sqoop, HBase, MongoDB, Cassandra, Oozie, Spark RDDs, Spark DataFrames, Spark Datasets, Spark MLlib, etc.
+
+Involved in building a multi-tenant cluster, with disaster management with Hadoop cluster.
+
+Hands on experience in installing, configuring Cloudera's and Horton distribution.
+
+Extending Hive and Pig core functionality by writing custom UDFs.
+
+Used Apache Flume to collect logs and error messages across the cluster.
+
+Solid understanding of statistical analysis, predictive analysis, machine learning, data mining, quantitative analytics, multivariate testing and optimization algorithms.
+
+Well versed in using Python and the packages like Numpy, Pandas, scikit-learn etc. For Data Modeling.
+
+Proficient in mapping business requirements, use cases, scenarios, business analysis, and workflow analysis. Act as liaison between business units, technology and IT support teams.
+
+
+
+Professional Skills
+
+PROGRAMMING/ SCRIPTING and Frameworks
+
+Java, C++, C#, C, Python, Scala, R, PIG/Pig Latin, Hive, HiveQL, MapReduce, UNIX, Shell scripting, LINUX, Ant, Yarn, Spark, Spark Streaming, Storm, Kafka
+
+DEVELOPMENT ENVIRONMENTS
+
+Eclipse, IntelliJ, NetBeans, PyCharm, Visual Studio, Atom, BlueJ
+
+SOFTWARE DEVELOPMENT
+
+Agile, Continuous Integration, Test-Driven Development, Unit Testing, Functional Testing, Gradle, Git, SVN, Jenkins, Travis, Jira, Puppet, Maven
+
+AMAZON CLOUD
+
+Amazon AWS (EMR, EC2, EC3, SQL, S3, DynamoDB, Cassandra, Redshift, Cloud Formation)
+
+DATABASE:  NoSQL: MongoDB, Firebase: SQL: SQL, MySQL, PostreSQL
+
+HADOOP DISTRIBUTIONS
+
+Cloudera, Hortonworks, MapR, Elastic
+
+QUERY/SEARCH
+
+SQL, HiveQL, Impala, Apache SOLR, Kibana, Elasticsearch
+
+Visualization Tools
+
+Tableau, Pentaho, Qlikview, 
+
+File Formats
+
+Parquet, Avro, Orc, JSON
+
+Data Pipeline Tools
+
+Apache Airflow, Apache Camel, Apache Flink/Stratosphere, Nifi
+
+Admin Tools
+
+Oozie, Cloudera Manager, Ambari, Zookeeper, Active Directory, PowerShell
+
+
+
+
+
+
+
+Professional Experience
+
+	
+
+	DATA ENGINEER	February 2019 - Present
+
+	CAPITAL ONE
+
+	MCLEAN, VA		
+
+	I was involved with two different teams during the Capital One project.  My work involved coding in Python and work with GIT, GitHub, AWS, NLP.
+
+	
+
+	Team: Analytics
+
+	Work: Pull an entire information out of the team’s internal git repos
+
+	Summary: Using Git-python library, write functions that give the desired info on any of the team’s repos. The objective was to create a software that helps in creating repos that have less errors and fall under good repos category.
+
+	
+
+	Work: Machine Learning Model to analyze High Severity Incident reviews to identify common, recurring “themes”
+
+	Summary: We tested a lot of different models including Latent semantic Analysis(LSA), tf-idf and Clustering, Latent Dirichlet Allocation(LDA), and Correlated Topic Models(CTM). We ultimately decided to use Guided/SeededLDA because it marries both exploration of new themes and mapping known themes. LDA is a commonly used topic model that assumes that topics are made of a collection of words. It also assumes that documents are a collection of topics. So for each word in a document, there is a probability that it is drawn from a certain topic, and each topic has a probability of being associated with each document. The goals of the model are to understand which words are most associated with eac topic by calculating co-occurrence of words and also to understand which topics are most associated with each document.
+
+	
+
+	Work: Create an Internal emailing tool that sends customized mails to the employees.
+
+	Summary: The Email Tool was designed to take in a list of people to send an email to, and send it to them individually instead of doing a mass mail. The business  reason for this was that mass emails are easier to ignore, and they frequently result in reply-all chains that serve to annoy users.
+
+	Features:
+
+	Send customized emails to individual internal recipients, including custom variables within the message and individual specific CC options
+
+	Look up manager information from LDAP to include in CC if requested
+
+	Send a preview of the email to the user logged in via SSO
+
+	Create templates to use for frequently sent emails
+
+	View history of sent emails
+
+	Capture statistics on email opens and link clicks
+
+	Core Tools and Libraries:  Django, Unicorn, Nginx, Mochila(inner source tool for sending emails out via PonyEX), Secret-sauce (inner source tool for reading secrets from the Vault), Django-SSO-Oauth(inner Django source tool for logging into SSO in a Django application)
+
+	 
+
+	Team: Reporting
+
+	Work: Generate Reports using Python and create presentation for the top management
+
+	Summary: As part of a Risk Oversite Committee, my task was to write a Python script that helps in generating reports from the company’s internal websites.
+
+	Daily Incident Reports, Monthly business Review Reports, Incident Graph Generation etc.
+
+	
+
+	Environment: Python, Jupyter Notebooks
+
+	Technologies: GitPython, Django, Jenkins, and proprietary CI/CD tools.
+
+	
+
+	
+
+	
+
+	DATA ENGINEER	August 2017 – February 2019
+
+	CANDIDATE GURU
+
+	Boca Raton, FL		
+
+Candidate Guru was established as a predictive analysis company that matches job candidates with employers by culture fit.  It uses artificial intelligence and machine learning to help companies better vet and rank their massive candidate pipeline.  Candidate Guru just acquired Elevated Careers, by eHarmony, which does a deeper analysis internally and externally with an employee engagement solution that assesses how its employees feel about their organization and a candidate-matching feature to determine whether job candidates match up by personality, culture and skills.  The project focused on implementing the eHarmony pipelines, applications and algorithm into the Candidate Guru framework.
+
+Used Spark Streaming to divide streaming data into batches as an input to Spark engine for batch processing.
+
+Designed batch processing jobs using Apache Spark to increase speed compared to that of MapReduce jobs.
+
+Wrote Spark applications for data validation, cleansing, transformation, and custom aggregation.
+
+Imported data from disparate sources into Spark RDD for processing.
+
+Developed custom aggregate functions using Spark SQL and performed interactive querying.
+
+Utilized Spark DataFrame and Spark SQL API extensively for processing.
+
+Used Spark SQL and Data Frame API extensively to build Spark applications.
+
+Used Spark engine, Spark SQL for data analysis and provided to the data scientists for further analysis.
+
+Performed streaming data ingestion to the Spark distribution environment, using Kafka.
+
+Built a prototype for real-time analysis using Spark streaming and Kafka.
+
+Used Spark SQL and DataFrames API to load structured and semi structured data into Spark Clusters.
+
+Closely worked with data science team in building Spark MLlib applications to build various predictive models.
+
+Implemented Spark using Scala, and utilized DataFrames and Spark SQL API for faster processing of data.
+
+Involved in converting HiveQL/SQL queries into Spark transformations using Spark RDDs, Python and Scala.
+
+Used Spark DataFrame API over Cloudera platform to perform analytics on Hive data.
+
+
+
+	DATA ENGINEER		January 2016 – August 2017
+
+	Ford Motor
+
+	Dearborn, MI		
+
+IoT sensors in the vehicles stream a wealth of data to the cloud and to smartphones.  It is available to users and the maintenance shops.   Engine controls and microprocessors that were around regulating fuel delivery, and things like oxygen sensors for fuel economy have been upgraded to the  Sync3 system.  With the ability to update the Sync system in the vehicle remotely with software that can download from the cloud. So there’s all kinds of flexibility and capability that you get when you move to off-board computing and storage capabilities.  Through big data systems in the cloud that store and allow real-time processing of data Ford is able to identify key factors in predictive maintenance, input triggers through a custom algorithm to enable up-to-date and timely maintenance before a breakdown can occur.
+
+Managed, configured, tuned and continuous deployment of 80 Hadoop nodes in a Red Hat Enterprise edition 5; configured via the AWS console for 2 medium scale AMI instances for the Name Nodes.
+
+Wrote and Spark codes in Java to run a sorting application on the data stored on AWS. 
+
+Deployed the application jar files into AWS instances.
+
+Developed a task execution framework on EC2 instances using SQL and DynamoDB.
+
+Used Spark Streaming to divide streaming data into batches as an input to Spark engine for batch processing.
+
+Designed batch processing jobs using Apache Spark to increase speed compared to that of MapReduce jobs.
+
+Wrote Spark applications for data validation, cleansing, transformation, and custom aggregation.
+
+Imported data from disparate sources into Spark RDD for processing.
+
+Developed custom aggregate functions using Spark SQL and performed interactive querying.
+
+Utilized Spark DataFrame and Spark SQL API extensively for processing.
+
+Used Spark SQL and Data Frame API extensively to build Spark applications.
+
+Used Spark engine, Spark SQL for data analysis and provided to the data scientists for further analysis.
+
+Performed streaming data ingestion to the Spark distribution environment, using Kafka.
+
+Built a prototype for real-time analysis using Spark streaming and Kafka.
+
+Worked at storing non-relational data on Hbase.
+
+Created alter, insert, and delete queries involving lists, sets, and maps in DataStax Cassandra.
+
+Worked on Impala to compare processing time of Impala with Apache Hive for batch applications to implement the former in project. 
+
+Extensively used Impala to read, write, and query Hadoop data in HDFS.
+
+
+
+	DATA ENGINEER	January 2015 – January 2016
+
+	US Xpress
+
+	Chattanooga, TN		
+
+US Xpress, provider of a wide variety of transportation solutions collects about a thousand data elements ranging from fuel usage to tire condition to truck engine operations to GPS information, and uses this data for optimal fleet management and to drive productivity saving millions of dollars in operating costs.
+
+Configured auto-scaling for guaranteed for real-time streaming analytics via Kinesis.
+
+Analyzed RTO/RDO availabilities for virtual servers for time-lapse of recovery scenarios.
+
+Used Spark-Streaming APIs to perform necessary transformations and actions on the real-time data using Bedrock data management tool.
+
+Involved in migrating MapReduce jobs to Spark, using Spark SQL and DataFrames API to load structured data into Spark clusters
+
+Implemented Spark using Scala, and utilized DataFrames and Spark SQL API for faster processing of data.
+
+Involved in converting HiveQL/SQL queries into Spark transformations using Spark RDDs, Python and Scala.
+
+Used Spark DataFrame API over Cloudera platform to perform analytics on Hive data.
+
+Used Spark streaming to receive real time data using Kafka
+
+As part of Batch Modernization initiative in E2C, Analyzed existing batch ingestion developed in Oracle Data Integrator and developed PySpark application as ETL tool. This reduced the batch ingestion time from 3.5 hrs to 15 Minutes.
+
+Created custom test, design and production Spark clusters for the VERUCA - Verizon Universal Communications
+
+Architecture - Spark clusters exclusively from the AWS Management Console
+
+development Spark cluster(8 nodes); separation of computer versus storage AWS frameworks; designed a persistent versus transient architecture - raw Linux server with Spark jobs
+
+Configured Apache Zeppelin binaries/conf for Spark Web clients; integrated Zeppelin daemon with Spark master node, tested and configured Web server with Spark cluster; tested Zeppelin with SparkSQL and Python clients(pluggable interpreters); tested screen sharing functionalities WebSockets, Zeppelin views from Spark notebooks
+
+Created variation of the lambda architecture consisting of near real-time using Spark SQL; Spark cluster 1.4 consisting of 25 nodes running with 200Gb ram/24 Tb,
+
+
+
+
+
+	DATA ENGINEER		September 2013 – January 2015
+
+	US Bancorp
+
+	Minneapolis, MN		
+
+US Bancorp uses big data to capture transactional data, early fraud detection and monitor consumer habits to make recommendations, as well as generate early warnings.  Worked on the data platform to ensure the delivery of the right data, manipulating data from various sources and cleaning to provide a basis for quality real-time fraud prevention.
+
+Worked on a Hadoop big data platform with native ecosystem frameworks and tools.
+
+Involved in creating UDFs in Hive like Simple UDF, UDTF, UDAF.
+
+Developed Map Reduce jobs for data cleaning and transformation
+
+Involved in creating Hive Tables, loading with data and writing Hive queries, which will invoke and run MapReduce jobs in the backend.
+
+Replaced existing MapReduce jobs and Hive scripts with Spark DataFrame transformation and actions for the faster analysis of the data.
+
+Migrated complex MapReduce programs into Apache Spark RDD operations like transformations and actions.
+
+Implemented Spark RDD transformations to map business analysis and apply actions on top of transformations.
+
+Implemented all SCD types using server and parallel jobs. Extensively implemented error handling concepts, testing, debugging skills and performance tuning of targets, source, transformation logics and version control to promote the jobs.
+
+Involved in loading and transforming large sets of structured, semi-structured and unstructured data.
+
+Involved in loading data from UNIX file system to HDFS.
+
+Developed ETLs to pull data from various sources and transform it for reporting applications using PL/SQL
+
+Hands-on experience extracting data from different databases and scheduling Oozie workflows to execute the task daily.
+
+Successfully loaded files to HDFS from Teradata, and loaded from HDFS to HIVE.
+
+Involved in loading data from UNIX file system to HDFS.
+
+
+
+
+
+
+
+
+
+
+
+
+Education & Training
+
+	Illinois Institute of Technology - Great Lakes Institute of Management
+
+	Post  Graduate  Program  in  Business Analytics and Business Intelligence
+
+	Institute for Technology & Management, Chennai
+
+	Post  Graduate  Diploma  in  Management-Marketing
+
+	
+
+	Certifications
+
+	IBM – Big Data 101
+
+	IBM – Hadoop 101
+
+	IBM – Moving Data into Hadoop
+
+	Python Certification
+
+	Data Scientist’s Toolbox Certification
+
+	
+
+MANISH KATHAIT   |   Phone:  703-936-4058   |  Email:  manishkathait484@gmail.com

@@ -1,0 +1,386 @@
+ISRAEL VERTIZ
+
+HADOOP ARCHITECT & BIG DATA ENGINEER
+
+
+
+
+
+CONTACT
+
+
+
+404-9601549
+
+
+
+isra.vertiz@gmail.com
+
+
+
+EDUCATION
+
+Bachelors in Computer Science
+
+Monterrey Institute of Technology and Higher Education, Mexico
+
+
+
+Masters Degree in Business Administration
+
+Latin American University, Mexico
+
+
+
+
+
+TECHNICAL SKILLS
+
+Hadoop Big Data Including  Azure, HDInsight, Cloudera, Hortonworks, Impala
+
+Hadoop: HDFS, Map Reduce, Hive, Pig, Sqoop, Flume, Amari, Zookeeper, Avro, Orc, Parquet, Oozie, Mahout, Apache Spark, Spark Streaming, Spark SQL, Storm, Kafka, Tez, Ant, Toad, Apache Lucene, Elasticsearch, Elastic Cloud, Kibana, Apache SOLR
+
+Visualization: Pentaho, Qlikview, Tableau, Informatica, Power BI
+
+Languages: Python, ASP.NET, C#, WCF, MVC, VB.NET, SOM, CSOM, JSOM, CSS, JavaScript, JQuery, Bootstrap, PowerShell, HTML 5, DHTML, XSLT, XML, Web Services (SOAP, REST), Azure.
+
+SQL Database: Azure SQL, SQL Server 2012, SQL Server 2008, SQL Server 2008 R2, SQL Server 2005, Oracle 10g, MySQL.
+
+NoSQL Database: Apache Cassandra, Hbase, Redshift, MariaDB
+
+Cloud Technologies: AWS, EMR, EC2, EC3, S2, S3, Azure, Google, Elastic Cloud
+
+
+
+
+
+
+
+
+
+
+
+PROFILE
+
+
+
+Over 10 years’ experience in the IT industry providing enterprise solutions.
+
+5 years hands-on experience with Hadoop and cloud data solutions.
+
+Use of columnar file formats like RCFile, ORC and Parquet formats.
+
+Skilled in management of Azure Storage including Azure Blob Storage, Azure Blob Store and Azure Data Lake Store.
+
+Proficient with extraction and transformation and storage of data in various file formats in Azure Data Lake, Azure Warehouse and Azure Blob/Azure Blob Store such as Orc, Parquet, JSON, as well as semi-structured data.
+
+Management of structured data using Azure SQL Database.
+
+Setup and Config Data Lake on Bigdata platforms like Cloudera, Hortonworks, and MapR.
+
+Skill using Open source software like Spark, Flume, and Kafka.
+
+Proficient performing importing/exporting actions between SQL (Oracle, MySQL) / NoSQL (Realm, MongoDB) databases and HDFS using Sqoop. 
+
+Proficient with building tools like Apache Ant and Apache Maven.
+
+Use of Azure Stream Analytics for realtime processing of data from IoT systems including devices and sensors.
+
+Hands on experience migrating complex MapReduce programs into Apache Spark RDD operations like transformations and actions.
+
+Hands-on expertise in Hadoop components - HDFS, MapReduce, Hive, Impala, Pig, Flume, Sqoop and HBase.
+
+Hands-ono experience building large-scale, high-availability, distributed, enterprise-grade systems.
+
+Expertise in Microsoft Business Intelligence technologies, Azure Data Factory, Azure Data Warehouse, Power BI Data Visualization and Reporting, and Azure Data Pipeline architecture and tools such as Azure Data Factory and Azure Stream Analytics.
+
+Architecture of Azure Data Pipelines extracting data from Azure SQL Database and Azure Data Warehouse.
+
+Implemented, set-up and worked on various Hadoop Distributions (Cloudera, Hortonworks, Amazon AWS, and Microsoft Azure HDInsight and related tools and environments).
+
+Able to work with existing EDS platforms and strategic initiatives that are built for future phases of EDS/EBI.
+
+Vast understanding of different development methodologies including Waterfall, Rapid Application Development, Agile, Scrum and Kanban.
+
+Excellent written and oral communication skills with the ability to communicate complex business requirements at all levels including stake holders, power users, end users and developers.
+
+Excellent working in team environments and great individual performer.
+
+Performed performance tuning and productivity improvement activities.
+
+Knowledgeable of deploying the application jar files into AWS instances.
+
+Knowledgeable of Hadoop Architecture and Hadoop components (HDFS, MapReduce, JobTracker, TaskTracker, NameNode, DataNode, ResourceManager, NodeManager.
+
+Knowledgeable of installation and configuration of Hive, Pig, Sqoop, Flume and Oozie on Hadoop clusters.
+
+
+
+
+
+WORK HISTORY
+
+
+
+LEAD HADOOP ENGINEER /BIG DATA DEVELOPER
+DIAMOND RESORTS INTERNATIONAL in Las Vegas, NV.
+
+MAY 2016 TO PRESENT
+
+In charge of migrating on premises data operations to a customized, cloud-based data analysis platform.  Responsible for planning, architecture and implementation of the entire project including the data migration and the new cloud-based environment using Microsoft Azure HDInsight based on Hortonworks Hadoop (HDP).  Led a team of engineers and worked with stakeholders, project management and cross-functional teams, including analysts and SMEs.
+
+ 
+
+Worked with team to develop a plan for a new cloud environment based on needs and use, gathering and documenting requirements.
+
+Developed architecture on Microsoft Azure spinning up HDInsight instances.
+
+Created Hadoop clusters and Hadoop Data Lake with Azure Blob Storage as the Azure form of HDFS file storage.
+
+For easy migration and management of various data types and use cases, established databases on the HDInsight Cloud Azure Cosmos DB for Distributed Storage and ArangoDB to provide multi-modal storage replacing both SQL and NoSQL data stores.
+
+Used Azure Blob Storage and Azure Data Lake Store to receive data migration and migrated data using Azure Data Factory.
+
+Resolved significant issues from existing environment in preparation for migration, including data cleansing and file formats and schema.  Engineered various data pipelines and transformation on the new system and a well optimized system and set-up a highly efficient administration.
+
+Prepared the solution design document and got it reviewed and approved.
+
+Developed a new ingestion service is developed with functional capability to manage data structure using Azure Data Factory.
+
+Created service to ingest structured data from Oracle, DB2, Sybase, Data in delimited files like CSV, TSV, fixed width, PDF files, and to catalog the ingested data using Azure Data Factory.
+
+Developed system ability to infer schema for delimited files, CSV, TSV, PSV, fixed width and provide relational or query structure on ingested data.
+
+Established data lineage for each application for data ingested.
+
+Provided transparent mechanism for ingesting data for frequently changing source schema, aka schema evolution, and provided point-in time query capability of data with capability to identify and eliminate duplicate records.
+
+Architected a streaming data source using Azure Stream Analytics to receive real time data from IBM MQ and store the stream data to Azure Blobs.
+
+Secured the system by creating surrogate key generations and hash key generation
+
+Designed and implemented a de-duplicate records and end date the final records functions.
+
+Upgraded SQL servers and data warehouse, and set-up virtual server farm using Azure Computer to establish a migration test and migration server.
+
+Duplicated SQL server to Azure cloud-based test server and secured data in preparation for move to cloud with encryption using PowerShell for server-side encryption.  
+
+Set the target Always Encrypted configuration for database columns using the Set-SqlColumnEncryption cmdlet (in the SqlServer PowerShell module). Using the Set-SqlColumnEncryption cmdlet modified both the schema of the target database as well as the data stored in the selected columns.
+
+Created event trigger data pipeline for analysis of player data to tie performance to trigger rewards and incentives.
+
+Worked with the Data Science team to gather requirements for various data mining projects.
+
+Implemented business logic with UDFs automated jobs for pulling data from FTP server to load data into Azure Data Lake Stores, Azure Blob Storage or Distributed Databases.
+
+
+
+
+
+DATA ENGINEER
+MICROSOFT CORPORATION in Seattle, WA			  	
+
+MAR 2013 TO MAY 2016
+
+	Administered Azure Data Platform including Azure Data Store and Azure Blob Storage.
+
+	Responsible for maintaining the system, reviewing all log files of all daemons.
+
+	Involved in scheduling workflow engine and automating tasks to run multiple jobs.
+
+	Deployed and configured Virtual Machines on Azure Compute, Apps on Azure Platform as a Server (PaaS) and websites using .NET, Node, PHP, Python on Azure WebJobs.
+
+	Managed project and tasks using Microsoft Team Foundation Server (TFS).
+
+	Utilized Mercurial to manage branches, commits, build and version control.
+
+	Digested and consumed data from diverse data sources such as SharePoint, call log, and used to create PowerBI Dashboards for stakeholders and decision makers to reduce the number of support calls.
+
+	Ran WebJobs on Azure Blobs, Tables and Queue services.
+
+	Performed maintenance, monitoring, deployments, and upgrades across infrastructure.
+
+	Automated all the jobs for pulling data from FTP server to load data into tables, using workflows.
+
+	Used workflows and coordinators for integrating app services and web services, including REST API consumption and Azure SQL Database and scheduled the data flow pipeline.
+
+	Used Azure Data Factory to create new data pipelines for extracting, transforming and loading data from repositories such as Azure Data Lakes and Azure Data Warehouse.
+
+	Implemented real time processing using HDInsight and Azure Stream Analytics.
+
+	Worked on creating comprehensive MongoDB API and Document DB API using Azure Stream Analytics and Azure Data Factory into Azure CosmosDB.
+
+	Created custom business rules to manage users and data transfer capabilities.
+
+	Worked on CosmoDB to map multiple values to either an update operation or an insert.
+
+	Exception Handling, Collection API's to implement various features and enhancements.
+
+	Worked on idle timeout issues in Azure CosmosDB by adding pool size.
+
+	Worked on Azure Blob using to duplicate on Blob configuration on Azure.
+
+	Worked on JSON format data and manipulated using Python application.
+
+	Served as program manager supervising 40 remote developers, providing mentoring, support, review and management oversight.
+
+	Excellent management communication and leadership skills working with direct report and cross-functional teams stakeholders and business units.
+
+	
+
+	
+
+HADOOP ENGINEER
+HUAWEI TECHNOLOGIES in Santa Clara, CA			   
+
+JAN 2012 TO MAR 2013
+
+	Provided Designed, Implemented and Configuring Topics and Partitions in new Kafka cluster in all environments.
+
+	Successfully secured Kafka cluster with Kerberos.
+
+	Implemented Kafka Security Features using SSL and without Kerberos, with more grain-fines Security to have users and groups to enable advanced security features.
+
+	Tested Advertiser Listener property through zookeeper data for securing Kafka brokers.
+
+	 
+
+	Architected Hadoop Data Lake for ingestion of batch data including logs, and data from structured databases as well as unstructured NoSQL sources with Kafka.
+
+	Deployed Spark Cluster and other services in AWS using console.
+
+	Installed Kerberos secured Kafka cluster with no encryption in all environments.
+
+	Successful in setting up, a no authentication Kafka listener in parallel with Kerberos (SASL) Listener.
+
+	Tested Non-authenticated user (Anonymous user) in parallel with Kerberos user.
+
+	Integrated LDAP Configuration for securing Ambari servers and Manage Authorization and securing with permissions against users and Groups.
+
+	Implemented KNOX, RANGER, Spark and SmartSence in Hadoop cluster.
+
+	Installed HDP in all environments.
+
+	Installed Ranger in all environments for Second Level of security in Kafka Broker.
+
+	Worked on Oozie Job Scheduler.
+
+	Worked on Spark Transformation Process, RDD Operations, Data Frames, Validate Spark Plug-in for Avro Data format
+
+	Experience in gzip data compression Data to Avro Data into HDFS files.
+
+	Installed Docker for Utilizing ELK, InfluxDB, and Kerberos.
+
+	Created InfluxDB for Kafka metrices to monitor Consumer Lags in Grafana.
+
+	Created Bash Script with AWK formatted text to send metrics to InfluxDB.
+
+	Enabled InfluxDB and Configured Influx database source into Grafana interface
+
+	Succeeded in deploying Elasticsearch, Influx DB in a Docker container.
+
+	Installed Ansible by installing Elasticsearch Nodes in multiple environments with automated scripts.
+
+	Created a Cron Job to execute a program that will start the ingestion process. The Data is read in, converted to Avro, and written to the HDFS files.
+
+	Designed Data Flow Ingestion Chart Process.
+
+	Set up a new Grafana Dashboard with real-time consumer lags in all environments pulling only consumer lags metrices and sending them to influx DB (Via a script in Corntab).
+
+	Worked on DDL-Oracle Schema issues at time of Ambari upgrade.
+
+	Successfully Upgraded HDP in all Environments and Software patches.
+
+	Tested all services like Hadoop, ZK, Spark, Hive SERVER & Hive MetaStore.
+
+	Worked on heap optimization and configurations for hardware optimization.
+
+	Involved working in Production Ambari Views.
+
+	Implemented Rack Awareness in Production Environment.
+
+	Worked on Disk space issues in Production Environment by monitoring how fast that space is filled, review what is being logged created a long-term fix for this issue (Minimize Info, Debug, Fatal Logs, and Audit Logs).
+
+	Worked on Nagios Monitoring tool.
+
+	Installed Kafka Manager for consumer lags and for Monitoring Kafka Metrices by adding topics, Partitions etc.
+
+	Involved with Hortonworks Support team on Grafana Consumer Lags Issues. (Currently no consumer lags are generating in Grafana Visualization within HDP).
+
+	Successfully Generated Consumer Group lags from Kafka using API.
+
+	Installed and configured Ambari Log Search under the hood it required a Solr Instance, that can collect and index all cluster generated logs in real time and display them in one interface.
+
+	Installed Ansible in all environments.
+
+	Worked on maintenance of Elasticsearch Cluster by adding more partitioned disks. This will increase disk writing throughput and enable Elasticsearch to write to multiple disk in same time and a segment of given Shard is written to the same disk.
+
+	Upgraded Elasticsearch from to following the rolling upgrade process by using ansible to deploy new packages in all Clusters.
+
+	Successfully Made some visualization on Kibana and deployed Kibana with Ansible and connected to Elasticsearch Cluster.
+
+	Tested Kibana and ELK by creating a test index and injected sample data.
+
+	Successfully tested Kafka ACL's with Anonymous users and with different hostnames.
+
+	Created HBase tables to store variable data formats of data
+
+	
+
+
+
+SHAREPOINT DEVELOPER / ADMINISTRATOR
+
+INTERGRUPO in Miami, FL
+
+JUNE 2010 TO DEC 2011
+
+	Participated on a migration effort from SharePoint 2007 to SharePoint 2010 using detach-attach content database approach.
+
+	Performed pre-migration activities such as cleaning up sites, removed unused elements, validated AD users, etc.
+
+	Created scripts using STSADM commands for the automation of processes such as backups and list/library migrations from one environment to another.
+
+	Built whole department sites using out of the box elements in SharePoint such as web parts and workflows.
+
+	Set up Managed Metadata in a brand new SharePoint 2010 environment.
+
+	Created a content type hub in a SharePoint 2010 site collection and start publishing reusable content types.
+
+	Set up and configure document sets for new contracts and attach custom approval workflow to the library.
+
+	Responsible for creating Development, Staging and Production environments for a new SharePoint Server 2010 farm.
+
+	Rebranded SharePoint 2010 environment to match the corporate standards by created a custom solution in Visual Studio including new master pages and page layouts.
+
+	Created proper documentation including Visio diagrams for every major change in the configuration of services or new development to get a high level understanding of the approach taken.
+
+	Assisted in the resolution of tickets submitted by end users.
+
+
+
+.NET DEVELOPER
+
+CLOUZZY S.A. DE R.L. in Mexico City, MX	
+
+SEP 2008 TO MAY 2010
+
+	Retrieved information from SQL Server through a Web Services using C# in an ASP.Net application.
+
+	Designed and developed Functional and Technical specifications using Design Patterns and Object Oriented methodology using UML.
+
+	Utilized C# and created custom routes and constraints to handle incoming requests for the ASP.NET MVC blog application.
+
+	Customized the TreeView control to reduce the number of post-backs and increase performance of the application by handling the major events on the client by intercepting the server-side events on the client's browser.
+
+	Created new view master page and view content page based on the master page, placing logo, navigation links, and banner advertisements in the view master page.
+
+	Wrote unit tests to test the view returned by a controller action, to test the View Data returned by a controller action, and to test whether or not one controller action redirects the user to a second controller action.
+
+	Developed web services and consumed web services using WCF and Visual Studio 2010 with C#, retrieving data in the format of JSON
+
+	Utilizing SQL Server 2008, created a database to handle complex queries, T-SQL, triggers, and stored procedures.
+
+	Created a custom windows application to assist project managers on client personal contents using Inventory software to provide deep control of all assets, using scan guns to translate machine readable barcodes, and then storing all data (including: scans, photos,  digital signatures) into the SQL Server database.
+
+	Designed a Front-Desk application that would printout client contracts, maps, and technical checklists.

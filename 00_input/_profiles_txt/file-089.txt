@@ -1,0 +1,398 @@
+
+Profile
+Seasoned I.T. professional with experience in all phases of I.T./data
+systems from networks and infrastructure to data pipelines and processing
+system.
+
+Professional Summary
+    • Primary technical skills in HDFS, YARN, Pig, Hive, Sqoop, HBase,
+      Flume, Oozie, Zookeeper.
+    • Skilled in Hadoop Architecture and various components such as HDFS,
+      Job
+    • Tracker, Task Tracker, Name Node, Data Node.
+    • Hands on experience in working with Ecosystems like Hive, Pig, Sqoop,
+      Flume, Oozie. With Pig and Hive's analytical functions, extending Hive
+      and Pig core functionality with UDFs.
+    • Hands-on experience developing Teradata PL/SQL Procedures and
+      Functions.
+    • Working with databases like Teradata and proficiency in writing
+      complex SQL, PL/SQL
+    • for creating tables, views, indexes, stored procedures, and functions.
+    • Import/export terabytes of data between HDFS and RDBMS using Sqoop.
+    • Job workflow scheduling and monitoring tools like Oozie and Ganglia.
+    • NoSQL databases such as HBase, Cassandra.
+    • Hadoop installation; configuration of nodes/clusters, administration,
+      de/commissioning.
+    • Hadoop ecosystem components such as Flume, Oozie, Hive, and Pig.
+    • Experience in XML technologies like Informatica XML parser & XML
+      writer.
+    • Performed the performance and tuning at the source, target, and data
+      stage job levels using indexes, hints, and partitioning.
+    • Performance tuning in the live systems for ETL/ELT jobs in Hive,
+      Hadoop ecosystem.
+    • Good knowledge in PL/SQL, hands-on experience in writing medium level
+      SQL queries.
+    • Knowledge in Impala, Spark/Scala, Shark, Storm, Ganglia.
+    • Preparation of test cases, documenting and performing unit testing and
+      Integration.
+    • In-depth understanding of Data Structures and Algorithms and
+      Optimization.
+    • Self-motivated, excellent team player, with a positive attitude and
+      adhere to strict deadlines.
+Technical Skills
+|Apache                              |Big Data                            |
+|Apache Drill, Apache Kafka, Apache  |RDDs, DataFrames, Datasets,         |
+|MAVEN, Apache Oozie, Apache Pig,    |Pipelines, Data Lakes, Data         |
+|Apache Hue, Apache Sqoop, Apache    |Warehouse, Data Analysis            |
+|Flume, Apache Hadoop, Apache HBase, |Hadoop                              |
+|Apache Hcatalog, Apache Ant, Apache |Hadoop, HDFS, Hadoop YARN,          |
+|Cassandra, Apache Lucene, Apache    |Hortonworks, Cloudera, Impala       |
+|SOLR, Apache Airflow, Apache Camel, |Spark                               |
+|Apache Mesos, Apache Tez, Apache    |Apache Spark, Spark Streaming, Spark|
+|ZooKeeper                           |MLlib, GraphX                       |
+|Reporting/BI/Visualization          |Hive                                |
+|Kibana, Tableau                     |Apache Hive, Hive QL                |
+|Programming                         |Database                            |
+|C++, C#, ASP.NET                    |SQL, RDBMS, NoSQL, HBase, Cassandra |
+|Scripting                           |MongoDB, Oracle, SQL Server         |
+|HTML/XHTML, SQL, Python, Scala,     |FILE MANAGEMENT                     |
+|Hive, Spark                         |HDFS, Snappy, Gzip, DAS, NAS, SAN   |
+|File Types                          |Cloud Services & Distributions      |
+|XML, Ajax, JSON, Avro, Parquet, ORC |AWS, Azure, Anaconda Cloud,         |
+|APIs                                |Elasticsearch, Solr, Lucene,        |
+|Spark API, REST API, SOAP API       |Cloudera, Databricks, Hortonworks,  |
+|Project Management                  |Elastic.  Cloud Foundry, Elastic    |
+|Agile, Kanban, Scrum, DevOps,       |Cloud                               |
+|Continuous Integration, Test-Driven |Web Development Software            |
+|Development, Unit Testing,          |Adobe Dreamweaver                   |
+|Functional Testing, Design Thinking,|Operating Systems                   |
+|Lean, Six Sigma                     |Linux/UNIX, Windows                 |
+
+
+Experience
+April 2016  Hadoop Data Architect/Engineer
+Present     GA Power– Atlanta, GA
+Georgia Power uses Smart Meters to eliminate the need to send
+representatives to properties each month to read meters.  Meters are read
+remotely, and data fed into the big data system along with various data
+points relating to system functioning.  Processing data from meters in real-
+time enables users to view usage and manage accordingly.  Data of various
+types is categorized and fed to specific custom pipelines which can extract
+specific types of data for multiple analytics purposes.
+    • The principal architect of a new on-site Cloudera Hadoop cluster.
+    • Key role in migrating production and development Hortonworks Hadoop
+      clusters to a new multi-tenant.
+    • Cloudera cluster using existing hardware and a short outage window.
+    • Cluster consolidation saved administrative overhead cost and service
+      contract cost and reduce technical debt.
+    • Integrating on-premises cluster to better work with transient, cloud-
+      based Google Hadoop clusters and storage.
+    • Work in key areas within Google Cloud Compute (GCP) such as Dataproc
+      clusters, BigQuery, and Storage.
+    • Perform tuning, firewall setup, monitor and troubleshooting cluster-
+      wide as needed. Worked on importing and exporting data using Sqoop
+      between HDFS to RDBMS.
+    • Collect, aggregate, and move data from servers to HDFS using Apache
+      Spark & Spark Streaming.
+    • Administered Hadoop cluster(CDH) and reviewed log files of all
+      daemons.
+    • Used Spark API over Hadoop YARN to perform analytics on data in Hive.
+    • Used Spark SQL and DataFrames API to load structured and semi-
+      structured data into Spark Clusters.
+    • Migrated ETL jobs to Pig scripts for transformations, joins,
+      aggregations before HDFS.
+Environment: HDFS, PIG, Hive, Sqoop, Oozie, HBase, Zookeeper, Cloudera
+Manager, Ambari, Oracle, MYSQL, Cassandra, Sentry, Falcon, Spark, YARN
+
+
+Feb 2015    Hadoop Data Architect/Engineer
+Mar 2016    Bank of America – Charlotte, NC
+The team developed a series of econometric regression models that predict
+monthly revenue over a two-year horizon based on a combination of macro-
+economic factors, internal business drivers, and seasonality. The focus of
+my work for this bank was the underlying pipelines, ETL system and
+processes that are the backbone of this process.
+    • Migrated multiple database environments to Exadata machine using
+      multiple-migration approach.
+    • Hands on experience on Cloudera Distributed Apache Hadoop (CDAH) for
+      installation, configuration, supporting, patching, version upgrade and
+      management.
+    • Configured Spark streaming to receive real-time data from Kafka and
+      store to HDFS using Scale.
+    • Implemented Spark using Scala and Spark SQL for faster analyzing and
+      processing of data.
+    • Built continuous Spark streaming ETL pipeline with Spark, Kafka,
+      Scala, HDFS, and MongoDB.
+    • Import/export data into HDFS and Hive using Sqoop and Kafka.
+    • Involved in creating Hive tables, loading the data and writing hive
+      queries. 
+    • Design and develop ETL workflows using Python and Scala for processing
+      data in HDFS & MongoDB.
+    • Worked on importing the unstructured data into the HDFS using Spark
+      Streaming & Kafka.
+    • Wrote complex Hive queries, Spark SQL queries and UDFs.
+    • Wrote shell scripts to execute scripts (Pig, Hive, and move the data
+      files to/from HDFS.
+    • Handled 20 TB of data volume with 120-node cluster in the production
+      environment.
+    • Loaded data from diff servers to AWS S3 bucket and setting appropriate
+      bucket permissions.
+    • Worked on Spark SQL and DataFrames for faster execution of Hive
+      queries using Spark and AWS EMR.
+    • Developed metrics, attributes, filters, reports, dashboards and also
+      created advanced chart types, visualizations and complex calculations
+      to manipulate the data.
+   Environment: Hadoop, HDFS, Hive, Spark, YARN, Kafka, Pig, MongoDB, Sqoop,
+   Storm, Cloudera, Impala
+
+Feb 2013    Hadoop Data Engineer
+Feb 2015    SBC Solutions – Reston, VA
+This consulting firm focuses on big data analytics in the financial
+industry.  I was placed on the project to work on an ETL design and
+implementation for an Investment Risk Platform (IRP).
+    • Prepared ETL design document which consists of the database structure,
+      change data capture, Error handling, restart and refresh strategies.
+    • Created mapping documents to outline data flow from sources to targets
+    • Worked with different feeds data like JSON, CSV, XML, DAT and
+      implemented Data Lake concept.
+    • Involved in Dimensional modeling (Star Schema) of the Data warehouse
+      and used Erwin to design the business process, dimensions, and
+      measured facts.
+    • Developed Informatica design mappings using various transformations.
+    • • Maintained end to end ownership for analyzed data, developed
+      framework's, Implementation building and communication of a range of
+      customer analytics projects.
+    • Good exposure to IRI end-end analytics service engine, new big data
+      platform (Hadoop loader framework, Big data Spark framework etc.)
+    • Used cloud infrastructures:  AWS EMR Distribution for Hadoop, AWS S3
+      for raw file storage, AWS EC2 for Kafka, AWS Lambda for data
+      validation, filtering, sorting, or other transformations.
+    • Optimized the configuration of Amazon Redshift clusters, data
+      distribution, and data processing
+    • Used Oozie to automate/schedule business workflows which invoke Sqoop,
+      and Pig jobs as per the requirements.
+Environment:  Hadoop, Spark, HDF, Oozie, Sqoop, MongoDB, Hive, Pig, Storm,
+Kafka, SQL, Acro, RDD. SQS S3, Cloud, MySQL, Informatica, Dynamo DB
+
+Aug 2011    Hadoop Data Engineer
+Feb 2013    USAA – San Antonio, TX
+USAA has a strong focus on the best way to use analytics and insights to
+drive value for both the USAA membership and the enterprise Marketing using
+Telecom Data, Shipment Data, Point of Sale (POS), exposure and advertising
+data related.  I was able to provide insights on data platform strategies
+and how to create processes tailored to their concerns and specific use
+cases.
+    • Spark SQL is used as a part of Apache Spark big data framework for
+      structured, Shipment, POS, Consumer, Household, Individual digital
+      impressions, Household TV impressions data processing.
+    • Created DataFrames from different data sources like Existing RDDs,
+      Structured data files, JSON Datasets, Hive tables, and external
+      databases.
+    • Loaded terabytes of different level raw data into Spark RDD for data
+      computation to generate the output response.
+    • Import the data from HDFS into Spark RDD
+    • Used Hive Context which provides a superset of the functionality
+      provided by SQLContext and Preferred to write queries using the HiveQL
+      parser to read data from Hive tables (fact, syndicate).
+    • Modeled Hive partitions extensively for data separation and faster
+      data processing and followed Hive best practices for tuning.
+    • Caching of RDDs for better performance and performing actions on each
+      RDD.
+    • Created Hive Fact tables on top of raw data from different retailer's
+      which indeed partitioned by IRI time dimension key, Retailer name,
+      Data supplier name which further processed pulled by analytics service
+      engine.
+    • Developed highly complex Python and Scala code, which is maintainable,
+      easy to use, and satisfies application requirements, data processing
+      and analytics using inbuilt libraries.
+    • Successfully loaded files to Hive and HDFS from Oracle, SQL Server
+      using SQOOP. Environment: Hadoop Cluster, HDFS, Hive, Pig, Sqoop,
+      Linux, Hadoop, HBase, Shell Scripting, Eclipse, Oozie, Navigator.
+
+Nov 2009    Electronic Technician
+Aug 2011    Honeywell – Morris Plains, NJ
+Constructed, maintained, and tested electrical systems and components. Used
+measuring and diagnostic tools to test and modify electronic parts. Ensured
+systems and components meet established specifications. Employed knowledge
+of commonly-used concepts, practices, and procedures within the ADHAR
+system.
+
+May 2007    TAC Analyst
+Oct 2009    CompQsoft – Kansas City, MO
+    • Managed third-shift TAC employees, to ensure that nightly monitors and
+      actions are taken on any issues found.
+    • Problem Manager for MCEITS, which included the creation, tracking, and
+      RCA of all problem records for the MCEITS environment.
+    • Managed, monitored and troubleshot all MCEITS network and application
+      issues, including application outages, system issues, and customer
+      problems.
+    • Monitored production environment using HP Tools (BAC, Insight, OMW,
+      NNM).
+    • Ensured effective communication between the different shifts and
+      teams.
+    • Proactively checked the HP Enterprise Applications, and took
+      corrective action as needed.
+    • Utilized VCenter to troubleshoot issues with Virtual Machines
+    • Worked with onsite and offsite support staff and vendors as needed to
+      resolve production outages.
+    • Documented all system outages using Remedy; ensured all
+      outage/troubleshooting/resolution details were documented.
+    • Create SOPs for my shift to follow for completely nightly checks and
+      handoff of the issue to the next shift.
+
+Mar 2005    Network Engineer
+Apr 2007    Computer Sciences Corporation – Virginia Beach, VA
+Involved in building our Data Warehousing solutions for the banking
+industry, pulling data from various sources and file formats.
+      • Conducted data analysis and security review of solutions to migrate
+        applications and systems to Navy enterprise enclaves, or to
+        decommission Navy legacy networks.
+      • Determined a proposed solution for Navy legacy applications.
+        Determined appropriate end state architecture (elimination,
+        enterprise migration, consolidation, RDT&E).
+      • Informed and advised site representatives, Central Design
+        Authorities and Program Managers on the process by which legacy
+        systems are transitioned to Navy enterprise enclaves.
+      • Recommended a technical solution for enterprise review to
+        facilitate enterprise-wide solutions.
+      • Ensured disposition of systems/applications/networks is properly
+        documented.
+      • Ensured the end-state posture of enterprise networks is not
+        significantly diminished due to the introduction of legacy
+        applications/legacy systems.
+      • Provided quality-engineering consulting for the development of
+        technical processes, procedures, and solutions to problems
+        preventing the successful transition of legacy systems to
+        enterprise enclaves.
+      • Provided security design and security measures when related to
+        CAC/windows authentication.
+      • Data Center Power and HVAC requirements, Cable management, Hardware
+        troubleshooting when related to Department of Defense Policy.
+      • Applied technical skills and knowledge in support of activities
+        such as analysis of Cyber Security/ IA issues and impact mitigation
+        as they relate to research and assessment of emerging technologies,
+        system integration, testing and evaluation, and system architecture
+        design in order to facilitate PEO fielding of material solutions to
+        meet emergent mission requirements.
+      • Performed vulnerability scans and assessments.
+      • Remediated system vulnerabilities IAW STIGS and DoD policies.
+      • Generated Department of Defense (DoD) Information Assurance
+        Certification and Accreditation Process (DIACAP), Risk Management
+        Framework (RMF) packages, and collaborate with staff agencies to
+        obtain required IATT and ATO certifications.
+      • Collaborated with and provide Cyber Security IA technical direction
+        to the existing engineering team and non-engineer personnel.
+      • Consulted with senior management and customers concerning IA
+        project matters.
+      • Worked with XACTA to maintain IA packages.
+      • Worked with RedHat and Windows Operating systems. Environment:
+        JDBC, JNDI, Struts, Maven, Subversion, JUnit, SQL language, spring,
+        Hibernate, JUnit, Oracle, XML, Putty, and Eclipse.
+
+
+Feb 2002    Systems Support Specialist
+Mar 2005    Electronic Data Systems Corporation – Norfolk, VA
+      • Involved in design phase meetings for Business Analysis and
+        Requirements gathering.
+      • Worked with business functional lead to review and finalize
+        requirements and data profiling analysis.
+      • Worked on entry-level programming assignments.
+      • Responsible for gathering the requirements, designing and
+        developing the applications.
+      • Worked on UML diagrams for the project use case.
+      • Developed static and dynamic Web Pages using HTML and CSS.
+      • Worked on JavaScript for data validation on client side.
+      • Involved in structuring Wiki and Forums for product documentation.
+      Environment: JavaScript, HTML, PHP, CSS, Eclipse
+
+Oct 1998    Computer Programmer
+Feb 2002    Communication Technologies, Inc. – Norfolk, VA
+Program, analysis, design, tests and debugs databases for Experimental
+Military Task Force Projects. Use of Microsoft MS-Access, SQL/PL, Oracle
+and Visual Basic and Web Base Application. Developed queries and reports
+with a Military exception. Helped integrated web applications in; Visual
+Basic, Visual Studio 2008, JavaScript, HTML, Classic ASP, ASP.NET.
+
+Military
+Mar 1990    Career Military
+Sep 1998    Army National Guard. – Warrenton, MO
+
+ARMY NATIONAL GUARD 67N/10 UH-1 Huey Mechanic, 68F/10 Aircraft Electrician
+Warrensburg, MO
+Repair wiring on aircraft on small aircraft ARMY NATIONAL GUARD (March 1990-
+September 1998) 68F/10 Aircraft Electrician Repair wiring on aircraft on
+small aircraft, flight instrumentation, avionic, and battery repair.
+67N/10 UH-1 Huey Mechanic. Perform routine maintenance helicopter, remove,
+replace, and troubleshoot aircraft power plants. Repair fuel cell, flight
+controls, and hydraulic.
+
+Air National Guard 2E231 Computer, Network, Cryptographic and switching
+Systems St Louis, Missouri.
+Able to perform computer, network, cryptographic and switching systems
+maintenance. Knowledge and experience data communications, general computer
+maintenance repairs, network concepts, operating systems/applications
+software, telephone switching systems (SB-3865, NORTEL, etc), IDNX, ATM,
+multiplexes, information systems operations and information systems
+sustainment. Have hand on experience in the areas of computer repairs,
+operational checks, fault isolation, and pc measurement, processors,
+input/outputs power supplies, cable construction, transport systems to
+include hubs, routers, switches, bridges, multiplexes, modems, displays and
+printers using a sophisticated computer system as a training vehicle.
+
+Air National Guard 3E3X1 Camp Pendleton, Virginia Beach
+Structural Specialists are dedicated to erecting strong frameworks for any
+kind of building an Air National Guard unit may need – from an improvised
+emergency disaster relief shelter to a formal Air Guard unit facility. As a
+Structural Specialist, you'll be trained to use specialized materials,
+tools, and equipment, and you'll gain knowledge that will easily transfer
+into a civilian career in the construction field.
+
+Iztechnologies FOB Delaram, Afghanistan (Network Admin)
+Configured Cisco 3700, 3600, 2600 series routers and C6500, 4500, 3700
+series switches in a DMVPN network.   Developed, design and analyze new
+computer and network technologies to facilitate collaboration needs of the
+customer.  Routinely performed on-site installation and troubleshooting of
+customer Network and computer systems on the Marine Corp network. Trouble
+the SWAN network, satellite communication, and radio communication.
+
+WESTERN GECO Houston Texas    Marine Junior Positioning Specialist
+Operated the Integrated Navigation System, where information from satellite
+and sonar technology together with gyro and compass data is channeled,
+collated and processed to position hundreds of survey nodes to accuracies
+within 5 meters. Fixed and trouble GPS systems. Collect data from Unix
+database and use 2D/3d seismic modeling. Your responsibilities will include
+Quality Control of positioning data and associated deliverables,
+faultfinding and the maintenance and repair of electronic equipment and
+systems.
+
+Air National Guard 2E231 Computer, Network, Cryptographic and switching
+Systems St Louis, Missouri.
+Able to perform computer, network, cryptographic and switching systems
+maintenance. Knowledge and experience data communications, general computer
+maintenance repairs, network concepts, operating systems/applications
+software, telephone switching systems (SB-3865, NORTEL, etc.), IDNX, ATM,
+multiplexes, information systems operations and information systems
+sustainment. Have hand on experience in the areas of computer repairs,
+operational checks, fault isolation, and pc measurement, processors,
+input/outputs power supplies, cable construction, transport systems to
+include hubs, routers, switches, bridges, multiplexes, modems, displays and
+printers using a sophisticated computer system as a training vehicle.
+
+Defense Message System
+Experience in the area of network managers/system administrators for the
+Defense Message System (DMS). This includes Microsoft Windows NT, UNIX
+operating system, and Microsoft Exchange. It also Includes X.400 Messages
+handling and Directory Service standards and protocol.
+
+
+Education
+Master of Science in Information Technology
+The University of Central Missouri, Warrensburg, Missouri.
+
+Bachelor of Science in Electronics; Minor in Computer Information Systems
+University of Central Missouri University, Warrensburg, Missouri
+
+Certifications
+Cisco Certification Network Associate, CCDA, A+, MCP, CIW, and MCSA.
+Security+
+[pic]

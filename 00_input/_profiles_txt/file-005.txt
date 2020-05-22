@@ -1,0 +1,241 @@
+Technical Marketing Profile 
+
+Hadoop
+
+Consultant Name: 
+
+Josh Pierre 
+
+
+
+
+
+
+
+Levels Explanation
+
+Notes Explanation
+
+
+
+Please refer to the explanation in the table below. I’ve left some comments regarding a performance of the skill. 
+
+
+
+0 = absolutely cannot do it at all, even with heavy technical support (“no go”)
+
+
+
+
+
+1 = cannot do without it technical assistance
+
+
+
+
+
+3 = can do it, but requires moderate support
+
+
+
+
+
+5 = can do without any technical assistance
+
+
+
+
+
+
+
+
+
+
+
+Skillsets 
+
+Level 
+
+Submit for these Keywords
+
+Explanation
+
+Distributed Filesystem
+
+
+
+
+
+2
+
+HDFS + YARN
+
+Core Hadoop good skills
+
+Distributed Programming 
+
+
+
+
+
+2
+
+Map-Reduce, Spark, Tez
+
+He is weak in programming, but strong in Sql
+
+NoSQL Databases 
+
+Column Data Model 
+
+
+
+
+
+2
+
+HBase, Cassandra, MongoDB
+
+Prefer to Cassandra, HBase and MongoDB
+
+SQL-On-Hadoop 
+
+
+
+
+
+4
+
+Hive, Impala
+
+Preferable Hive 
+
+Data Ingestion 
+
+
+
+ 
+
+			3
+
+Flume, Sqoop, Kafka, NiFi, 
+
+Good on Kafka, Sqoop and Flume, Then Nifi.
+
+Service Programming 
+
+
+
+
+
+1
+
+Zookeeper, Avro, 
+
+He knows concept
+
+Scheduling & DR 
+
+
+
+
+
+2
+
+Oozie
+
+Limited knowledge. Knows how to implement simple job with this.
+
+Security 
+
+
+
+
+
+1
+
+Apache Knox, Apache Ranger
+
+None
+
+
+
+System Deployment 
+
+
+
+
+
+3
+
+Ambari, HUE, Mesos, Cloudera Manager
+
+He knows how to use Ambari
+
+Applications / Search
+
+
+
+ 
+
+2
+
+Elastic Search, Solr
+
+He could work with those technologies
+
+AWS (big data)
+
+ 
+
+1
+
+EMR, EC2, Kinesis, Redshift, DynamoDB, Amazon RDS, S3, EFS, AWS Lambda, Amazon Athena, Glue
+
+Can talk about those technologies, but not technically proficient.
+
+AZURE (big data)
+
+
+
+0
+
+HDInsight, SQL Data Warehouse, Azure Databricks, Stream Analytics, VMs, Cosmos DB, SQL,
+
+
+
+
+
+Linux
+
+
+
+3
+
+RedHat, CentOS, Ubuntu
+
+Overall configuration for bigdata tools
+
+
+
+Visualization
+
+ 
+
+3
+
+Tableau, PowerBI, Google Chart
+
+Ease of Use, can talk about it
+
+General Overview of Consultants Technical Ability – Ranking 
+
+Josh is a fast learner. He doesn’t have a strong foundation in Big Data Engineering. But, he is improving a lot. If we can find him a position of ETL, RDBMS, OLAP and OLTP, he would perform better on that. He could work as a data engineer. Hadoop Admin is fine but not preferable. No lead position – senior position is okay.
+
+-Admin/Engineer/Architect caliber: Developer/Engineer/
+
+-Ability to speak to resume: proficient 
+
+-Preferred job description titles to look for: Big Data Engineer / Data Engineer 
+
+-Could this person be a lead? - No

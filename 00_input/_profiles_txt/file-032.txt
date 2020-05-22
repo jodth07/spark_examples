@@ -1,0 +1,364 @@
+Kunal Suryaprakash Sharma
+
+Hadoop Data Engineer
+
+(408) 724-8497
+
+sharma.kun0709@gmail.com
+
+
+
+
+
+	Qualifications
+
+	
+
+5+ years of experience working in IT  with 5 years specialized in Big Data.
+
+Hands-on experience with AWS, AZURE, EMR and S3.
+
+Dealing with multiple terabytes of mobile ad data stored in AWS using Elastic Map Reduce and Redshift PostgreSQL.
+
+Understands customer use cases, and can create a vision on how to design and implement a solution.
+
+Understands and articulates the overall value of big data; works effectively and proactively with internal and external partners.
+
+Provide actionable recommendations to meet Hadoop data analytical needs on a continuous basis using Hadoop distributed system and cloud systems.
+
+Made use of Python libraries for analytic processing, such as SciPi, Pandas, and NumPi.
+
+Displays of analytics and insights using data visualization tools, Tableau, and Hadoop tools to generate reports and dashboards to drive key business decisions.
+
+Experience with data visualization tools, data analysis, and business recommendations (cost-benefit, invest-divest, forecasting, impact analysis).
+
+Deliver effective presentations of findings and recommendations to multiple levels of stakeholders, creating visual displays of quantitative information.
+
+Cleanse, aggregate, and organize Hadoop HDFS data lake.
+
+Skilled in Kerberos authentication and Blockchain cryptography using Ethereum and Solidity.
+
+Experience with Hyperledger exposure in Hadoop data projects.
+
+Skill with Spark framework on both batch and real-time data processing.
+
+Hands-on experience processing data using Spark Streaming API with Scala.
+
+Experience with using Hadoop clusters, Hadoop HDFS, Hadoop tools and Spark, Kafka, Hive in social data and media analytics using Hadoop ecosystem.
+
+Highly knowledgeable in data concepts and technologies including AWS pipelines, cloud repositories (Amazon AWS, MapR, Cloudera).
+
+Hadoop ecosystem tools for ETL and analysis, pipelines, and cleaning data in prep for analysis.
+
+Experience in migrating the data using Sqoop from HDFS to Relational Database System and vice-versa according to client's requirement.
+
+Experience data processing like collecting, aggregating, moving from various sources using Apache Flume and Kafka.
+
+Hands on experience using Cassandra, HIVE, No-SQL databases (like Hbase, MongoDB), SQL databases (like Oracle, SQL, PostgresSQL, My SQL server, as well as data lakes and cloud repositories to pull data for analytics.
+
+Hands on programming using Spark, Scala, Python, Java, R to refine Hadoop data analytics.
+
+	.
+
+	Tech Skills
+
+	
+
+Programming & Scripting
+
+Spark, Python, Java, Scala, Hive, Pig, Kafka, SQL, MatLab
+
+
+
+Frameworks
+
+Django, Flask
+
+
+
+Database
+
+Cassandra, Datastax, Hbase, Phoenix, Redshift, DynamoDB, MongoDB, MS Access, SQL, MySQL, Oracle, PL/SQL, Postgres SQL, RDBMS
+
+
+
+Database Skills
+
+Database partitioning, database optimization, building communication channels between structured and unstructured databases.
+
+
+
+Data Stores 
+
+Data Lake, Data Warehouse, SQL Database, RDBMS, NoSQL Database, Amazon Redshift, Apache Cassandra, MongoDB, SQL, MySQL, Oracle, and more
+
+
+
+Search Tools
+
+Apache Lucene, Elasticsearch, Elastic Cloud, Kibana, Apache SOLR
+
+
+
+Data Pipelines/ETL
+
+Flume, Apache Storm, Apache Spark, Nifi, Apache Kafka, Talend, ELK
+
+
+
+Data Cleansing
+
+Cloudera CDH 4/5, Hortonworks HDP 2.3/2.4, Amazon Web Services (AWS)
+
+
+
+Batch & Stream Processing
+
+Apache Hadoop, Spark, Storm, Tez, Flink
+
+
+
+Data Visualization
+
+Tableau
+
+
+
+Misc
+
+Business Intelligence, Information Architecture, Mathematics
+
+
+
+
+
+
+
+
+	Work Experience
+
+		
+
+		Western Digital Corporation
+
+		Senior Big Data Engineer
+
+		San Jose, CA
+
+		August 2017 – Present
+
+	
+
+	Analyzed and documented existing customizations as well as the current SharePoint 2013 environment.
+
+	nvolved in benchmarking Hadoop and Spark cluster on a TeraSort application in AWS.
+
+	Created multi-node Hadoop and Spark clusters in AWS instances to generate terabytes of data and stored it in AWS HDFS.
+
+	Wrote MapReduce and Spark codes in Java to run a sorting application on the data stored on AWS. 
+
+	Used Spark-SQL and Hive Query Language (HQL) for getting customer insights, to be used for critical decision making by business users.
+
+	Deployed the application jar files into AWS instances.
+
+	Developed a task execution framework on EC2 instances using SQL and DynamoDB.
+
+	sed Spark SQL and Data Frame API extensively to build Spark applications.
+
+	Used Spark engine, Spark SQL for data analysis and provided to the data scientists for further analysis.
+
+	Performed streaming data ingestion to the Spark distribution environment, using Kafka.
+
+	Closely worked with data science team in building Spark MLlib applications to build various predictive models.
+
+	Used Spark-Streaming APIs to perform necessary transformations and actions on the real-time data using Bedrock data management tool.
+
+	Captured and transformed real-time data from Amazon Aurora into a suitable format for scalable analytics.
+
+	Logstash configuration, setup multiple pipeline, managing worker and batch size and DevOps support
+
+	Kibana setup, dashboarding and visualization configuration.
+
+	Real-time data indexing using AWS SQS messaging service.
+
+	Filebeat setup & configuration, DevOps activity.
+
+	Used Spark Streaming to divide streaming data into batches as an input to Spark engine for batch processing.
+
+		
+
+		
+
+		Kellog
+
+		Big Data Engineer AWS
+
+		Battle Creek, MI
+
+		April 2016 – August 2017
+
+	
+
+	SAML2.0 IDP authentication & integration using Tivoli federation identity manager for SaaS applications like SFDC, BMI, Lithium Community, Cornerstone OnDemand, Perks, CID etc.
+
+	Used Spark SQL to perform transformations and actions on data residing in Hive.
+
+	AWS Cloud services planning, designing and DevOps support like
+
+	IAM user, group, roles & policy management. AWS Access Key management
+
+	VPC, Route 53, Security Groups, manage Route, Firewall policy, Load Balance DNS setup.
+
+	EC2 Instance creation and Auto Scaling, snapshot backup and managing template.
+
+	Cloud formation scripting, security and resources automation. 
+
+	Cloud watch Monitor for S3 & Glacier storage management, Access control and policy.
+
+	Implemented Spark using Scala, and utilized DataFrames and Spark SQL API for faster processing of data.
+
+	Involved in converting HiveQL/SQL queries into Spark transformations using Spark RDDs, Python and Scala.
+
+	Used Spark DataFrame API over Cloudera platform to perform analytics on Hive data.
+
+	Used Spark streaming to receive real time data using Kafka
+
+	As part of Batch Modernization initiative in E2C, Analyzed existing batch ingestion developed in Oracle Data Integrator and developed PySpark application as ETL tool. This reduced the batch ingestion time from 3.5 hrs to 15 Minutes.
+
+	Setup cloud compute engine managed and unmanaged mode and SSH key management. 
+
+	IAM access control and policy creation, service account and access management.
+
+		
+
+		
+
+		Esurance
+
+		Big Data Developer
+
+		San Francisco, CA
+
+		March 2015 – April 2016
+
+	
+
+	Manipulated and analyzed complex, high volume, and high dimensional data in AWS using various querying tools.
+
+	Investigation of machine learning at scale using Amazon SageMaker on AWS.
+
+	Created a POC involved in loading data from LINUX file system to AWS S3 and HDFS.
+
+	Designed and implemented test environment on AWS.
+
+	Transferred data using Informatica tool from AWS S3.
+
+	Using AWS Redshift for storing the data on cloud.
+
+	 Architecting and DevOps for AWS & Google cloud services including in house Data Center for middleware system and web services. Also, managing security review and web compliance management.
+
+	Designed batch processing jobs using Apache Spark to increase speed compared to that of MapReduce jobs.
+
+	Wrote Spark applications for data validation, cleansing, transformation, and custom aggregation.
+
+	Developed custom aggregate functions using Spark SQL and performed interactive querying.
+
+	Connected various data centers and transferred data between them using Sqoop and various ETL tools.
+
+	Collecting the real-time data from Kafka using Spark Streaming and perform transformations
+
+	and aggregation on the fly to build the common learner data model and persists the data into Hbase.
+
+	Extracted the data from RDBMS (Oracle, MySQL) to HDFS using Sqoop.
+
+	Utilized Spark DataFrame and Spark SQL API extensively for processing.
+
+		
+
+		
+
+		Pfiser
+
+		Hadoop Developer
+
+		New York, NY
+
+		September 2013 – March 2015
+
+	
+
+	IAM user, group, roles & policy management. AWS Access Key management
+
+	VPC setup for multiple project.
+
+	Setup internal and external Load Balance for application and manage Cloud and DNS setup.
+
+	Stackdriver monitoring setup to collects metrics, events, and metadata.
+
+	Configured Fair Scheduler to allocate resources to all the applications across the cluster.
+
+	Performed maintenance, monitoring, deployments, and upgrades across infrastructure that supports all Hadoop clusters.
+
+	Used Zookeeper and Oozie for coordinating the cluster and scheduling workflows.
+
+	Configured Zookeeper to coordinate the servers in clusters to maintain the data consistency and to monitor services.
+
+	Automated all the jobs for pulling data from FTP server to load data into Hive tables, using Oozie workflows.
+
+	Used Log4j for the logging the output to the files.
+
+	Managed and reviewed Hadoop log files.
+
+	Optimized data storage in Kafka Brokers within the Kafka cluster by partitioning Kafka Topics.
+
+	Used Impala where possible to achieve faster results compared to Hive during data Analysis.
+
+		
+
+		
+
+		Element Energy Pvt. Ltd
+
+		Principal Engineer
+
+		Pune, India
+
+		March 2007 – September 2013
+
+	
+
+		Engaged as member of highly reputed consultant team assigned to develop and implement state of the art technology in Indian sugar industry. Element Energy was an alternative energy startup dealing with installation and commissioning of primarily solar, wind and biomass energy installations across SE Asia.
+
+		
+
+		
+
+		Safety of Life at Sea
+
+		Merchant Navy Officer
+
+		Mumbai, India
+
+		Sept 2007 – March 2007
+
+		
+
+			
+
+	
+
+		
+
+	Education
+
+		
+
+		Master of Science in Materials Engineering
+
+		San Jose State University - San Jose, CA
+
+		
+
+		Bachelor's in Bachelors of Technology, Mechanical Engineering
+
+		MIT Pune - Pune, Maharashtra
