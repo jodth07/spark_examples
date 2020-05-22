@@ -1,0 +1,467 @@
+McKinley Kareem
+
+Phone:  999-999-9999
+
+Email:  consultant@gmail.com
+
+McKinley Kareem
+
+Phone:  999-999-9999
+
+Email:  consultant@gmail.comMcKinley Kareem
+
+Hadoop Architect / Engineer
+
+s
+
+Summary
+
+Experience in Apache NIFI which is a Hadoop technology and also Integrating Apache NIFI and Apache Kafka. 
+
+Strong knowledge in Upgrading MapR, CDH and HDP Cluster. 
+
+Full-stack software engineer experienced in Hadoop and other big data platforms.
+
+Proven experience showcasing technical and operational feasibility of Hadoop developer solutions.
+
+Design and build big data architecture for unique projects, ensuring development and delivery of the highest quality, on-time and on budget.
+
+Significant contribution to the development of big data roadmaps.
+
+Creates and maintains environment configuration documentation for all pre-production environments
+
+Able to drive architectural improvement and standardization of the environments.
+
+Expertise in Storm for reliable real-time data processing capabilities to Enterprise Hadoop. 
+
+Extending HIVE and PIG core functionality by using custom User Defined Function's (UDF), User Defined Table-Generating Functions (UDTF) and User Defined Aggregating Functions (UDAF) for Hive and Pig. 
+
+Good Knowledge on Spark framework on both batch and real-time data processing
+
+Provides clear and effective testing procedures and systems to ensure an efficient and effective process.
+
+Clearly documents big data systems, procedures, governance and policies.
+
+Participated in design, development and system migration of high performant metadata-driven data pipeline with Kafka and Hive/Presto on Qubole, providing data export capability through API and UI.
+
+Experienced in deployment of Hadoop Cluster using Puppet tool. 
+
+Experienced in collecting metrics for Hadoop clusters using Ambari & Cloudera Manager. 
+
+Hands on experience in writing Pig Latin scripts, working with grunt shells and job scheduling with Oozie. 
+
+Good knowledge in Cluster coordination services through Zookeeper and Kafka. 
+
+Extensive Experience on importing and exporting data using Flume and Kafka.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skills
+
+Cloud Technologies
+
+Amazon AWS (EMR, EC2, EC3, SQS, S2, S3, Redshift), Azure Cloud, Google Cloud
+
+Programming
+
+Python, HTML, C++ programming languages, Running Scrips with PowerShell and BASH
+
+Database Technologies
+
+SQL, mySQL, RDBMS, Cassandra, Hbase, DynamoDB, Redshift, CloudFormation
+
+Data Modeling
+
+Toad, Podium, Talend, Informatica
+
+Administration
+
+Apache Oozie, Apache Zookeeper, Logstash
+
+Analytics & Visualization
+
+Tableau, Qlik View, Pentaho
+
+Data Warehouse
+
+Teradata 
+
+ETL/Data Pipelines
+
+Datastage, Apache Sqoop, Apache Camel, Flume, Apache Kafka, Apatar, Atom, Talend, Pentaho
+
+Project
+
+Agile Processes, Problem Solution skills, Mentoring, requirement gathering
+
+Communication
+
+Very strong technical written and oral communication skills
+
+
+
+Compute Engines
+
+Apache Spark, Spark Streaming, Storm
+
+File Systems/Formats
+
+Hadoop HDFS, Parquet, Avro, Orc, JSON 
+
+Data Visualization
+
+Pentaho, QlikView, Tableau, Informatica, Power BI
+
+Data Query Engines
+
+SQL, HiveQL, Impala. Pig
+
+Search Tools
+
+Apache Lucene, Elasticsearch, Kibana,
+
+Apache SOLR, Cloudera Search
+
+Cluster
+
+Yarn, Puppet
+
+Frameworks
+
+Hive, Pig, Spark, Spark Streaming, Storm
+
+Infrastructure
+
+IT Infrastructure Security protocol, Matching Security Threats, Virtualization, DNS, TCP/IP, CIFS, SMB,  Infrastructure Planning, System Monitoring Tools, IIS, SCOM, SAN, NAS,  Security Auditing, Active Directory, Anti-Virus Systems/Malware Removal, Remote Desktop Assistance, Application Security and Firewalls
+
+
+
+
+
+
+
+
+
+
+
+Experience
+
+	Hadoop Big Data Architect	October 2016 - Present
+
+Cerner, Kansas City, MO
+
+
+
+Infrastructure:  Cloudera Hadoop, HDFS, Impala, Hive, Pig, Spark, Spark Streaming, SQL, Python, Sqoop, Kafka, Flume, Tableau.
+
+
+
+Responsibilities:
+
+Architected custom Hadoop Big Data pipelines for specific use case analytics using Hadoop to construct ETL pipelines and analytics platforms on a cloud-based architecture.
+
+Worked closely with SMEs and Stakeholders to gather requirements for the current big data project.
+
+involved in full life cycle of the project including logical and physical architecture modeling, implementation, testing, launch and training.
+
+Architected custom Hadoop ETL using Hive, Pig, Kafka, Spark, Spark Streaming and Storm to construction various data processing pipelines, data queries for data collection, ingestion, access, and visualization of data from cloud-based clusters. 
+
+Created an Hadoop architecture that could provide performance and scalability, as well as adaptability for new pipelines and use cases.
+
+Created the Hadoop system to be easy to access usable data derived from Hadoop data lakes and Hadoop clusters for predictive analytics.
+
+Designed and developed interactive Tableau dashboards and custom reports which involved modeling and algorithms from data derived from Hadoop data lakes and pipelines.
+
+Created pipelines to ingest source data from a variety of source repositories and streamed services into Hadoop HDFS using Hive, Spark, Spark Streaming and Flume.
+
+Created variable data formats for data storage in online repositories using Hadoop data lake, Hbase, Cassandra and Redshift.
+
+Secured applications with Kerberos and used Kerberos for authentication with a Ethereum blockchain cryptography.
+
+Created Hive and Impala queries for use by staff to access data for reporting.
+
+Imported data from web service into Hadoop file system (HDFS) and transformed data.
+
+Developed new flume agents to extract data from Kafka and more into Hadoop file system (HDFS).
+
+Implemented applications on Hadoop/Spark on Kerberos secured cluster.
+
+
+
+
+
+
+
+	Hadoop Data Engineer	June 2015 - October 2016
+
+Aeris Communications, Chicago, IL
+
+
+
+Infrastructure: Hadoop, AWS IOT, Spark, AWS S3, Redshift, Athena, Neo4J, DynamoDB, Aurora, QlikView, ELK (Elasticsearch, Logstash, and Kibana on EC2), Python
+
+
+
+Responsibilities:
+
+Installed and configured various components of the Hadoop ecosystem, and added Apache Hadoop clusters and configured ETL pipelines and tools on the cloud to capture data from various IoT systems.
+
+Configured collection realtime data from embedded systems using Apache Storm.
+
+Performance tuned Spark jobs for setting batch interval time, level of parallelism, and memory tuning.
+
+Implementation of DATA LAKE ON AWS S3 and Cloud Service.
+
+Batch Processing and Realtime Processing of IOT data 
+
+Big Data and Analytics Solution Architecture using Hadoop HDFS and ETL tools to transform IoT data.
+
+Implementation of Hadoop Data Lake on Amazon AES Cloud Service.
+
+Batch Processing and Realtime Processing of Sensor data.
+
+Set-up Oozie scheduler to automate the tasks of loading the data into HDFS and pre-processing with Pig to process very large data sets of both batch and streaming data.
+
+Built re-usable Hive UDF libraries for business requirements which enabled users to use these UDF's in Hive querying.
+
+Established preprocessing of the logs that were stored on HDFS using PIG.
+
+Imported the processed data is into Hive warehouse which enabled business analysts to write Hive queries.
+
+Used Pig and Hive, and imported data using Sqoop to load data from MySQL to HDFS on regular basis. 
+
+Worked with Deep knowledge in incremental imports, partitioning and bucketing concepts in Hive needed for optimization. 
+
+Worked on developing User Defined Functions (UDFs) in Hive to transform the large volumes of data with respect to business requirement. Involved in creating UDFs in Hive like - Simple UDF, UDTF, UDAF. 
+
+ETL (extract, transform, load) large sets of Structured, Semi-Structured and Unstructured data and analyzed them by running Hive queries and Pig scripts. 
+
+Analyzed data by performing Hive queries (HiveQL), Impala and running Pig Latin scripts to study customer behavior. 
+
+Involved in writing Pig Scripts for Cleansing the data and implemented Hive tables for the processed data in tabular format.
+
+
+
+
+
+	Hadoop Data Engineer	February 2014 - June 2015
+
+Evident.io, Inc., Pleasanton, CA
+
+
+
+Infrastructure:
+
+Hadoop, HDFS, Apache SOLR, Lucene Search, Microsoft Azure, Data Warehouse, Data Governance, MDM, Azure Cloud, AWS, Amazon Cloud, 
+
+
+
+Responsibilities:
+
+
+
+I helped to develop the SOLR/Lucene Search deployed to Azure. The indexing was done directly on top of the metadata extracted from various files. 
+
+Used customized faceting to overwrite the default search criteria.
+
+Developed a customized SOLR indexing scheduler in C# which would run periodically to do delta indexing.
+
+Wrote variation of batch files, python for SOLR/Lucene deployment and configurations.
+
+Leading the team, we designed architected and implemented the migrating from legacy normalized SQL taxonomy data, customer portfolio data and other data to a modern high-performance Big Data Warehouses running on multiple DW appliances.
+
+Defined the data governance strategy, designed security patterns, implemented data standards and procedures across the enterprise; drafted business specific methodology to establish business stakeholder-driven data stewardship through MDM.
+
+Led multiple EDW projects, prototyped and evaluated the performance on Azure cloud, AWS Amazon Cloud, Massively Parallel Processing (MPP) Data Warehouse Appliance.
+
+Created Taxonomy data visualization using the Cloudera Visualizations, Dashboards, and Reports to monitor customer profile, demography, and other useful data. Other visualization tools were also created using C#.
+
+Created data quality ETL packages to correct and cleanse the taxonomy data and enhance the quality of consolidated data. The consolidated taxonomy data then were segmented using Hadoop and Cloudera.
+
+
+
+
+
+	Data Systems Administrator/Engineer	February 2013 - February 2014
+
+Heartbyte, Inc. Atlanta, GA
+
+
+
+Infrastructure:  MapReduce, HDFS, Hive, ETL, Pig, SQL, mySQL, Oracle, Spark, Data Frame, Bucketing, Partitioning, SSIS, Yableau, UDF, Spark Context, Zookeeper, Sqoop, Oozie, Flume
+
+
+
+Responsibilities:
+
+•	Responsible for building scalable distributed data solutions using Hadoop.
+
+•	Installed and configured Pig for ETL jobs and made sure we had Pig scripts with regular expression for data cleaning.
+
+•	Creating Hive external tables to store the Pig script output. Working on them for data analysis in order to meet the business requirements.
+
+•	Worked with Spark Context, Spark-SQL, DataFrame and Pair RDDs.
+
+•	Used Hive, Spark SQL Connection to generate Tableau BI reports.
+
+•	Created Partitions, Buckets based on State to further process using Bucket based Hive joins.
+
+•	Created Hive Generic UDF's to process business logic that varies based on policy.
+
+•	Developed various data connections from data sourced to SSIS, and Tableau Server for report and dashboard development.
+
+•	Used beautifulsoup for extracting data from HTML and XML files.
+
+•	Developed metrics, attributes, filters, reports, dashboards and also created advanced chart types, visualizations and complex calculations to manipulate the data.
+
+•	Used Zookeeper for providing coordinating services to the cluster.
+
+•	Used Oozie Scheduler system to automate the pipeline workflow and extract the data on a timely manner.
+
+•	Imported data using Sqoop to load data from MySQL and Oracle to HDFS on regular basis.
+
+•	Moving data from Oracle to HDFS and vice-versa using SQOOP.
+
+•	Collected and aggregated large amounts of log data using Apache Flume and staging data in HDFS for further analysis.
+
+•	Used Sqoop to efficiently transfer data between databases and HDFS and used Flume to stream the log data from servers.
+
+•	Implemented partitioning, bucketing in Hive for better organization of the data.
+
+•	Successfully loaded files to HDFS from Teradata and loaded from HDFS to HIVE.
+
+•	Used Zookeeper and Oozie for coordinating the cluster and scheduling workflows.
+
+
+
+
+
+	Systems Security Engineer	October 2009 - February 2013
+
+Hill, Inc., Atlanta, GA
+
+
+
+Infrastructure: Windows Server 2012, Microsoft Exchange, Active Directory, Internet Information Server (IIS), System Center Operations Manager (SCOM), System Center Configuration Manager(SCCM), SQL Server
+
+
+
+Responsibilities:
+
+Developed Disaster Recovery plans for entire operation.
+
+Managed log files, logged security events and incidents, reviewed security logs, investigated incidents; provided risk assessment and recommended measures to mitigate exposure to risks.
+
+Worked with management to determine infrastructure security strategy.
+
+Configured TCP/IP, DNS, CIFS, SMB.
+
+Pro-actively identified potential security issues and implemented preventive measures.
+
+Used Matrix Management to define role and resource allocation.
+
+Adjusted application security parameters as needed.
+
+Designed high-detail network infrastructure and prepared detailed schematics using Microsoft Visio with specific descriptions on connections, ports, and addresses and with detailed instructions on how to implement.
+
+Used ISS to host website with .NET Framework, Batch scripted, Script with PowerShell, Bash, VBScript, WMI.
+
+Responsible for deployment, maintenance, and troubleshooting of Windows 2012 Servers, Intel Servers, and SAN. 
+
+I learned and implemented several technologies that were new to me and used them to complete projects.
+
+
+
+
+
+	Systems Administrator	Sept 2006 - October 2009
+
+Grainer, Atlanta, GA
+
+
+
+Infrastructure:
+
+Microsoft Azure, Windows Server, VPN, Firewall, vSphere, Linux, Lan, WAN, SAN, NAS, ASAv, Vnets,SolarWinds
+
+
+
+Responsibilities:
+
+Main responsibilities are infrastructure and Linux, and Windows 2008/2008R2 server theories, principles and concepts. Including application infrastructure and standards, networking fundamentals, Windows server, SAN storage systems, clustering, physical server architecture, vSphere environment, LAN/WAN/Firewall/VPN network technologies. Ensure all new and proposed software is tested with existing environment prior to deployment. Acted as project manager on global projects with a focus on, risk assessment, costs, timing and benefits. Provides input based on the research of current software and operating system service packs, patches, updates and fixes for servers and desktops. Make recommendations based upon the severity, critical needs and implications to environment and supported applications.
+
+Advanced experience supporting, maintaining, deploying Windows server platforms - including Active Directory, File/Print services/Web services/DNS/DHCP/Windows clustering/Windows Group Policies.
+
+Preformed successful migration from vSphere 5.1 to 5.5 migrating All VMs to temporary locations and then back to new 5.5 environment
+
+Responsible for securing network devices and protocols such as such as Telnet, SSH, SNMP, ITL making sure they meet PCI security audits and compliance.
+
+Advanced knowledge of telecommunication network design, topology, systems interfaces, and protocols to meet support requirements.
+
+Successfully migrated corporate colo resources to Microsoft's Azure could solution. Designed Azure environment utilizing Cisco ASAv, Vnets, Security groups, and 3rd party Virtual appliances and software to meet virtual infrastructure requirements.
+
+Perform scheduled configuration changes to network. Create and maintain standard operating procedure documentation for systems and network policies and procedures.
+
+Purchased and implemented Cisco ASA 5516x Next Generation firewalls and configured ACLs, NAT and IPec VPNs, as well as Cisco FirePower SFRs and Firesight management system with standard IDS/IPS policy, web filtering and advanced malware protection.
+
+Installed and administered network monitoring tools SolarWinds Orion, LEM Log and event manager, NPM Network performance monitor, VOIP network quality manager.
+
+
+
+
+
+	Systems Support	Sept 2004 - February 2006
+
+GPS Hospitality, Atlanta, GA
+
+
+
+Infrastructure:
+
+Citrix, IIS, Winsows Server 2000, 2003, Exchange 5.5, Web Sense, Norton Anti-Virus, Cisco, Active Directory, Windows NT
+
+
+
+Responsibilities:
+
+Supported 80 plus users, setting-up and implementing new servers and workstations, ensuring all security measures were properly implemented and kept up-to-date.
+
+Set-up and configured the following servers: Windows NT 4.0 migrated to 2000 then Exchange 5.5 migration to Exchange 2003 server, Windows 2000/2003 terminal (Citrix).
+
+Setup and configured IIS; Web Sense; in house Norton Anti-virus 8.1 corporate edition server; checkpoint firewall; sonic wall hardware firewall; VPN technology between multiple sonic walls; and Cisco Concentrator (VPN3000).
+
+Monitored event viewer for errors and problems. Kept all workstations and servers up-to-date with all security patches. Upgraded workstations and servers as needed. Maintained NTFS security access.
+
+Built new custom servers & workstations. Assisted users and outside sales representatives with all help desk requests.
+
+Performed daily back-ups of all servers using Veritas back-up exec 9 and implemented a disaster recovery plan for all eleven servers.
+
+Required to have a complete knowledge and understanding of Windows NT 4, 98, 2000 Pro/XP and Server 2000/2003 with Active Directory.
+
+
+
+
+
+Education
+
+Bachelor of Computer Science, I.T. Security
+
+University of Phoenix, Atlanta, GA
+
+
+
+Certifications
+
+Certified in Information Technology Infrastructure Library 2011: ITIL v3

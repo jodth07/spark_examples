@@ -1,0 +1,550 @@
+mangornongfrancis@gmail.com / 513-586-4775
+
+
+
+Francis Mangornong
+
+Hadoop Big Data Developer
+
+
+
+Experience Summary
+
+5+ years Specializing in Hadoop/Big Data
+
+5+ years total Information Technology
+
+Contact Information
+
+Consultant
+
+Phone:  513-586-4775
+
+Email: mangornongfrancis@gmail.com
+
+
+
+
+
+Professional Summary
+
+
+
+Proficient in extracting and generating analysis using Business Intelligence Tool, Tableau for better analysis of data.
+
+Effective in HDFS, YARN, Pig, Hive, Impala, Sqoop, HBase, Cloudera. 
+
+MLlib, Spark GraphX.
+
+Experience processing data using Spark Streaming API with Scala.
+
+Spark Architecture including Spark Core, Spark SQL, Spark Streaming, Spark
+
+ETL, data extraction, transformation and load using Hive, Pig and HBase.
+
+Very Good knowledge and Hands-on experience in Cassandra, Flume and YARN. 
+
+Experience in implementing User Defined Functions for Pig and Hive. 
+
+Extensive Knowledge in Development, analysis and design of ETL methodologies in all the phases of Data Warehousing life cycle. 
+
+Excellent understanding of Hadoop architecture and its components such as HDFS, Job Tracker, Task Tracker, Name Node, and Data Node. 
+
+Expertise in Python and Scala, user-defined functions (UDF) for Hive and Pig using Python.
+
+Hands-on use of Spark and Scala API's to compare the performance of Spark with Hive and SQL, and Spark SQL to manipulate Data Frames in Scala.
+
+Expertise in preparing the test cases, documenting and performing unit testing and Integration testing. 
+
+Hands on Experience on major components in Hadoop Echo Systems like Spark, HDFS, HIVE, PIG, HBase, Zookeeper, Sqoop, Oozie, Flume, Kafka.
+
+Work Experience with Cloud Infrastructure like Amazon Web Services.
+
+Experience in Importing and Exporting data using Sqoop from Oracle/Mainframe DB2 to HDFS and Data Lake.
+
+Experience in developing Shell Scripts, Oozie Scripts and Python Scripts.
+
+Expert in writing complex SQL queries with databases like DB2, MySQL, SQL Server and MS SQL Server.
+
+Experience in importing and exporting data using Sqoop and SFTP for Hadoop to/from RDBMS. 
+
+Extensive experience with Databases such as MySQL, Oracle 11G. 
+
+Experience in using Kafka as a messaging system to implement real-time Streaming solutions using Spark Streaming.
+
+Expertise with the tools in Hadoop Ecosystem including HDFS, Pig, Hive, Sqoop, Storm, Spark, Kafka, Yarn, Oozie, Zookeeper etc.
+
+Knowledge in implementing advanced procedures like text analytics and processing using Apache Spark with Python language.
+
+
+
+Technical Skills
+
+
+
+Programming Languages
+
+Java, Python, Scala, C, C++, C#, VB.NET, ASP.NET
+
+
+
+Web Scripting:
+
+HTML, CSS, PHP, JavaScript, MarkDown
+
+
+
+IDEs
+
+Netbeans, Jupyter Notebooks, Eclipse, IntelliJ, PyCharm, Atom, Visual Studio
+
+
+
+Integrations
+
+Ajax, REST API, Spark API,
+
+
+
+Database
+
+Amazon Redshift, Amazon Aurora, Amazon RDS, DynamoDB, Apache Cassandra, Apache HBase, MapR-DB, MongoDB, Oracle, SQL Server, DB2, Sybase, RDBMS, MS Access, PostgreSQL, mySQL, NoSQL
+
+
+
+Data Storage
+
+Data Lake, Data Warehouse, S3
+
+
+
+File Management
+
+HDFS, Parquet, Avro, JSON, Snappy, Gzip
+
+
+
+Data Frameworks and Tools
+
+MapReduce, Hive, Hive QL, RDDs, DataFrames, Datasets
+
+
+
+Methodologies
+
+Agile, Kanban, Scrum, DevOps, Continuous Integration, Test-Driven Development, Unit Testing, Functional Testing, Design Thinking
+
+
+
+Cloud
+
+AWS, Azure HDInsight, Google Cloud, IBM
+
+
+
+Search
+
+Apache SOLR, Elasticsearch, Apache Lucene,
+
+
+
+
+
+Cloud Services & Distributions
+
+	AWS, Azure, Anaconda Cloud, Elasticsearch, Solr, Lucene, Cloudera, Databricks, Hortonworks, Elastic MapReduce
+
+
+
+Big Data Processing
+
+Apache Storm, Apache Hive, Apache Cassandra, Apache Hadoop, Apache Hadoop, Apache Hcatalog, Spark MLlib, GraphX, SciPy, Pandas, Mesos, Apache Tez, Apache ZooKeeper
+
+
+
+Build Tools
+
+Apache Ant, Apache Maven
+
+
+
+File Formats
+
+JSON, Avro, Parquet, ORC, XML, HDFS
+
+
+
+Version Control
+
+GitHub, Git, GitLab, SVN
+
+
+
+Continuous Integration
+
+Jenkins, Hudson, Travis
+
+
+
+Testing
+
+jUnit, Unit Testing, Functional Testing, Test-Driven Development
+
+
+
+BI and Data Visualization
+
+Kibana, Tableau
+
+
+
+Data Processing
+
+Kibana, Tableau, Sqoop, Apache Drill, Presto, Apache Flume, Apache Airflow and Camel, Apache Hue, YARN, Apache Hive, Apache Kafka, Apache MAVEN, Apache Oozie, Apache Pig, Apache Spark, Spark Streaming,
+
+
+
+Hadoop
+
+Apache SOLR, Cloudera Impala, Cloudera, Hortonworks, MapR
+
+
+
+
+
+
+
+
+
+
+
+Professional Experience
+
+
+
+	Big Data Cloud Developer 	10.2018 – 10.2019
+
+	84.51° Cincinnati, OH
+
+
+
+	The purpose of this project involved the design and maintenance of a scheduling and automation tool to enable the orchestration of ETL and data science at scale within the cloud.   
+
+	
+
+	The problem was lack of functionality within the enterprise cloud platform to run automated jobs.  We needed to enable the Data Scientists to run schedulable and repeatable jobs on a massive scale both in terms of population and compute, in a Google Cloud/Microsoft Azure Environment.  To solve the problem, I created a custom solution by way of a web application using Apache Airflow. 
+
+
+	My Major Contributions to the project included: 
+
+	Responsible for the design and implementation of the application’s Postgres back-end. 
+
+	Responsible for design and implementation of REST endpoints and integrations with external services (i.e Google Cloud Storage, Google PubSub, Airflow) 
+
+	Responsible for enabling and extending a third-party API extension to Airflow called Clairvoyant API. 
+
+	I designed a Cloud-based Flask web application that served as the main integration between a Java Spring Boot & Angular front-end and our managed Apache Airflow Instance. 
+
+	This web application served as both a mechanism for users to bring their own workflows as well as a file template generator that created custom Airflow workflows that were then deployed to Airflow to be orchestrated. 
+
+	These workflows would run on their custom provisioned Spark/Hadoop Clusters (abstracted by an enterprise Cluster Provision that was maintained by a different team) to avoid queueing and resource contention faced by running via the on-premise Airflow Instance. 
+
+	We created an integration with this enterprise Cluster Provisioner through custom Airflow operators. 
+
+	We practiced Agile Scrum as our style of software development 
+
+	Documentation was managed via Confluence articles 
+
+	All issues/tasks and feature work were managed via JIRA 
+
+	Agile team consisted of Associate, Junior and Senior Developers, Team Lead, Business Analyst, Scrum Master and Technical Product Owner. 
+
+	Collaborated and integration with the UI/UX teams as to interface our back-end API for managing our Airflow Instance with the UI to enable users by allowing them to either create/customize or bring their own workflow to deploy into Airflow. 
+
+	Worked with Security team on Cloud accesses for users and services. 
+
+	Worked with Networking team to modify the enterprise proxy and firewall settings to enable proper access and controls on our application and Google Kubernetes Engine (GKE). 
+
+	Set-up our own custom SMTP server to allow for emails to be sent from our Airflow Instance to anyone within the enterprise. 
+
+	Heavily paired with QA teams to integrate testing frameworks and suites into the application and CI/CD pipeline to ensure high quality deliverables that were thoroughly tested. 
+
+	Collaborated with CI/CD teams to create and maintain TeamCity pipelines to continuously publish and release iterations of our service, and on versioning, artifacts and Docker images in the enterprise Artifactory (and eventually Google Container Registry). 
+
+	Worked with Kroger and Enterprise Cloud teams to assist with enabling and setting up GCP projects and managed services 
+
+	Collaborated with Data Delivery Teams for feature requirements, user acceptance testing, and general user feedback on the system and to ensure SLA deadlines. 
+
+	Paired with data science and data analyst teams to gather feature and enhancement requirements and had regular meetings for general feedback 
+
+	Performed evaluation of the existing system, and outlined proposed tasks, with the existing rudimentary Flask Application close to initial POC web application based on Google Kubernetes Engine in GCP. 
+
+	The agreed upon tech-stack for the automation tool consisted of: Python Flask Web Application, SQLAlchemy DB, PostgreSQL DB, Apache Airflow, UWSGI Server, Nginx Server, Flask Application, Dockers, Kubernetes, Helm Chart, JFrog Artifact Repository, TeamCity CI/CD.  
+
+	Implemented Docker to containerize our application and build in any dependencies. 
+
+	Used Google Kubernetes Engine to host and deploy our application as a Kubernetes pod running our containerized application. 
+
+	Used a Helm chart (series of Kubernetes .yaml files) in the deployment process. 
+
+	Used TeamCity CI/CD and JFrog Artifact Repository to create artifacts as Docker containers for the application, Postgres instance, and Airflow TeamCity will build and run the test suite to make sure the application has and passes the proper amount of test coverage. 
+
+	TeamCity used to configure the Kubernetes environment to contain all proper accesses and required entities -- I.e. Kubernetes Secrets and Persistent Volume Claims (PVC) to persist data from ephemeral Kubernetes Pods. 
+
+	Deployed the application using TeamCity by running Helm (Kubernetes install client) install commands. 
+
+	Successfully took a POC of a deployed web application in the cloud to a full-fledged REST API that enabled integrations to an externally owned/controlled UI and Airflow. 
+
+	Developed the transactional database system as the application’s backend. 
+
+	Transitioned through POC’s and POS’s of different managed versions of Airflow (i.e. Google’s Composer (GCP’s managed Airflow) and Astronomer (third-party solution for a customized Airflow). 
+
+	Customized a fork of Apache Airflow to meet all system and user requirements. 
+
+	Developed the application as a series of easily manageable microservices that could be readily deployed to Kubernetes. 
+
+	Created a robust workflow management system that allowed users to both bring their own Airflow DAG/workflow files or use our specially made file templating system as to enable custom workflows. 
+
+	
+
+Key Technologies:  Google Cloud Platform, Microsoft Azure, Hadoop, Spark, Cloud (GCP, Azure), Python, SQL (PostgreSQL), Flask, Kubernetes, Docker, Unix/Linux  
+
+
+
+	
+
+	
+
+	Hadoop Cloud Architect 	11.2016 – 10.2018
+
+Cummins Inc., Columbus, IN
+
+
+
+Cummins designs, manufactures, and distributes engines, filtration, and power generation products.  This project focused on Cummins application of big data, statistical analysis and IoT to analyze existing component or system reliability.  
+
+IOT, Big Data and analytics platform development 
+
+Worked on Hortonworks Hadoop (IBM Big Insights) cloud-based system to configure Hadoop clusters and Kafka clusters, and Data pipelines.
+
+IoT device analytics platform; researched and codified the Kafka Consumer using Kafka Consumer API 0.10 and Kafka Producer API 0.10(Java); designed the Spark Streaming and Kafka Producer interfaces - for multithreaded partitions and multiple topics by smartphone manufacturer device type; competitive analysis of Storm, Spark, Flink, Samza for processing messages, replay and lost message management, horizontal scalability, security, message sequencing;
+
+Configured Apache Zeppelin binaries/conf for Spark Web clients; integrated Zeppelin daemon with Spark master node.
+
+Developed pipelines to fetch data from SQl, NoSQL and Hybrid databases on the cloud.
+
+Tested and configured Web server with Spark cluster; tested Zeppelin with SparkSQL and Python clients (pluggable interpreters).
+
+By Using Python Libraries NumPy, SciPy, scikit-learn, pandas analyzed large datasets and developed graphs.
+
+Coordinated Kafka operation and monitoring (via JMX) with dev ops personnel; formulated balancing leadership strategies and impact of producer and consumer message(topic) consumption to prevent overruns;
+
+Aggressive monitoring of partitioning versus topic production via JMX interface(s); developed Kafka standalone POC's with the Confluent Schema Registry, Rest Proxy, Kafka Connectors for Redshift and HDFS(Hadoop)
+
+Developed Spark applications for the entire batch processing by using Scala.
+
+Custom Kafka broker design to reduce message retention from default 7-day retention to 30- minute retention - architected a light weight Kafka broker.
+
+Integrating Kafka with Spark streaming for high speed data processing.
+
+Developed Spark code using Scala and Spark-SQL/Streaming for faster processing of data.
+
+Created modules for Spark streaming in data into Data Lake using Storm and Spark.
+
+Configured Spark Streaming to receive real time data and store the stream data to HDFS.
+
+Extract Real time feed using Kafka and Spark Streaming and convert it to RDD and process data in the form of Data Frame and save the data as Parquet format in HDFS.
+
+Handled the real time streaming data from different sources using flume and set destination as HDFS.
+
+Support for the clusters, topics on the Kafka manager.
+
+
+
+Key Technologies:  Hortonworks, Hadoop, IBM Big Insight, Kafka, Camel, Spark, Spark Streaming, HDFS, Flume, Zookeeper, RDD
+
+
+
+
+
+
+
+	Hadoop Cloud Engineer 	06.2015 – 11.2016
+
+Trammo, New York, NY
+
+Trammo is involved in international commerce, trade, transportation, distribution, and marketing of fertilizer, chemicals, methanol, crude oil, liquefied petroleum gas, and petrochemicals.  Big data is intrinsic to the corporate strategy, and my project focused on trade tariffs, trends and supply chain distribution.
+
+
+
+Involved in migrating MapReduce jobs to Spark, using Spark SQL and DataFrames API to load structured data into Spark clusters
+
+Implemented Spark using Scala, utilized DataFrames and Spark SQL API for faster processing of data.
+
+Involved in converting HiveQL/SQL queries into Spark transformations using Spark RDDs, Python and Scala.
+
+Wrote shell scripts for automating the process of data loading.
+
+Documented Technical Specs, Dataflow, Data Models and Class Models.
+
+Installed and configured various components of the Hadoop ecosystem.
+
+Created UNIX shell scripts to automate the build process, and to perform regular jobs like file transfers between different hosts.
+
+Developed a task execution framework on EC2 instances using SQL and DynamoDB.
+
+Captured and transformed real-time data from Amazon Aurora into a suitable format for scalable analytics.
+
+AWS Cloud services planning, designing and DevOps support like
+
+IAM user, group, roles & policy management. AWS Access Key management
+
+VPC, Route 53, Security Groups, manage Route, Firewall policy, Load Balance DNS setup.
+
+Manipulated and analyzed complex, high volume, and high dimensional data in AWS using various querying tools.
+
+Created a POC involved in loading data from LINUX file system to AWS S3 and HDFS.
+
+Responsible for installing and configuring Apache Hadoop and tools on the cloud.
+
+Managed, configured, tuned and continuous deployment of 80 Hadoop nodes in a Red Hat Enterprise edition 5; configured via the AWS console for 2 medium scale AMI instances for the Name Nodes
+
+Zookeeper tarball, configured Zookeeper ensemble of 3 nodes in standalone and multi-node cluster.
+
+Established Java based shell; reconfigured Zookeeper znodes -ephemeral, sequential and persistent nodes;
+
+Worked on streaming analyzed data to HBase using Sqoop to make it available for visualization and report generation by the BI team. 
+
+
+
+Key Technologies:  Hadoop, HDFS, Zookeeper, AWS, EC2, DynamoDB, SQL, Dataflow, Data Models, Class Models, Unix, Zookeeper, Yarn, Spark, Python, Scala
+
+
+
+
+
+
+
+	Hadoop Big Data Engineer 	02.2014 – 06.2015
+
+Perdue Farms, Salisbury, MD
+
+This project involves the use of sensors to collect data on livestock health, feed and maintenance, and prediction of market demand and logistics from data stores.
+
+
+
+Worked on a Hortonworks Hadoop cloud platform developing pipelines and performance tuning.
+
+Used Scala to implement Spark frameworks 
+
+Performance tuned Spark jobs for setting batch interval time, level of parallelism, and memory tuning.
+
+Exported analyzed data to relational databases using Sqoop for visualization, and to generate reports for the BI team.
+
+Utilized Spark DataFrame and Spark SQL API extensively for processing.
+
+Loaded and transformed large sets of structured and semi structured data from HDFS through Sqoop and placed in HDFS for further processing. 
+
+Transferred Streaming data from different data sources into HDFS and HBase using Apache Flume.
+
+EC2 Instance creation and Auto Scaling, snapshot backup and managing template.
+
+Cloud formation scripting, security and resources automation. 
+
+Cloud watch Monitor for S3 & Glacier storage management, Access control and policy
+
+Wrote custom UDFs in PIG and HIVE in accordance with business requirements.
+
+Created both internal and external tables in Hive and developed Pig scripts to preprocess the data for analysis.
+
+Used Apache Yarn for resource allocation on Hadoop clusters.
+
+Moved some data from Google Cloud Platform (GCP) to AWS S3.
+
+Involved in converting HiveQL/SQL queries into Spark transformations using Spark RDDs, Python and Scala.
+
+Used Spark DataFrame API over Cloudera platform to perform analytics on Hive data.
+
+Fetched live stream data to HBase table using Spark Streaming and Apache Kafka.
+
+Involved in complete Big Data flow of the application starting from data ingestion from upstream to HDFS, processing the data into HDFS using Spark Streaming.
+
+Using Flume to handle streaming data and loaded the data into Hadoop cluster.
+
+Integrating Kafka with Spark streaming for high speed data processing.
+
+Developed Sqoop jobs to populate Hive external tables using incremental loads.
+
+
+
+
+
+Key Technologies:  Hortonworks Hadoop, Hive, Pig, Kafka, Spark, Spark Streaming, Google Cloud Platform, DataFrames, Amazon AWS, S3, Sqoop, B+DB2, HBase, RDD, Yarn
+
+
+
+
+
+
+
+	Data Engineer  	05.2013 – 02.2014
+
+Gilbane Building Company, Atlanta, GA
+
+Big data analytics has been transformative for construction engineering, civil engineering and facilities management. Data analytics and real-time data from “smart building” sensors provide facilities management data that has strategic value to future lease and capital investment.  For projects data analysis is used to streamline processes, increase efficiencies and increase ROI.
+
+Documented Technical Specs, Dataflow, Data Models and Class Models.
+
+Responsible for documenting each task done.
+
+Used the image files of an instance to create instances containing Hadoop installed and running.
+
+Developed dynamic parameter file and environment variables to run jobs in different environments.
+
+Wrote custom UDFs in PIG and HIVE in accordance with business requirements.
+
+Developed Pig scripts to arrange incoming data into suitable and structured data before piping it out for analysis.
+
+Worked on installing clusters, commissioning & decommissioning of data node, configuring slots, and on name node high availability, and capacity planning.
+
+Executed tasks for upgrading clusters on the staging platform before doing it on production cluster.
+
+Extracted the data from RDBMS (Oracle, MySQL) to HDFS using Sqoop.
+
+Wrote Sqoop scripts to inbound and outbound data to HDFS and validated the data before loading to check the duplicated data.
+
+Optimized HIVE analytics, SQL queries, created tables, views, wrote custom UDFs, and Hive-based exception processing.
+
+Optimized MapReduce jobs by using practitioners for 1 -to-many joins, saving execution time; designed and tested reliability of M-R jobs using unit testing in the HBase/HDFS dev/QA platforms.
+
+Wrote MapReduce code to process and parse data from various sources and store parsed data into HBase and Hive using HBase-Hive Integration.
+
+Developed and ran Map-Reduce jobs on YARN clusters to produce daily and monthly reports per requirements.
+
+Developed MapReduce jobs using Java for data transformations.
+
+Worked on HIVE to create numerous internal and external tables.
+
+Partitioned and bucketed Hive tables; maintained and aggregated daily accretions of data.
+
+
+
+Key Technologies:  HDFS, Hive, Pig, MapReduce, Yarn, MySQL, Oracle, Sqoop, HBase, Yarn
+
+
+
+
+
+
+
+Education
+
+Bachelor of Computer Science 
+
+ University of Pittsburgh, Pittsburgh, PA
+
+
+
+Certifications:
+
+C++ - in progress

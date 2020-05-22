@@ -1,0 +1,357 @@
+Senior Data Engineer
+
+Email:  consultant@gmail.com
+
+Phone: 999-999-9999
+
+Senior Data Engineer
+
+Email:  consultant@gmail.com
+
+Phone: 999-999-9999
+
+Eric Bannavti Suiseka
+
+Eric Bannavti Suiseka
+
+
+
+
+
+Professional Profile
+
+5 years in Hadoop/Big Data
+
+5 years in Information Technology
+
+Understanding of distributed systems, HDFS architecture, internal working details of MapReduce and Spark processing frameworks.
+
+Understanding of Hadoop big data architectures, data movement technologies, database partitioning, database optimization, and building communication channels between structured and unstructured databases.
+
+Understanding of big data concepts and use of cloud technologies and tools.
+
+Well-versed in installation, configuration, administration, and tuning Hadoop cluster of major Hadoop distributions (Cloudera CDH 3/4/5, Hortonworks HDP 2.3/2.4, and Amazon Web Services (AWS).
+
+Mastered use of the different columnar file formats like RCFile, ORC and Parquet formats.
+
+Pandas experience with operational monitoring of clusters and applications.
+
+Setup and Config Data Lake on Bigdata platforms like Cloudera, Hortonworks, and Mapr.
+
+Skill using Open source software like Spark, Flume, and Kafka.
+
+Proficient performing importing/exporting actions between SQL (Oracle, MySQL) / NoSQL (Realm, MongoDB) databases and HDFS using Sqoop. 
+
+Proficient with building tools like Apache Ant and Apache Maven.
+
+Hands on experience migrating complex MapReduce programs into Apache Spark RDD operations like transformations and actions.
+
+Hands-on expertise in Hadoop components - HDFS, MapReduce, Hive, Impala, Pig, Flume, Sqoop and HBase.
+
+Implemented, set-up and worked on various Hadoop Distributions (Cloudera, Hortonworks, Amazon AWS).
+
+Knowledgeable of deploying the application jar files into AWS instances.
+
+Knowledgeable of Hadoop Architecture and Hadoop components (HDFS, MapReduce, JobTracker, TaskTracker, NameNode, DataNode, ResourceManager, NodeManager.
+
+Knowledgeable of installation and configuration of Hive, Pig, Sqoop, Flume and Oozie on Hadoop clusters.
+
+
+
+
+
+Professional Skills
+
+Programming
+
+C++, Java, SQL, JavaScript, Python, Oracle
+
+Database
+
+Apache Cassandra, AWS DynamoB, MongoDB, ArangoDB, AuroraDB, Redshift, AmazonRDS, SQL, MySQL, NoSQL, Oracle, DB2.
+
+Open Source Distributions
+
+AWS, Kali, Cisco
+
+Amazon Stack
+
+AWS, EMR, EC2, EC3, SQS, S3, DynamoDB, Redshift, Cloud Formation
+
+Systems
+
+Windows Active Directory, Windows Server 2003, 2008, 2008R2, 2012/2012R2, Red Hat Linux 6-7, Red Hat, IBM AIX, HP, CentOS, Ubuntu
+
+Virtualization
+
+VMWare, vSphere, Virtual Machine/ Big Data VM, VirtualBox, Oracle Big Data Lite Virtual Machine v 4.9
+
+Data Pipelines/ETL
+
+Apache Camel, Flume, Apache Kafka, Apatar, Atom, Fivetran, Heka, Logstash, Scriptella, Stitch, Talend, Talend, Ketl, Pentaho Data Integration (Kettle), Jaspersoft, CloverETL
+
+Distributions
+
+Cloudera, Hortonworks. AWS, MapR
+
+Hadoop Ecosystem
+
+Hadoop, Hive, Spark, Maven, Ant, Kafka, HBase, yarn, Flume, Zookeeper, Impala. HDFS, Pig, Oozie, Tez, Zookeeper, Apache Airflows 
+
+Search Tools
+
+Apache Solr/Lucene, Elasticsearch/ Kibana
+
+File Formats
+
+Parquet, Avro
+
+File Compression
+
+Snappy, Gzip, ORC
+
+Data Mining
+
+RapidMiner, IBM SPSS Modeler, Oracle Data Mining 
+
+Data Cleansing
+
+DataCleaner, Winpure Data Cleaning Tool, Patnab, OpenRefine, Drake
+
+
+
+Software
+
+Nessus, SET, API, Metasploit, WIreShark, VMWare, vSphere, AppDynamics, Confluence, Jira, , RabbitMQ, Minsoft, Nagios, Cloudclock
+
+
+
+
+
+
+
+
+
+Professional Experience
+
+
+
+	SENIOR BIG DATA ENGINEER		March 2017 - Present
+
+	SIEMENS	Alpharetta, GA		
+
+	__________________________________________________________________________________________
+
+Data Analysis in Water Pipes
+
+https://www.siemens.com/innovation/en/home/pictures-of-the-future/digitalization-and-software/from-big-data-to-smart-data-project-icewater.html
+
+Siemens constructed big data pipelines using Hadoop and AWS platforms for the analysis of water consumption for the purpose of improving efficiency in water management.  Siemens installed pressure and flow rate sensors in water pipes in test cities. Data was consumed from Internet of Things (IoT) sensors in various stages of the water service in key cities of various countries around the world.  Data gathered included the season, the time of day, the weather, and special events such as a soccer games. Water utilities always have to supply enough water while at the same time striving to consume as little energy as possible.  This big data project succeeded in reducing energy consumption by eight to twelve percent.
+
+Indices setup, manage template & configuration. Indexing data from community, SQL & No-SQL database, CMS tool like AEM & TeamSite.
+
+Transferred Streaming data from different data sources into HDFS and HBase using Apache Flume.
+
+Fetching the live stream data from DB2 to HBase table using Spark Streaming and Apache Kafka.
+
+Involved in complete Big Data flow of the application starting from data ingestion from upstream to HDFS, processing the data into HDFS using Spark Streaming.
+
+Using Flume to handle streaming data and loaded the data into Hadoop cluster.
+
+Logstash configuration, setup multiple pipeline, managing worker and batch size and DevOps support
+
+Kibana setup, dashboarding and visualization configuration.
+
+Real-time data indexing using AWS SQS messaging service.
+
+Filebeat setup & configuration, DevOps activity.
+
+Cloud watch Monitor for S3 & Glacier storage management, Access control and policy.
+
+Created the pipeline to scrape data from internal resources.
+
+Responsible for developing data pipeline using Sqoop, MR and Hive to extract the data from weblogs and store the results for downstream consumption.
+
+Real-time data indexing using AWS SQS messaging service.
+
+Filebeat setup & configuration, DevOps activity.
+
+Amazon EC2, Amazon S3, Amazon SimpleDB, Amazon RDS, Amazon Elastic Load Balancing, Amazon SQS, and other services of the AWS family.
+
+Involved in scheduling Oozie workflow engine to run multiple HiveQL, Sqoop and Pig jobs.
+
+Developed workflow in Oozie to automate the tasks of loading data into HDFS and pre-processing with Pig and Hive.
+
+Configured Fair Scheduler to allocate resources to all the applications across the cluster.
+
+Performed maintenance, monitoring, deployments, and upgrades across infrastructure that supports all Hadoop clusters.
+
+Used Zookeeper and Oozie for coordinating the cluster and scheduling workflows.
+
+Built re-usable Hive UDF libraries for business requirements which enabled users to use these UDF's in Hive querying.
+
+Oozie scheduler to automate the tasks of loading the data into HDFS and pre-processing with PIG.
+
+Implemented many Impala scripts and shell scripts for data validation and data analytics.
+
+
+
+
+
+	DATA ENGINEER		January 2016 – March 2017
+
+	ENERGY FUTURE HOLDINGS CORPORATION	Dallas, TX		
+
+	__________________________________________________________________________________________
+
+Smart Water Meter Data
+
+Energy Future Holdings Corporation is an electric utility company. The majority of the company’s power generation is through coal- and nuclear-power plants. The company used Big data to install smart meters. The smart meters allows the provider to read the meter once every 15 minutes rather than one month.
+
+Architecting and Data Engineering for AWS cloud services including AWS Cloud services planning, designing and DevOps support like IAM user, group, roles & policy management. AWS Access Key management.
+
+Ran Hadoop streaming jobs to process terabytes of XML format data.
+
+Real Time/Stream processing Apache Storm, Apache Spark
+
+Transfered Streaming data from different data sources into HDFS and HBase using Apache Flume.
+
+Fetching the live stream data from DB2 to Hbase table using Spark Streaming and Apache Kafka.
+
+Involved in complete Big Data flow of the application starting from data ingestion from upstream to HDFS.
+
+EC2 Instance creation and Auto Scaling, snapshot backup and managing template.
+
+Cloud formation scripting, security and resources automation. 
+
+Cloud watch Monitor for S3 & Glacier storage management, Access control and policy.
+
+Conducted POC for Hadoop and Spark as part of NextGen platform implementation. Implemented recommendation engine using Scala.
+
+Proposed a working POC and constructed the roadmap for prediction pipeline.
+
+Optimized data storage in Kafka Brokers within the Kafka cluster by partitioning Kafka Topics.
+
+Used Impala where possible to achieve faster results compared to Hive during data Analysis.
+
+Designed jobs using DB2 UDB, ODBC,.Net, Join, Merge, Lookup, Remove duplicate, Copy, Filter, Funnel, Dataset, Lookup file set, Change data capture, Modify, Row merger, Aggregator and Peek, Row generator stages.
+
+Worked with various compression techniques to save data and optimize data transfer over network using Lzo, Snappy, etc.
+
+Involved in running Hadoop jobs for processing millions of records and data which was updated daily/weekly.
+
+Developed the build script for the project using Maven Framework.
+
+
+
+	
+
+	DATA ENGINEER	September 2014 - January 2016
+
+	WALMART	Bentonville, AR		
+
+	__________________________________________________________________________________________
+
+Walmart Inventory and Merchandising
+
+Through analysis of customer preferences and shopping patterns, Walmart can accelerate decision making on how to stock store shelves and display merchandise.  Big data provides insight on new items, discontinued products and which private brands to carry.
+
+Integrating Kafka with Spark streaming for high speed data processing.
+
+Developed Spark code using Scala and Spark-SQL/Streaming for faster processing of data.
+
+Created modules for Spark streaming in data into Data Lake using Storm and Spark.
+
+Configured Spark Streaming to receive real time data and store the stream data to HDFS.
+
+Extract Real time feed using Kafka and Spark Streaming and convert it to RDD and process data in the form of Data Frame and save the data as Parquet format in HDFS.
+
+Handled the real time streaming data from different sources using flume and set destination as HDFS.
+
+Used different file formats like text files, sequence files, and Avro.
+
+Identified dependencies of different components and documented requirements gathered from stake holders.
+
+Worked with various compression techniques to save data and optimize data transfer over network using Lzo, Snappy, etc.
+
+Involved in running Hadoop jobs for processing millions of records and data which was updated daily/weekly.
+
+Worked on Impala to compare processing time of Impala with Apache Hive for batch applications to implement the former in project. 
+
+Extensively used Impala to read, write, and query Hadoop data in HDFS.
+
+Created a POC involved in loading data from LINUX file system to AWS S3 and HDFS.
+
+Designed and implemented test environment on AWS.
+
+Transferred data using Informatica tool from AWS S3.
+
+Using AWS Redshift for storing the data on cloud.
+
+ Architecting and DevOps for AWS & Google cloud services including in house Data Center for middleware system and web services. Also, managing security review and web compliance management.
+
+
+
+	DATA ENGINEER	February 2013 – September 2014
+
+	STANDARD CHARTERED BANK USA	Manhattan, NY
+
+	__________________________________________________________________________________________
+
+Financial Fraud Prevention
+
+Big Data allows banks to create new levels of security. Enhanced information protection and cyber security allows Ken to make banking transactions that are faster, easier and safer, from any location in the world. Analyzing transactions for fraud across multiple channels, including online and mobile banking, and in real time, means security protections that were previously unimaginable.
+
+Wrote Sqoop scripts to inbound and outbound data to HDFS and validated the data before loading to check the duplicated data.
+
+Imported data using Sqoop to load data from MySQL to HDFS on regular basis.
+
+Involved in transforming data from legacy tables to HDFS, and HBase tables using Sqoop.
+
+Connected various data centers and transferred data between them using Sqoop and various ETL tools.
+
+Extracted the data from RDBMS (Oracle, MySQL) to HDFS using Sqoop. 
+
+Involved in transforming the relational database to legacy labels to HDFS, and HBASE tables using Sqoop and vice versa.
+
+Developed and ran Map-Reduce jobs on YARN and Hadoop clusters to produce daily and monthly reports per requirements.
+
+Developed MapReduce jobs using Java for data transformations.
+
+Developed multiple MapReduce jobs in Pig and Python for data cleaning and processing.
+
+
+
+
+
+	SOFTWARE DEVELOPER	March 2012 – February 2013
+
+	GEORGIA TECH SIGNAL PROCESSING LAB	Atlanta, GA
+
+	__________________________________________________________________________________________
+
+Collaborated and assisted with researching and implementing C++ code to track and locate speakers’ voices in speech recordings.
+
+Analyzed and documented results in a comprehensive written report and delivered conclusions.
+
+Worked with senior software developers to analyze and streamline processes, identify inconsistencies, and execute on-time practical solutions. 
+
+Remained current and up-to-date with technology, hardware, software, trends, and new releases.
+
+
+
+Education
+
+	University of Houston; Houston, TX   
+
+	Degree in Computer Science - Incomplete
+
+	Houston Community College; Houston, TX   
+
+	A.A in Computer Science
+
+		
+
+
+
+Eric Bannavti   |   PHONE  999-999-9999   |  EMAIL@GMAIL.COM

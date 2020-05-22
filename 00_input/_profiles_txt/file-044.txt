@@ -1,0 +1,277 @@
+
+
+                [pic] Hadoop Big Data Architect and Engineer
+
+
+Professional Summary
+
+    • 6 Years Total Professional Experience in Information Technology
+    • The Last 5 Years as Big Data Architect and Engineer
+    • Specializing in Cloud Architecture using AWS and Google Cloud
+    • Using Cloudera Hadoop, Hortonworks, Native Hadoop, and various
+      frameworks and tools
+    • Communication effectiveness with team and stakeholders.  Efficient and
+      accurate
+    • Proven expertise in implementing Big Data Projects, managing Business
+      Intelligence, and configuring Systems in Cloud Environment (i.e.
+      Google's App Engine, Amazon's AWS EC2, and OpenStack Cloud)
+    • Installation, configuration, and optimization of Hadoop ecosystem
+      components like Hive, HBase, Pig, Sqoop, ZooKeeper, and Oozie
+    • Expertise in Big Data cluster solutions, Administration, Securities
+      (Active Directory, Kerberos, Knox, Ranger) Migrations focusing on
+      Hortonworks, Cloudera, Apache distribution Hadoop & Cassandra.
+    • Highly proficient in client / stakeholder management with a penchant
+      for 'Expectations Management' & 'Perceptions Management'.
+    • Strong problem solving & technical skills coupled with confident
+      decision-making for enabling effective solutions leading to high
+      customer satisfaction and low operational costs.
+    • Significant experience working with / for a variety of domains /
+      clients - Financial services, Telecommunications, Banking to name few.
+
+
+
+Technical Skills Summary
+
+Primary Skills
+Hadoop, Cloudera, Hortonworks, HDFS, Hive, Spark, Storm, Kafka, Pig, Hbase,
+Cassandra, Zookeeper, Sqoop, Tableau, Kibana, Hive Bucketing and
+Partitioning, Spark performance Tuning, Optimization, Spark Streaming,
+Storm
+
+Components
+Apache Ant, Apache Cassandra, Apache Flume, Apache Hadoop, Apache YARN,
+Apache Hbase, Apache Hcatalog, Apache Hive, Apache Kafka, Nifi, Apache
+MAVEN, Apache Oozie
+Apache Pig, Apache Spark, Apache Tez, Apache ZooKeeper, Cloudera Impala,
+HDFS, Hortonworks, MapR, MapReduce
+
+Cloud Services
+Amazon AWS – EMR, EC2, SQS, S3, DynamoDB, Redshift, CloudFormation, Azure,
+Google Cloud, Horton Labs, Rackspace, Adobe, Anaconda Cloud, Elastic
+
+Programming Languages
+Visual Basic, SQL, PL/SQL, VB Script, C/C++, C#, CSS, PHP, .Net
+
+|Distributions                     |Data Processing                   |
+|Cloudera, Hortonworks, MapR, AWS, |Apache Spark, Spark Streaming,    |
+|Elastic                           |Storm                             |
+|Database                          |Web & App Servers                 |
+|Oracle, SQL Server, MS Access, DB2|Web logic Server, IIS, Java Web   |
+|Operating Systems                 |Server                            |
+|Windows, UNIX/Linux               |Testing Tools                     |
+|Scripting                         |HP Quality Center, HP ALM, HP QTP,|
+|PIG/Pig Latin, HiveQL, MapReduce, |HP UFT, JIRA, SOAP UI, Selenium   |
+|FTP, Python, HTML, XML, VBScript, |                                  |
+|JavaScript                        |                                  |
+
+
+Professional Experience
+
+
+Hartford Financial, Windsor, CT    April 2016-Present
+Hadoop Architect and Big Data Engineer
+
+    ✓ Created an Enterprise Data Lake program leveraging Apache Hadoop
+      (Hortonworks), Apache NiFi, Lucene/SOLR indexing, and related open-
+      source tools
+    ✓ Implemented micro-service pub/sub architecture leveraging Yarn,
+      Kafka, and Zookeeper
+    ✓ Designed and built data linking and enrichment processes using
+      Spark, Hive, UDFs, and Hbase
+    ✓ Involved in Loading Data from Oracle Exadata to Hadoop Data Lake.
+    ✓ Prepared the solution design document and Get it reviewed.
+    ✓ Prepared the detailed design document and Get it approved.
+    ✓ Ingested data from Exadata to Hadoop using Sqoop.
+    ✓ Exported data from Hadoop to Exadata using Sqoop.
+    ✓ Involved in coding, reviewing the codes, unit testing, functional
+      testing etc.
+    ✓ Scheduled the jobs using Crontab.
+    ✓ Collaborate with users and technical teams to implement requirements
+    ✓ Developed automated Sqoop scripts for Incremental and FullLoads.
+    ✓ Developed complex ETL's in Hive.
+    ✓ Designed workflows to migrate data from Hadoop to AWS RedShift.
+    ✓ Designed and implemented solutions on AWS Cloud.
+    ✓ Running jobs on AWS EMR.
+    ✓ Scheduled daily jobs in Oozie, Job Dependency Manager and Airflow.
+    ✓ Developed DAG's for daily production run.
+    ✓ Developed wrapper scripts in Shell and Python.
+    ✓ Designed and Developed reporting tables in RedShift.
+    ✓ Worked with Tableau team for reports performance.
+    ✓ Developed and Designed SPARK jobs for data ingestion/aggregates.
+    ✓ Used HDFS and AWS S3 as storage to build Hive tables.
+
+  __________________________________________________________
+
+Nike, Beaverton, OR    November 2014-April 2016
+Big Data Architect/Engineer
+
+    ✓ Collaborate with users and technical teams to implement requirements
+    ✓ Ran the Hadoop jobs on 89 node cluster on Production environment.
+    ✓ Involved in writing the MR script to deposit the intake data on
+      proper HDFS locations.
+    ✓ Involved in running the Scalding jobs on Clouodera Hadoop (CDH
+      5.1.3)
+    ✓ Worked on YARN (MR2) framework.
+    ✓ Checking the code to GitHub.
+    ✓ Written shell script to run E2E
+    ✓ Developed PostGres queries for Real-time reports.
+    ✓ Helped the tableau team integrate with HiveServer2 and PostGres for
+      reporting.
+    ✓ Collaborate with users and technical teams to implement requirements
+    ✓ Developed automated Sqoop scripts for Incremental and FullLoads.
+    ✓ Developed complex ETL's in Hive.
+    ✓ Designed workflows to migrate data from Hadoop to AWS RedShift.
+    ✓ Designed and implemented solutions on AWS Cloud.
+    ✓ Running jobs on AWS EMR.
+    ✓ Scheduled daily jobs in Oozie, Job Dependency Manager and Airflow.
+    ✓ Designed and Developed reporting tables in RedShift.
+    ✓ Worked with Tableau team for reports performance.
+    ✓ Developed and Designed SPARK jobs for data ingestion/aggregates.
+    ✓ Used HDFS and AWS S3 as storage to build Hive tables.
+    ✓ Worked with CDH5.1.3, YARN, Spark 1.0, SparkSQL, PostGres 9.3, Hive
+      0.12, HDFS, Unix, shell scripting, Hue, HBase 1.9, Tableau 8.2,
+      GitHub2.4.1, Maven3.2.1
+
+
+
+
+  __________________________________________________________
+
+Big Data Dimension, Atlanta, GA   May 2013-October 2014
+Hadoop Engineer
+
+    ✓ Near Real-time Streaming and Analytics using Kafka, Spark Streaming
+    ✓ Generate messages from different sources using Kafka producers in
+      Java.
+    ✓ Kafka messages are processed (for Fraud detection analysis) using
+      Spark Streaming with RDD and Spark SQL in Java.
+    ✓ Data is inserted into IBM Big SQL (cold-storage) and MS SQL Server
+      (hot-storage) database.
+    ✓ Worked on analyzing Hadoop cluster and different big data analytic
+      tools including Pig, Hbase database and Sqoop.
+    ✓ Responsible for building scalable distributed data solutions using
+      Hadoop.
+    ✓ Involved in loading data from LINUX file system to HDFS.
+    ✓ Devised and lead the implementation of the next generation
+      architecture for more efficient data ingestion and processing.
+    ✓ Proficiency with modern natural language processing and general
+      machine learning techniques and approaches.
+    ✓ Extensive experience with Hadoop and HBase, including multiple
+      public presentations about these technologies.
+    ✓ Experience with hands-on data analysis and performing under
+      pressure.
+    ✓ Analyzed large data sets by running Hive queries and Pig scripts
+    ✓ Involved in creating Hive tables, and loading and analyzing data
+      using hive queries
+    ✓ Developed Simple to complex Jobs using Hive and Pig
+    ✓ Load and transform large sets of structured, semi structured and
+      unstructured data.
+    ✓ Developed workflow in Oozie to automate the tasks of loading the
+      data into HDFS and pre-processing with Pig.
+
+
+  __________________________________________________________
+
+WIPRO, O’Fallon, MO    January 2012-May 2013
+Big Data Engineer
+
+    ✓ Created innovative solutions in media streaming and mobile user
+      experience.
+    ✓ Use of Shared preferences.
+    ✓ Involved in testing and testing design for the application after
+      each sprint.
+    ✓ Involved in running Hadoop jobs for processing millions of records
+      of text data
+    ✓ Worked with application teams to install operating system, Hadoop
+      updates, patches, version upgrades as required.
+    ✓ Good knowledge on Agile Methodology and the scrum process.
+    ✓ Developed multiple jobs for data cleaning and preprocessing
+    ✓ Implemented a script to transmit information from Oracle to Hbase
+      using Sqoop.
+    ✓ Implemented best income logic using Pig scripts and UDFs.
+    ✓ Implemented test scripts to support test driven development and
+      continuous integration.
+    ✓ Worked on tuning the performance Pig queries.
+    ✓ Worked with application teams to install operating system, Hadoop
+      updates, patches, version upgrades as required.
+    ✓ Responsible to manage data coming from different sources.
+    ✓ Involved in loading data from UNIX file system to HDFS.
+    ✓ Load and transform large sets of structured, semi structured and
+      unstructured data
+    ✓ Cluster coordination services through Zookeeper.
+    ✓ Experience in managing and reviewing Hadoop log files.
+    ✓ Job management using Fair scheduler.
+    ✓ Exported the analyzed data to the relational databases using Sqoop
+      for visualization and to generate reports for the BI team.
+    ✓ Responsible for cluster maintenance, adding and removing cluster
+      nodes, cluster monitoring
+    ✓ Troubleshooting, manage and review data backups, manage and review
+      Hadoop log files.
+  __________________________________________________________
+
+
+
+ __________________________________________________________
+
+State of Louisiana, Baton Rouge, LA     Jan 2011-Dec 2011
+QA Analyst, Automation
+
+    ✓ Created innovative solutions in media streaming and mobile user
+      experience.
+    ✓ Developed the Test Procedures and Test Cases using Software
+      specifications document.
+    ✓ Executed Test Cases and procedures on different application build
+      versions.
+    ✓ Worked with GUI checkpoints, Database checkpoints while doing the
+      functional test on the web application.
+    ✓ Responsible for defect management includes, defect logging, defect
+      tracking, defect triaging and defect closure.
+    ✓ Used checkpoints to check the attributes of the application across
+      several builds and versions; also used database, text, checkpoints
+      while testing the application.
+    ✓ Created and executed various scenarios, generated graphs, overlaid
+      graphs for comparison, analyzed the results and found bottlenecks.
+    ✓ Maintained versions for System testing, data driven and Regression
+      testing.
+    ✓ Involved in developing detailed Test Cases including Test steps and
+      Test input data using HP ALM for Functional testing, Security testing
+      and Regression testing.
+    ✓ Maintained and improved existing HP ALM scripts in scale with
+      reusable functions, modules and better test data collection using
+      database connection.
+    ✓ Utilized the defect tracking system HP ALM to report defects in a
+      clear and precise manner, describing the scenario, expected outcome
+      and actual outcome.
+    ✓ Used HP ALM to implement version control system and change
+      management system for UFT scripts.
+    ✓ Wrote SQL queries for getting right test data from right testing
+      environment for running UFT framework.
+    ✓ Developed UFT automation framework from scratch for new application
+      and existing application.
+    ✓ Performed Functional, Integration, Regression and End-to-End testing
+      of the application against user stories with both UFT.
+    ✓ Implemented version control system and change management system for
+      UFT scripts.
+    ✓ Created several Test scripts using UFT to create Batch tests and
+      performed Exception handling.
+    ✓ Used VB Script to develop a Hybrid Automation Framework in UFT.
+    ✓ Coordinated the UAT testing by guiding the users during UAT.
+    ✓ Interacted with the developers to get an estimate and to resolve
+      technical issues.
+    ✓ Created several custom reports from Test management tool those were
+      helpful for management to understand overall Testing status of the
+      entire project.
+    ✓ Prepared Weekly reports and build status reports.
+    ✓ Used to setup trouble shooting sessions to resolve the issues.
+    ✓ Attended QA daily meetings, proposals for resolving the conflicts.
+    ✓ Environment: Selenium, HP ALM, UFT, JIRA, SOAP UI, MS Visio, .Net,
+      Java Script, VB Script, PHP, Windows, Java, SQL, CSS, HTML, XML, MS
+      Office, MS Excel, UNIX.
+
+
+
+Education
+
+B.S. in Computer Science, University of Louisiana at Lafayette, Lafayette,
+LA
+[pic][pic][pic]

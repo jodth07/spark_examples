@@ -1,0 +1,326 @@
+Christopher Tran
+
+Senior Hadoop Big Data Engineer
+
+Phone: (402) 218-2731    |    Email: chris.tran430@gmail.com
+
+
+
+
+
+
+
+Contact
+
+Christopher Tran
+
+chris.tran430@gmail.com 
+
+(402) 218-2731
+
+
+
+Experience-5yrs
+
+Big Data Engineering
+
+Hadoop
+
+AWS
+
+
+
+
+
+Education
+
+Associate of Applied Science in Chemistry and Bio-Chemistry
+
+
+
+Associate of Applied Science in Mathematics 
+
+
+
+Ad Hoc Classes in Computer Science
+
+University of Maryland, College Park 
+
+
+
+Certification & Training
+
+Big Data Engineering, Hadoop
+
+Web Development and Programming
+
+CompTIA A+ 220-801, 220-802, Network+ N10-006, Security+ SYO-401
+
+
+
+
+
+
+
+
+
+Professional Profile
+
+Highly motivated Data Engineer skilled in architecture and implementation of scalable, high availability systems for processing and analytics of very large volume structured and unstructured data.  Skilled in the development of custom ETL pipelines, query functions, and reporting dashboards for use by Data Science, Data Analysts, Cross-Functional teams and Stakeholders.
+
+
+
+Experienced in cloud architecture using AWS ecosystem and tools and Native Hadoop and Distributions (Cloudera Hadoop and Hortonworks Hadoop)
+
+
+
+Architecture of elegant Hadoop analytics solutions through data modelling, ETL pipelines and tools to extract useful and meaningful data from Hadoop distributed systems (HDFS).
+
+Architecture of Hadoop clusters in cloud-based distributed systems.
+
+Architecture of ETL data pipelines within Hadoop Ecosystem making use of Hadoop, Cloudera Hadoop, Hortonworks, Hadoop and AWS EMR to process data from a variety of data stores and file types; structures and unstructured data.
+
+Proficient in Cloudera Hadoop Distribution, Hortonworks Distribution, ETL processing using Spark, Spark Streaming, Storm.
+
+Able to optimize storage of various platforms (i.e.., data warehouse, RDBMS, NoSQL) through HDFS data lake environments.
+
+Extraction to and from multiple data sources, such as RDBMS, SQL, NoSQL data warehouses (Teradata, Oracle, AWS), Hadoop data lake environments (HDFS, Hive, Hbase, Cassandra, Impala, MongoDB, DynamoDB, etc.).
+
+Hadoop data pipeline and AWS pipeline tools used to process data with Apache Spark, Spark Streaming, Spark, for predictive analytics on Hadoop data projects.
+
+Proficient in data processing using Hadoop Cloudera and Hadoop Hortonworks distributions.
+
+Analysis of data lakes including Hadoop ecosystem repositories (Hive, NoSQL, RDBMS, RedShift).
+
+AWS tools (Redshift, Kinesis, S3, EC2, EMR, DynamoDB, Elasticsearch, Lambda)
+
+Identifies key initiatives for analytical decisions using various tools such as Spark
+
+Provide actionable recommendations to meet Hadoop data analytical needs on a continuous basis using Hadoop distributed system and cloud systems.
+
+Displays of analytics and insights using data visualization tools, Tableau, and Hadoop tools to generate reports and dashboards to drive key business decisions.
+
+Experience with data visualization tools, data analysis, and business recommendations (cost-benefit, forecasting, impact analysis).
+
+Deliver effective presentations of findings and recommendations to multiple levels of stakeholders, creating visual displays of quantitative information.
+
+Cleanse, aggregate, and organize Hadoop HDFS data lake.
+
+Experience with Hyperledger exposure in Hadoop data projects.
+
+
+
+
+
+
+
+
+Technical Skills
+
+PROGRAMMING & SCRIPTING LANGUAGES:  Spark, Spark Streaming, Hive, MapReduce, Python, Scala, SQL, MySQL, Shell Scripting, MongoDB, Java, Python
+
+IDE: Eclipse, IntelliJ, PyCharm
+
+PROJECT METHODS:  Agile, Scrum, DevOps, Continuous Integration, 
+
+DISTRIBUTIONS:  Cloudera Hadoop, Hortonworks Hadoop
+
+CLOUD PLATFORMS:  Amazon AWS
+
+CLOUD DATABASE & TOOLS:  Redshift, DynamoDB, 
+
+RDBMS: Oracle, SQL, MySQL
+
+FILE FORMATS:  Avro, Parquet, ORC
+
+FILE SYSTEMS:  HDFS
+
+ETL TOOLS:  Flume, Kafka
+
+DATA VIZIUALIZATION TOOLS: Tableau, Kibana
+
+SEARCH TOOLS: Apache Lucene, Elasticsearch, Solr
+
+SECURITY:  Kerberos authentication, applications on Kerberos secured cluster
+
+DESKTOP SOFTWARE:  Microsoft Office Suite, Adobe Creative Suite
+
+MISC SOFTWARE:  Virtual Box, Visual Studio, Vim
+
+
+
+
+
+
+
+
+
+
+
+Big Data Experience
+
+Senior Big Data Engineer
+
+June 2017 – Present~
+
+Union Pacific Railway | Omaha, NE
+
+Responsible for architecting and implementation of custom Hadoop Big Data services environment, ETL pipelines and analytics platforms
+
+
+
+Custom ETL, data query and visualization systems for corporate data collection, ingestion, processing, access, and visualization all built on a modern, cloud-based tech stack with best-in-class tools. This project required streaming real-time data from IoT devices.
+
+
+
+This project was to implement the existing Hadoop data analytics system using Spark streaming and Spark.
+
+Worked with scalable solutions for business problems using Hadoop, Spark, Spark Streaming, Kafka, and Hive.
+
+Custom architecture provided superior performance and scalability, as well as the usable data derived from Hadoop data lakes and Hadoop clusters for predictive analytics.
+
+Involved in requirement gathering and analyzing the Business requirements for the Hadoop project, and involved in full life cycle of the project from design, analysis, logical and physical architecture modeling, development, Implementation, testing.
+
+Designed and developed interactive Kibana dashboards and custom reports which involved modeling and algorithms from data derived from Hadoop data lakes and pipelines.
+
+Identified and ingested source data from different systems into Hadoop HDFS using Sqoop, Flume, creating HBase tables to store variable data formats for data analytics.
+
+Created Hive and Impala queries to spot emerging trends by comparing Hadoop data with historical metrics.
+
+Cleaned Hadoop data and prepared analytics tables for BI analysts 
+
+Imported data from web service into Hadoop file system (HDFS) and transformed data.
+
+Developed new flume agents to extract data from Kafka and more into Hadoop file system (HDFS).
+
+Did a POC for Predix.io for consideration of future use.
+
+Implemented applications on Hadoop/Spark on Kerberos secured cluster.
+
+Environment: Hadoop, Cloudera, Kibana, MapReduce, HDFS, Hive, Impala, Python, SQL, Sqoop, Kafka, Flume  
+
+
+
+
+
+
+
+Hadoop Big Data Engineer
+
+Feb 2016- June 2017
+
+Visa | Foster City, CA
+
+Reviewed functional and non-functional requirements on the Hortonworks Hadoop project collaborating with stakeholders and various cross-functional teams.
+
+Extracted the needed data from the server into Hadoop file system (HDFS) and bulk loaded the cleaned data into HBase using Spark.
+
+Defined job flows, using Spark
+
+Built out Hadoop data lake using Hadoop file system (HDFS), with the use of Hive and Spark, and managing Hadoop log files.
+
+Implemented Hadoop streaming jobs to process terabytes of xml format data.
+
+Architected and implemented custom data analytic dashboards using Kibana, allowing executive management to view past, current and forecast sales data.
+
+Tested reports and uploaded tableau dashboards to server and provided production support for tableau users.
+
+Created multiple visualization reports/dashboards using Dual Axes charts, Histograms, filled map, Bubble chart, Bar chart, Line chart, Tree map, Box and Whisker Plot, Stacked Bar etc.
+
+Created dashboards using calculations, parameters in Kibana.
+
+Created advanced analytical dashboards using reference lines, bands, and trend lines.
+
+Spark used in optimizing ETL jobs to reduce memory and storage consumption, and optimization of Hive tables and large sets of structured, semi structured, and unstructured data for easier loading and transformation.
+
+Accessed Hadoop file system (HDFS) using Spark and managed data in Hadoop data lakes from different sources accessed for data processing using Spark.
+
+Loaded data from UNIX file system to Hadoop file system (HDFS) and wrote HIVE UDFs.
+
+Used Spark API over YARN to perform analytics on data in Hive
+
+
+
+Environment: Hadoop, Cloudera, Kibana, MapReduce, HDFS, Hive, Impala, Python, SQL, Sqoop, Kafka, Flume
+
+
+
+
+
+
+
+
+
+Data Engineer
+
+Jan 2015-Feb 2016
+
+Capital One | McLean, VA
+
+Manipulated and analyzed complex, high volume, and high dimensional data in AWS using various querying tools.
+
+	Created a POC involved in loading data from LINUX file system to AWS S3 and HDFS.
+
+	Designed and implemented test environment on AWS.
+
+	Transferred data using Informatica tool from AWS S3.
+
+	Using AWS Redshift for storing the data on cloud.
+
+Imported data from disparate sources into Spark RDD for processing.
+
+Developed custom aggregate functions using Spark SQL and performed interactive querying.
+
+Performed streaming data ingestion to the Spark distribution environment, using Kinesis.
+
+Responsible for fine tuning of the database, troubleshooting, memory management.
+
+Developed SQL queries to Insert, Update and Delete data in Database.
+
+Worked on large data warehouse Analysis services servers and developed the different reports for the analysis from that servers.
+
+Worked on stored procedures, triggers and on substantial number of business analytical functions.
+
+Created Hadoop POC to consider changing over the whole system when available, if we like it.
+
+Worked with Inbuilt Transformations in ETL/SSIS like Persistent Lookups to enhance performance for lookups and more utilization of I/O resources.
+
+
+
+
+
+
+
+
+
+
+
+Hadoop Administrator
+
+Dec 2013-Jan 2015
+
+TIAA| New York, NY
+
+Created logging for ETL load at package level and task level to log number of records processed by each package and each task in a package using SSIS.
+
+Developed, monitored, and deployed SSIS packages.
+
+Implemented applications on Kerberos secured cluster.
+
+Imported data from disparate sources into Spark RDD for processing.
+
+Developed custom aggregate functions using Spark SQL and performed interactive querying.
+
+Performed streaming data ingestion to the Spark distribution environment, using Kafka.
+
+Responsible for Scheduling Jobs, Alerting and Maintaining packages.
+
+Responsible for fine tuning of the database, troubleshooting, memory management.
+
+Developed workflow in Oozie to automate the tasks of loading data into HDFS and pre-processing with Pig and Hive.
+
+Configured Fair Scheduler to allocate resources to all the applications across the cluster.
+
+Performed maintenance, monitoring, deployments, and upgrades across infrastructure that supports all Hadoop clusters.
+
+Used Zookeeper and Oozie for coordinating the cluster and scheduling workflows.

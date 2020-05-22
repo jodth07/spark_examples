@@ -1,0 +1,485 @@
+Tamaratonyor Ebufegha
+
+Hadoop Big Data Engineer
+
+
+
+
+
+
+
+
+
+
+
+Tamaratonyor Ebufegha
+
+Hadoop Big Data Engineer
+
+
+
+
+
+
+
+
+
+CONTACT
+
+Phone: (999) 999-9999
+
+Email:  consultant@gmail.com
+
+
+
+
+
+
+
+
+
+Education
+
+
+
+Bachelor of Science 
+
+Electrical Engineering
+
+University of
+
+Calgary                                                                                       
+
+
+
+
+
+
+
+CHARACTER
+
+Hard-working
+
+Dependable
+
+Flexible and 
+
+Adaptable
+
+Engaged
+
+Continually Learning
+
+Supportive 
+
+Helpful
+
+Collaborative
+
+Team spirit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+
+10 years total experience I.T. in Data Systems with the last 7 Years’ Experience in Big Data Architecture and Engineering. 
+
+Experienced team lead providing mentoring to engineers, and liaison for team with stakeholders, business units, data scientists/analysts and making sure all teams collaborate smoothly
+
+Used to working in a production environment, managing migrations, installations, and development Experience in large scale distributed systems with extensive experience as Hadoop Developer and Big Data Analyst
+
+Primary technical skills in HDFS, YARN, Pig, Hive, Sqoop, HBase, Flume, Oozie, Zookeeper
+
+Have good experience in extracting and generating statistical analysis using Business Intelligence tool
+
+Facilitation of meetings following Scrum processes such as Sprint Planning, Backlog, Sprint Retrospective, Requirements Gathering and providing planning and documentation for project; ensuring project is on track with stakeholder wishes
+
+Experience in writing SQL queries, Stored Procedures, Triggers, Cursors and Packages
+
+In depth understanding/knowledge of Hadoop Architecture and various components such as HDFS, Job
+
+Tracker, Task Tracker, Name Node, Data Node and MapReduce concepts and experience in working with
+
+Worked with Data Lakes and Big Data ecosystems (Hadoop, Spark, Hortonworks, Cloudera)
+
+Used Apache Hadoop for working with Big Data to analyze large data sets efficiently
+
+Hands on experience in working with Ecosystems like Hive, Pig, Sqoop, MapReduce, Flume, Oozie
+
+Strong knowledge of Pig and Hive's analytical functions, extending Hive and Pig core functionality by writing custom UDFs
+
+Strong Experience in working with Databases like Teradata and proficiency in writing complex SQL, PL/SQL for creating tables, views, indexes, stored procedures and functions
+
+Hands-on experience developing Teradata PL/SQL Procedures and Functions and SQL tuning of large databases
+
+Track record of results as a project manager in an Agile methodology using data-driven analytics
+
+Experience in importing and exporting Terabytes of data between HDFS and Relational Database Systems using Sqoop
+
+Experience in handling XML files and related technologies
+
+Performed the performance and tuning at source, Target and Data Stage job levels using Indexes, Hints and Partitioning in DB2, ORACLE and DataStage
+
+Expert with BI tools like Tableau and PowerBI, data interpretation, modeling, data analysis, and reporting with the ability to assist in directing planning based on insights.
+
+
+
+
+
+
+
+
+
+STRENGTHS
+
+
+
+Skilled in managing data analytics and data processing, database and data driven projects
+
+
+
+Skilled in Architecture of Big Data Systems, ETL Pipelines, and Analytics Systems for diverse end users
+
+
+
+Skilled in Database systems and administration
+
+
+
+Proficient in writing technical reports and documentation
+
+
+
+Adept with various distributions such as Cloudera Hadoop, Hortonworks, MapR and Elastic Cloud, Elasticsearch
+
+
+
+
+
+Expert in bucketing and partitioning
+
+
+
+Expert in Performance Optimization
+
+
+
+
+
+Technical Skills
+
+
+
+APACHE
+
+Apache Ant, Apache Flume, Apache Hadoop, Apache YARN, Apache Hive, Apache Kafka, Apache MAVEN, Apache Oozie, Apache Pig, Apache Spark, Apache Tez, Apache Zookeeper, Cloudera Impala, HDFS
+
+Hortonworks, MapR, MapReduce
+
+
+
+SCRIPTING
+
+PIG/Pig Latin, HiveQL, MapReduce, XML, FTP, 
+
+Python, UNIX, Shell scripting, LINUX
+
+
+
+OPERATING SYSTEMS
+
+Unix/Linux, Windows 10, Ubuntu, Apple OS
+
+
+
+FILE FORMATS
+
+Parquet, Avro & JSON, ORC, text, csv
+
+
+
+DISTRIBUTIONS
+
+Cloudera, Hortonworks, MapR, AWS, Elastic, Elastic Cloud, Elasticsearch, Cloudera CDH 4/5, Hortonworks HDP 2.3/2.4, Amazon Web Services (AWS)
+
+
+
+DATA PROCESSING (COMPUTE) ENGINES
+
+Apache Spark, Spark Streaming, Storm
+
+
+
+DATA VISUALIZATION TOOLS
+
+Pentaho, QlikView, Tableau
+
+
+
+COMPUTE ENGINES
+
+Apache Spark, Spark Streaming, Storm
+
+
+
+DATABASE
+
+Microsoft SQL Server Database Administration (2005, 2008R2, 2012)
+
+Database & Data Structures, Apache Cassandra, Amazon Redshift, DynamoDB, Apache Hbase, Apache Hive, MongoDB, 
+
+
+
+SOFTWARE
+
+Microsoft Project, Primavera P6, VMWare, Microsoft Word, Excel, Outlook, Power Point; Technical Documentation Skills
+
+
+
+   
+
+
+
+
+
+
+
+
+Experience
+
+
+
+HADOOP DATA ENGINEER
+
+September 2018 – Present
+
+NY Times
+
+New York, NY
+
+
+
+Created a pipeline to gather data using PySpark, Kafka and HBase 
+
+Sent requests to source REST Based API from a Scala script via Kafka producer
+
+Utilized a cluster of multiple Kafka brokers to handle replication needs and allow for fault tolerance
+
+Received the JSON response in Kafka consumer python file, formatted the response into a data frame using a schema containing, country code, artist name, number of plays and genre to parse the JSON
+
+Established a connection between the Hive and Spark for the transfer of the newly populated data frame
+
+Stored the data pulled from the API into HBase on Hortonworks Sandbox
+
+Utilized SQL to query the data to discover music release trends from week to week
+
+Involved in analyzing system failures, identifying root causes and recommended course of actions
+
+Configured Zookeeper to coordinate the servers in clusters to maintain the data consistency and to monitor services 
+
+Designed Hive queries to perform data analysis, data transfer and table design
+
+Creating Hive tables, loading with data and writing hive queries to process the data.
+
+
+
+HADOOP DATA ENGINEER
+May 2017 – September 2018
+
+Spotify
+
+Chicago, IL
+
+
+
+
+
+Created a pipeline to gather new music releases of a country for a given week using PySpark, Kafka and HBase 
+
+Utilized a cluster of three Kafka brokers to handle replication needs and allow for fault tolerance
+
+Sent requests to Spotify REST Based API from a python script via Kafka producer
+
+Received the JSON response in Kafka consumer python file, formatted the response into a data frame using a schema containing, country code, artist name, number of plays and genre to parse the JSON
+
+Established a connection between the HBase and Spark for the transfer of the newly populated data frame
+
+Stored the data pulled from the API into HBase on Hortonworks Sandbox
+
+Utilized SQL to query the data to discover music release trends from week to week
+
+Assist in Install and configuration of Hive, Pig, Sqoop, Flume, Oozie and HBase on the Hadoop cluster with latest patches
+
+
+
+HADOOP CLOUD DATA ENGINEER
+
+October 2015 – May 2017
+
+Brite Systems, Inc.
+
+Indianapolis, IN
+
+
+
+
+
+
+
+Spark clusters exclusively from the AWS Management Console. 
+
+Created custom test, design and production Spark clusters 
+
+Used Spark DataFrame API over Cloudera platform to perform analytics on Hive data. 
+
+Made and oversaw cloud VMs with AWS EC2 command line clients and AWS administration reassure. 
+
+Used Ansible Python Script to generate inventory and push the deployment to AWS Instances. 
+
+Executed Hadoop/Spark jobs on AWS EMR using programs, data stored in S3 Buckets. 
+
+Added support for Amazon AWS S3 and RDS to host static/media files and the database into Amazon Cloud. 
+
+Implemented usage of Amazon EMR for processing Big Data across Hadoop Cluster of virtual servers on Amazon Elastic Compute Cloud (EC2) and Amazon Simple Storage Service (S3) AWS Redshift  
+
+Implemented AWS Lambda functions to run scripts in response to events in Amazon Dynamo DB table or S3. 
+
+Populating database tables via AWS Kinesis Firehose and AWS Redshift. 
+
+Automated the installation of ELK agent (file beat) with Ansible playbook. Developed KAFKA Queue System to Collect Log data without Data Loss and Publish to various Sources. 
+
+AWS Cloud Formation templates used for Terraform with existing plugins. 
+
+AWS IAM was used for creating new users and groups. 
+
+
+
+HADOOP DATA ENGINEER
+
+April 2013 – October 2015
+
+International Paper
+
+Atlanta, GA
+
+
+
+
+
+DATA ENGINEER
+
+Involved in creating Hive tables, loading with data and writing Hive Queries, which will internally run a Map Reduce job 
+
+Implemented Partitioning, Dynamic Partitions and Buckets in Hive for optimized data retrieval
+
+Connected various data centers and transferred data between them using Sqoop and various ETL tools
+
+Extracted the data from RDBMS (Oracle, MySQL) to HDFS using Sqoop 
+
+Used the Hive JDBC to verify the data stored in the Hadoop cluster
+
+Worked with the client to reduce churn rate, read and translate data from social media websites
+
+Generated and published reports regarding various predictive analysis on user comments. Created reports and documented various retrieval times of them using the ETL tools like QlikView and Pentaho
+
+Performed the performance and tuning at source, Target and Data Stage job levels using Indexes, Hints and
+
+Partitioning in DB2, ORACLE and DataStage
+
+Performance tuning in the live systems for ETL/ELT jobs 
+
+Wrote database objects like Stored Procedures, Triggers for Oracle, MS SQL
+
+Good knowledge in PL/SQL, hands on experience in writing medium level SQL queries
+
+Good knowledge in Impala, Spark/Scala, Shark, Storm
+
+Expertise in preparing the test cases, documenting and performing unit testing and Integration
+
+In-depth understanding of Data Structures and Optimization
+
+
+
+
+
+PYTHON DATA DEVELOPER
+
+October 2011 – April 2013
+
+Humana
+
+Louisville, KY
+
+
+
+
+
+Designed and coded unit testing procedures and provided production application support.
+
+Computed functional requirements to define technical design using Python.
+
+Contributed to reduction of run time errors by designing and executing automation procedures.
+
+Utilized agile methodologies to support ongoing improvement of processes.
+
+Built processes and software tools to support data warehousing and third-party deployment of Python applications.
+
+Created web application backend in Python to handle millions of transactions
+
+Used Git for repository and version control for the codebase.
+
+Used Maven as a built tool
+
+Participated in daily scrum meeting with onshore and offshore developers.
+
+Had weekly meetings with stakeholders for new requirements or current requirements.
+
+Develop easy to use documentation for the frameworks and tools developed for adaption by other teams
+
+Manipulation of shell scripts; python scripts and JavaScript during database connection
+
+Built NoSQL database in DynamoDB calculating the amount of data to be handled
+
+Worked with github for development and collaboration, versioning
+
+Used PyCharm IDE for python development and testing
+
+
+
+
+
+Tamaratonyor Ebufegha| 999-999-9999 | consultant@gmail.com

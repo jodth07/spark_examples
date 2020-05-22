@@ -1,0 +1,358 @@
+Senior Big Data Engineer
+
+
+
+
+
+
+
+Senior Big Data Engineer
+
+
+
+
+
+Caleb Davis
+
+  Phone:  1 (999) 999-9999 | Email:  caleb.davis121@gmail.com
+
+
+
+
+
+Caleb Davis
+
+Caleb Davis
+
+Senior Big Data Engineer
+
+Phone:  1 (999) 999-9999 | Email:  caleb.davis121@gmail.com
+
+
+
+5 years of big data engineering and information technology experience in Hadoop environment both on-prem and cloud.  Expertise in Hadoop components and ecosystem and migrating legacy technologies to AWS cloud.
+
+5 years - Big Data Engineering / Information Technology 
+
+
+
+
+
+
+
+
+
+
+
+Summary of Competencies
+
+5 years of experience in development of custom Hadoop Big Data solutions, platforms, pipelines, data migration, and data visualizations.
+
+Creation of ETL processes to transform data to one consistent format for data cleansing and analysis.
+
+Performed streaming data ingestion to the Spark distribution environment, using Kafka.
+
+Integrated Kafka with Spark streaming for high speed data processing.
+
+Created a Kafka producer to connect to different external sources and bring the data to a Kafka broker.
+
+Spark SQL to create real-time processing of structured data with Spark Streaming processed through structured streaming.
+
+Created Lambda to process the data from S3 to Spark for structured streaming to get structured data by schema.
+
+Set the Spark job to process the data to Redshift and EMR HDFS(Hadoop).
+
+Documented the requirements including the available code implemented using Spark, Amazon DynamoDB, Redshift and Elastic Search.
+
+Implemented Kafka messaging consumer
+
+Broadcast variables in Spark, effective & efficient Joins, transformations.
+
+Implemented Spark and Spark SQL for faster testing and processing.
+
+Performance tuning of Spark jobs for setting batch interval time, level of parallelism, and memory tuning.
+
+Developed POC using Scala & deployed on Yarn cluster, compared the performance of Spark, with Hive and SQL.
+
+Install and configure Kafka cluster and monitoring the cluster; Architected a lightweight Kafka broker; integration of Kafka with Spark for real time data processing.
+
+Build a Spark proof of concept with Python using PySpark
+
+Spark applications using Spark Core, Spark SQL and Spark Streaming API
+
+
+
+Technical Skills Profile
+
+Big Data
+
+RDDs, UDFs, Data Frames, Datasets, Pipelines, Data Lakes, Data Warehouse, Data Analysis
+
+Hadoop
+
+Hadoop, Cloudera (CDH), Hortonworks Data Platform (HDP)
+
+Spark
+
+Apache Spark, Spark Streaming, Spark API, Spark SQL
+
+Hadoop Components
+
+HDFS, Hive, Pig, Zookeeper, Sqoop, Oozie, Yarn
+
+Apache
+
+Apache Kafka, Apache MAVEN, Apache Oozie, Apache Pig, Apache Sqoop, Apache Flume, Apache Hadoop, Apache HBase, Apache Cassandra, Apache Lucene, Apache SOLR, Apache Airflow, Apache Camel, Apache Mesos, Apache Tez, Apache Zookeeper
+
+Programming
+
+Java, PySpark, Python, Spark, Scala
+
+Development
+
+Agile, Scrum, Continuous Integration, Test-Driven Development (TDD), Unit Testing, Functional Testing, Git, GitHub, Jenkins CI (CI/CD for continuous integration)
+
+
+
+Query Language
+
+SQL, Spark SQL, Hive QL
+
+Database
+
+Apache Cassandra, AWS Redshift, AmazonRDS, Apache Hbase, SQL, NoSQL, Elasticsearch
+
+File Management 
+
+HDFS, Parquet, Avro, Snappy, Gzip, Orc
+
+Cloud Platforms
+
+AWS Amazon Cloud
+
+Security and Authentication
+AWS IAM, Kerberos
+
+AWS Amazon Components
+
+AWS Lambda, AWS S3, AWS RDS, AWS EMR, AWS Redshift,AWS Lambda, AWS Kinesis, AWS ELK, AWS Cloud Formation, AWS IAM
+
+Virtualization
+
+VMware, VirtualBox, OSI, Docker
+
+Data Visualization 
+
+Tableau, Kibana Crystal Reports 2016, IBM Wats
+
+Cluster Security
+
+Ranger, Kerberos
+
+Query Processing
+
+Spark SQL, HiveQL
+
+Data Frames
+
+
+
+
+
+
+
+
+
+
+Professional Experience Profile
+
+SENIOR BIG DATA ENGINEER
+
+	Robinhood – Menlo Park, CA 	July 2018-Present
+
+	Configured Spark streaming to receive real time data from Kafka and store to HDFS
+
+	Worked on disaster management with Hadoop cluster (standby vs secondary)
+
+	Use Spark streaming with Kafka and MongoDB to build continuous ETL pipeline for real time analytics
+
+	Import and export of dataset transfers between traditional databases and HDFS using Sqoop
+
+	Managed ETL jobs with UDFs in pig scripts with spark before for transformations, joins, aggregations before HDFS
+
+	Preformed performance tuning for Spark Streaming setting right batch internal time, correct level of parallelism, selection of correct Serialization and memory tuning
+
+	Data ingestion using Flume with source as Kafka Source and sink as HDFS 
+
+	Used Spark SQL and Data Frames API to load structured and semi structured data into Spark Clusters
+
+	Experience in optimizing the data storage in Hive using partitioning and bucketing mechanisms on managed and external tables
+
+	Collected, aggregated and moved data from servers to HDFS using Apache Spark & Spark Streaming 
+
+	Used Spark API over Hadoop YARN to perform analytics on data in Hive
+
+	Worked on Multi Clustered environment and setting up Cloudera and Hortonworks Hadoop echo-System.
+
+	Developed Scala scripts on Spark to perform operations as data inspection, cleaning, loading and transforms the large sets of JSON data to Parquet format.
+
+	Developed Spark code using Scala and Spark-SQL/Streaming for faster processing of data.
+
+	Prepared Spark builds from MapReduce source code for better performance.
+
+	Used Spark API over Hortonworks, Hadoop YARN to perform analytics on data in Hive.
+
+	Exploring with Spark improving performance and optimization of the existing algorithms in Hadoop MapReduce using Spark Context, Spark-SQL, Data Frames, Pair RDD's and Spark YARN.
+
+	Integrated Kafka with Spark Streaming for real time data processing
+
+	Moved transformed data to Spark cluster where the data is set to go live on the application using Kafka.
+
+	Created a Kafka producer to connect to different external sources and bring the data to a Kafka broker.
+
+	Handling schema changes in data stream using Kafka.
+
+	Analyzed and tuned data model Cassandra tables during DB2 to Cassandra migration process.
+
+	Initialized a data modeling of Cassandra to updated and maintained Chef cookbook.
+
+
+
+AWS BIG DATA ENGINEER
+
+	Capital One, Mclean, VA 	May 2017-July 2018
+
+	Created highly scalable, resilient, and performant architecture using amazon AWS cloud technologies such as simple storage service, S3, Elastic Map Reduce (EMR), Elastic Cloud Compute (EC2), Elastic Container Service (EC2), Lambda, Elastic Load Balancing (ELB) 
+
+	Deployed containerized applications using Docker, allowing for standardized service infrastructure.
+
+	Monitored production software with logging, visualizing, and incident management software such as slunk, Kibana
+
+	Took advantage of new Spark Avro functionality through upgrading
+
+	Provided live demonstrations of software systems to nontechnical, executive level personnel, showing how the systems were meeting business goals and objectives. 
+
+	Spark clusters exclusively from the AWS Management Console.
+
+	Made and oversaw cloud VMs with AWS EC2 command line clients and AWS administration reassure.
+
+	Executed Hadoop/Spark jobs on AWS EMR using programs, data stored in S3 Buckets.
+
+	Added support for Amazon AWS S3 and RDS to host static/media files and the database into Amazon Cloud.
+
+	Implemented usage of Amazon EMR for processing Big Data across Hadoop Cluster of virtual servers on Amazon Elastic Compute Cloud (EC2) and Amazon Simple Storage Service (S3) AWS Redshift 
+
+	Implemented AWS Lambda functions to run scripts in response to events in Amazon Dynamo DB table or S3.
+
+	Populating database tables via AWS Kinesis Firehose and AWS Redshift.
+
+	Automated the installation of ELK agent (file beat) with Ansible playbook. 
+
+	AWS Cloud Formation templates used for Terraform with existing plugins.
+
+	AWS IAM was used for creating new users and groups.
+
+	
+
+BIG DATA ENGINEER
+
+	Alibaba – Remote – Hangzhou, China 	Mar 2016-May 2017
+
+Building scalable distributed data solutions using Hadoop.
+
+Installed and configured Pig for ETL jobs and make sure Pig scripts with regular expression for data cleaning 
+
+Used Zookeeper and Oozie for coordinating the cluster and scheduling workflows 
+
+Used Oozie Scheduler system to automate the pipeline workflow and orchestrate the jobs that extract the data in a timely manner
+
+Move data from Oracle to HDFS and vice versa using Sqoop
+
+Imported data using Sqoop and load data from MySQL and oracle to HDFS on regular basis 
+
+Used Linux shell scripts to automate the build process, and to perform regular jobs like, file transfers between with different hosts
+
+Documented Technical Specs, Dataflow, Data Models, Class Models
+
+Successfully loading files to HDFS from Teradata, and loaded from HDFS to HIVE
+
+Worked on installing cluster, commissioning, and decommissioning of data node, name node, recovery, capacity planning, and slots configuration
+
+Captured data and importing it to HDFS using Flume and Kafka for semi-structured data and Sqoop for existing relational databases.
+
+Worked on analyzing Hadoop cluster and different big data analytic tools including Hive and Spark, and managed Hadoop log files.
+
+Designed Hive queries to perform data analysis, data transfer and table design.
+
+Created Hive tables, loading with data and writing hive queries to process the data.
+
+Used Oozie and workflow scheduler to manage Hadoop jobs by Direct Acyclic Graph (DAG) of actions with control flows.
+
+Loaded the data from different source such as HDFS or HBase into Spark RDD and do in memory data computation to generate the output response.
+
+Handled the data exchange between HDFS and different Web Applications and databases using Flume and Sqoop.
+
+Used Spark API over Cloudera Hadoop YARN to perform analytics on data in Hive.
+
+Created UNIX shell scripts to automate the build process, and to perform regular jobs like file transfers between different hosts.
+
+
+
+HADOOP DATA DEVELOPER
+
+	Gulfstream, Savannah, GA	Jan 2015-Mar 2016
+
+Deployed the application jar files into AWS instances. 
+
+Used the image files of an instance to create instances containing Hadoop installed and running 
+
+Developed a task execution framework on EC2 instances using SQL and DynamoDB
+
+Designed a cost-effective archival platform for storing big data between then using Sqoop and various ETL tools
+
+Extracted the data from RDBMS (Oracle, MySQL) to HDFS using Sqoop
+
+Used hive with spark streaming for real-time processing 
+
+Imported data from different sources into Spark RDD for processing 
+
+Built a prototype for real-time analysis using Spark streaming and Kafka
+
+Transferred data using Informatica tool from AWS S3
+
+Used AWS Redshift for storing data on cloud
+
+Collected the business requirements from the subject matter experts like data scientist and business partners 
+
+worked on streaming the analyzed data to Hive Tables using Sqoop for making it available for visualization and report generation by the BI team 
+
+Configured Oozie workflow engine scheduler to run multiple Hive, Sqoop and pig jobs
+
+Used NoSQL databased like MongoDB in implantation and integration
+
+Used Ambari stack to manage big data clusters, and performed upgrades for Ambari stack, elastic search etc.
+
+Installed and configured Tableau Desktop on one of the three nodes to connect to the Hortonworks Hive Framework (Database) through the Hortonworks ODBC connector for further analytics of the cluster.
+
+Assist in Install and configuration of Hive, Pig, Sqoop, Flume, Oozie and HBase on the Hadoop cluster with latest patches.
+
+Install and configuration of Hive, Pig, Sqoop, Flume, Oozie and HBase on the Hadoop cluster with latest patches.
+
+Created Oozie workflow for various tasks like Similarity matching and consolidation
+
+Enabled security to the cluster using Kerberos and integrated clusters with LDAP at Enterprise level.
+
+Implemented user access with Kerberos and cluster security using Ranger.
+
+
+
+
+Education
+
+Bachelor of Science Degree in Finance, Dalhousie University, Halifax, NS, Canada
+
+
+
+Certification
+
+AWS Certified Solutions Architect - Associate

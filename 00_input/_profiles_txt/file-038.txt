@@ -1,0 +1,318 @@
+Jerry Hsieh
+
+Senior Hadoop Big Data Engineer
+
+Phone: (999) 999-9999    |    Email: jerry.hseih121@gmail.com
+
+
+
+
+
+Contact
+
+Christopher Tran
+
+jerry.hsieh121@gmail.com 
+
+(999) 999-9999
+
+
+
+Experience-5yrs
+
+Big Data Engineering
+
+Hadoop
+
+Hortonworks
+
+AWS
+
+Cloudera
+
+
+
+
+
+Education
+
+Masters’ Degree in Financial Management
+
+Boston University
+
+Tainan, Taiwan
+
+
+
+Masters’ Degree in International Business Management 
+
+National Taipei University
+
+Taipei, Taiwan
+
+
+
+Bachelors’ Degree in Statistics 
+
+National Cheng Kung University
+
+Tainan, Taiwan
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Professional Profile	
+
+5 years’ experience as a big data professional with experience in Big Data Engineering, Big Data Development. Highly motivated skilled in architecture and implementation of scalable, high availability systems for processing and analytics of very large volume structured and unstructured data, custom ETL pipelines, working with Cross-Functional teams and Stakeholders.
+
+
+
+Experienced in cloud architecture using AWS ecosystem and tools and Native Hadoop and Distributions (Cloudera Hadoop and Hortonworks Hadoop)
+
+
+
+Highly knowledgeable in data concepts and technologies including AWS pipelines, cloud repositories (Amazon AWS, MapR, Cloudera)
+
+Hands-on experience processing data using Spark Streaming API with Scala
+
+Experience developing custom large-scale enterprise applications using Spark for data processing.
+
+Worked with Apache Spark which provides fast and general engine for large data processing integrated with functional programming language Scala.
+
+Migrated complex MapReduce programs into Apache Spark RDD operations.
+
+Worked with Apache Spark to provide fast engine for large data processing integrated with functional programming languages Scala, Python, and scripting in Hive QL and Pig Latin.
+
+Extracted the data from application servers into Hadoop file system (HDFS) and bulk loaded the cleaned data into HBase using Spark.
+
+Highly available, scalable and fault tolerant systems using Amazon Web Services (AWS)
+
+Experienced in Amazon Web Services (AWS), and cloud services such as EMR, EC2, S3, EBS and IAM entities, roles, and users.
+
+Ability to troubleshoot and tune relevant programming languages like SQL, Python, Scala, RDDs, DataFrames & MapReduce. Able to design elegant solutions through the use of problem statements.
+
+Architecture of ETL data pipelines within Hadoop Ecosystem making use of Hadoop, Cloudera Hadoop, Hortonworks, Hadoop and AWS EMR to process data from a variety of data stores and file types; structures and unstructured data.
+
+Proficient in Cloudera Hadoop Distribution, Hortonworks Distribution, ETL processing using Spark, Spark Streaming, Storm.
+
+Extraction to and from multiple data sources, such as RDBMS, SQL, NoSQL data warehouses (Teradata, Oracle, AWS), Hadoop data lake environments (HDFS, Hive, Hbase, Cassandra, Impala, MongoDB, DynamoDB, etc.).
+
+Hadoop data pipeline and AWS pipeline tools used to process data with Apache Spark, Spark Streaming, Spark, for predictive analytics on Hadoop data projects.
+
+Proficient in data processing using Hadoop Cloudera and Hadoop Hortonworks distributions.
+
+Analysis of data lakes including Hadoop ecosystem repositories (Hive, NoSQL, RDBMS, RedShift).
+
+AWS tools (Redshift, Kinesis, S3, EC2, EMR, DynamoDB, Elasticsearch, Lambda)
+
+Identifies key initiatives for analytical decisions using various tools such as Spark
+
+Cleanse, aggregate, and organize Hadoop HDFS data lake.
+
+
+
+
+
+
+Technical Skills
+
+PROGRAMMING & SCRIPTING LANGUAGES:  Spark, Spark Streaming, Hive, MapReduce, Python, Scala, SQL, MySQL, Shell Scripting, MongoDB, Python, R
+
+IDE: Eclipse, IntelliJ, PyCharm
+
+PROJECT METHODS:  Agile, Scrum, DevOps, Continuous Integration, 
+
+DISTRIBUTIONS:  Cloudera Hadoop, Hortonworks Hadoop
+
+CLOUD PLATFORMS:  Amazon AWS
+
+CLOUD DATABASE & TOOLS:  Redshift, DynamoDB, EMR, EC2, ECS, S3
+
+RDBMS: Oracle, SQL, MySQL
+
+FILE FORMATS:  Avro, Parquet, ORC
+
+FILE SYSTEMS:  HDFS, S3
+
+ETL TOOLS:  Flume, Kafka, NTFS
+
+DATA VIZIUALIZATION TOOLS: Tableau, Kibana
+
+SEARCH TOOLS: Apache Lucene, Elasticsearch, Solr
+
+DESKTOP SOFTWARE:  Microsoft Office Suite, Adobe Creative Suite
+
+MISC SOFTWARE:  Virtual Box, Visual Studio, Vim
+
+
+
+
+
+Big Data Experience
+
+Senior Big Data Engineer
+
+June 2018 – Present
+
+Walt Disney | Burbank, CA
+
+
+
+Provide actionable recommendations to meet Hadoop data analytical needs on a continuous basis using Hadoop distributed system and cloud systems.
+
+Cleanse, aggregate, and organize Hadoop HDFS data lake.
+
+Hadoop ecosystem tools for ETL and analysis, pipelines, and cleaning data in prep for analysis
+
+HDFS, Zookeeper and YARN to work with the cluster.
+
+Successfully loaded files to HDFS from Teradata and loaded from HDFS to HIVE.
+
+Handled the real time streaming data from different sources using flume and set destination as HDFS.
+
+Extracted the data from application servers into Hadoop file system (HDFS) and bulk loaded the cleaned data into HBase using Spark.
+
+Broadcast variables in Spark, effective & efficient Joins, transformations.
+
+Optimized Spark jobs migrating from Spark RDD’s API to Data Frames.
+
+Worked with Apache Spark which provides fast and general engine for large data processing integrated with functional programming language Scala.
+
+Worked with scalable solutions for business problems using Hadoop, Spark, Spark Streaming, Kafka, and Hive.
+
+Designed and developed interactive Kibana dashboards and custom reports which involved modeling and algorithms from data derived from Hadoop data lakes and pipelines.
+
+Identified and ingested source data from different systems into Hadoop HDFS using Sqoop, Flume, creating HBase tables to store variable data formats for data analytics.
+
+Created Hive and Impala queries to spot emerging trends by comparing Hadoop data with historical metrics.
+
+Imported data from web service into Hadoop file system (HDFS) and transformed data.
+
+Developed new flume agents to extract data from Kafka and more into Hadoop file system (HDFS).
+
+
+
+
+
+Hadoop Big Data Engineer
+
+Feb 2017- June 2018
+
+Asus | Fremont, CA
+
+Experience converting Hive/SQL queries into Spark transformations using Spark RDDs, Python and Scala.
+
+Skilled in the use of MapReduce, MapReduce jobs and generating tools like Pig or Hive.
+
+Logs that are stored on HDFS were preprocessed using PIG and the processed data is imported into Hive warehouse which enabled business analysts to write Hive queries.
+
+Developed data queries using HiveQL and optimized the Hive queries.
+
+Queried Hive tables and incremental imports with Spark and Spark jobs for data processing and analytics.
+
+Created Hive tables, loading with data and writing Hive queries.
+
+Mapped to HBase tables and implemented SQL queries to retrieve data.
+
+Assisted in upgrading, configuration and maintenance of various Hadoop infrastructures like Pig, Hive, and HBase.
+
+Used Spark SQL and Data Frame API extensively to build Spark applications.
+
+Used Spark Structured Streaming to structure real time data frame and update it in real time.
+
+Used Spark SQL to perform data processing on data residing in Hive
+
+Extracted the needed data from server into Hadoop file system (HDFS) and bulk loaded the cleaned data into HBase using Spark.
+
+Built out Hadoop data lake using Hadoop file system (HDFS), with the use of Hive and Spark, and managing Hadoop log files.
+
+Tested reports and uploaded tableau dashboards to server and provided production support for tableau users.
+
+Accessed Hadoop file system (HDFS) using Spark and managed data in Hadoop data lakes from different sources accessed for data processing using Spark.
+
+Loaded data from UNIX file system to Hadoop file system (HDFS) and wrote HIVE UDFs.
+
+Used Spark API over YARN to perform analytics on data in Hive
+
+
+
+
+
+Data Engineer
+
+Jan 2016-Feb 2017
+
+Chunghwa Telecom | San Jose, CA
+
+Worked with Amazon Web Services (AWS) and involved in ETL, Data Integration and Migration.
+
+Experienced in Amazon Web Services (AWS), and cloud services such as EMR, EC2, S3, EBS and IAM entities, roles, and users.
+
+Transferred data using Informatica tool from AWS S3
+
+Created multi-node Hadoop and Spark clusters in AWS instances to generate terabytes of data and stored it in AWS HDFS
+
+Developed AWS Cloud Formation templates to create custom infrastructure of our pipeline.
+
+Created EMR/Spark Cluster to perform ETL from diverse clients
+
+Worked with Apache Spark to provide fast engine for large data processing integrated with functional programming languages Scala, Python, and scripting in Hive QL.
+
+Spark data frames joined from multiple sources, and managed metadata of the schemas.
+
+Manipulated and analyzed complex, high volume, and high dimensional data in AWS using various querying tools.
+
+	Created a POC involved in loading data from LINUX file system to AWS S3 and HDFS.
+
+	Using AWS Redshift for storing the data on cloud.
+
+Developed custom aggregate functions using Spark SQL and performed interactive querying.
+
+Performed streaming data ingestion to the Spark distribution environment, using Kinesis.
+
+Worked with Inbuilt Transformations in ETL/SSIS like Persistent Lookups to enhance performance for lookups and more utilization of I/O resources.
+
+
+
+
+
+
+
+Hadoop Administrator
+
+Dec 2014-Jan 2016
+
+Cathay Life Insurance| Taipei, Taiwan
+
+Made use of Python libraries for analytic processing, such as SciPy, Pandas, and NumPy.
+
+Ability to troubleshoot and tune relevant programming languages like SQL, Python, Scala, RDDs, DataFrames & MapReduce. Able to design elegant solutions through the use of problem statements.
+
+Use of spark, python, hive, pig in constructing pipelines and queries.
+
+Experience in using IDEs such as Eclipse, IntelliJ for debugging and developing Python and Spark Applications.
+
+Build a Spark proof of concept with Python using PySpark
+
+Setup the Python scripts to create the snapshots on AWS S3 buckets and delete the old snapshots.
+
+developed, designed tested Spark SQL clients with Scala, PySpark clients.
+
+Developed Spark code using Scala and Spark-SQL/Streaming for faster processing of data
+
+Hands-on experience processing data using Spark Streaming API with Scala.
+
+Imported data from disparate sources into Spark RDD for processing.
+
+Developed custom aggregate functions using Spark SQL and performed interactive querying.
+
+Performed streaming data ingestion to the Spark distribution environment, using Kafka.

@@ -1,0 +1,396 @@
+Jeremie Havice  |  (470) 344-0441  |  jeremiescott1985@gmail.com
+
+Jeremie Havice  |  (470) 344-0441  |  jeremiescott1985@gmail.com
+
+Hadoop Engineer
+
+Big Data Engineer
+
+Hadoop Engineer
+
+Big Data Engineer
+
+Ph: (999) 999-9999
+
+E: consultant@gmail.com
+
+Ph: (999) 999-9999
+
+E: consultant@gmail.com
+
+
+
+
+
+Jeremie Havice
+
+Big Data Engineer
+
+Jeremie Havice
+
+Big Data Engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+  PROFESSIONAL SUMMARY  
+
+
+
+Jeremie Havice
+
+Big Data Engineer
+
+Ph: (470) 344-0441
+
+E: jeremiescott1985@gmail.com
+
+5 years of experience in the IT field
+
+5 years in Big Data Engineering
+
+Hadoop, Cloudera, Hortonworks, AWS
+
+Spark, Scala, Kafka, HDFS, Hive
+
+
+
+
+
+Experience in distributed big data systems with Hadoop, AWS EMR Hadoop clusters
+
+Primary technical skills in HDFS, Spark, Kafka, Hive, Sqoop, HBase, Flume, Oozie, Zookeeper, YARN.
+
+Skilled in Hadoop big data using Cloudera (CDH) and Hortonworks (HDP) 
+
+Experienced team lead providing mentoring to engineers, and liaison for team with stakeholders, business units, data scientists/analysts and making sure all teams collaborate smoothly. 
+
+Have good experience in extracting and generating data visualizations.
+
+Facilitation of meetings following Scrum processes such as Sprint Planning, Backlog, Sprint Retrospective, Requirements Gathering and providing planning and documentation for project; ensuring project is on track with stakeholder wishes.
+
+In depth understanding/knowledge of Hadoop Architecture and various components such as HDFS, Job Tracker, Task Tracker, Name Node, Data Node and MapReduce concepts and experience in working with
+
+Used Apache Hadoop for working with Big Data to analyze large data sets efficiently.
+
+Hands on experience in working with Ecosystems like Hive, Sqoop, MapReduce, Oozie. 
+
+Hive's analytical functions, extending Hive core functionality by writing custom SQL queries.
+
+Experience in importing and exporting Terabytes of data between HDFS and Relational Database Systems using Sqoop.
+
+ETL from databases such as SQL Server and Oracle to Hadoop HDFS in Data Lake.
+
+Experience in writing SQL queries, Stored Procedures, Triggers, Cursors and Packages.
+
+Experience in handling XML files and related technologies.
+
+Development and Debugging experience on Python, Scala and Java.
+
+Involved in processes using Spark streaming to receive real time data using Kafka/ on prem and AWS cloud.
+
+Used Spark Structured Streaming for high performant, scalable, fault-tolerant data processing of real-time data streams by extending core Spark API on prem and AWS.
+
+Experience with multiple terabytes of data stored in AWS using Elastic Map Reduce (EMR) and Redshift PostgreSQL.
+
+Experienced in Amazon Web Services (AWS), and cloud services such as EMR, EC2, S3, EBS and IAM entities, roles, and users.
+
+
+
+
+
+
+
+
+ TECHNICAL SKILLS SUMMARY  
+
+Programming & Scripting
+
+█    █    █    █    █    █    █    █    █    █
+
+Java, Scala, Python, Unix Shell Scripting
+
+Data & File Management
+
+█    █    █    █    █    █    █    █    █    █
+
+Apache Cassandra, Apache Hbase, Oracle, SQL Server, RDBMS, HDFS, Parquet, Avro, JSON, Snappy, Gzip
+
+Methodologies
+
+█    █    █    █    █    █    █    █    █    █
+
+Agile, Kanban, Scrum, Jira, Continuous Integration (CI CD), Test-Driven Development, Unit Testing, 
+
+Big Data ETL Tools & Frameworks
+
+█    █    █    █    █    █    █    █    █    █
+
+	Hive, MapReduce,  Sqoop, Kafka, Spark, ELK Stack (Elasticsearch, Logstash, Kibana)
+
+Big Data Platforms & Distributions
+
+█    █    █    █    █    █    █    █    █    █
+
+Hadoop, Cloudera Hadoop (CDH), Hortonworks Hadoop Data Platform (HDP)
+
+Big Data Visualization
+
+█    █    █    █    █    █    █    █    █    █
+
+Visualization:  Kibana, Tableau
+
+Soft Skills
+
+█    █    █    █    █    █    █    █    █    █
+
+Leadership, Adaptability, Self-Motivation, Mentoring, Communication, Team Lead, Team Work
+
+
+
+ PROFESSIONAL EXPEREINCE  
+
+Big Data Engineer September 2019 – Present
+
+Swift  Manassas, VA
+
+
+
+DevOps team involved in developing/enhancing a pipeline of log data, developing/enhancing the Data Lake or delivering search/analytics/dashboard capabilities deriving intelligence from the data lake.  Parsing log data in Logstash and building Kibana visualizations/dashboards.
+
+
+
+Agile methodology
+
+Docker Containers 
+
+Logstash
+
+Elastic Search
+
+Kibana
+
+Filebeat
+
+Metericbeat
+
+Winlog
+
+Jira – track progress of a story.
+
+Every 2 weeks there was a 2 hr new sprint meeting
+
+Daily 15 min stand up meetings – discussed progress on story.
+
+Worked on the DevOps side not the Production side.  
+
+Security – SSH and company certs
+
+Kibana Dashboard Presentations
+
+Trouble Shooting – logstash, filebeat, elasticsearch yml and config files
+
+Team size – 4 total, 3 software engineers, 1 Chapter Lead/Software engineer.  No manager.  We managed ourselves. The chapter lead provided direction and training. 
+
+Cross functional collaboration – My team was the Data Analytics and we had to work with the Data Pipeline team along with team members in Netherlands and Belguim.  
+
+My major contributions as of now I created the logstash parser for the activity and event logs.  Then created the BDI Dashboard in Kibana.  
+
+Main Challenges – None of this technology was taught in Titchfield training. We talked about Docker Containers and ELK stack, but never spent any real time training.  
+
+Git – Version Control
+
+BitBucket
+
+Swift version of Docker Hub
+
+Internal OASIS - SWIFT’s Tooling organization delivers an Operations And Support Intelligence System
+
+Logstash GROK language to parse logs
+
+Docker-Compose
+
+
+
+
+
+Big Data Engineer April 2017 – September 2019
+
+TechField Atlanta, GA
+
+
+
+Created an application that collects data that can be analyzed to show how the company is received in the general public.  Was able to collect tweets that mentioned the companies name or any like terms and any spatial data.
+
+
+
+Installation and configuration of the various Big Data ecosystem tools such as Elastic Search, Logstash, Kibana, Kafka and Cassandra.
+
+Built Real-Time Streaming Data Pipelines with Kafka, Spark Streaming and Cassandra.
+
+Implemented Spark streaming for real-time data processing with Kafka and handled large amounts of data with Spark.
+
+Wrote streaming applications with Spark Streaming/Kafka. 
+
+Used Spark SQL to perform transformations and actions on data residing in HDFS.
+
+Responsible for designing and deploying new ELK clusters.
+
+Worked with Elasticsearch and Logstash (ELK) performance and configure tuning.
+
+Created a Kafka producer to connect to different external sources and bring the data to a Kafka broker.
+
+Handled schema changes in data stream using Kafka.
+
+Analyzed and tuned Cassandra data model for multiple internal projects/customers.
+
+Developed ETL pipeline to process log data from Kafka/HDFS sequence file and output to Hive tables in ORC format.
+
+Built Jenkins jobs for CI/CD infrastructure from GitHub repos.
+
+Support for the clusters, topics on the Kafka manager.
+
+Responsible for Kafka operation and monitoring, and handling of messages funneled through Kafka topics.
+
+Coordinated Kafka operation and monitoring with dev ops personnel; formulated balancing impact of Kafka producer and Kafka consumer message(topic) consumption.
+
+Versioning with Git and set-up a Jenkins CI to manage CICD practices.
+
+Pulled data and populated the data in Kibana.
+
+Kibana dashboard designed over Elasticsearch for visualizing the data.
+
+Interacted with data residing in HDFS using Spark to process the data.
+
+Participated in various phases of data processing (collecting, aggregating, moving from various sources) using Apache Spark.
+
+Handled structured data via Spark SQL then stored into Hive tables for downstream consumption.
+
+Worked with Elasticsearch and Logstash (ELK) performance and configure tuning.
+
+
+
+Big Data Developer July 2015 – Jan 2017
+
+Kellog Brown & Root (KBR)
+
+Houston, Tx
+
+
+
+Implemented Serverless architecture using AWS Lambda with AWS S3. 
+
+Expertise in AWS data migration between different database platforms like Local SQL Server to AWS RDS and EMR HIVE.
+
+Led many critical on-prem data migration to AWS cloud, assisting the performance tuning and providing successful path towards Redshift Cluster and AWS RDS DB engines.
+
+Worked on AWS S3 bucket integration for application and development projects.
+
+Experience in managing and reviewing Hadoop log files in AWS S3. 
+
+Responsible for Designing Logical and Physical data modelling for various data sources
+
+Migration between different database platforms like Local SQL Server to AWS RDS and EMR HIVE. Redshift.
+
+Installed, configured, and tested an AWS Lambda function workflow in Python
+
+Responsible for continuous monitoring and managing Elastic MapReduce (EMR) cluster through AWS console.
+
+Automated and defined Spark and AWS Best practices for future deployment.
+
+Worked on Multiple AWS instances, set the security groups. Auto scaling to design cost effective, fault tolerant and highly available systems on AWS.
+
+Deploy Spark Jobs into AWS EMR.
+
+Managed AWS Redshift clusters such as launching the cluster by specifying the nodes and performing the data analysis queries.
+
+Created basic infrastructure of the pipeline using AWS Cloud Formation.
+
+Implemented usage of Amazon EMR for processing Big Data across Hadoop Cluster on AWS.
+
+Managed and monitored AWS EC2 instances through AWS Management Console
+
+Participated into the AWS architecture, design and planning from ingestion into reporting.
+
+Securely controlling AWS users and groups access to AWS services and resources by assigning roles and polices using IAM.
+
+Configured Elastic search, Log stash and Kibana (ELK) for log analytics, full text search, application monitoring in integration with AWS Lambda and Cloud Watch.
+
+Configuring Access for inbound and outbound traffic RDS DB services and EBS volumes to set alarms for notifications or automated actions on AWS.
+
+
+
+
+
+
+
+	Hadoop Developer 	Feb 2014 – July 2015
+
+ITT Exelis 
+
+Tysons Corner, VA
+
+Used Zookeeper and Oozie for coordinating the cluster and scheduling workflows.
+
+Worked with Ambari to monitor workloads, job performance and capacity planning.
+
+Managing Hadoop clusters via Command Line, and Hortonworks Ambari agent.
+
+Performed cluster and system performance tuning.
+
+Monitored Hadoop cluster using tools like Ambari.
+
+Configure clluster coordination services through Zookeeper and Kafka.
+
+Configure Yarn capacity scheduler to support various business SLA's.
+
+Implement and maintain security with LDAP and Kerberos as designed for cluster.
+
+Coordinates with monitors cluster upgrade needs, and monitors cluster health and builds proactive tools to look for anomalous behaviors.
+
+Worked with cluster users to ensure efficient resource usage in the cluster and alleviate multi-tenancy concerns.
+
+Scheduling batch jobs on a Hadoop Cluster using Oozie.
+
+Worked on Kafka cluster environment and zookeeper.
+
+Monitored multiple Hadoop clusters environments using Ambari.
+
+Experience in configuring, installing and managing Hortonworks (HDP) Distributions.
+
+Secured the Kafka cluster communication with SSL.
+
+
+
+
+
+ EDUCATION
+
+B.S. in Computer Science
+
+Kansas State University
+
+Manhattan, Kansas
+
+
+
+Associates of Applied Science With Honors
+
+Cloud County Community College
+
+Junction City, Kansas
+
+
+
+Honors
+
+Phi Theta Kappa Fraternal Order of Honor Students

@@ -1,0 +1,443 @@
+
+
+Professional Summary
+
+ • 10+ years’ experience on major components in Hadoop Ecosystem like Hadoop
+   Map Reduce, HDFS, HIVE, PIG, Pentaho, HBase, Zookeeper, Sqoop, Oozie,
+   Flume, Storm, Yarn, Spark, Scala and Avro.
+ • Self-starter, lifelong learner, Team Player, excellent communicator.
+ • Well organized with great interpersonal skills.
+ • Data extraction, transformation and load in Hive, Pig and HBase
+ • Experience on importing and exporting data using Flume and Kafka.
+ • Hands on Pig Latin scripts, grunt shells and job scheduling with Oozie.
+ • Processing this data using Spark Streaming API with Scala.
+ • Experience in Apache NIFI which is a Hadoop technology and also
+   Integrating Apache NIFI and Apache Kafka.
+ • Worked with Apache Spark which provides fast and general engine for large
+   data processing integrated with functional programming language Scala.
+ • Designing and implementing of secure Hadoop cluster using Kerberos.
+ • Expertise in Storm for reliable real-time data processing capabilities to
+   Enterprise Hadoop.
+ • BI (Business Intelligence) reports and designing ETL workflows on
+   Tableau.
+ • Hands on ETL, Data Integration, Migration, Informatica ETL.
+ • Extensively worked on build tools like Maven, Log4j, Junit and Ant.
+ • Experience with Cloud space: AWS, AZURE, EMR and S3.
+ • Hands-on Pig Latin script migrating into Java Spark code.
+ • Experience in migrating the data using Sqoop from HDFS to Relational
+   Database System and vice-versa according to client's requirement.
+ • Extend HIVE and PIG core functionality w/custom UDF and UDT.
+Technical Skills
+
+
+Programming Languages & IDEs  [pic][pic][pic][pic][pic]
+
+Unix shell scripting, Object-oriented design, Object-oriented programming,
+Functional programming, SQL, Java, Java Swing, JavaScript, Hive QL,
+MapReduce, Python, Scala, XML, Blueprint XML, Ajax, REST API, Spark API,
+JSON, Avro, Parquet, ORC, Jupyter Notebooks, Eclipse, IntelliJ, PyCharm,
+SAS, C++, PL/SQL, Eclipse, SharePoint
+
+
+DATABASE [pic][pic][pic][pic]
+
+Apache Cassandra, Apache Hbase, MapR-DB, MongoDB, Oracle, SQL Server, DB2,
+Sybase, RDBMS, MapReduce, HDFS, Parquet, Avro, JSON, Snappy, Gzip, DAS,
+NAS, SAN
+
+
+PROJECT MANAGEMENT [pic][pic][pic]
+
+Agile, Kanban, Scrum, DevOps, Continuous Integration, Test-Driven
+Development, Unit Testing, Functional Testing, Design Thinking, Lean, Six
+Sigma
+
+
+Cloud Services & Distributions [pic][pic][pic]
+
+AWS, Azure, Anaconda Cloud, Elasticsearch, Solr, Lucene, Cloudera,
+Databricks, Hortonworks, Elastic MapReduce
+
+
+Reporting / Visualization [pic][pic]
+
+PowerBI, Tableau, ETL Tools, Kibana
+
+
+Skills [pic][pic]
+
+Data Analysis, Data Modeling, Artificial Neural Networks, JAX-RPC, JAX-WS,
+BI, Business Analysis, Risk Assessmeent
+
+
+Big Data Platforms, Software, & Tools [pic][pic][pic][pic][pic]
+
+Apache Ant, Apache Cassandra, Apache Flume, Apache Hadoop, Apache Hadoop
+YARN, Apache Hbase, Apache Hcatalog, Apache Hive, Apache Kafka, Apache
+MAVEN, Apache Oozie, Apache Pig, Apache Spark, Spark, Streaming, Spark
+MLlib, GraphX, SciPy, Pandas, RDDs, DataFrames, Datasets, Mesos, Apache
+Tez, Apache ZooKeeper, Cloudera Impala, HDFS, Hortonworks, MapR, MapReduce,
+Apache Airflow and Camel, Apache Lucene, Elasticsearch, Elastic Cloud,
+Kibana, X-Pack, Apache SOLR, Apache Drill, Presto, Apache Hue, Sqoop,
+Kibana, Tableau, AWS, Cloud Foundry, GitHub, Bit Bucket, SAP Hana,
+Teradata, Netezza, Nifi, Oracle, and SAS Analytics and eMinor, Informatica
+ETL tool. Splunk, Spark DataFrames, Apache Storm, Informatica Power Center,
+Unix, Spotfie, MS office, Teradata,
+
+
+
+Professional Experience
+
+May 2016    Hadoop Data Architect/Engineer
+Present     Revionics – Atlanta, GA
+Worked on big data analytics systems using Hadoop, Spark, Storm, Hive,
+Kafka for batcha and realtime streaming pipelines and analytics for this
+analytics consulting company.  Clients include big name retail such as Home
+Depot, Lowes and Staples.
+    • Worked closely with the Source System Analysts and Architects in
+      identifying the attributes and to convert the Business Requirements
+      into Technical Requirements.
+    • Actively involved in setting up coding standards, prepared low and
+      high-level documentation.
+    • Involved in preparing the S2TM document as per the business
+      requirement and worked with Source system SME's in understanding the
+      source data behavior.
+    • Worked closely with SME to prepare a tool using Map Reduce to maintain
+      versioning of the records and involved in setting up the standards for
+      SCD2 Mapper.
+    • Created Hive, Phoenix, HBase tables and HBase integrated Hive tables
+      as per the design using ORC file format and Snappy compression.
+    • Imported required tables from RDBMS to HDFS using Sqoop and also used
+      Storm and Kafka to get real time streaming of data into HBase.
+    • Wrote different pig scripts to clean up the ingested data and created
+      partitions for the daily data.
+    • Implemented Partitioning and bucketing in Hive based on the
+      requirement.
+    • Wrote different UDF's to convert the date format and to create hash
+      value using MD5 Algorithm in Java and used various UDF's from
+      Piggybanks and other sources.
+    • Used Spring IOC, Autowired Pojo and DAO classes with Spring Controller
+
+
+    • Prepared pig scripts and Spark SQL/Spark streaming to handle all the
+      transformations specified in the S2TM's and to handle SCD2 and SCD1
+      scenarios.
+    • Involved in converting Hive/SQL queries into Spark transformations
+      using Spark SQL, Python and Scala.
+    • Worked on Apache spark writing Python applications to convert txt, xls
+      files and parse data into JSON format.
+    • Managing cluster using Ambari.
+    • Involved in collecting metrics for Hadoop clusters using Ambari.
+    • Installed Ambari on existing Hadoop cluster.
+    • Used Apache Nifi for ingestion of data from the IBM MQ's (Messages
+      Queue)
+    • Implemented Nifi flow topologies to perform cleansing operations
+      before moving data into HDFS.
+    • Started using Apache NiFi to copy the data from local file system to
+      HDP
+    • Experienced in implementing Spark RDD transformations, actions to
+      implement business analysis and Worked with Spark accumulators and
+      broadcast variables.
+    • Created shell scripts to parameterize the Pig, Hive actions in Oozie
+      workflow.
+    • Utilize the give OLTP data models for Source Systems to design a Star
+      Schema
+    • Created tables in Teradata to export the data from HDFS using Sqoop
+      after all the transformations and wrote Bteq scripts to handle updates
+      and inserts of the records.
+    • Worked closely with the App Support team in production deployment and
+      setting up these jobs in TIDAL/Control M for incremental data
+      processing.
+    • Worked with EQM and UAT teams for fixing the defects immediately by
+      understanding the issue.
+    • Involved in Unit level and Integration level testing and prepared
+      supporting documents for proper deployment.
+Environment: CDH 5.5.1, Hadoop, Map Reduce, HDFS, Nifi, Hive, Pig, Sqoop,
+Ambari, Spark, Oozie, Impala, SQL, Java (JDK 1.6), Eclipse. Spring MVC,
+Spring 3.0
+
+
+May 2015    Hadoop Data Architect/Engineer
+May 2016    Verisign – Reston, VA
+Worked on the project for Verisign using big data analytics to manage
+strategic business intelligence regarding online properties, domains and
+cybersecurity, IP addresses, ontological classification, URL, code and
+more.
+    • Responsible for gathering requirements to determine needs and
+      specifications to write a project plan and architecture schematic.
+    • Developed a procedural guide for implementation and coding to ensure
+      quality standards and consistency.
+    • Implemented data ingestion and cluster handling in real time
+      processing using Kafka.
+    • Extended UDFs in PIG library Piggybank to learn N-Gram language model
+      for parts of speech and corresponding TF-IDF models and inverted
+      indexes.
+    • Analyzed large sets of structures, semi-structured and unstructured
+      data by running Hive queries and Pig scripts.
+    • Optimized HIVE analytics, SQL queries, created tables, views, wrote
+      custom UDFs, and Hive-based exception processing.
+    • Worked on HIVE to create numerous internal and external tables.
+    • Partitioned and bucketed hive tables; maintained and aggregated daily
+      accretions of data.
+    • Used Spark SQL to perform transformations and actions on data residing
+      in Hive.
+    • Used Spark Streaming to divide streaming data into batches as an input
+      to Spark engine for batch processing.
+    • Extracted the data from RDBMS (Oracle, MySQL) to HDFS using Sqoop.
+    • Configured Spark Streaming to receive real time data and store the
+      stream data to HDFS.
+    • Extract Real time feed using Kafka and Spark Streaming and convert it
+      to RDD and process data in the form of Data Frame and save the data as
+      Parquet format in HDFS.
+    • Handled the real time streaming data from different sources using
+      flume and set destination as HDFS.
+    • Wrote Spark applications for data validation, cleansing,
+      transformation, and custom aggregation.
+    • Imported data from disparate sources into Spark RDD for processing.
+    • Developed custom aggregate functions using Spark SQL and performed
+      interactive querying.
+    • Utilized Spark DataFrame and Spark SQL API extensively for processing.
+    • Used the image files of an instance to create instances containing
+      Hadoop installed and running.
+    • Developed dynamic parameter file and environment variables to run jobs
+      in different environments.
+    • Worked on installing clusters, commissioning & decommissioning of data
+      node, configuring slots, and on name node high availability, and
+      capacity planning.
+    • Executed tasks for upgrading clusters on the staging platform before
+      doing it on production cluster.
+    • Installed and configured various components of the Hadoop ecosystem.
+    • Created UNIX shell scripts to automate the build process, and to
+      perform regular jobs like file transfers between different hosts.
+    • Used Spark SQL and Data Frame API extensively to build Spark
+      applications.
+    • Used Spark engine, Spark SQL for data analysis and provided to the
+      data scientists for further analysis.
+      Environment: CDH 5.5.1, Hadoop, Map Reduce, HDFS, Nifi, Hive, Pig,
+      Sqoop, Ambari, Spark, Oozie, Impala, SQL, Java (JDK 1.6), Eclipse.
+      Spring MVC, Spring 3.0
+
+Jan 2014    Hadoop Distributed Data Engineer
+May 2015    Citizens Financial Group– Providence, RI
+Administration and optimization of data pipelines and ETL processing for
+assessment of stocks for the financial strategy of this investment
+division.
+    • Migrating the needed data from Oracle, MySQL into HDFS using Sqoop and
+      importing various formats of flat files into HDFS.
+    • Uploaded and processed more than 30 terabytes of data from various
+      structured and unstructured sources into HDFS (AWS cloud) using Sqoop
+      and Flume.
+    • Designing and creating Hive external tables using shared meta-store
+      instead of Derby with partitioning, dynamic partitioning, and buckets.
+
+
+    • Used Pig as ETL tool to do Transformations, even joins and some pre-
+      aggregations before storing the data onto HDFS.
+    • Analyzed the data by performing Hive queries and running Pig scripts
+      to validate sales data.
+    • Experience working on Solr to develop search engine on unstructured
+      data in HDFS.
+    • Used Solr to enable indexing for enabling searching on Non-primary key
+      columns from Cassandra keyspaces.
+    • Developed custom processors in java using maven to add the
+      functionality in Apache Nifi for some additional tasks.
+    • Collected and aggregated large amounts of data from different sources
+      such as COSMA (CSX Onboard System Management Agent), BOMR (Back Office
+      Message Router), ITCM (Interoperable train control messaging), Onboard
+      mobile and network devices from the PTC (Positive Train Control)
+      network using Apache Nifi and stored the data into HDFS for analysis.
+    • Created external tables pointing to HBase to access table with a huge
+      number of columns.
+    • Wrote Python code using a HappyBase library of Python to connect to
+      HBASE and use the HAWQ querying as well.
+    • Used Spark SQL to process the huge amount of structured data and
+      Implemented Spark RDD transformations, actions to migrate Map reduce
+      algorithms.
+    • Used Tableau for data visualization and generating reports.
+    • Created SSIS packages to extract data from OLTP and transformed to
+      OLAP systems and Scheduled Jobs to call the packages and Stored
+      Procedures. Created Alerts for successful or unsuccessful completion
+      of Scheduled Jobs.
+    • Developed Python scripts, UDF's using both Data frames/SQL and RDD in
+      Spark for Data Aggregation, queries and writing data back into RDBMS
+      through Sqoop.
+    • Developed Spark code using Scala and Spark-SQL for faster testing and
+      data processing.
+    • Worked on converting PL/SQL code into Scala code and also converted
+      PL/SQL queries into HQL queries.
+    • Involved in scheduling Oozie workflow engine to run multiple Hive and
+      Pig jobs.
+Environment: Cloudera Distribution CDH 5.5.1, Oracle 12c, HDFS, Map Reduce,
+Nifi, Hive, HBase, Pig, Oozie, Sqoop, Flume, Hue, Tableau, Scala, Spark,
+Zookeeper, Apache Ignite, SQL, PL/SQL, UNIX shell scripts, Java, Python,
+AWS S3, Maven, JUnit, MRUnit.
+
+Aug 2012    Hadoop Data Engineer
+Dec 2013    Charles Schwab – Littleton, CO
+Administration, customization and ETL data transformations for BI analysis
+and data analysis of financial transactions, investments and risk analysis.
+    • Worked with a team to gather and analyze the client requirements
+Analyzed large data sets distributed across cluster of commodity hardware
+Connecting to Hadoop cluster and Cassandra ring and executing sample
+programs on servers
+    • Hadoop and Cassandra as part of a next-generation platform
+      implementation
+    • Developed several advanced YARN programs to process received data
+      files
+    • Responsible for building scalable distributed data solutions using
+      Hadoop
+    • Handled importing of data from various data sources, performed
+      transformations using Hive, YARN, loaded data into HDFS and Extracted
+      the data from Oracle into HDFS using Sqoop
+    • Bulk loaded data into Cassandra using Stable loader
+    • Load the OLTP models and Perform ETL to load Dimension data for a Star
+      Schema
+    • Built-in Request builder, developed in Scala to facilitate running of
+      scenarios, using JSON configuration files
+    • Analyzed the data by performing Hive queries and running Pig scripts
+      to study customer behavior
+    • Involved in HDFS maintenance and loading of structured and
+      unstructured data
+    • Developed workflow in Oozie to automate the tasks of loading the data
+      into HDFS and pre-processing with Pig
+    • Data was formatted using Hive queries and stored on HDFS
+    • Created complex schema and tables for analysis using Hive
+    • Worked on creating MapReduce programs to parse the data for claim
+      report generation and running the Jars in Hadoop. Coordinated with
+      Java team in creating MapReduce programs.
+    • Implemented the project by using Spring Web MVC module
+    • Responsible for managing and reviewing Hadoop log files. Designed and
+      developed data management system using MySQL
+    • Cluster maintenance as well as creation and removal of nodes using
+      tools like Cloud Era Manager Enterprise, and other tools.
+    • Followed Agile methodology, interacted directly with the client
+      provided & receive feedback on the features, suggest/implement optimal
+      solutions, and tailor application to customer needs.
+Environment: Cloudera Distribution CDH 4.4.1, Hadoop HDFS, MapReduce, Hive,
+PIG, Hbase, Cassandra, Scala, Sqoop, Oozie, UNIX Shell Scripting, Linux,
+SQL, Web services, Micro services, IOC.
+
+
+Sep 2010    Java Developer
+Jul 2012    SunTrust Bank – Atlanta, GA
+Worked on risk management applications and data processing applications for
+the banking industry.
+    • Gathered requirements, designed and implemented the application that
+      utilizes Struts, Spring, JSP and Oracle database.
+    • Implemented J2EE design patterns like MVC and Front Controller.
+    • Implemented Static and Dynamic web pages using JSP, JavaScript, CSS.
+      Involved in Requirement analysis, design and provide the estimation.
+    • Responsibilities include designing and delivering web-based J2EE
+      solutions. Used JavaScript for client-side validations.
+    • Involved in writing PL/SQL queries and stored procedures. Responsible
+      for setup the environment and Production Environments in Server and
+      Database level.
+    • Involved in developing portlets and deploying in Weblogic Portal
+      Server.
+    • Involved in writing of release notes to deploy in various environments
+      and production.
+    • Monitored the Server load average and prepare a status report.
+    • Point of Contact to the client for all technical aspects. Prepared
+      status reports.
+Environment: JSP, Struts, Spring, Tomcat, JavaScript, Oracle10G, Weblogic,
+XML, NeatBeans
+
+May 2008    Jr. Java Developer
+Aug 2010    Blue Cross Blue Shield of Alabama – Birmingham, AL
+Developed custom J2EE and EJB for custom analytical platforms in the
+healthcare industry.
+    • Used Hibernate ORM tool as persistence Layer - using the database and
+      configuration data to provide persistence services (and persistent
+      objects) to the application.
+    • Implemented Oracle Advanced Queuing using JMS and message-driven
+      beans.
+    • Responsible for developing DAO layer using Spring MVC and
+      configuration XML's for Hibernate and to also manage CRUD operations
+      (insert, update, and delete)
+    • Implemented Dependency injection of spring framework. Developed and
+      implemented the DAO and service classes.
+    • Developed reusable services using BPEL to transfer data. Participated
+      in Analysis, interface design and development of JSP.
+    • Configured log4j to enable/disable logging in the application.
+    • Wrote SPA (Single Page Web Applications) using RESTFUL web services
+      plus Ajax and AngularJS.
+    • Developed Rich user interface using HTML, JSP, AJAX, JSTL, JavaScript,
+      jQuery and CSS.
+    • Implemented PL/SQL queries, Procedures to perform data base
+      operations.
+    • Wrote UNIX Shell scripts and used UNIX environment to deploy the EAR
+      and read the logs.
+    • Implemented Log4j for logging purpose in the application. Track new
+      Change Request, analyze requirement and design solutions as part of
+      BAU.
+    • Modified existing Java APIs on Performance & Fault management modules.
+
+
+    • Took ownership of Implementing & Unit testing the APIs using Java,
+      Easy Mock, and JUnit.
+    • Designed new database tables and modified existing database tables to
+      incorporate new statics and alarms in MySQL database.
+    • Involved in Build Process to package & deploy the JARs in the
+      production environment.
+    • Involved in Peer Code Review processes and Inspections. Implemented
+      agile development methodology.
+Technologies: Java, Spring, Hibernate, JMS, EJB, Web logic Server,
+JDeveloper, SQL Developer, Maven, XML, CSS, JavaScript, JSON.
+
+
+Education
+
+MASTER OF BUSINESS ADMINISTRATION IN ENGINEERING
+Instituto de Estudios Universiarios, Mexico
+Institute of University Studies, Mexico
+
+Certifications
+Six Sigma
+Electronics
+
+
+
+Publications
+Routing Networks Based on Interests for structured peer-to-peer system
+IEEE July 31, 2008
+Authors: Vicente Guevara Ayala, Luis Enrique Colmenares Guillén[pic]
+
+-----------------------
+Profile
+
+Programmer-Analyst and Big Data Professional.  Passionate about creating
+efficient ETL processes for realtime streaming and data analytics.  Full-
+stack developer and skilled Java programmer, able to leverage skills with
+Storm, Hive, Kafka, Spark to customize big data analytics solutions.
+
+
+
+
+Education
+
+At this point - unknown
+
+
+
+
+Contact
+
+Vincente Guevara
+
+Phone:  470-344-0250
+
+Email: vicenteayala1888@gmail.com
+
+
+
+
+
+-----------------------
+Vicente Guevara
+Senior Hadoop Data Engineer
+vicenteayala1888@gmail.com
+470-344-0250
+
+
+
+

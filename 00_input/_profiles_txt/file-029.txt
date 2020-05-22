@@ -1,0 +1,417 @@
+Francisco Torres (281) 853-8897  franciscogranados06@gmail.com
+
+Francisco Granados Torres
+
+Senior Business Intelligence Analyst and Data Engineer
+
+(208) 297-6165 franciscogranados06@gmail.com
+
+Francisco Granados Torres
+
+Senior Business Intelligence Analyst and Data Engineer
+
+(281) 853-8897   franciscogranados06@gmail.com
+
+
+
+
+
+PROFESSIONAL IT SUMMARY
+
+19+ Years of Experience in I.T.
+
+ Business Intelligence, Data Analytics, Data Management, and Reporting
+
+
+
+12 years of experience in development of BI Solutions including design and development of OLAP Cubes 9OLAP, MOLAP, HOLAP, ROLAP), Star Schema, Snowflake Schema, Scorecard, Balanced Scorecard, and analytics reporting dashboards.
+
+12 years of experience in building ad hoc BI solutions using technologies within the Microsoft Business Intelligence Platform in the banking, post-secondary education, and food manufacturing industries. 
+
+4 years of experience in installation of SharePoint 2007 and 2010. 
+
+6 years of experience in data migration
+
+Experience with custom development of reporting dashboards (Tableau, Microsoft Power BI, Roambi Mobile, ProClarity)
+
+SQL Server Reporting Services (SSRS) to build reports based on T-SQL and MDX queries.
+
+ETL custom data pipeline and process development using SSIS to build and implement Data Warehouse solutions and Data Modeling.
+
+Use of .NET and C programming to customize reports and data pipelines transformation and cleansing.
+
+Scrum Master trained to lead Agile project teams, do Sprint Planning, manage Sprint backlog, daily Scrums, manage Sprints and assign tasks in an iterative process.
+
+Experienced in interpretation of data and presentation of Strategic Business Intelligence and recommendations to executive committees.
+
+Accustomed to working with Database, Data Warehouse, Data Mart and Data Lake as repositories for volumes of data in various formats.  
+
+Creation of ETL processes to transform data to one consistent format for data cleansing and analysis.
+
+Have led change management initiatives based on business intelligence gathered from data to improve operational efficiencies and retained earnings.
+
+Conducted quantitative analyses on available metrics and briefed senior leadership, enabling them to improve production and enhance corporate strategy.
+
+Worked closely with project management team to analyze and consolidate request requirements to improve decision planning processes and meet project deadlines.
+
+Defined data requirements and report layouts for the business review creating test plans and scripts based on requirements.
+
+Developed stored procedures and used SSIS 2005 to transform the data from enterprise data warehouse to data mart to build dimensions and load data to fact tables.
+
+Designed and implemented SQL Server database objects (stored procedures, functions, views and complex T-SQL/queries) to support data integration (SSIS), reporting and various business processes.
+
+Database migration from on premise to SQLAzure VM servers and Azure databases.
+
+Migrate and redesign all SSIS packages and reports to the new platform.
+
+Worked with development teams to build database design and implementation.
+
+During migration process, rewritten the packages and cutdown the execution time to 60%.
+
+
+
+TECHNICAL SKILLS
+
+Business Intelligence Tools
+
+SQL Server Analysis Services (SSAS) 2005/2008R2/2012, SQL Server Integration Services (SSIS) 2005/2008R2/2012, SQL Server Reporting Services (SSRS) 2005/2008R2/2012, ProClarity, PerformancePoint Server, PerformancePoint Services, Roambi Mobile, PowerPivot, PowerView, ReportPortal, Oracle Business Intelligence Enterprise Edition (OBIEE), Salesforce, Artus, QlikView, Cognos, Tableau, Panorama, SAP SybaseIQ, SharePoint 2007/2010.
+
+Database Technologies
+
+SQL Server 2005/2008R2/2012, Oracle, Microsoft Access
+
+Programming Technologies
+
+SQL, C, C++, ASP/ASP.NET, .NET FRAMEWORK 2.0/3.0/3.5
+
+Operating Systems
+
+Windows 2000/Server 2003/Server 2008/XP/Vista/7, Linux SUSE
+
+Cloud Storage & Processing
+
+Microsoft Azure
+
+
+
+WORK EXPERIENCE
+
+Sr. Business Intelligence Developer                                                 Mar 2018 - Present
+
+Preventice Solutions– Houston, Tx
+
+
+
+Reduced the backlog of pending requests for reports in the organization. The company had no BI area to attend the requests and that caused a backlog of more than 140 pending requests. After joining the project, the number of requests got reduced to a constant of 35.
+
+To improve the reporting capacity and the use of Power BI as a reporting tool, I participated in the design and implementation of a data warehouse solution hosted on SQL Azure.
+
+
+
+
+
+
+
+Participated as a single resource in the BI area in charge to attend the entire organization, Sales, Finance, Operations, HR.
+
+Worked without direct supervision 95% of time attending requests from users directly and coordinating priorities with VP’s and Directors.
+
+Performed BI Analyst and Developer functions
+
+Reduce the number of pending reports from 140 to 35
+
+Enhancing of the existing Data Warehouse solution
+
+Implemented the Data Warehouse Data Retention procedures
+
+Developed several end to end BI Solutions (DB Objects, ETL, Reports)
+
+Support for existing and new reports in Power BI
+
+Support for existing and new reports in SSRS
+
+Support for existing and new packages in  SSIS 
+
+Created a Metrics report/dashboard with daily refresh, collecting data from several databases, which saved 10 hours of workload for 1 user, in a previous version updated on demand.
+
+Created several reports on demand for HIPA Compliance.
+
+Migrated SSRS reports to Power BI
+
+Optimized existing SSRS reports
+
+Extracted data from several external sources (UPS, Fedex, Cisco) to create ad hoc reporting solutions 
+
+Developed automated deployment testing scripts in PowerShell for windows
+
+applications.
+
+Organized build and deployment processes and Created and maintained build scripts in PowerShell.
+
+Responsible for building reports in Power BI from the Scratch.
+
+Responsible for creating and changing the visualizations in Power BI reports and Dashboards on client requests.
+
+Created Calculated Columns and Measures in Power BI and Excel depending on the requirement using DAX queries.
+
+Experience on publishing Power BI reports on dashboards in Power BI server.
+
+Created SSIS packages to extract data from UPS Quantum View for shipment information.
+
+Created SSIS packages to extract data from UCCX Cisco database information for call log and campaigns statistics.
+
+Created Power BI reports for UCCX Cisco.
+
+Created Power BI reports for UPS Quantum View.
+
+
+
+Technologies:  MSBI Stack, Power BI, Proprietary Systems
+
+
+
+
+
+Sr. Business Intelligence Analyst                                                 Dec 2014 – Mar 2018
+
+Micron technology – Boise, ID
+
+Demand Management Cube took 8 hours daily on end to end process (ETL's to Cube).
+
+Demand Forecast Cube took 3 hours daily on end to end process (ETL's to Cube).
+
+Client discontinued ProClarity as the Analytical Tool and adopted Tableau as the new one. The migration of the most important workbooks for most users should be done before retiring ProClarity.
+
+Update some BI Solutions redesigning ETL's and reports due change of business rules
+
+Design and create Demand Management DataMart.
+
+Coordinate 8 people team for creating SSIS packages for Demand Management DataMart implementing partitioning strategy in SQL tables for data retention.
+
+Redesign of Demand Management Cube sourcing from DataMart instead of named queries to improve processing performance and implementing partition process strategy. This cube has over 500 users worldwide.
+
+Reduce processing time from 8 to 3 hours, finishing 2 hours before SLA.
+
+ Design and create Demand Forecast DataMart
+
+Create SSIS packages for DataMart implementing partitioning strategy in SQL tables for data retention.
+
+Redesign of Demand Management Cube sourcing from DataMart instead of named queries to improve processing performance and implementing partition process strategy. This cube is critical for Forecasting demand and production.
+
+Reduce processing time from 1.5 to half hour, finishing 3 hours before SLA.
+
+Integrated with 3rd party packages, custom built solutions, and system integrations with Salesforce.
+
+Create Tableau dashboards for self-service BI across Supply Chain and Procurement areas and replacing ProClarity as the Analytical Tool
+
+Mentored my team on best practices and analysis of OLAP cubes and dimensions.
+
+Design, development, implementation, and maintenance of repots and dashboards in Tableau.
+
+Involved in designing and implementing database applications using MS SQL Server 2008/2012/2014 and
+
+Business Intelligence (BI) tools to support transactions and business decision-making.
+
+Monitored performance and optimized SQL queries for maximum efficiency.
+
+Responsible for creating reports based on the requirements using SSRS.
+
+Experience in creating reports using SSRS Report Builder 3.0
+
+Also involved in creating CRM Reports using Visual Studio 2010/2013.
+
+Created parameterized, drill down and aggregation reports in MS SQL environment using SSRS 2012R2.
+
+Designing and implementing a variety of SSRS reports such as Parameterized, Drilldown, Ad hoc and Subreports using Report Designer and Report Builder based on the requirements.
+
+Designed SSRS reports with sub reports, dynamic sorting, defining data source and subtotals for the report.
+
+Maintain integrity of data within the production environment, including the execution of proper backup and restoration policies and procedures
+
+ Create SSRS reports and maintain/enhance existing reports
+
+ Develop/deploy best practices and procedures, including: Utilizing Visual Studio for development, utilizing source control for code/script management, and following change control and code review processes
+
+Environment: MS SQL Server 2014/2012, Team Foundation Server, Microsoft SharePoint Server, CrystalReports, SSIS, Power BI, C#, SQL Server Reporting Services (SSRS), Visual Studio 2013, Microsoft Azure Portal, Windows 10, T-SQL.
+
+ Created different types of reports such as Cross-Tab, Drill-down, Drill Through, OLAP and Sub reports, and formatting them using both SSRS 2012.
+
+ Written complex T-SQL queries and created Stored Procedures, Triggers, Functions and Views.
+
+ Created data driven subscriptions for different users using Report Manager.
+
+Design, development, implementation, and maintenance of Tabular Models.
+
+Design, development, implementation, and maintenance of repots and dashboards of SSRS reports
+
+Gathering requirements for enhancements and new BI developments.
+
+Perform Scrum Master Tasks during sprints in Agile environment.
+
+
+
+Sr. Business Intelligence Specialist                                             Dec 2012 - Sep 2014 
+
+Grupo TI Mexico, BanRegio Financial Group – Monterrey, Mexico
+
+
+
+Developed and implemented ETL process in SSIS to collect daily information from Sybase IQ into SQL Data warehouse for different OLAP models and Reporting Services portal.
+
+Designed, developed and implemented an Insurance Model, creating SSIS ETL process for Dimensions update, Fact Table calculations, to improve sales based on trend analysis.
+
+Develop and implement new and existing database solutions
+
+Created OLAP cubes and dimensions for the Insurance Model using SSAS.
+
+Mentored my team on principles, best practices and analysis of OLAP cubes and dimensions.
+
+Migrated the SSIS ETL process for a specific business unit from SQL to IQ based source. This implementation was required for the Financial Unit to support projections and trend analysis for executive decisions.
+
+Create SSRS reports sourcing from SQL and SSAS sources.
+
+Create SSIS ETL packages to extract and transform data from multiple sources such as CSV, Excel, SSAS Cubes, SharePoint Lists, and SQL
+
+Create and maintain SSAS Tabular Models
+
+Maintain and improve current BI Solutions
+
+Currently recognized as SME on SSAS in the organization.
+
+Designed, developed, and implemented ETL process in SSIS to collect daily, weekly and monthly information from SQL Data warehouse and create specific Data marts for different OLAP models for Supply Chain area.
+
+Redesign OLAP Cubes for the Supply Chain Area to improve processing time implementing partition strategy and data mart utilization.
+
+Maintenance of OLAP Cubes across Supply Chain area and Micron.
+
+Designed and implemented the SSIS ETL process and development of stored procedures for the Tactical System Information, which is the source platform of information for the organization.
+
+Designed and implemented OLAP Cubes and dimensions for the Tactical System Information model using SSAS.
+
+Designed and developed multiple reports using SSRS, including multiple levels such as global, detailed, trend, comparative, etc.
+
+Performed administration for the OLAP Cubes within OBIEE.
+
+Detailed a plan for capacity and sizing of BI infrastructure in order to achieve high availability and optimum performance.
+
+Developed, monitored and deployed SSIS packages.
+
+Creating Reports as per user requirements using SQL Server Reporting Services 2008 R2.
+
+Designed and implemented SQL Server database objects (Complex stored procedures, functions, views and complex T-SQL/queries) to support reporting and various business processes.
+
+Involved in giving demo of the created reports to the concerned department, making necessary changes, or getting the reports signed off and deploy on to the server.
+
+Hands on creating end to end ETL strategies that will include data profiling as well
+
+Used recently introduced Power BI to create self-service BI capabilities and use tabular models.
+
+	Sr. Business Intelligence Specialist                                               Apr 2011 - Dec 2012
+
+Northware, Gruma Headquarters – Monterrey, Mexico
+
+
+
+Designed and implemented a worldwide financial portal using SharePoint 2007, with information of branches in USA, Europe, Asia, Mexico, Central and South America and the Consolidated Corporate.
+
+Developed interactive dashboards and reports. 
+
+Designed and implemented an ETL process based on 80 excel files located in 30 different locations and for Medical Insurance Analysis using SSIS. 
+
+Designed and developed OLAP cubes to be the main source of information for the Board of Directors using SSAS. This tool was used monthly to make decisions based on trends and projections.
+
+Created multiple reports using SSRS Report Suites for the World Financial Portal.
+
+Developed multiple reports with a dashboard look and feel for the Medical Insurance Analysis using SSRS.
+
+Collaborated with the HR department to analyze expenses, cost, and recurrence in employee’s illness by building an OLAP cube using SSAS. 
+
+Designed and developed a time tracking portal using Access Database and aspx pages to track project’s timeline and deliverables.
+
+Provided maintenance of corporate reports using SSRS Report Suites for Gruma Headquarters and its different branches.
+
+Designed and developed a time tracking portal using Access Database and aspx pages to track project’s timeline and deliverables.
+
+Designed and developed multiple reports in SSRS 2008R2 as a source for Roambi Mobile Solution.
+
+Designed and implemented Roambi Mobile Dashboards.
+
+Sr. Business Intelligence Specialist                                              Feb 2007 - Apr 2011
+
+Tecnologico de Monterrey- Monterrey, Mexico	                               
+
+
+
+Performed a migration from Windows Server 200 and 2003 to Windows Server 2008R2.
+
+Migrated the Academic, Teacher, and Student models from SQL Server 2000 DTS to SSIS 2005 DTSX packages.
+
+Consolidated previous cubes of Academic, Teacher, and Student models into one School Hypercube Model using SSAS.
+
+Developed and provided maintenance for multiple reports using SSRS Reports Suite for the School Hypercube model for desktop and mobile users.
+
+Designed and implemented Analytical Dashboard for the School Hypercube Model using Microsoft ProClarity and PerformancePoint for desktop and mobile users. 
+
+Helped the accounting department design and implement the ETL process for the School Accounting Model to analyze incomes and expenses in college divisions.
+
+Designed a real time OLAP cube using SSAS for the School Accounting Model.
+
+Designed, developed, implemented, and maintained the SSRS Reports Suite of the School Accounting Model for desktop and mobile users.
+
+Involved in designing and implementing database applications using MS SQL Server 2008/2012 and
+
+Business Intelligence (BI) tools to support transactions and business decision-making.
+
+Created SSIS Packages using SSIS Designer for export heterogeneous data from OLE DB Source (Oracle),
+
+Excel Spreadsheet to SQL Server 2008.
+
+Designed ETL packages dealing with different data sources (SQL Server, Flat Files) and loaded the data
+
+into target data sources by performing different kinds of transformations (For loop, bulk insert, Data flow, Data Mining, FTP, XML tasks, etc) using SQL Server Integration Services (SSIS).
+
+Migrated DTS packages to SQL Server Integration Services (SSIS) and modified the packages accordingly using the advanced features of SQL Server Integration Service.
+
+Used Package Configurations to pass parent package variable values to child package variable.
+
+Deploying SSIS packages from various sources like bids, Management Studio, file systems etc.
+
+Trained and Executed Pentaho, a graphical ETL tool to load and process big data sources.
+
+Build UNIX shell scripts to automate the ETL processes.
+
+Data Warehousing Using Data Transformation Services Package (DTS).
+
+Monitored performance and optimized SQL queries for maximum efficiency.
+
+Designed analytical dashboards for School Hypercube Model using Microsoft ProClarity and PerformancePoint Server for desktop and mobile users.
+
+Designed, developed, and implemented the ETL process for Enrollment Analytic Model, which served as the basis of a predictive model used by directors.
+
+Designed a real time OLAP cube using SSAS for the Enrollment Analytic Model.
+
+Designed, developed, implemented, and maintained the SSRS Reports Suite of the Enrollment Analytic Model for desktop and mobile users.
+
+Responsible for the installation, configuration, test and administration of analytic tools such as QlikView, Tableau, Panorama and ReportPortal.
+
+In charge of installing and configuring SharePoint 2007 and 2010.
+
+Provided on-site and remote post-production support to the OLA Models and Analytic tools users.
+
+EDUCATION & CERTIFICATIONS
+
+
+
+Bachelor in Systems of Information Technologies
+
+FIME – UANL
+
+
+
+MCTS SQL Server 2005 BI Certification
+
+
+
+Diplomat on Information Security Engineering
+
+ITESM Campus Monterrey

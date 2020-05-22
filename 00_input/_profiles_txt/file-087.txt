@@ -1,0 +1,378 @@
+Email: alicja.ligas121@gmail.com   Phone: (999) 999-9999
+
+
+
+Email: alicja.ligas121@gmail.com   Phone: (999) 999-9999
+
+
+
+Alicja Ligas
+
+Big Data Engineer
+
+Email: alicja.ligas121@gmail.com
+
+Phone: (999) 999-9999
+
+
+
+
+
+
+
+
+
+Profile
+
+Profile
+
+
+
+
+5 + years of experience working in IT, specializing in Big Data
+
+Well defined knowledge of the Hadoop ecosystem 
+
+Experience dealing with multiple terabytes of data stored in AWS using EMR, Redshift and PostgreSQL
+
+Proficient knowledge of analytical tools python libraries such as Pyspark, Scikit-learn, Pandas, NLTK, Matplotlib, Seaborn
+
+Experience building linear regression, logistic regression, Classification, Random-Forest, SVM’s and bootstrap models, as well as Neural Networks for text classification and NLP
+
+Strong understanding of costumer use cases, efficiently communicate with team to implement solutions
+
+Delivered effective presentations of findings and recommendations to stakeholders 
+
+Made use of Python libraries for analytical processing, such as SciPy, Pandas and NumPy 
+
+Displayed analytical insights through data visualization Python libraries and tools such as matplotlib, Seaborn and Tableau
+
+Experience with using Hadoop clusters, Hadoop HDFS, Hadoop tools and Spark, Kafka, Hive in social data and media analytics using Hadoop ecosystem
+
+Highly knowledgeable in data concepts and technologies including AWS pipelines, cloud repositories (Amazon AWS, MapR, Cloudera).
+
+Hands on experience using Cassandra, HIVE, No-SQL databases (Hbase, MongoDB), SQL databases (Oracle, SQL, PostgresSQL, MySQL server, as well as data lakes and cloud repositories to pull data for analytics
+
+5 years of professional IT experience in Big Data Engineering, Development and Administration.
+
+Developed Spark code for Spark-SQL/Streaming in Scala and PySpark.
+
+Experience integrating Kafka and Spark by using Avro for serializing and deserializing data, and for Kafka producer and consumer.
+
+Involved in converting Hive/SQL queries into Spark transformations using Spark RDD and Data Frame.
+
+Used Spark SQL to perform data processing on data residing in Hive.
+
+Involved in processes using Spark streaming to receive real time data using Kafka
+
+Used Spark Structured Streaming for high performant, scalable, fault-tolerant real-time data processing
+
+Hive / Hive QL scripts to extract, transform, and load into database
+
+Configured Kafka cluster with zookeeper for real time streaming.
+
+Highly available, scalable and fault tolerant systems using Amazon Web Services (AWS).
+
+Experienced in Amazon Web Services (AWS), and cloud services such as EMR, EC2, S3, EBS and IAM entities, roles, and users.
+
+
+
+
+
+sKILLS
+
+sKILLS
+
+	Spark
+
+	PySpark
+
+	Spark SQL
+
+	Spark Streaming
+
+	Spark Structured Streaming 
+
+	Scala
+
+	Python
+
+	AWS RDS
+
+	AWS EMR
+
+	AWS Redshift 
+
+	AWS S3
+
+	AWS Lambda 
+
+	AWS Kinesis 
+
+	AWS Cloud Formation
+
+	AWS IAM
+
+	Kafka
+
+	Flume
+
+	Sqoop
+
+	HDFS
+
+	Hadoop
+
+	Zookeeper
+
+	Shell Script Language 
+
+	Ambari 
+
+	Cluster
+
+	Yarn
+
+	Airflow
+
+	Oozie
+
+	Bash
+
+	
+
+	Hive
+
+	Hbase
+
+	Cassandra 
+
+	ELK
+
+	Kibana
+
+	MongoDB
+
+	MySql
+
+	Postgres SQL
+
+	Hortonworks (HDP)
+
+	CICD
+
+	Jenkins 
+
+	Cloudera 
+
+	Cloudera Manager 
+
+	Cluster Management
+
+	Cluster Security 
+
+
+
+
+
+
+
+
+
+EXPERIENCE
+
+EXPERIENCE
+
+Senior Big Data Engineer
+
+United Airlines
+
+Chicago, Il
+
+Jan 2019 – Present
+
+
+
+Developed ingestion pipeline from streaming airport, flight and customer data using API’s and Kafka 
+
+Stored unprocessed data to HDFS data lake 
+
+Performed streaming data ingestion to Spark as a consumer from Kafka
+
+Implemented Spark using Scala and utilized DataFrames and Spark SQL API for faster processing of data
+
+Used Spark Streaming to divide streaming data into batches as an input to Spark engine for batch processing
+
+Found solutions to data mapping for structed and unstructured data by applying schema inference
+
+Created hive queries to process large sets of structured and semi structed data
+
+Used Spark SQL with hive context to run queries 
+
+Moved relational database data using Sqoop into Hive dynamic partition tables
+
+Extracted metadata from Hive tables 
+
+Provide support data analysts in running Hive queries
+
+Worked with analytics team to gain costumer insights using scikit learn
+
+Setup Airflow on server for pipeline automations
+
+Used Spark Structured Streaming to process data as Kafka Consumer
+
+Repartition datasets after loading gzip files into DataFrames and improved the process time 
+
+Configured CI/CD pipeline through Jenkins and GitHub
+
+Mentored jr/new developers in Spark/Scala to deploy spark jobs
+
+
+
+
+
+Big Data Engineer
+
+NEW LIGHT TECHNOLOGIES
+
+Washington, DC
+
+Nov 2017 – Jan 2019
+
+Installed entire Hadoop ecosystem on new servers including Hadoop, Spark, Pyspark, Kafka, Hortonworks, Hive
+
+Developed a data pipeline used for extracting historic flood information from online sources
+
+Used Python to scrape relevant articles of most recent floods
+
+Used Python to make requests from news sources API’s as well as social media API’s such as Facebook and Twitter
+
+Stored unprocessed JSON and HTML files in HDFS data lake
+
+Retrieved structured and unstructured data from HDFS and MySQL to Spark to preform MapReduce jobs
+
+Implemented advanced procedures like text analytics and processing using in memory computing capability methods via Apache Spark in Scala
+
+Used Spark Context and Spark Session to process text files by flat mapping, mapping to RDD, and reducing RDD’s by key to identify sentences containing valuable information
+
+Worked with analytics team to provide querying insights and helped develop methods to map informative sentences more efficiently 
+
+Adjusted tables and schema to provide more informative data to be used in machine learning models
+
+Worked with Apache Spark which provides fast and general engine for large data processing integrated with functional programming language Scala.
+
+Worked with both batch and real-time processing w/ Spark frameworks.
+
+Created a Kafka producer to connect to different external sources and bring the data to a Kafka broker.
+
+Handled schema changes in data stream.
+
+Created a Kafka topics for structured streaming to get structured data by schema via CLI.
+
+Hive partitioning, bucketing, performing joins on Hive tables.
+
+Performed transformations and analysis using Hive
+
+Closely worked with data science team in building Spark MLlib applications to build various predictive models
+
+
+
+
+
+
+
+Big Data Engineer
+
+WESTERN UNION
+
+Round Rock, TX
+
+Sept 2016 – Nov 2017
+
+Assisted in designing building and maintaining database to analyze life cycle of checking transactions 
+
+Analyzed Hadoop clusters using Hadoop and AWS ecosystems
+
+Gained experience working with multiple terabytes of data stored in AWS S3 data lake
+
+Set up and configured multiple node Kafka clusters for data ingestion from API’s
+
+Partitioned topics from various sources across Kafka clusters, used Spark engine to consume data
+
+Captured transactional data for early fraud detection by analyzing consumer habits
+
+Generated early warnings for irregular transactions on the data platform
+
+Used Spark engine, Spark SQL for data analysis and provided to the data scientists for further analysis
+
+Used Spark SQL for getting customer insights, to be used for critical decision making by business users
+
+
+
+AWS Cloud Formation was used to create templates for database development. 
+
+Migrated data from Hortonworks cluster to AWS EMR cluster.
+
+Configured AWS IAM and Security Group as per requirement and distributed them as groups into various availability zones of the VPC.
+
+Used AWS Kinesis process data and load into AWS RDS MySQL database and S3. 
+
+Used AWS RedShift Clusters to sync data as a data warehouse solution of our data pipeline in AWS and used AWS RDS to store the data for retrieval to dashboard.
+
+Designed and Developed ETL jobs to extract data from AWS S3 and load it in data mart in Amazon Redshift.
+
+
+
+
+
+Big Data Developer
+
+CATERPILLAR 
+
+Deerfield, IL
+
+Mar 2015 – Sept 2016
+
+Stored unprocessed data to HDFS data lake 
+
+Performed streaming data ingestion to Spark as a consumer from Kafka
+
+Implemented Spark using Scala and utilized DataFrames and Spark SQL API for faster processing of data
+
+Used Spark Streaming to divide streaming data into batches as an input to Spark engine for batch processing
+
+Found solutions to data mapping for structured and unstructured data by applying schema inference
+
+Created hive queries to process large sets of structured and semi structed data
+
+Moved relational database data using Sqoop into Hive dynamic partition tables
+
+Extracted metadata from Hive tables 
+
+Implemented data processing using Hadoop Cloudera distributions on AWS.
+
+Experience in working with Flume to load the log data from multiple sources directly into HDFS on AWS platform.
+
+Created UNIX shell scripts to automate the build process, and to perform regular jobs like file transfers.
+
+Sqoop to import/export data from database to HDFS and Data Lake on AWS.
+
+
+
+
+
+
+
+
+
+
+
+EDUCATION
+
+EDUCATION
+
+Bachelor’s degree in Mechanical Engineering 
+
+University of Illinois
+
+Chicago, Il

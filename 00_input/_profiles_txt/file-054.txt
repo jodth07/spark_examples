@@ -1,0 +1,467 @@
+Heber fragoso / SharePoint / .Net  /  Phone: 413-301-9827    /    E-mail: fragosomezaheb@gmail.com
+
+
+
+Heber fragoso / SharePoint / .Net  /  Phone: 413-301-9827    /    E-mail: fragosomezaheb@gmail.com
+
+
+
+
+
+Carlos Emilio Sturdivant
+
+Senior Big Data Engineer
+
+Phone: 999-999-9999 |  E-mail: consultant@gmail.com
+
+
+
++ 15 Years Experience Information Technology  |  +5 Years Experience Big Data
+
+
+
+
+
+Professional Summary
+
+A motivated and experienced IT professional with 5 years of experience in Big Data systems including Engineering, Development and Administration on prem and on cloud. 
+
+Used Apache Flume and Kafka for collecting, aggregating data, moving from various sources.
+
+Kafka/Hadoop upgrades on large environments.
+
+Built and configured a virtual environment in the AWS cloud to support Enterprise Data.
+
+Responsible for designing and deploying new ELK clusters. (Elasticsearch, Logstash, Kibana, Zookeeper).
+
+Experience with multiple terabytes of data stored in AWS S3 using Elastic Map Reduce (EMR) and Redshift for processing.
+
+AWS tools (Redshift, Kinesis, S3, EC2, EMR, DynamoDB, Elasticsearch, Athena, Firehose, Lambda).
+
+Created Hive Managed and Unmanaged tables with partition and bucket in Hive and loaded data into Hive.
+
+Experience processing multiple terabytes of data stored in AWS S3.
+
+Experienced in Amazon Web Services (AWS), and cloud services such as EMR, EC2, S3, EBS and IAM entities, roles, and users.
+
+Developed data queries using HiveQL and optimized the Hive queries.
+
+Used Spark to optimize ETL jobs.
+
+Created structured data from the pool of unstructured data using Spark.
+
+Experience with data ingestion from various sources using Apache Flume and Kafka.
+
+Spark used in optimizing ETL jobs to reduce memory and storage consumption.
+
+Wrote Spark code to run a sorting application on the data stored on AWS.
+
+Used Spark SQL and Data Frame API extensively to build Spark applications.
+
+Experienced in working on CQL (Cassandra Query Language), for retrieving the data present in Cassandra clusters by running queries in CQL.
+
+Hands-on AWS EMR and S3, and Redshift clusters in AWS.
+
+Work closely with management and team to understand the existing systems and provided recommendations for CICD automation.
+
+Implemented advanced procedures of feature engineering for data science team using the in-memory computing capabilities like Apache Spark written in Scala.
+
+
+
+
+
+
+
+Technical Skills
+
+
+
+Programming/Scripting
+
+██████████
+
+Scala, Python, SQL, Hive QL, Shell Scripting, C#, Java, Python, SQL, VB.net, MySQL, VBA, HTML, CSS, JavaScript
+
+Database/Datastore
+
+██████████
+
+Hadoop HDFS, NoSQL, Apache Cassandra, Apache Hbase, MongoDB, MySql, MSSql, Crystal Reports, NetSuite, Great Plains, Salesforce, SAP, Oracle
+
+Data Visualization
+
+██████████
+
+Kibana, Tableau
+
+Hadoop Distributions & Cloud 
+
+██████████
+
+	Hadoop, Cloudera Hadoop (CDH), Hortonworks Hadoop (HDP)
+
+Amazon Cloud Platform (AWS)
+
+██████████
+
+AWS RDS, AWS EMR, AWS Redshift, AWS S3, AWS Lambda, AWS Kinesis, AWS ELK, AWS Cloud, AWS IAM Formation
+
+ELT Pipelines
+
+██████████
+
+	Elasticsearch, Elastic MapReduce, ELK Stack (Elasticsearch, Logstash, Kibana), NiFi
+
+Hadoop & Big Data
+
+██████████
+
+ Apache Flume, Kerberos, Ranger, Ambari, Yarn, Cluster Management, Cluster Security, Zookeeper, Oozie
+
+
+
+Misc O.S. & Software Applications
+
+██████████
+
+NetSuite, Great Plains, Salesforce, SAP, Oracle, DacEasy, MS Office Suite, QuickBooks, Windows Linux, Sage50 
+
+
+
+
+
+Professional Experience
+
+March 2018 – Present
+
+Big Data Engineer
+
+MASS MUTUAL
+
+Springfield, MA
+
+
+
+“Currently working with a team where we setup an ELK stack along with other tools to monitor data transfers.  We also used Kafka and Spark to pull in logs and processed the information for better usage.”
+
+
+
+Installed Elasticsearch, Logstash, Kibana, Kafka, and Zookeeper.
+
+Developed ETL pipelines to process log data from internal systems using Kafka.
+
+Implemented data ingestion and cluster handling for real time processing using Kafka.
+
+Used Kibana for dashboards and reporting to provide visualization of log data and streaming data.
+
+Developed ETL pipeline to process data from sequence file and saved to Hive tables in ORC format.
+
+Applied broadcast variables in Spark, effective & efficient Joins, transformations.
+
+Real time streaming of data using Spark with Kafka.
+
+Implemented Spark and Spark SQL for faster testing and processing.
+
+Performance tuning of Spark jobs for setting batch interval time, level of parallelism, and memory tuning.
+
+Developed POC using Scala & deployed on Yarn cluster, compared the performance of Spark, with Hive and SQL.
+
+Queried Hive tables and incremental imports with Spark and Spark jobs for data processing and analytics.
+
+Install and configure Kafka cluster and monitoring the cluster.
+
+Architected a light weight Kafka broker.
+
+Integrated Kafka with Spark for real time data processing.
+
+Build a Spark proof of concept with Python using PySpark
+
+Developed Spark applications using Spark Core, Spark SQL and Spark Streaming API
+
+Extracted the data from application servers into Hadoop file system (HDFS) and bulk loaded the cleaned data into HBase using Spark.
+
+Built a prototype for real-time analysis using Spark streaming and Kafka.
+
+Worked on Spark SQL to clean up data tables. 
+
+Wrote Spark applications for data validation, cleansing, transformation, and custom aggregation.
+
+Documented infrastructure design for ELK Clusters.
+
+
+
+
+
+Jan 2017 – March 2018
+
+AWS Big Data Engineer
+
+AARP
+
+Washington, D.C.
+
+
+
+“Configured and Managed an AWS pipeline.  Established processes to utilize team strengths and maintain best practices.”
+
+  
+
+Hands-on data extraction from different databases on AWS and scheduling Oozie workflows to execute the task daily.
+
+Implemented a Hadoop Cloudera distributions cluster using AWS EC2.
+
+Managed policies for S3 buckets and Glacier for storage and backup on AWS.
+
+Migrated data from Hortonworks cluster to AWS EMR cluster.
+
+Experience in working with Flume to load the log data from multiple sources directly into HDFS on an AWS EMR cluster.
+
+Created AWS Cloud Formation templates for data pipelines in AWS.
+
+Optimized a Spark cluster for better querying, reading, and writing of data saved in AWS S3 buckets.
+
+Set-up AWS Lambdas to process event-driven functions to various AWS resources.
+
+Led many critical on-prem data migration to AWS cloud, assisting the performance tuning and providing successful path towards Redshift Cluster and AWS RDS DB engines.
+
+Worked on AWS S3 bucket integration for application and development projects.
+
+Experience in managing and reviewing Hadoop log files stored in AWS S3 buckets. 
+
+Responsible for Designing Logical and Physical data modelling for various data sources on Confidential Amazon Redshift.
+
+Installed, configured, and tested an AWS Lambda function workflow in Python.
+
+Managed AWS Redshift clusters such as launching the cluster by specifying the nodes and performing the data analysis queries.
+
+Created basic infrastructure of the pipeline using AWS Cloud Formation.
+
+Implemented usage of Amazon EMR for processing Big Data across Hadoop Cluster on AWS.
+
+Managed and monitored AWS EC2 instances through AWS Management Console.
+
+Developed AWS Cloud Formation templates to create custom infrastructure of our pipeline.
+
+Working on AWS Kinesis for processing huge amounts of real time data.
+
+
+
+
+
+Sept 2015 – Dec 2016
+
+Big Data Developer
+
+NOVARTIS
+
+Boston, MA
+
+
+
+“Many Spark jobs were running at once, so we created scripts for Oozie to control the workflow.”
+
+Developed job processing scripts using Oozie workflow to run multiple Spark Jobs in sequence for processing data.
+
+Used Cloudera Manager for maintaining a healthy cluster.
+
+Configured Hadoop components (HDFS, Zookeeper) to coordinate the servers in clusters.
+
+Hive partitioning, bucketing, and joins on Hive tables, utilizing Hive SerDe’s.
+
+Wrote shell scripts to automate workflows to pull data from various databases into Hadoop.
+
+Loaded into Hbase tables and Hive tables consumption purposes.
+
+Performed upgrades, patches and bug fixes in Hadoop in a cluster environment.
+
+Wrote Hive queries and wrote custom UDF’s.
+
+Writing Hive Queries for analyzing data in Hive warehouse using Hive Query Language.
+
+Interaction with NOC team to work with Hadoop to provide large-scale solutions.
+
+Used Cloudera Manager for installation and management of single-node and multi-node Hadoop cluster.
+
+Extracted metadata from Hive tables with Hive QL.
+
+Built the Hive views on top of the source data tables, and built a secured provisioning framework for users to access the data through Hive based views.
+
+Wrote shell scripts for automating the process of data loading.
+
+Experience collecting log data from various sources and integrating it into HDFS using Flume; staging data in HDFS for further analysis.
+
+Wrote the Hive scripts to process the HDFS data.
+
+Created Hive queries to spot emerging trends by comparing Hadoop data with historical metrics.
+
+Installed and configured Tableau Desktop to connect to the Hortonworks Hive Framework (Database) which contains the Bandwidth data 
+
+Created Hive tables, loading with data and writing Hive queries.
+
+
+
+June 2014 – Sept 2015
+
+Big Data Administrator
+
+INFOSYS
+
+Plano, TX
+
+
+
+“INFOSYS was my introduction to Hadoop, Kafka, Spark, and other technologies.  The processes and knowledge accumulated was key to my development in Big Data.
+
+
+
+
+
+Installation of Cloudera Hadoop clusters on AWS using Cloudera Manager (CDH3, CDH4 & CDH5).
+
+Responsible for maintenance and performance of clusters.
+
+Ambari to monitor workload, job performance and capacity planning.
+
+Performed cluster maintenance and upgrades to ensure stable performance.
+
+Used Zookeeper and Oozie for coordinating the cluster and scheduling workflows.
+
+Developed Oozie workflows for scheduling and orchestrating the ETL process.
+
+Set-up Hortonworks Infrastructure from configuring clusters to Node security using Kerberos.
+
+Configured, installed and managed Hortonworks distributions is a multi-cluster environment.
+
+Defined data security standards and procedures in Hadoop using Apache Ranger and Kerberos.
+
+Configure Yarn capacity scheduler to support various business SLA's.
+
+Worked on Kafka cluster environment and zookeeper.
+
+Worked on resolving RANGER and Kerberos issues.
+
+Implement and maintain security LDAP, Kerberos as designed for cluster.
+
+Experience in configuring, installing and managing Hortonworks (HDP) Distributions.
+
+Enabled security to the cluster using Kerberos and integrated clusters with LDAP at Enterprise level.
+
+Worked on tickets related to various Hadoop/Big data services which include HDFS, Yarn, Hive, Sqoop, Spark, Kafka, HBase, Kerberos, Ranger, Knox.
+
+Worked on Hortonworks Hadoop distributions (HDP 2.5)
+
+Secure some of important Hadoop application of the cluster from Apache Ranger.
+
+Performed cluster tuning and ensured high availability.
+
+
+
+July 2000 – June 2014
+
+Lead Data Repair Analyst
+
+SAGE SOFTWARE
+
+Atlanta, GA
+
+
+
+“Working as the primary analyst developed my skills as a team leader.  Many customers and co-workers dependent on me to provide solutions to their issues.”
+
+
+
+
+
+Provided customer service and technical support by solving questions on Accounts Payables, Accounts Receivables, and Payroll modules in a high volume call center.
+
+Provided solutions for issues that were unresolved by Level 1, 2, 3, and 4 analysts.
+
+Created applications that reduced database conversions from 45 minutes to 5 minutes, saving the company over 1000 man hours a year.
+
+Developed processes that allowed for conversion from any accounting software to Sage 50 including MAS90, DacEasy, ADP, Great Plains, and QuickBooks Online. 
+
+UtilizeD Root Cause Analysis to analyze bugs in software code and delivered solutions to Business Analyst. 
+
+Helped customers create custom invoices, statements, and reports.
+
+Designed and developed applications for business partners and customers to automate daily processes. 
+
+The primary analyst of a 2 person team responsible for repairing databases for the company’s #1 selling software package in North America.
+
+
+
+April 1992 – July 2000
+
+Staff Sergeant
+
+UNITED STATES MARINE CORPS
+
+Various Locations
+
+
+
+“Being in the Military, I learned a number of skills including time management, problem solving, and teamwork.  Traveling to different duty stations across the world introduced me to many cultures that I would never have experienced.”
+
+
+
+Deployed routers, switches, and servers in various locations throughout the world.
+
+Performed troubleshooting of computers, networks, and software.
+
+Worked with Active Directory managing military personnel and civilians.
+
+In charge of a team of 15 Marines tasked with deploying throughout the world to setup Local Area Networks for government use.
+
+Trained military personnel and civilians on how to use a variety of military specific software in various locations including Japan, Korea, and Africa.
+
+
+
+Security Clearance
+
+Military: 
+
+Secret
+
+
+
+
+
+
+
+Education and Certifications
+
+American Intercontinental University
+
+Bachelor of Science Degree - Information Technology 
+
+Magna Cum Laude
+
+
+
+
+
+IBM Cognitive Class - Big Data 
+
+
+
+IBM Cognitive Class - Hadoop
+
+IBM Cognitive Class - Spark Fundamentals 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Page 8 
+
+
+
+ Page 7

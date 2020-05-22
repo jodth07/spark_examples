@@ -1,0 +1,398 @@
+Ernesto Samano
+
+Hadoop Engineer
+
+ jsamano092@gmail.com  (206)-257-3849
+
+
+
+Ernesto Samano
+
+Hadoop Engineer
+
+ jsamano092@gmail.com  (206)-257-3849
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sr. Information Technology Engineer with more than 5 years of experience, specialized in Hadoop ecosystem & Big Data Frameworks.
+
+I’ve been working as a Hadoop Engineer, Business Intelligence Analyst and DBA
+
+ In combination with my master's degree allows me to deliver business solutions to maximize business value, create flexibility for change, and accelerate business outcomes to create and improve enterprise ETL Systems and custom pipelines.
+
+Professional Summary
+
+Experience in Hadoop ecosystems with database and ETL.
+
+Design and build scalable Hadoop distributed data solutions using native, Cloudera and Hortonworks, Spark, and Hive.
+
+Experience working in Hadoop-as-a-Service (HAAS), subversion (SVN), and SQL and NoSQL databases
+
+Skilled in phases of data processing (collecting, aggregating, moving from various sources) using Apache Flume and Kafka.
+
+Experienced in Ansible, Jenkins, and PySpark.
+
+Write Hadoop streaming applications with Spark Streaming and Kafka.
+
+Experienced in Amazon Web Services (AWS), and cloud services such as EMR, EC2, S3, EBS and IAM entities, roles, and users.
+
+Performance tuning of Spark jobs in Hadoop for setting batch interval time, level of parallelism, and memory tuning, and changing the configuration properties, and using broadcast variables.
+
+Experience with Hadoop Big Data infrastructure for batch data processing and real-time data processing. 
+
+Importing real-time logs to Hadoop Distributed File System (HDFS) using Flume.
+
+Administration of Hadoop cluster(CDM); review of log files of all daemons.
+
+Handling of large datasets using partitions, Spark in-memory capabilities, broadcasts, joins, transformations in the ingestion process.
+
+Ability to contribute to design, architecture and technical strategy.
+
+Ability to manage competing priorities in a complex environment and maintain high productivity.
+
+Technical Summary
+
+Database Management
+
+SQL, Oracle, MySQL, TOAD, NoSQL, RDBMS, Apache Cassandra, Apache Hbase in Hadoop big data ecosystems.
+
+File Systems & Formats
+
+Hadoop Distributed File System (HDFS); Avro, Parquet, ORC for Hadoop.
+
+Cloud Computing
+
+	Amazon AWS, Microsoft Azure, Anaconda Cloud, Elasticsearch, Solr, Lucene, Cloudera, Databricks, Hortonworks
+
+Apache Frameworks
+
+Apache Hadoop Core, Apache Ant, Apache Flume, Apache YARN, Apache Hcatalog, Apache Hive, Apache Kafka, Apache MAVEN, Apache Oozie, Apache Pig, Apache Spark, Apache Tez, Apache ZooKeeper, Apache Airflow, Apache Camel, Apache Lucene, Apache SOLR, Apache Drill, Apache Hue
+
+Hadoop Distributions
+
+Apache Hadoop, Hortonworks Hadoop, Cloudera Hadoop
+
+Visualization and Reporting Tools
+
+Apache Kibana, Tableau, Microsoft Power BI, Cognos, SAP
+
+
+
+
+Professional Experience
+
+
+
+Sept 2018 to Present
+
+Hadoop Data Engineer
+
+
+
+Boeing Co.
+
+Seattle, WA
+
+
+
+My Boeing team was responsible for the ingestion of confidential information from the autonomous airplanes.  Data was derived from multiple data sources including multiple sensors along with old legacy data.   We successfully delivered a solid pipeline that will retain all the information coming from the autonomous services. 
+
+
+
+Designed, developed and tested Extract Transform Load (ETL) applications with different types of sources.
+
+Automated all jobs for pulling data from Windows Share Servers to a Hadoop Big Data Lake.
+
+Automated copy using a Samba utility through a distributed copy workflow using an Oozie coordinator workflow.
+
+Extracted data from different locations and scheduled Oozie workflows to execute the task from a web application.
+
+Hands-on experience on setting a Kerberos TGT for different environment and different user accounts.
+
+Developed job processing scripts using Oozie workflow to run multiple actions for processing data such as Shell, Java, Hive, and email.
+
+Designed software solutions to meet end user requirements using Agile methods and wrote supporting documents.
+
+Coded a Java application to parse JSON input files into POJOs as part of the distributed copy process.
+
+Developed application in several database environments including Hadoop and SQL Server.
+
+Integrated a variety of database systems including Oracle, Hadoop Big Data, and SQL Server.
+
+Active in the Full Software Development Lifecycle (SDLC) including requirements gathering, data analysis, development, and testing.
+
+Created Multithreading Streaming Application to migrate from disparate sources to a DataLake.
+
+Partnered closely with a team of data technologists, data scientists, and business analysts leading Boeing’s Big Data strategies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+October 2016 to Sept 2018
+
+Hadoop Data Engineer
+
+
+
+Caterpillar
+
+Peoria, IL
+
+
+
+Caterpillar Data Innovation Labs Project.  Worked on data analytics pipeline to analyze factors affecting product uptime performance.  This project focused on how to use analytics to improve customer experience by creating data analytics solutions capable of predictive analytics of machine failures, factors and improvement of manufacturing and maintenance – determining when a failure of going to occur before it happens and preventing it. Experience in transferring Streaming data from different data sources into HDFS and HBase using Apache Flume.
+
+VPC, Route 53, Security Groups, manage Route, Firewall policy, Load Balance DNS setup.
+
+Implement Kafka messaging consumer to access data from Kafka brokers and from Spark Streaming.
+
+Custom Kafka broker design to reduce message retention from default 7 day retention to 30 minute retention - architected a light weight Kafka broker
+
+Implemented Spark RDD transformations to map business analysis and apply actions on top of transformations.
+
+Real Time/Stream processing Apache Storm, Apache Spark
+
+IExperienced in running Hadoop streaming jobs to process terabytes of xml format data.
+
+Support for the clusters, topics on the Kafka manager.
+
+Cloud formation scripting, security and resources automation.
+
+Automated all the jobs for pulling data from HDFS to load data into Hive tables, using Oozie workflows.
+
+Imported real-time logs to HDFS using Flume and Spark.
+
+Hands on experience on fetching the live stream data from DB2 into Hbase table using Spark Streaming and Apache Kafka.
+
+
+
+
+
+May 2015 to October 2016
+
+Big Data/Hadoop Engineer
+
+
+
+Social SEO
+
+Colorado Springs, CO
+
+
+
+Worked on Social Media analysis platform build on Hadoop clusters. Customized data pipelines and reporting for new media analytics projects.
+
+Apache open source version with Mesos job scheduler; developed, designed tested Spark SQL clients with Scala, PySpark and Java clients.
+
+Experience in configuring Zookeeper to coordinate the servers in clusters to maintain the data consistency and to monitor services.
+
+Help to implement different components on the cloud for the Kafka application messaging
+
+Wrote shell scripts for exporting log files to Hadoop cluster through automated processes.
+
+Kibana setup, dashboarding and visualization configuration.
+
+Configuring Spark Streaming to receive real time data from IBM MQ and store the stream data to HDFS.
+
+Developed Spark code using Scala and Spark-SQL/Streaming for faster processing of data.
+
+Created modules using Spark streaming in data into Data Lake using Storm and Spark.
+
+Configured Spark Streaming to receive real time data and store the stream data to HDFS.
+
+Extract Real time feed using Kafka and Spark Streaming and convert it to RDD and process data in the form of Data Frame and save the data as Parquet format in HDFS.
+
+Handled the real time streaming data from different sources using flume and set destination as HDFS.
+
+Used Kafka producer to ingest the raw data into Kafka topics run the Spark Streaming app to process clickstream events.
+
+Collecting the real-time data from Kafka using Spark Streaming and perform transformations
+
+Real-time and near-real-time streaming processing with Spark Streaming and real-time data indexing.
+
+Created modules for Spark streaming in data into Data Lake using Storm and Spark.
+
+
+
+
+
+
+
+May 2014 to May 2015
+
+Hadoop ETL Process Engineer
+
+
+
+Wells Fargo Insurance Services
+
+Atlanta, GA
+
+
+
+Involved in a project focused on insurance risk analysis and sales, creating pipelines and dashboards or actuaries, and data scientists to use for predictive analytics.
+
+Involved in complete Big Data flow of the application starting from data ingestion from upstream to HDFS, processing the data into HDFS using Spark Streaming.
+
+Configured Spark Streaming to receive real time data and store the stream data to HDFS.
+
+Worked on AWS to create, manage EC2ugh instances, and Hadoop Clusters.
+
+Deployed the Big Data Hadoop application on AWS cloud.
+
+Using Flume to handle streaming data and loaded the data into Hadoop cluster.
+
+Hands-on experience extracting data from different databases and scheduling Oozie workflows to execute the task daily.
+
+Handled the real time streaming data from different sources using flume and set destination as HDFS.
+
+Developed ETLs to pull data from various sources and transform it for reporting applications using PL/SQL
+
+Hands-on fetching the live stream data from HDFS to Hbase table using Spark Streaming and Apache Kafka.
+
+Implemented all SCD types using server and parallel jobs. Extensively implemented error handling concepts, testing, debugging skills and performance tuning of targets, source, transformation logics and version control to promote the jobs.
+
+Involved in loading data from UNIX file system to HDFS.
+
+Successfully loaded files to HDFS from Teradata, and loaded from HDFS to HIVE.
+
+Used ETL to transfer the data from the target database to Pentaho to send it to MicroStrategy reporting tool.
+
+Real Time/Stream processing Apache Storm, Apache Spark
+
+Developed Spark code using Scala and Spark-SQL/Streaming for faster processing of data.
+
+Extract Real time feed using Kafka and Spark Streaming and convert it to RDD and process data in the form of Data Frame and save the data as Parquet format in HDFS.
+
+Experience in transferring Streaming data from different data sources into HDFS and HBase using Apache Flume.
+
+
+
+
+
+August 2012 to May 2014
+
+Data Analyst and Developer
+
+
+
+General Electric IQ
+
+San Francisco, CA
+
+
+
+Responsible for database administration and provided business intelligence solutions. Developed data analysis applications based on my needs analysis.  I also acted as team lead and mentor for data analysis requirements and development.
+
+Wrote shell scripts for automating the process of data loading.
+
+Involved in transforming data from legacy tables to HDFS and HBase tables using Sqoop.
+
+Data transformation for proper scaling, decomposition, and aggregation of data.
+
+Transformed the logs data into data model using Pig and written UDF functions to format the logs data.
+
+Integrating Kafka with Spark streaming for high speed data processing.
+
+Experienced on loading and transforming of large sets of structured and semi structured data from HDFS
+
+Loaded and transformed large sets of structured, semi-structured, and unstructured data.
+
+Developed job processing scripts using Oozie workflow to run multiple Spark Jobs in sequence for processing data
+
+Involved in transforming data from legacy tables to HDFS, and HBase tables using Sqoop.
+
+Involved in developing the application using Java/J2EE platform.
+
+Implemented the Model View Control (MVC) structure using Struts.
+
+Responsible for enhancing the Portal UI using HTML, JavaScript, XML, JSP, Java, CSS per the requirements, and for providing the client-side JavaScript validations, and the server-side.
+
+Navigation through various screens of application is implemented using web scrapers.
+
+Created shell scripts and PL/SQL scripts that were executed daily to refresh data feeds from multiple systems.
+
+Implemented Log4J for logging purpose to debug the application.
+
+Wrote code to facilitate the integration of applications with backend RESTful Web Services.
+
+Performed code reviews and utilized GitFlow for branching and collaboration.
+
+Developed application to mine semi-structured JSON data from restful web-service into MongoDb.
+
+
+
+
+
+Education
+
+
+
+Autonomous University of Queretaro
+
+Master’s Degree in Economic Science and Administration
+
+
+
+Queretaro Institute of Technology
+
+Bachelor’s Degree in Computer Systems Engineering
+
+
+
+
+
+Certification
+
+Cognitive Class
+
+Hadoop 101
+
+
+
+Cognitive Class
+
+Big Data 101
+
+
+
+LinkedIn Learning
+
+Learning Hadoop
+
+
+
+
+
+
+
+
+
+
+
+4

@@ -1,0 +1,443 @@
+DEREK YANG
+
+Hadoop Engineer
+
+Contact:  Phone:  203-815-1483  |  Email: derek.yangDY@gmail.com
+
+
+
+PROFESSIONAL HIGHLIGHTS
+
+6 years of experience engineering Big Data environments on premises and migration to cloud environments using Amazon Web Services (AWS) for hosting cloud-based data warehouses, and data based using Redshift, Cassandra, ArangoDB and RDBMS sources.
+
+Develop custom pipelines for real-time or near Realtime data analysis using Spark, Spark Streaming and Kafka.
+
+Data ingestion, extraction and transformation using ETL processes developed using Hive, Sqoop, Kafka, Firehose, Flume, Kinesis and MapReduce.
+
+Ability to conceptualize innovative data models for complex products, and create design patterns.
+
+Fluent in architecture and engineering of the Hadoop ecosystem.
+
+Implementation and management of data systems using Cloudera Hadoop, Hortonworks Hadoop, Hadoop or AWS cloud platform or on premise.
+
+Design and build big data architecture for unique projects, ensuring development and delivery of the highest quality, on-time and on budget.
+
+Significant contribution to the development of big data roadmaps.
+
+Creates and maintains environment configuration documentation for all pre-production environments
+
+Able to drive architectural improvement and standardization of the environments.
+
+Provides clear and effective testing procedures and systems to ensure an efficient and effective process.
+
+Clearly documents big data systems, procedures, governance and policies.
+
+Design, development and system migration of high performant metadata-driven data pipeline with Kafka and Hive, providing data export capability through API and UI.
+
+Hands-on experience with AWS, EMR and S3.
+
+Dealing with multiple terabytes of mobile ad data stored in AWS using Elastic Map Reduce and Redshift Postgresql. 
+
+Experience working on various Cloudera distributions like (CDH 4/CDH 5), Knowledge of working on Hortonworks and Amazon EMR Hadoop distributors. 
+
+Good experience in working with cloud environment like Amazon Web Services (AWS) EC2 and S3.
+
+Experience working closely with operational data to provide insights and value to inform company strategy.
+
+Capable of building data tools to optimize utilization of data, and configure end-to-end systems.
+
+Responsible for building data expertise and data quality for the transfer pipelines for transformation and moving of data using Flume, Spark, Spark Streaming, Hadoop.
+
+
+
+TECHNICAL SKILLS
+
+Apache
+
+Apache Drill, Apache Kafka, Apache MAVEN, Apache Oozie, Apache Pig, Apache Hue, Apache Sqoop, Apache Flume, Apache Hadoop, Apache HBase, Apache HCatalog, Apache Ant, Apache Cassandra, Apache Lucene, Apache SOLR, Apache Airflow, Apache Camel, Apache Mesos, Apache Tez, Apache ZooKeeper
+
+BI Visualization 
+
+Kibana, Tableau
+
+Programming
+
+C++, Java, PHP, Python, Scala, HTML/XHTML/CSS, SQL, Hive, Spark
+
+File Types
+
+XML, Ajax, JSON, Avro, Parquet, ORC
+
+APIs
+
+Spark API, REST API, SOAP API
+
+Development
+
+Agile, Kanban, Scrum, Continuous Integration, TDD, Unit Testing, Functional Testing, Design Thinking, Lean, Six Sigma
+
+Security & Forensics
+
+SQL Injection, Data FTK imager, XXS
+
+Soft Skills
+
+Communication, Collaboration, Customer Service, Help Desk, Mentoring, Reviewing
+
+
+
+Big Data
+
+RDDs, UDFs, Data Frames, Datasets, Pipelines, Data Lakes, Data Warehouse, Data Analysis
+
+Hadoop
+
+Hadoop, HDFS, Hadoop YARN, Hortonworks, Cloudera, Impala
+
+Spark & Hive
+
+Apache Spark, Spark Streaming, Spark MLlib, GraphX, Apache Hive, Hive QL
+
+Database
+
+Redshift, ArangoDB, Cassandra, HBase, MongoDB, SQL, NoSQL, MySQL, RDBMS, Access, Oracle
+
+File Management
+
+HDFS, Snappy, Gzip, DAS, NAS, SAN
+
+Cloud Services & Distributions
+
+AWS, Azure, Anaconda Cloud, Elasticsearch, Solr, Lucene, Cloudera, Databricks, Hortonworks, Elastic.  Cloud Foundry, Elastic Cloud
+
+Software
+
+Microsoft Office Suite
+
+Operating Systems
+
+Linux/UNIX, Windows
+
+Virtualization & Network
+
+SQL Injection, Data FTK imager, WAN/LAN, TCP/IP, Routing, VMware, VirtualBox, OSI Model
+
+
+
+PROFESSIONAL EXPERIENCE
+
+	Travelers	Hadoop Admin Engineer
+
+	Connecticut	October 2018 – Present
+
+
+
+	I was in charge of the development team for Spark, building the skeleton for Spark Jobs using technologies like S3, to merge datasets using complex transformations.
+
+	In charge of Hadoop Administrative tasks like security configuration, rack awareness, integration with multiple technologies to secure the Hadoop cluster, also creation of containerized applications using technologies to automate the process of instantiation.
+
+	Worked in an environment consisting of Linux RHEL 6/7 + Hortonworks 2.6/3.1 + DELL S3 + AWS S3 + Windows + Scala + Kubernetes + Docker.
+
+	Configured Linux on multiple Hadoop environments setting up Lab, Dev, and Prod clusters within the same configuration 
+
+	Create sudo files white and black listing to add additional layer of security to Hadoop environment 
+
+	Design Spark Scala POT to consume information from S3 Buckets
+
+	Define Spark data schema and set up of development environment inside the cluster
+
+	Management of Spark-submit jobs to all environments  
+
+	Monitor background operation in Hortonworks Ambari 
+
+	HDFS Monitoring job status and life of the DataNodes according to the specs
+
+	Managed Zookeeper configurations and ZNodes to ensure High Availability on the Hadoop Cluster
+
+	Configure and set up of Ranger policy to handle security among the groups  
+
+	Collaboration with the security management to Sync Kerberos with Knox
+
+	Managed hive beeline connection with tables, databases and external tables 
+
+	Setup Solr collections to all environments and replications of shards  
+
+	Create standardized documents for company all usage  
+
+	Work one on one with clients to resolve issues regarding Spark jobs submissions  
+
+	Implemented Hortonworks medium and low recommendations on all environment
+
+	Use remedy for ticketing system 
+
+	Use Rally for tracking task and Kanban
+
+	Work using Agile methodology to utilize tasks and delegated between team member
+
+	Lead development by managing and coaching not spark developers in the Hadoop team
+
+	Work with Kubernetes containers launching spark applications with Scala
+
+	Work on Docker containers launching spark applications with Scala
+
+	Develop a proof of concept to benchmark Kubernetes and Dockers
+
+	Pushing containers and to AWS EMR using Scala
+
+	Use Scala to connect to EC2 and push files to AWS S3
+
+	Work with off-shore team to troubleshoot Oozie jobs, Solr, Hive, Ranger in all environment
+
+	Work on setting MySQL enterprise to link with Puppet Enterprise
+
+	
+
+	Technologies:  Spark + Hortonworks + Knox + Ranger + Hive + Solr + Ambari + MySQL + Linux Access Management (POSIX)
+
+	
+
+	
+
+	Kellogg’s	Hadoop Engineer
+
+	Battle Creek, MI	January 2017 – October 2018
+
+
+
+Margins are tight in the ready-to-eat cereal industry. For a company like Kellogg’s, approximately a third of its annual revenue is spent on promotional costs or trade spend: every dollar spent on coupons and special offers, promotions for special pricing, sponsorships, even the location each brand occupies on the grocery-store shelf. 
+
+The company keeps a close eye on its trade spend, analyzing large volumes of data and running complex simulations to predict which promotional activities will be the most effective. Kellogg’s had been using a traditional relational database on premises for data analysis and modeling, but by 2013, that solution was no longer keeping up with the pace of demand.
+
+We needed to eliminate waste and invest more in the trade spend that drives faster time to market and greater revenue. They also needed the ability to run multiple trade spend simulations simultaneously every day.  It was clear that Kellogg needed to move away from its traditional on-premises infrastructure.
+
+
+
+Moved the on-premises RDBMS databased to Amazon Web Services (AWS) where the company could use various software solutions specific to the industry.
+
+Recommended a solution to meet needs to accommodate petabytes of data, scale according to infrastructure needs, and stay within budget.
+
+Created Hadoop clusters using HDFS, Amazon Redshift for NoSQL along with ArrangoDB for multi-modal data warehouse solution.
+
+Implemented Spark using Scala, and utilized DataFrames and Spark SQL API for faster processing of data.
+
+Implemented Amazon Web Services (AWS) SAP HANA environment to achieve the speed, performance, and agility it required without making a significant investment in physical hardware.
+
+Used Spark Streaming to divide streaming data into batches as an input to Spark engine for batch processing.
+
+This AWS implementation allowed the company to use Accelerated Trade Promotion Planning, a SAP solution powered by SAP HANA, and used this as a source of intelligent data.
+
+ Implemented test and development environments for all of the company’s U.S. operations.
+
+Used Amazon Elastic Compute Cloud (Amazon EC2) instances to process 16 TB of sales data weekly from promotions in the U.S., modeling dozens of data simulations a day.
+
+Implemented Amazon Virtual Private Cloud (Amazon VPC), connected directly to the Kellogg data centers to allow access to SAP TPM directly for employees who are on the company network. 
+
+Amazon Simple Storage Service (Amazon S3) was used for data backups, including HANA, and Amazon Elastic Block Store (Amazon EBS) provisioned IOPS (P-IOPS) volumes for storage. 
+
+The company logs events using AWS Identity and Access Management (AWS IAM).
+
+Used Amazon CloudWatch for monitoring, to allocate costs to each department based on their individual infrastructure use. 
+
+For high availability, Kellogg leverages multiple AWS Availability Zones (AZs) without the additional cost of maintaining a separate data center.
+
+
+
+
+
+	Spotify 	Hadoop Engineer
+
+	San Francisco, CA	June 2015 – January 2017
+
+
+
+Spotify is an online music catalogue providing users with personalized recommendations based on their taste in music. Spotify, the largest on-demand music service in the world, has a history of pushing technological boundaries and using big data, artificial intelligence and machine learning to drive success. The digital music company with more than 100 million users has been busy this year enhancing its service and tech capabilities through several acquisitions.
+
+The music streaming services is using a ‘data lake’ based on the Hortonworks distribution of Hadoop to calculate royalties, recommend tracks to users and measure audience response to new features and functions.  Hadoop plays a vital role, for example, in helping Spotify to recommend particular music tracks to an individual user on the basis of their established listening habits, using collaborative filtering techniques. It also helps Spotify staff to curate playlists, based on their insights into what users want to listen to at certain times of day or during particular activities, from making supper to working out.  It’s also increasingly used for A/B testing, says Baer, when new features and functions are rolled out on the Spotify service.
+
+Designed architecture/Hadoop infrastructure layout for development/test and production environments
+
+Provisioned over 20 node Hadoop clusters on Microsoft Azure cloud infrastructure using Cloudbreak service
+
+Configured over thirty node cluster using Ambari 2.1.2/HDP 2.3.2 on AT&T cloud services
+
+Evaluated Cloudera Hadoop on AWS cloud services to estimate the scalability/cost of the environment
+
+Upgraded Ambari to 2.2.2 and HDP stack to 2.4.3 (hive, spark, yarn, hbase, ranger)
+
+Performance tuned and troubleshot issues related with service components and the cluster
+
+Created a Data Lake for offloading infrequently accessed data from data warehouse and for staging purposes
+
+Ingested data to HDFS from IBM AS400, MSSQL Server, Teradata, Oracle, DB2, Unidata databases using Sqoop
+
+Designed managed/external Hive Tables as per the requirements and stored them in ORC format for efficiency
+
+Configured capacity scheduler to create multiple queues and assigned the users/groups based on the resource requirements
+
+Migrated cluster/data from one datacenter to another
+
+Configured SAP HANA Smart Data Access (SDA), SAP Data Services to integrate with Hadoop environments for reporting purposes
+
+Installed/configured SAP VORA to integrate with HDP cluster to leverage HANA SPS11 functionality
+
+Implemented authentication using Kerberos and integrated with Active Directory (AD)
+
+Setup and configured Ranger for handling the authorization of the service components
+
+Managed five member offshore team.
+
+Used Spark SQL and Data Frame API extensively to build Spark applications.
+
+Used Spark engine, Spark SQL for data analysis and provided to the data scientists for further analysis.
+
+Performed streaming data ingestion to the Spark distribution environment, using Kafka.
+
+Built a prototype for real-time analysis using Spark streaming and Kafka.
+
+Worked on Spark SQL to check the pirated data.
+
+Used Spark SQL and DataFrames API to load structured and semi structured data into Spark Clusters.
+
+Closely worked with data science team in building Spark MLlib applications to build various predictive models.
+
+Configured Data Ingestion Accelerator tool in-house project to automate the ingestion process
+
+Created Executive Dashboards for ETL Process and reporting
+
+Developed oozie workflow for scheduling and orchestrating the ETL process
+
+Integrated BI tools (Spotfire, Crystal Reports, Lumira, Tableau) with Hadoop
+
+
+
+
+
+	NETGEAR	Hadoop Admin & Support
+
+	San Jose, CA	January 2014 – June 2015
+
+
+
+NETGEAR. designs and manufactures network-attached storage (NAS) and network video recorder (NVR) solutions for small, medium, and enterprise-level businesses. The company had to become more efficient at extracting insights from customer data. The company was already using AWS for its myQNAPcloud service. This service enabled customers to back up their local NAS data to Amazon Simple Storage Service (Amazon S3) and Amazon Glacier. QNAP collected event logs and usage statistics from the service, but wanted to make better use of the information.
+
+
+
+“By running more responsive queries, we hoped to better understand how our customers were using QNAP products and harness these insights to make plans for our future development,” says Paul Chu, QNAP Cloud Services Director. In early 2014, QNAP’s web operation team began developing a new analytics platform to deliver the required customer insights. QNAP aimed to complete the project and have a functioning analytics platform within six months.
+
+We moved the company data infrastructure to the cloud to be more effective in terms of cost and operation. We used Hortonworks Hadoop on AWS Cloud for the analytics platform to support rapid development and launch of new products and services.
+
+The company had the problem of needing to search data logs manually and run data queries one at a time to generate statistics and business reports—an inefficient and error-prone process. Depending on a query’s complexity, this could take hours or even days to get results.  The new platform using Hadoop and AWS the company can run queries in a matter of minutes.  We can easily generate a wide range of business reports using the gathered data, providing a degree of business insight it previously couldn’t achieve.
+
+Connected different branch offices and datacenters across the globe with consistent upload and download speeds using AWS.  
+
+Implemented the analytics platform using Amazon Virtual Private Cloud (Amazon VPC), allowing it to use security groups to control access to the platform.
+
+Implemented Amazon Elastic Compute Cloud (Amazon EC2) for scalable compute capacity.
+
+Generated around 200 million log entries (equivalent to 10GB of log data) per day.
+
+Utilized 6 to 10 Amazon EC2 instances for data analysis, scaling them according to demand, adding more instances as needed to process extra data or extract more information.
+
+Used Amazon S3 for data storage, and Elastic Load Balancing for performance and stability.  
+
+Created data loss prevention plan using Amazon S3 storage for backups with Amazon Glacier for archival. 
+
+Used Spark Streaming to divide streaming data into batches as an input to Spark engine for batch processing.
+
+Used Amazon Kinesis and Amazon Redshift to provide real-time analytics. 
+
+Transformed log data into data model using Pig and wroteUDF functions to format the logs data.
+
+Loaded and transformed large sets of structured and semi structured data from HDFS.
+
+through Sqoop and placed in HDFS for further processing.
+
+Implemented Spark using Scala, and utilized DataFrames and Spark SQL API for faster processing of data.
+
+Involved in transforming data from legacy tables to HDFS, and HBase tables using Sqoop.
+
+Extensively used transformations like Router, Aggregator, Normalizer, Filter, Joiner, Expression, Source Qualifier, Unconnected and connected lookup, Update strategy and store procedure, XML transformations along with error handling and performance tuning.
+
+Using Sqoop to extract the data back to relational database for business reporting.
+
+Designed and developed parallel jobs by using different types of stages such as transformers, Aggregator, Merge, Join, Lookup, Sort, Remove duplicate, Funnel, Filter, Pivot, Shared container for developing jobs.
+
+Implemented all SCD types using server and parallel jobs. Extensively implemented error handling concepts, testing, debugging skills and performance tuning of targets, source, transformation logics and version control to promote the jobs.
+
+Involved in loading and transforming large sets of structured, semi-structured and unstructured data.
+
+Involved in loading data from UNIX file system to HDFS.
+
+Developed ETLs to pull data from various sources and transform it for reporting applications using PL/SQL
+
+Hands-on experience extracting data from different databases and scheduling Oozie workflows to execute the task daily.
+
+Successfully loaded files to HDFS from Teradata, and loaded from HDFS to HIVE.
+
+Involved in loading data from UNIX file system to HDFS.
+
+
+
+
+
+	TEKsystems, Inc.	Data Administrator
+
+	Edina, MN	March 2013 – January 2014
+
+
+
+Involved in scheduling Oozie workflow engine to run multiple Hive, Sqoop and Spark jobs.
+
+Implemented workflows using Apache Oozie framework to automate tasks.
+
+Used Zookeeper for various types of centralized configurations, GIT for version control, and Maven as a build tool for deploying the code.
+
+Involved in scheduling Oozie workflow engine to run multiple HiveQL, Sqoop and Spark jobs.
+
+Developed workflow in Oozie to automate the tasks of loading data into HDFS and pre-processing with Pig and Hive.
+
+Configured Fair Scheduler to allocate resources to all the applications across the cluster.
+
+Performed maintenance, monitoring, deployments, and upgrades across infrastructure that supports all Hadoop clusters.
+
+Used Zookeeper and Oozie for coordinating the cluster and scheduling workflows.
+
+Managed jobs using Fair Scheduler to allocate processing resources.
+
+Developed job processing scripts using Oozie workflow to run multiple Spark Jobs in sequence for processing data
+
+Configured Zookeeper to coordinate the servers in clusters to maintain the data consistency and to monitor services.
+
+Automated all the jobs for pulling data from FTP server to load data into Hive tables, using Oozie workflows.
+
+Used Oozie workflows and coordinators for integrating MapReduce workflow- including Java REST service consumption and MongoDb/Neo4j ingress, and scheduling the data flow pipeline.
+
+Reporting data on different dimensions and generated dashboards with both numeric and graphic details on performance (Oracle DB, Google Sheet, Excel, DataStudio, Tableau).
+
+
+
+
+
+EDUCATION & TRAINING
+
+
+
+UNIVERSITY OF CHARLOTTE NORTH CAROLINA at Charlotte
+
+Bachelor of Arts in Computer Science 
+
+Concentration: Cyber Security
+
+Minor: Communication Study
+
+
+
+CALDWELL COMMUNITY COLLEGE & TECHNICAL INSTITUTE, Hudson, NC
+
+Associate of Computer & Information Technology
+
+Associate of Computer &Technology in Networking Technology
+
+
+
+1 | Page

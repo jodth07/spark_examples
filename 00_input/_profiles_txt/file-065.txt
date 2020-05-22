@@ -1,0 +1,513 @@
+(571) 934-4460   |   rafael.a.morell1412@gmail.com
+
+Rafael Alejandro Morell
+
+
+
+
+
+BIG DATA ENGINEER
+
+
+
+SUMMARY
+
+
+
+A motivated and experienced IT professional with 6 years of experience in Big Data systems including Engineering, Development and Administration on prem and on cloud.
+
+Used Spark SQL and Data Frame API extensively to build Spark applications.
+
+Experienced in working on CQL (Cassandra Query Language), for retrieving the data present in Cassandra cluster by running queries in CQL.
+
+Learn and adapt to perform for the CICD tool (GITHUB, Jenkins) chain that is available at Customer environment or proposed to be made available.
+
+Configured the ELK stack for Jenkins logs, and syslogs 
+
+Experience in configuring, installing and managing Hortonworks & Cloudera Distributions.
+
+Involved in continuous Integration of application using Jenkins.
+
+Implemented Spark and Spark SQL for faster testing and processing of data.
+
+Experience writing streaming applications with Spark Streaming/Kafka.
+
+Utilized Spark Structured Streaming to update the data frame in real time and process it
+
+Experienced in Amazon Web Services (AWS), and cloud services such as EMR, EC2, S3, EBS and IAM entities, roles, and users.
+
+Knowledgeable of deploying the application jar files into AWS instances.
+
+Skilled in the creation of Kafka producer to connect to different external sources and bring the data to a Kafka broker.
+
+Creation of Kafka brokers in structured streaming to get structured data by schema.
+
+Handling schema changes in data stream using Kafka.
+
+Skilled in HiveQL, custom UDFs written in Hive, and optimizing Hive Queries, as well as writing incremental imports into Hive tables.
+
+Use of end to end Hive Queries to parse the raw data and use of Hive to populate internal/external tables.
+
+Use of Hive functions such as Partitioning, Bucketing, Index and UDF.
+
+Transformations using MapReduce, Hive to load data into HDFS.
+
+Importing of data from RDBMS into HDFS using Sqoop.
+
+
+
+TECHNICAL SKILLS
+
+Spark
+
+Spark Sql
+
+Spark Streaming
+
+Spark Structured Streaming 
+
+Scala
+
+Pyspark
+
+Kafka
+
+	
+
+Cassandra 
+
+ELK
+
+Kibana
+
+	
+
+AWS
+
+RDS, EMR, Redshift 
+
+S3, Lambda, Kinesis 
+
+ELK, IAM, Cloud Formation
+
+Ambari 
+
+Yarn
+
+	
+
+CICD
+
+Jenkins 
+
+Hortonworks (HDP)
+
+Sqoop
+
+Hive
+
+Hadoop
+
+HDFS
+
+Cluster management
+
+Cluster security 
+
+Spark
+
+	
+
+	Cassandra
+
+	Redshift
+
+Oozie 
+
+Workflow
+
+Zookeeper
+
+Shell Script Language 
+
+Kerberos 
+
+	Ranger
+
+Cloudera Hadoop (CDH)
+
+Cloudera Manager
+
+		
+
+
+
+
+
+WORK EXPERIENCE
+
+
+
+Dec 2019 to Present 
+
+Senior Data Engineer
+
+Fox – Los Angeles, CA
+
+Maintenance and expansion of data pipeline which transforms raw TV viewership data into BI tools that executives use downstream for determining prime commercial spots to sell to advertisers.
+
+Developed, tested, and deployed enhancements for existing data pipelines, such as data audit checks to ensure validity and availability.
+
+Created comprehensive documentation for actively used data pipelines to assist product support teams in identifying and remediating errors.
+
+Created and enhanced source-to-target-mapping documents to ensure total understanding of raw data utilization for product support team.
+
+Performed data validation QA on newly constructed data pipeline to ensure consistency with existing pipelines for retirement project.
+
+Used SQL extensively to perform data validation in processed data tables effectively and quickly.
+
+Communicated with offshore team members regularly and coordinated with them to prepare deployment of data pipeline enhancements.
+
+Communicated daily with team to discuss project/issue status and clarify requirements.
+
+Utilized PySpark and Spark SQL modules in PySpark to perform transformations and aggregations on raw data to reach usability for downstream processes.
+
+Utilized Airflow to automate data pipelines and refresh data on a regular basis.
+
+Created, tested, and deployed Airflow DAGs to perform such automation for data pipelines.
+
+Monitored recently enhanced and released data pipelines for any regressions that may not have been covered in previous testing.
+
+Provided knowledge transfer sessions to product support teams regarding upcoming enhancements and their expected results downstream.
+
+Provided support for data pipeline failures when product support team could not remediate the issue themselves.
+
+Created bugs in JIRA for front-end UI/UX issues that data pipelines fed to downstream as they were identified by users.
+
+Performed in an agile environment and documented work on project aspects through the use of issues/story points.
+
+Created and updated stories in Scrum format to provide high-level information for current work.
+
+Demonstrated completed stories at end of sprint to project managers for approval.
+
+Utilized Bitbucket to store latest version of code used to run data pipelines.
+
+Utilized transient EMR clusters to process raw data and store processed results into AWS S3 buckets and Athena Tables.
+
+Utilized transient EC2 instances to perform testing for PySpark development.
+
+Utilized both AWS Athena and Redshift Spectrum tables to query against data in S3.
+
+Discussed planning, included required resources and time, for user requirements and enhancements to current data pipelines.
+
+Discussed with project managers/owners regularly to provide project status and determine next steps.
+
+Organized and attended meetings with product owners and end users to discuss issues from data sources/user expectations.
+
+
+
+Technologies: Python, PySpark, AWS, S3, Airflow, SQL, JIRA, Athena, Redshift, Spectrum, EMR
+
+
+
+
+
+May 2019 to Dec 2019 
+
+Senior Big Data Engineer
+
+Discovery Channel – Sterling, VA
+
+The purpose of the project was to migrate all data from one data lake to another and replicate or improve the environment used to view and interact with said data. This would be done by automating ingestion from whichever data sources were used in the original data lake. Solved multiple problems arose across several pipelines, ranging from permissions errors to data inconsistencies, but these problems were resolved with careful analysis and communication between clients, vendors, and persons of contact.
+
+Prepared scripts to automate ingestion of data in Python as needed through various sources such as API and AWS S3 vendor buckets.
+
+Prepared SQL scripts to load ingested data in Apache Hive and Amazon Redshift using AWS Glue as an external metastore.
+
+Wrote, compiled, and executed programs as necessary for Apache Spark in Scala to perform ETL jobs with ingested data.
+
+Automated resulting scripts using AWS Data Pipeline and shell scripting to ensure daily execution in production.
+
+Maintained version control and organized repositories in Github.
+
+Created a general outline for future data pipelines to follow for ease of use and automation.
+
+Wrote documentation for legacy support of finished projects.
+
+Performed QA testing on data pipeline repositories using Jenkins as a CI/CD service.
+
+Monitored past projects for outages or other issues using Amazon SNS notifications.
+
+Worked with a rapidly growing team that had members in remote, international locations.
+
+Met with project lead and other team members to ascertain the best method of solving challenges.
+
+Met with required parties to prepare and plan execution for new data ingestion.
+
+Met with clients whenever a past project would need additional requirements.
+
+Communicated with the team daily to provide updates on current projects.
+
+Assisted other team members through knowledge transfers and insight on their respective projects.
+
+Collaborated with members responsible for ETL to satisfy customer requirements.
+
+Performed day-to-day tasks regarding projects in a “semi-agile” environment.
+
+Utilized Jira to handle tickets for troubleshooting as necessary.
+
+Troubleshooted finished pipelines as needed if SNS messages signal failure.
+
+Utilized the Qubole environment for verification of ingested data against known-good client data.
+
+Managed external applications needed for authentication for certain services such as DoubleClick for Publishers.
+
+Wrote documentation for certain issues to dissect possible causes and alternative solutions.
+
+Managed and launched Amazon EMR instances for development use when end-to-end testing was not feasible.
+
+Utilized a fail-fast method for non-critical issues in development to quickly try proposed solutions.
+
+Worked in an Agile Scrum environment, participating in Daily Scrums, Sprints, Sprint planning, etc.
+
+
+
+
+
+Technologies:  AWS, Hive, Spark, PostgreSQL, Jenkins, Agile, Scrum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jan 2018 to May 2019
+
+Big Data Engineer
+
+West Corporation - Omaha, NE
+
+Analyzed and tuned Cassandra data model for multiple internal projects/customers.
+
+Worked with Jenkins CI for CICD and Git version control.
+
+Worked with Elasticsearch and Logstash (ELK) performance and configure tuning.
+
+Experience in configuring, installing and managing Hortonworks (HDP) Distributions.
+
+Participated in various phases of data processing (collecting, aggregating, moving from various sources) using Apache Spark
+
+Build a Spark proof of concept with Python using PySpark
+
+Implemented Spark using Scala and Spark SQL for faster testing and processing of data.
+
+Used Spark SQL to perform transformations and actions on data residing in Hive.
+
+Wrote streaming applications with Spark Streaming/Kafka.
+
+Pulled data and populated the data in Kibana.
+
+Applied the latest development approaches including applications in Spark using Scala. 
+
+Developed ETL pipeline to process log data from Kafka/HDFS sequence file and output to Hive tables in ORC format.
+
+Wrote Hive queries and optimized the Hive queries with Hive QL.
+
+Extracted metadata from Hive tables with Hive QL.
+
+Created Hive tables to store the processed results in a tabular format.
+
+Created a Kafka broker which uses schema to fetch structured data in structured streaming.
+
+Responsible for Kafka operation and monitoring, and handling of messages funneled through Kafka topics.
+
+
+
+Nov 2016 to Dec 2017
+
+Big Data Engineer
+
+AAR Corporation - Wood Dale, IL
+
+
+
+Worked on AWS Cloud Formation templates for data pipeline in AWS
+
+Worked with Elasticsearch, Log stash and Kibana (ELK).
+
+Experienced in Amazon Web Services (AWS), and cloud services such as EMR, EC2, S3, EBS and IAM entities, roles, and users.
+
+Implemented security measures AWS provides, employing key concepts of AWS Identity and Access Management (IAM).
+
+Developed AWS Cloud Formation templates to for RedShift.
+
+Built AWS Kinesis for processing real time data invoking Lambda functions and loading it to DynamoDB tables.
+
+Implemented AWS Lambda functions to run scripts in response to events in Amazon Dynamo DB table or S3 bucket or to HTTP requests using Amazon API gateway.
+
+Configuring Access for inbound and outbound traffic RDS DB services, DynamoDB tables, EBS volumes to set alarms for notifications or automated actions on AWS.
+
+Responsible for Designing Logical and Physical data modelling for various data sources on AWS  Redshift.
+
+Developed the bunch contents to bring the information from AWS S3 and do required changes in Spark EMR.
+
+Worked with AWS EMR and S3.
+
+Responsible for continuous monitoring and managing Elastic MapReduce (EMR) cluster through AWS console.
+
+Implemented usage of Amazon EMR for processing Big Data across Hadoop Cluster on AWS.
+
+Specified nodes and performed the data analysis queries on Amazon redshift clusters on AWS.
+
+Sept 2015 to Nov 2016
+
+Big Data Developer
+
+CIENA - Alpharetta, GA
+
+
+
+Hadoop Cloudera Platform (Hive, HDFS & Spark).
+
+Used Cloudera Manager for installation and management of single-node and multi-node Hadoop cluster.
+
+Experienced collecting real-time log data from different sources like webservers and social media using Flume and storing in HDFS for further analysis.
+
+Deep knowledge in incremental imports of Sqoop
+
+Optimized Hive using partitioning and bucketing 
+
+Interaction with NOC team to work with Hadoop to provide large-scale solutions.
+
+Developed job processing scripts using Oozie workflow to run multiple Spark Jobs in sequence for processing data.
+
+Wrote shell scripts for automating the process of data loading.
+
+Migrating the data using Sqoop from HDFS to Relational Database System and vice-versa according to client's requirement.
+
+Cluster coordination services through Zookeeper and Kafka.
+
+Handled large amounts of data utilizing Spark.
+
+Tuning of Spark jobs for setting batch interval time, level of parallelism, and memory tuning
+
+Spark used in optimizing ETL jobs to reduce memory and storage consumption.
+
+Optimization of Hive tables and large sets of structured, semi structured, and unstructured data.
+
+Accessed Hadoop file system (HDFS) using Spark and managed data in Hadoop data lakes with Spark.
+
+Hands-on experience with Spark Core, Spark SQL and Data Frames/Data Sets/RDD API.
+
+Coordinated Kafka operation and monitoring with dev ops personnel; formulated balancing impact of Kafka producer and Kafka consumer message(topic) consumption.
+
+Writing Hive Queries for analyzing data in Hive warehouse using Hive Query Language.
+
+Creating Hive tables, loading with data and writing hive queries to process the data.
+
+Hadoop metadata management by extracting and maintaining metadata from Hive tables and HDFS.
+
+
+
+April 2014 to Sept 2015
+
+Hadoop Developer
+
+Dell - Round Rock, TX
+
+
+
+Monitored multiple Hadoop clusters environments using Ambari.
+
+Worked with cluster users to ensure efficient resource usage in the cluster and alleviate multi-tenancy concerns.
+
+Performed cluster tuning and ensured high availability.
+
+Installed and configured Tableau Desktop to connect to the Hortonworks Hive Framework (Database) which contains the Bandwidth data 
+
+Secured the Kafka cluster with Kerberos.
+
+Worked on tickets related to various Hadoop/Big data services which include HDFS, Yarn, Hive, Sqoop, Spark, Kafka, HBase, Kerberos, Ranger, Knox.
+
+Developed Oozie workflow for scheduling and orchestrating the ETL process within the Cloudera Hadoop system.
+
+Configure Yarn capacity scheduler to support various business SLA's.
+
+Installed Oozie workflow engine to run multiple jobs with Hive HQL.
+
+Wrote the Hive scripts to process the HDFS data.
+
+Developed ETL pipeline to process log data from Kafka/HDFS.
+
+Import/export data from MySQL and Oracle into HDFS and HIVE using Sqoop.
+
+Developed ETL pipeline to process log data from Kafka/HDFS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EDUCATION
+
+Bachelor of Science in Information Technology
+
+Florida International University, Miami, FL
+
+Certifications
+
+A+ #COMP001021317420

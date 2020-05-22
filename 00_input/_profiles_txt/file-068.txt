@@ -1,0 +1,287 @@
+
+
+Profile
+
+My name is Jeffrey Reiher, and I am continually amazed at the variety of
+architectures, systems, and processes that make a vast difference in the
+value we can extract from data.  Data has become crucial to our society and
+our economy, and I am excited to be a part of that.
+
+
+Professional Summary
+
+    ← 10 years of experience in data management, data processing, and data
+      analytics systems design, implementation and administration.  Of this
+      5 years have been in Hadoop HDFS and Hadoop Ecosystem and tools.
+    ← Design and build big data architecture for unique projects, ensuring
+      development and delivery of the highest quality, on-time and on
+      budget.
+    ← Significant contribution to the development of big data roadmaps.
+    ← Accustomed to working with large complex data sets, real-time/near
+      real-time analytics, and distributed big data platforms.
+    ← Participated in design, development and system migration of high
+      performant metadata-driven data pipeline with Kafka and Hive/Presto on
+      Qubole, providing data export capability through API and UI.
+    ← Provides clear and effective testing procedures and systems to
+      ensure an efficient and effective process.
+    ← Able to work with existing EDS platforms and strategic initiatives
+      that are built for future phases of EDS/EBI.
+    ← Experience collecting log data from various sources and integrating
+      it into HDFS using Flume; staging data in HDFS for further analysis.
+    ← Capable of building data tools to performance tune and optimize end-
+      to-end big data analytics systems.
+    ← Use of Python for big data pipelines, and customizations.
+    ← Responsible for building data expertise and data quality for the
+      transfer pipelines for transformation and moving of data using Flume,
+      Spark, Spark Streaming, Hadoop, and Vertica.
+    ← Worked with various file-formats (Parquet, Avro & JSON) and
+      Compressions (Snappy& Gzip)
+    ← Experience deploying large multiple nodes of a Hadoop and Spark
+      cluster.
+    ← Experience developing custom large-scale enterprise applications
+      using Spark for data processing.
+    ← Experience developing Oozie workflows for scheduling and
+      orchestrating the ETL process.
+    ← Excellent knowledge on Hadoop Architecture and ecosystems such as
+      HDFS, configuration of nodes, YARN, Sentry, Spark, Falcon, Hbase,
+      Hive, Pig, Sentry, Ranger.
+    ← Strong hands-on experience in Hadoop Framework and its ecosystem
+      including but not limited to HDFS Architecture, Hive, Pig, Sqoop,
+      HBase, MongoDB, Cassandra, Oozie, Spark RDDs, Spark DataFrames, Spark
+      Datasets, Spark
+Technical Skills
+
+LanguagesTypesSystemsInfrastructureToolsHadoop EcosystemHive
+Spark
+Hadoop, Cloudera, Hortonworks, ImpalaInformatica, TalendNodes, AWS, EC2, EMR, Azure, Anaconda, ElasticCloud, Anaconda CloudSqoop, Flume, Yarn, Spark, Hive, HueETLDatabase, HDFS, Data Warehouse, Data Storage, ScrapersApache Camel, Flume, Apache Kafka, Apatar, Atom, Fivetran, Heka, Logstash, Scriptella, Stitch, Talend, Talend, Ketl, Kettle PDI, Jaspersoft, CloverETL, Sqoop
+CleaningDataCleaner, Wainpure, Patnab, OpenRefine, DrakePipelineHadoop HDFS
+Apache KafkaApache Camel, Apache AirflowAnalysis
+ReportingHive, Spark, Spark StreamingGoogle Analytics
+Query
+SearchLucene, ElastiSearch, Apache SolrKibana, Drill, Presto
+Pantaho
+TableauAdministrationETL
+Data ProtectionApache Log FilesZooKeeper
+Oozie
+ELKArchitectureNodes
+VirtualPOC
+Architectural Planning
+Hadoop Cycle
+VirtualizationCloud
+On-PremMicrosoft Visio
+Lucidchart
+SmartDraw
+Gliffy
+OmniGraffleFilesAvro, Parquet
+JSON
+XMLStorage
+Compression
+Extraction
+Conversion
+TransformHDFSNAS, SANORC
+Gzip
+SnappyDatabaseSQL, MySQL, PostgreSQL, MongoDB, HBase, Cassandra
+SQL AlchemySQL
+RDBMS
+NoSQLWebHTML, CSS< jQuery, JavaScript, BootstrapOS/NetworkAmazon EC2, AWS3, SES, Route 53, Google App Engineer, HerokuUbuntu
+Linux
+Virtual ServersDevelopment, 
+Experience
+
+Jan 2018 Hadoop Big Data Developer
+Present Apple – Sunnyvale, CA
+
+This big data Hadoop-based project for Apple focused on customer development centered around Apple proprietary applications, connectors and APIs.  Worked on an environment based in a proprietary Apple Connect system which authenticates users. The Apple Connect system is similar to LDAP; a token-based, three-way handshake.  Wrote script to upload to Zeppelin and Azkaban.  In this project I lent support by creating and scheduling Azkaban workflows using Zeppelin Notebook.
+Provided a pro and con evaluation of Airflow and Azkaban workflow schedulers.
+Supported GBI Platform team.
+Evaluated Zeppelin-0.7.3 APIs.
+Installed Zeppelin on an application node in the cluster. 
+Installed Azkaban on a cluster.
+Installed MySQL on a cluster.
+Used a proprietary Apple code repository and version control. 
+Managed commits to Apple repository to ensure quality; due to changes they made to the Zeppelin Notebooks source code they have to re-deploy every time they make a small change.
+Wrote custom API driver for Zeppelin’s REST APIs in Python.  Committed the driver to Apple’s code repository and used the API driver in a custom application program.  This program moves Zeppelin notes from one instance to another, uploads zip files to Azkaban with a Python script that runs, schedules and polls Zeppelin notes.
+Created a ticket in Central Station with their API to log failed jobs from Spark.
+Developed Spark code using Scala and Spark-SQL/Streaming for faster processing of data.
+Created modules for Spark streaming in data into Data Lake using Storm and Spark.
+Transfered Streaming data from different data sources into HDFS and HBase using Apache Flume.
+Fetching the live stream data from DB2 to Hbase table using Spark Streaming and Apache Kafka.
+Involved in complete Big Data flow of the application starting from data ingestion from upstream to HDFS, processing the data into HDFS using Spark Streaming.
+Implemented data ingestion and cluster handling in real time processing using Kafka.
+Integrated Kafka with Spark Streaming for real time data processing
+Moved transformed data to Spark cluster where the data is set to go live on the application using Kafka.
+Created a Kafka producer to connect to different external sources and bring the data to a Kafka broker.
+Handling schema changes in data stream using Kafka.
+Created a Kafka broker in structured streaming to get structured data by schema.
+
+
+May 2016 Hadoop Data Engineer
+Dec 2017 Predictix – Atlanta, GA
+
+Predictix work involved consulting for a variety of clients in various industries including healthcare and marketing to help them improve ROI on their big data analytics platform investments.  I focused on optimization and performance and streamlining processes.
+Optimization of the data storage in Hive using partitioning and bucketing mechanisms on both the managed and external tables.
+Performed Sqooping for various file transfers through the Cassandra tables for processing of data to several NoSQL DBs.
+Implemented authentication using Kerberos and authentication using Apache Sentry.
+Designing and upgrading CDH 4 to CDH 5
+Worked on importing and exporting data using Sqoop between HDFS to RDBMS.
+Used Spark SQL and DataFrames API to load structured and semi-structured data into Spark Clusters.
+Monitors job performances, filesystem/disk-space management, cluster & database connectivity, log files, management of backup/security.
+Involved in converting Hive/SQL queries into Spark transformations using Spark RDDs, Python, and Scala.
+Performance tuning for Kafka cluster (failure and success metrics).
+Monitoring and managing the Hadoop cluster using Cloudera Manager.
+Automate installation of Hadoop on AWS using Cloudera Director
+Design and implementation of secure Hadoop cluster using Kerberos.
+Migrated programs into Apache Spark RDD operations.
+Migrated ETL jobs to Pig scripts for transformations, joins, aggregations before HDFS.
+Hadoop cluster performance monitoring and tuning, disk space management
+Harden the cluster to support use cases and self-service in 24x7 model and apply advanced troubleshooting techniques to on critical.
+Designed generic extensive framework using Python libraries load data from multiple sources into Data Lake
+Implemented High Availability of Name Node, Resource manager on the Hadoop Cluster.
+Integrated Hadoop with Active Directory and enabled Kerberos for Authentication.
+Performed storage capacity management, performance tuning and benchmarking of clusters.
+Performance tuning of HIVE service for better Query performance on ad-hoc queries.
+Performed performance tuning for Spark Steaming e.g. setting right Batch Interval time, correct level of Parallelism, selection of correct Serialization & memory tuning.
+Data ingestion is done using Flume with source as Kafka Source & sink as HDFS.
+For one of the use case, used Spark Streaming with Kafka & HDFS & MongoDB to build a continuous ETL pipeline. This is used for real-time analytics performed on the data.
+Performed import and export of dataset transfer between traditional databases and HDFS using Sqoop.
+Configured Spark streaming to receive real-time data from Kafka and store the stream data to HDFS.
+Worked on Data Modelling using various ML (Machine Learning Algorithms) via R and Python (Graph lab).
+Environment: HDFS, PIG, Hive, Sqoop, Oozie, HBase, Zookeeper, Cloudera Manager, Ambari, Oracle, MYSQL, Cassandra, Sentry, Falcon, Spark, YARN
+
+May 2015 Hadoop Data Engineer
+May 2016 PayBook – Austin, TX
+I managed, implemented and administered data flow of financial information flowing between the USA and Mexico via banks and credit cards for PayBook which handles US companies doing business with Mexico.
+Source system analysis, data analysis, data modeling to ETL (Extract, Transform and Load) and HiveQL.
+Load log data into HDFS using Flume. Worked with developers on creating search automation and aggregation. 
+Worked extensively with Sqoop for importing data. 
+Designed a data warehouse using Hive. 
+Created partitioned tables in Hive. 
+Mentored analyst and test team for writing Hive Queries. 
+Extensively used Pig for data cleansing. 
+Scheduled Oozie workflow engine to run multiple Hive and Pig jobs, which independently run with time and data availability. 
+Developed Oozie Workflows for daily incremental loads, which gets data from Teradata and then imported into hive tables. 
+Developed Pig scripts to transform the data into structured format; automated through Oozie coordinators. 
+Implemented HTTP requests to call the specific API using the python libraries.
+Worked on pulling the data from relational databases, Hive into the Hadoop cluster using the Sqoop import for visualization and analysis. 
+Involved in creating Hive tables, loading the data and writing hive queries.
+Created a daily job to compress data from 300GB/day to 42GB/day and coalesce 250,000 files/day to 300 files/day 
+Greatly reduced the number of blocks to ease cluster memory stress 
+Enabled Sentry and Kerberos to ensure data protection 
+Worked closely with developers to develop and test new jobs
+Design and develop ETL workflows using Python and Scala for processing data in HDFS & MongoDB.
+Worked on importing the unstructured data into the HDFS using Spark Streaming & Kafka.
+Wrote complex Hive queries, Spark SQL queries and UDFs.
+Executed scripts Hive scripts and move the data files to/from HDFS.
+Involved in converting Hive/SQL queries into Spark transformations using Spark RDDs, Python, and Scala.
+Worked with Amazon Web Services (AWS) and involved in ETL, Data Integration, and Migration. 
+Handled 20 TB of data volume with 120-node cluster in Production environment.
+Loading data from diff servers to AWS S3 bucket and setting appropriate bucket permissions.
+
+Environment: Hadoop, HDFS, Hive, Spark, YARN, Kafka, Pig, MongoDB, Sqoop, Storm, Cloudera, Impala
+
+
+
+
+
+Jan 2014 Hadoop Data Engineer
+May 2015 Ovation Travel– New York, NY
+Ovation is a large corporate and professional firm travel agency.  I worked on data systems designed to analyze the way business travelers do business to drive efficiencies in the travel business.
+Deployed the application jar files into AWS instances.
+Used the image files of an instance to create instances containing Hadoop installed and running.
+Developed a task execution framework on EC2 instances using SQL and DynamoDB.
+Designed a cost-effective archival platform for storing big data using Hadoop and its related technologies. 
+Connected various data centers and transferred data between them using Sqoop and various ETL tools.
+Developed shell scripting and Python programs to automate the data flow of daily tasks.
+Extracted the data from RDBMS (Oracle, MySQL) to HDFS using Sqoop. 
+Used the Hive JDBC to verify the data stored in the Hadoop cluster.
+Worked with the client to reduce churn rate, read and translate data from social media websites.
+Integrated Kafka with Spark Streaming for real-time data processing
+Imported data from disparate sources into Spark RDD for processing.
+Built a prototype for real-time analysis using Spark streaming and Kafka.
+Involved in converting HiveQL/SQL queries into Spark transformations using Spark RDDs, Python, and Scala.
+Transferred data using Informatica tool from AWS S3.
+Using AWS Redshift for storing the data on cloud.
+Worked with management to determine the optimal way to report on datasets 
+Installed, configured, and monitored Hadoop Clusters using Cloudera 
+Balanced and tuned HDFS, Hive, Impala, and Oozie workflows
+Maintained and backed up meta-data 
+Configured Kerberos for the clusters 
+Imported data into HDFS and Hive using Sqoop and Kafka. Created Kafka topics and distributed to different consumer applications.
+Built a POC cluster in AWS; planning to migrate the whole cluster to cloud
+Scooped over 36TB of data from Teradata and transformed to parquet 
+Fashioned a new sandbox cluster to test upgrades and beta services
+Worked on Spark SQL and DataFrames for faster execution of Hive queries using Spark and AWS EMR 
+Implemented Partitioning, Dynamic Partitions and Buckets in HIVE for increasing performance benefit and helping in organizing data in a logical fashion. 
+Scheduled and executed workflows in Oozie to run Hive and Pig jobs 
+Configured Oozie workflow engine scheduler to run multiple Hive, Sqoop and pig jobs.
+Consumed the data from Kafka queue using Storm
+Used Oozie to automate/schedule business workflows which invoke Sqoop, and Pig jobs as per the requirements.
+
+Environment:  Hadoop, Spark, HDF, Oozie, Sqoop, MongoDB, Hive, Pig, Storm, Kafka, SQL, Acro, RDD. SQS S3, Cloud, MySQL, Informatica, Dynamo DB
+
+
+Aug 2012 Big Data Engineer
+Dec 2013 BB&T – Winston-Salem, N.C.
+I worked on optimization and building data pipelines as well as administration and workflows for BB&T.  The objective here was secure systems for processing data to inform risk management and guide lending decisions.
+Responsible for building scalable distributed data solutions using Hadoop.
+Installed and configured Pig for ETL jobs and made sure we had Pig scripts with regular expression for data cleaning.
+Creating Hive external tables to store the Pig script output. Working on them for data analysis in order to meet the business requirements.
+Worked with Spark Context, Spark -SQL, DataFrame and Pair RDDs.
+Used Hive, spark SQL Connection to generate Tableau BI reports.
+Created Partitions, Buckets based on State to further process using Bucket based Hive joins.
+Created Hive Generic UDF's to process business logic that varies based on policy.
+Developed various data connections from data sourced to SSIS, and Tableau Server for report and dashboard development.
+Used beautifulsoup for extracting data from HTML and XML files.
+Developed metrics, attributes, filters, reports, dashboards and also created advanced chart types, visualizations and complex calculations to manipulate the data.
+Used Zookeeper for providing coordinating services to the cluster.
+Used Oozie Scheduler system to automate the pipeline workflow and extract the data on a timely manner.
+Imported data using Sqoop to load data from MySQL and Oracle to HDFS on regular basis.
+Moving data from Oracle to HDFS and vice-versa using SQOOP.
+Collected and aggregated large amounts of log data using Apache Flume and staging data in HDFS for further analysis.
+Used Sqoop to efficiently transfer data between databases and HDFS and used Flume to stream the log data from servers.
+Implemented partitioning, bucketing in Hive for better organization of the data.
+Successfully loaded files to HDFS from Teradata, and loaded from HDFS to HIVE.
+Used Zookeeper and Oozie for coordinating the cluster and scheduling workflows.
+
+Environment: Hadoop Cluster, HDFS, Hive, Pig, Sqoop, Linux, HBase, Oozie, Oracle, HDFS, MySQL, Teradata, Zookeeper, beautifulsoup.
+
+Sep 2010 BI Analyst
+Jul 2012 Walmart – Bentonville, AR
+I worked in data processing in database administration.  This involved some hardware side, database servers, software use or reporting and querying to compile data for management reports on inventory and forecasting.
+Developed dashboards using SQLBI and Tableau. 
+Created tables with indexes, Entity Relationship Model, applied constraints and referential integrity checks. 
+Worked on comparing the Databases using Comparison and Publish and then updating the data into the TFS Server using SSDT 
+Wrote and executed SQL Queries (subqueries and join conditions, correlated subqueries). 
+Designed and developed SSIS ETL processes, test, deploy and quality assure the content 
+Worked on SSIS configuration and troubleshooting 
+Experience in deploying reports to System Test and Product test environments. 
+Participated in System Testing, integration testing, performance and product testing, defect management, database standardization and tuning 
+Developed SQL Queries to fetch complex data from different tables in remote databases using joins, database links and formatted the results into reports and maintained logs. 
+Designed and developed various Weekly and Monthly reports showing detailed information that could be used to send information to diverse group of users, clients, and managers. 
+Create, customize & share interactive web dashboards in minutes with simple drag & drop method and access dashboards from any browser or tablet. 
+Built Tableau visualizations for ad-hoc reporting against various Data Sources like Flat Files (
+Environment: Tableau, dashboards, SSIS, SQL queries, system testing, SQL
+
+May 2007 BI Developer
+Aug 2010 Florida Power and Light– Juno Beach, FL
+I managed database servers, and ran queries to compile data on utilization and billing metrics derived from sensors and from accounts.
+
+Effectively made use of Table Functions, Indexes, Table Partitioning, Collections, Analytical functions, Materialized Views, Index, Synonyms, and Views. 
+Developed materialized views for data replication in distributed environments. 
+Experience in documenting and implementing Disaster Recovery Plans using Always On, Database Mirroring, Log shipping, and Replication with different topologies for production databases. 
+Expert working in Virtual Environment using VMWARE for SQL Server. 
+Experience in implementation of SQL Server new features like AlwaysOn Availability Groups, Contained Databases, change data capture (CDC), online index rebuilds, Central management server, Transparent Data Encryption (TDE), User-Defined server roles. 
+Used PowerShell script for SQL Server Maintenance activities. 
+Expertise in Dynamic SQL, Collections and Exception handling. 
+Experience in using Performance Monitor/Profiler to resolve Dead Locks/Long running queries. 
+Hands on experience on SQL Server 2005, 2008, 2008R2, 2012 Native and SharePoint integrated mode Reporting Services. 
+Extensive experience in controlling the User Privileges, Monitoring the Security and Audit issues as per Enterprise Standards 
+
+Environment:  SQL Server, VMWare, CDC, TDE, Monitoring, Security, Privileges, Replication, 
+
+Education
+Southern Illinois University, Carbondale, IL
+Bachelor’s Degree in Entrepreneurial and Small Business Operations
+
+Certifications
+Computer Science, Database Administration, Web Development, Design

@@ -1,0 +1,180 @@
+Kislay Jha    917-338-9629  |  kislayJha000@gmail.com
+
+Kislay Jha    917-338-9629  |  kislayJha000@gmail.com
+
+
+
+
+
+Kislay Jha
+
+Hadoop Big Data Engineer
+
+917-338-9629
+
+kislayJha000@gmail.com
+
+Kislay Jha
+
+Hadoop Big Data Engineer
+
+917-338-9629
+
+kislayJha000@gmail.com
+
+6 Years Big Data Architecture and Spark Development
+
+8+ Years IoT and Information Technology
+
+
+
+Professional Experience
+
+	
+
+	New York, NY	Viacom
+
+	November/2016-present	Big Data Engineer
+
+
+
+Viacom cable network uses data scientists and big data to calculate ways to help marketers place their commercials with more precision. Once known as “Project Gemini,” the service, known as Vantage, is offered to a broad array of the company’s sponsors.
+
+
+
+	05/2015-11/2016	Slomin’s
+
+	Big Data Engineer	Hicksville, NY
+
+
+
+Slomin's has engaged third-party data analytic providers to track and analyze usage of the MyShield App. While providers brought the Data Scientists, I was contracted to Slomin’s to architect an Hadoop environment on AWS and construct pipelines per the specs provided by the analysts based on their needs.
+
+
+
+
+
+	02/2014-05/2015	Altice USA
+
+	Big Data Engineer	Long Island, NY
+
+
+
+Altice USA is one of the largest broadband communications and video services providers in the United States.  Altice chose to implement a proprietary advanced analytics environment to utilize massive amounts of user intelligence from which to develop a data rich intelligent advertising platform to offer innovative services to advertising clients.
+
+
+
+
+
+	06/2012-02/14	Southern Company
+
+	Big Data Engineer 	Atlanta, GA
+
+
+
+Southern Company is an American gas and electric utility holding company and the second largest in the USA.  The company uses big data analytics to drive the business strategy for acquisitions, expansion, implantation of power grids, stations and service areas.
+
+
+
+
+
+	01/2012-06/2012	Defense Research & Development
+
+	Physics Intern	New Delhi, India
+
+
+
+Dissertation in SSPL (Solid State Physics Laboratory), DRDO, in a project entitled “Gallium Nitride Monolithic Microwave Integrated Circuit based Amplifier designing”.
+
+
+
+
+
+
+
+
+
+
+
+
+Technical Skills
+
+
+
+Programming:  Scala C, C++, C#.Net, ADO.NET, Python, R, JavaScript, Visual Basic, Posh Script, JavaScript, Angular.js, React.js, Bootstrap, Entity Framework, Unix
+
+Database Languages:   ANSI SQL, TSQL, PL/SQL
+
+Client-Side Scripting:  JavaScript, JQuery, Ajax, Knockout, Bootstrap, AngularJS, React JS.
+
+Data Science:  Deep Learning, Neural Networks, IoT
+
+Big Data Frameworks: Hadoop, Hortonworks Hadoop, Cloudera Hadoop, MapR, HDFS, Spark, MapReduce, Apache Pig, Hive, Sqoop, Hive, Spark, Storm, Kafka, Pig, Hbase, Sqoop 
+
+Big Data Tools: Zookeeper, Tex, Oozie, Maven, Hcatalog
+
+Data Visualization: Tableau, Kibana, Talend
+
+Search & Query: Cloudera Impala, Apache Lucene, Elasticsearch, Apache SOLR
+
+Data Stores:  SQL, NoSQL, Database, Data Warehouse, Data Lake
+
+Cloud Platforms & Services:  Amazon/AWS, Google Computer Cloud, Azure Cloud
+
+Amazon EMR, EC2, SQS, S3, VPC, DynamoDB, Redshift, Kinesis, Redshift
+
+
+
+
+
+Professional Development
+
+
+
+Education
+
+Master of Science in Computer Science
+
+University of Bridgeport, Bridgeport, CT
+
+(GPA: 3.575/4.0)
+
+
+
+Bachelor of Engineering in Nanotechnology
+
+Amity Institute of Nanotechnology, Amity University, Noida, India
+
+(GPA: 4.0/4.0)
+
+
+
+Awards
+
+Honor Society of the Upsilon Pi Epsilon for the Computing and Information
+
+Disciplines.  Awarded Academic Scholarship for the year 2016 by University of Bridgeport, CT, USA
+
+
+
+Professional Training
+
+EduPristine (Mumbai) - Big Data and Hadoop
+
+Training in Apache Hadoop with learning in Apache Spark, Map Reduce Programing, Apache Pig, Hive,Sqoop, HBase
+
+
+
+Certifications
+
+Big Data and Hadoop
+
+
+
+Poster Presentations
+
+American Society for Engineering Education (ASEE)
+
+“IoT Challenges in The Future Internet” based on Internet of Things”
+
+2 | Page

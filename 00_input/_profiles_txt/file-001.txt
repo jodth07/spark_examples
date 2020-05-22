@@ -1,0 +1,432 @@
+Email: ibrahimamir213@gmail.com   Phone: (571) 934-4496
+
+
+
+Email: ibrahimamir213@gmail.com   Phone: (571) 934-4496
+
+
+
+Amir Ibrahim
+
+Big Data Engineer
+
+Email: ibrahimamir213@gmail.com
+
+Phone: (571) 934-4496
+
+
+
+
+
+
+
+
+
+Profile
+
+Profile
+
+
+
+
+5 years of professional IT experience in Big Data Engineering, Development and Administration.
+
+Developed Spark code for Spark-SQL/Streaming in Scala and PySpark.
+
+Experience integrating Kafka and Spark by using Avro for serializing and deserializing data, and for Kafka producer and consumer.
+
+Proficient with Cluster management such as Ambari, Hue and Cloudera Manager.
+
+Implemented CICD tools such as Jenkins and used to improve and automate processes.
+
+Configured GitHub plugin to offer integration between GitHub & Jenkins.
+
+Elasticsearch and Logstash (ELK) performance and configure tuning.
+
+Involved in converting Hive/SQL queries into Spark transformations using Spark RDD and Data Frame.
+
+Used Spark SQL to perform data processing on data residing in Hive.
+
+Involved in processes using Spark streaming to receive real time data using Kafka/ on prem and AWS cloud.
+
+Used Spark Structured Streaming for high performant, scalable, fault-tolerant data processing of real-time data streams by extending core Spark API on prem and AWS.
+
+Worked with Apache Spark which provides fast and general engine for large data processing integrated with functional programming language Scala.
+
+Moved data from Hortonworks cluster to AWS EMR cluster.
+
+Work Experience with Cloud Infrastructure like Amazon Web Services (AWS).
+
+Hive / Hive QL scripts to extract, transform, and load into database, wrote Hive UDF’s and did incremental imports into Hive tables.
+
+Kafka for data ingestion and extraction with move into HDFS.
+
+Kafka used for cluster handling in real time processing.
+
+Highly available, scalable and fault tolerant systems using Amazon Web Services (AWS).
+
+Experience with multiple terabytes of data stored in AWS using Elastic Map Reduce (EMR) and Redshift PostgreSQL.
+
+Experienced in Amazon Web Services (AWS), and cloud services such as EMR, EC2, S3, EBS and IAM entities, roles, and users.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sKILLS
+
+sKILLS
+
+	Spark
+
+	Spark SQL
+
+	Spark Streaming
+
+	Spark Structured Streaming 
+
+	Scala
+
+	PySpark
+
+	
+
+	AWS RDS
+
+	AWS EMR
+
+	AWS Redshift 
+
+	AWS S3
+
+	AWS Lambda 
+
+	AWS Kinesis 
+
+	AWS ELK
+
+	AWS Cloud Formation
+
+	AWS IAM
+
+
+
+	Sqoop
+
+	HDFS
+
+	Hadoop
+
+	Zookeeper
+
+	Hive
+
+	Oozie 
+
+	Hbase
+
+	Spark
+
+	Shell Script Language 
+
+
+
+	Ambari 
+
+	Hortonwork
+
+	HDP
+
+	Cluster
+
+	Yarn
+
+	Workflow
+
+	Kerberos 
+
+	Ranger
+
+
+
+	Kafka
+
+	Cassandra 
+
+	ELK
+
+	Kibana
+
+
+
+	Hortonworks(HDP)
+
+	CICD
+
+	Jenkins 
+
+	Cloudera 
+
+	Cloudera Manager 
+
+	Cluster Management
+
+	Cluster Security 
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXPERIENCE
+
+EXPERIENCE
+
+Big Data Engineer
+
+DISCOVERY COMMUNICATION, INC.
+
+Sterling, VA
+
+June 2019 – Present
+
+
+
+Setup Airflow and Jenkins server on EC2 instances
+
+Configured airflow.cfg and added Postgres credentials  to use Postgres dB for metadata
+
+Perform transformation on raw data from S3 and save to Oracle DB
+
+Ingest raw data from S3, process using Spark SQL and load to Oracle DB, Redshift tables
+
+Perform data analysis on historical record using Redshift Spectrum
+
+Work with cross-functional teams to develop data-driven application
+
+Author airflow DAG
+
+Created Uber jars and perform poc on EMR
+
+Improved performance on Tables Joins
+
+Process Data from S3 to Redshift: Load Eurosport data provided by Apple and Android to Redshift.
+
+Repartition datasets after after loading gzip files into DataFrames and  improved the process time from 1.1 hours to under 28 minutes.
+
+Lead process to write raw data into Oracle staging table
+
+Performance tuning for spark writing to S3 in parquet format.
+
+Setup email notification for Google and Apple Subscription job submission
+
+monitor active EMR clusters and automate emailing to ETL team
+
+Code Lambda Serverless application to transfer datasets from S3 to S3
+
+Setup and Configured development environment and QA Environment
+
+Configured CI/CD pipeline through Jenkins and GitHub
+
+Mentored jr/new developers in Spark/Scala to deploy spark jobs for Apple
+
+In charge of Development of spark jobs using Spark 2.3 on EMR
+
+Created EMR/Spark Cluster to perform ETL from diverse clients
+
+Performed Spark-submit along with flag configurations to maximize parallelism
+
+Monitored Spark Jobs using Log4j to track Spark Job Performance
+
+
+
+Big Data Engineer
+
+ARCHER DANIELS MIDLAND
+
+Chicago, IL
+
+Feb 2018 – June 2019
+
+
+
+Integrated Kafka and Spark with Avro for serializing and deserializing data, and for Kafka producer and consumer.
+
+Involved in converting Hive/SQL queries into Spark transformations using Spark RDD and Data Frame 
+
+Developed custom aggregate functions by Spark SQL and performed interactive querying.
+
+Involved in processes using Spark streaming to receive real time data using Kafka.
+
+Used Spark Structured Streaming to structure real time data frame and update it in real time.
+
+Responsible for designing and deploying new ELK clusters.
+
+Used Git version control and Jenkins Continuous Integration server for CICD.
+
+Used Kibana to create custom dashboards, data visualization and reports.
+
+Worked with Apache Spark which provides fast and general engine for large data processing integrated with functional programming language Scala.
+
+Fine-tuned resources for long-running Spark Applications to utilize better parallelism and executor memory for more caching.
+
+Worked with both batch and real-time processing w/ Spark frameworks.
+
+Created a Kafka producer to connect to different external sources and bring the data to a Kafka broker.
+
+Handled schema changes in data stream using Kafka.
+
+Created a Kafka broker in structured streaming to get structured data by schema.
+
+Hive partitioning, bucketing, performing joins on Hive tables.
+
+Wrote Hive queries and wrote custom UDF’s.
+
+Performed transformations and analysis using Hive
+
+
+
+
+
+Big Data Engineer
+
+DELL COMPUTER
+
+Round Rock, TX
+
+Sept 2016 – Feb 2018
+
+AWS Cloud Formation was used to create templates for database development. 
+
+Migrated data from Hortonworks cluster to AWS EMR cluster.
+
+Configured AWS IAM and Security Group as per requirement and distributed them as groups into various availability zones of the VPC.
+
+Used AWS Kinesis process data and load into AWS RDS MySQL database and S3. 
+
+Used AWS RedShift Clusters to sync data as a data warehouse solution of our data pipeline in AWS and used AWS RDS to store the data for retrieval to dashboard.
+
+Designed and Developed ETL jobs to extract data from AWS S3 and load it in data mart in Amazon Redshift.
+
+
+
+
+
+Big Data Developer
+
+CAPITAL ONE
+
+McLean, VA
+
+Mar 2015 – Sept 2016
+
+Implemented data processing using Hadoop Cloudera  distributions on AWS.
+
+Installation of Cloudera Hadoop clusters on AWS using Cloudera Manager (CDH3, CDH4 & CDH5).
+
+Experience in working with Flume to load the log data from multiple sources directly into HDFS on AWS platform.
+
+Extensively worked on HiveQL, join operations, writing custom UDFs, and skilled in optimizing Hive Queries.
+
+Large-scale Hadoop deployments (40+ nodes; 3+ clusters) on AWS.
+
+Hands-on data extraction from different databases on AWS and scheduling Oozie workflows to execute the task daily.
+
+Created UNIX shell scripts to automate the build process, and to perform regular jobs like file transfers.
+
+Sqoop to import/export data from database to HDFS and Data Lake on AWS.
+
+Setup the Python scripts to create the snapshots on AWS S3 buckets and delete the old snapshots.
+
+Worked on S3 bucket integration for Web application and Development projects.
+
+Worked on manage policies for S3 buckets and glacier for storage and backup on AWS.
+
+
+
+
+
+
+
+Hadoop Administrator/Engineer
+
+CERASIS
+
+Eagan, MI
+
+Mar 2014 – Mar 2015
+
+Ambari to monitor workload, job performance and capacity planning.
+
+Coordinates with monitors cluster upgrade needs, and monitors cluster health and builds proactive tools to look for anomalous behaviors.
+
+Responsible for maintenance and performance of clusters.
+
+Implement and maintain security LDAP, Kerberos as designed for cluster.
+
+Configured, installed and managed Hortonworks distributions is a multi-cluster environment.
+
+Implemented Kafka Security Features using SSL and without Kerberos.
+
+Handled security of the cluster by administering Kerberos and Ranger services.
+
+Worked on resolving RANGER and Kerberos issues.
+
+Wrote shell scripts to automate workflows to pull data from various databases into Hadoop.
+
+Spark API over Cloudera Hadoop YARN to perform analytics on data in Hive.
+
+Developed ETL pipelines w/ Spark and Hive for business-specific transformations.
+
+Wrote custom Hive UDFs and hooked UDF's into larger Spark applications.
+
+Handled structured data via Spark SQL then stored into Hive tables for downstream consumption.
+
+Performed streaming data ingestion to the Spark distribution environment, using Kafka.
+
+Implemented data ingestion and cluster handling in real time processing using Kafka.
+
+Integrated Kafka with Spark Streaming for real time data processing.
+
+Wrote incremental imports into Hive tables.
+
+Support for the clusters, topics on the Kafka manager.
+
+
+
+
+
+
+
+
+
+
+
+
+
+EDUCATION
+
+EDUCATION
+
+Bachelor’s degree in Information Systems 
+
+Metropolitan State University
+
+St. Paul, MN

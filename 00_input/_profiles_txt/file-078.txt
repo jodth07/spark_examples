@@ -1,0 +1,330 @@
+ou
+
+
+
+
+
+
+
+
+
+
+
+Kevin Lanni
+
+Big Data Engineer
+
+kevin.lanni4691@gmail.com | (610) 379-2483
+
+
+
+PROFESSIONAL SUMMARY
+
+5 years experience as a big data professional with experience in Big Data Engineering, Big Data Development and Bid Data Administration.
+
+Spark to optimize ETL jobs, and Spark to create structured data from the pool of unstructured data received.
+
+Experience with data ingestion from various sources using Apache Flume and Kafka.
+
+Created a Kafka producer to connect to different external sources and bring the data to a Kafka broker.
+
+Hands-on AWS EMR and S3, and Redshift clusters in AWS.
+
+Work closely with management and team to understand the existing systems and recommend for CICD automation.
+
+Analyze and tune Cassandra data model for multiple internal projects/customers. 
+
+Expertise in Monitoring with ELK stack (Elasticsearch, Logstash and Kibana)
+
+Pull files from AWS cluster and store in Elastic search by lambda functions and Kibana to visualize. 
+
+Continuous Integration tools Jenkins CICD) and automated jar file deployment.
+
+Optimized Hive using partitioning and bucketing, and incremental imports from Sqoop to Hive.
+
+Experience with Real-Time Streaming Data Pipelines with Kafka, Spark Streaming and Hbase
+
+Hands-on experience processing data using Spark Streaming API with Scala.
+
+Effectively tune Hive scripts and use of Spark to optimize systems.
+
+Spark used in optimizing ETL jobs to reduce memory and storage consumption and wrote Spark codes in to run a sorting application on the data stored on AWS.
+
+Technical Skills
+
+
+
+Experience as a Big Data Engineer and Developer.  
+
+Skilled in on-prem and cloud environments such as AWS, Hadoop, Hortonworks, Cloudera
+
+Adept at high performant data processing and pipelines using Spark, Spark SQL, Spark Streaming, Spark Structured Streaming, Kafka
+
+Knowledge of multiple Big Data Cloud Platforms using AWS ELK, EMR, S3, Lambda, Kinesis, Cloud Formation, IAM
+
+Cassandra, ELK, Kibana, Scala, Pyspark, CICD, Jenkins
+
+Able to work with a variety of data stores including SQL Database like MySQL and Oracle SQL and NoSQL such as Cassandra and Hbase.
+
+Knowledgeable of Cloud Security using Kerberos and Ranger.
+
+Skilled in Hadoop Stack with Yarn using Sqoop, Hive, HDFS, 
+
+Adept at Shell Language Scripting
+
+Installation, maintenance and monitoring of Hadoop clusters, Kafka Clusters, online and on premise; experienced in use of Ambari.
+
+Administration using Oozie workflows and Zookeeper.
+
+Strong advocate of agile methodologies
+
+
+
+
+
+Professional Experience
+
+
+
+
+
+May 2019 – Present
+
+AI ML Big Data Engineer
+
+Vanguard 
+
+Malvern, PA 
+
+
+
+Worked on collecting and transforming internal and external data from multiple sources for both business reporting and the training of AI models.
+
+Interacted with 3rd party REST API’s to ingest data
+
+Planned and architected serverless Architecture using AWS Lambda, SQS and DynamoDB
+
+Ingested Realtime Data using Kinesis Streams
+
+Created and maintained various infrastructure using Cloudformation
+
+Planned and Implemented DynamoDB Data Modelling for various tables.
+
+Contributed to creating a Data Lake used for Business reporting through the ThoughtSpot Visualization tool.
+
+Transformed company-wide internal data using PySpark and PySpark SQL
+
+Created and maintained Lambdas used for processing data in real-time.
+
+Worked infrastructure and Lambdas used to create an interactive FAQ Chatbot backed by an Amazon ElasticSearch cluster.
+
+Created IAM Roles and Policies for various resources used by team to maintain security on PII sensitive data.
+
+Created Hive Tables containing datasets to be used by Data Scientists for AI model training.
+
+Created Build and Deploy plans for Bamboo
+
+Used BitBucket for Git Versioning
+
+Coordinated with 3rd party Vendors and other teams to ensure Data Integrity.
+
+Adhered to Data Compliance Standards for storing and processing sensitive data
+
+Helped to mentor more junior developers in learning the AWS Technology stack.
+
+Created and maintained various S3 buckets through Cloudfomation requiring differing requirements in configurations.
+
+Performed Data exploration and metadata collection for the purposes of Identifying useful information for Financial AI Models.
+
+Participated in an Agile work place using Jira, Scrum, and Kanban
+
+Architected and built robust Data pipelines to ensure the minimization of data loss.
+
+Provided performance and cost analysis on various AWS cloud architectures
+
+Helped develop methodologies guided by the CTO team for acquiring new open source libraries needed by Data Scientists and Engineers.
+
+Ensured Data Security through the use of KMS encryption and the use of passwords in AWS Secrets Manager.
+
+Helped in planning architecture to be used for autoscaling Kinesis streams for increasing production workloads.
+
+Worked on deployment of EC2 infrastructure to support a ThoughtSpot cluster in the cloud.
+
+Created Documentation including Architecture diagrams and Code Documentation for easy knowledge transfer.
+
+Technologies:  AWS, DynamoDB, Lambda, EMR, EC2, PySpark, Hive, ThoughtSpot, SQS, Kinesis, KMS, SecretsManager, IAM, S3, Python, Pandas, Cloudformation, Amazon Elasticsearch, Lex, BitBucket, Bamboo
+
+
+
+
+
+March 2018 – Present
+
+Big Data Engineer
+
+DuPont 
+
+Wilmington, DE
+
+
+
+Played a key role in installation and configuration of the various Big Data ecosystem tools such as Elastic Search, Logstash, Kibana, Kafka and Cassandra.
+
+Integrated Spark code into the SDLC with the CI/CD pipeline using Jenkins CI with Git versioning.
+
+Migrated log management system from Flume to Kafka.
+
+Extract/ Import log data from source to HDFS using Kafka.
+
+Structured unstructured data with Spark.
+
+Made incremental imports to Hive with Sqoop.
+
+Configured Kafka broker for the Kafka cluster of the project and streamed the data to spark for structured streaming to get structured data by schema.
+
+Partitioning and bucketing to optimize Hive app.
+
+Handled structured data with Spark SQL to process in real time from Spark Structured Streaming. 
+
+Optimized Spark jobs migrating from Spark RDD’s API to Data Frames.
+
+Kibana dashboard designed over Elasticsearch for visualizing the data
+
+Interacted with data residing in HDFS using Spark to process the data.
+
+Created Hive queries to spot emerging trends by comparing Hadoop data with historical metrics.
+
+Migrated data through Sqoop and Hive in HDFS platform
+
+Loaded data into HBase tables and Hive tables consumption purposes.
+
+
+
+Feb 2017 – March 2018
+
+Big Data Engineer
+
+Discovery
+
+Sterling, VA
+
+
+
+Developed AWS Cloud Formation templates to create custom infrastructure of our pipeline.
+
+Participated into the AWS architecture, design and planning from ingestion into reporting.
+
+Automated and defined Spark and AWS Best practices for future deployment.
+
+Developed multiple Spark Streaming and batch Spark jobs using Scala and Python on AWS.
+
+Deploy Spark Jobs into AWS EMR.
+
+Configured Elastic search, Log stash and Kibana (ELK) for log analytics, full text search, application monitoring in integration with AWS Lambda and Cloud Watch.
+
+Hands-on work with AWS EMR and S3.
+
+Securely controlling AWS users and groups access to AWS services and resources by assigning roles and polices using IAM.
+
+Working on AWS Kinesis for processing huge amounts of real time data.
+
+Set-up AWS Lambda to process event-driven data to various AWS resources.
+
+Automated AWS components like EC2 instances, Security groups, ELB, RDS, Lambda and IAM through AWS cloud Formation templates.
+
+AWS EMR to process big data across Hadoop clusters of virtual servers on Amazon Simple Storage Service (S3).
+
+
+
+Jan 2016 – Jan 2017
+
+Big Data Developer
+
+TD Ameritrade
+
+Omaha, NE
+
+Worked on Hortonworks Hadoop distributions (HDP 2.5)
+
+Managed Hadoop clusters and check the status of clusters using Ambari.
+
+Imported/exported from various sources to HDFS to build Data Lake.
+
+Hive partitioning, bucketing, and joins on Hive tables, utilizing Hive SerDe’s.
+
+End-to-end data analytics solutions and support using Hadoop systems.
+
+Developed Oozie workflows for scheduling and orchestrating the ETL process.
+
+Used Unix shell scripting to automate common tasks.
+
+Initiated data migration from/to traditional RDBMS with Apache Sqoop.
+
+Configured Hadoop components (HDFS, Zookeeper) to coordinate the servers in clusters.
+
+Spark streaming implemented for real-time data processing with Kafka.
+
+Performance tuning of Spark, issued by data skewness.
+
+Performed streaming data ingestion to the Spark distribution environment, using Kafka. 
+
+Wrote streaming applications with Spark Streaming/Kafka. 
+
+
+
+June 2014 – Dec 2015
+
+Hadoop Developer
+
+MedImmune
+
+Gaithersburg, MD
+
+
+
+Managed cluster using Ambari
+
+Collaborated with the Hadoop Team to add and decommission nodes from the Hadoop cluster 
+
+Performed cluster and system performance tuning.
+
+Involved in implementing security on HDP Hadoop Clusters with Kerberos for authentication and Ranger for authorization and LDAP integration for Ambari, Ranger
+
+Worked with different teams to install operating system, Hadoop updates, patches, version upgrades of Hortonworks
+
+Designed and implemented security of Hadoop cluster using Kerberos.
+
+Secure some of important Hadoop application of the cluster from Apache Ranger.
+
+Job management using Fair Scheduler, and development of job processing scripts using Oozie workflow to run multiple Spark Jobs in sequence for processing data.
+
+Used Spark API over Hadoop YARN to perform data processing to Hive. 
+
+Spark streaming to receive real time data using Kafka.
+
+Configured Spark Streaming to receive real-time data to store in HDFS.
+
+Created Hive tables, loading with data and writing Hive queries.
+
+Ran Hadoop streaming jobs to process terabytes of XML format data.
+
+Integrated Kafka with Spark streaming for high speed data processing.
+
+Loaded data from UNIX file system to Hadoop file system (HDFS) and wrote HIVE UDFs.
+
+Used Avro for serializing and deserializing data, and for Kafka producer and consumer.
+
+
+
+
+
+
+
+Education
+
+
+
+Bachelor of Arts
+Rutgers University
+
+New Brunswick, NJ

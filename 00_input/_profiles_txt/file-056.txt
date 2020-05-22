@@ -1,0 +1,497 @@
+Alexander Lee 
+
+BIG DATA | HADOOP | CLOUD ETL
+
+Lead Hadoop Data Engineer
+
+xanderlee0613@gmail.com
+
+404-410-6579
+
+			
+
+			
+
+
+
+
+
+Consultant 
+
+BIG DATA | HADOOP | CLOUD ETL
+
+Consultant@gmail.com
+
+999-999-9999
+
+
+
+
+
+
+
+I I I I I I I I I I
+
+KEY STRENTHS
+
+
+
+Programming Languages
+
+Data Pipelines
+
+Architecture
+
+Engineering
+
+Optimization
+
+Customization
+
+Automation
+
+Data Analysis
+
+Visualization
+
+Custom Dashboards
+
+&  Reporting
+
+On-Prem & Cloud
+
+
+
+
+
+Summary
+
+5 years in Hadoop/Big Data
+
+5 years in Information Technology
+
+Understanding of distributed systems, HDFS architecture, internal working details of MapReduce and Spark processing frameworks.
+
+Understanding of Hadoop big data architectures, data movement technologies, database partitioning, database optimization, and building communication channels between structured and unstructured databases.
+
+Understanding of big data concepts and use of cloud technologies and tools.
+
+Well-versed in installation, configuration, administration, and tuning Hadoop cluster of major Hadoop distributions (Cloudera CDH 3/4/5, Hortonworks HDP 2.3/2.4, and Amazon Web Services (AWS).
+
+Mastered use of the different columnar file formats like RCFile, ORC and Parquet formats.
+
+Pandas experience with operational monitoring of clusters and applications.
+
+Setup and Config Data Lake on Bigdata platforms like Cloudera, Hortonworks, and Mapr.
+
+Skill using Open source software like Spark, Flume, and Kafka.
+
+Proficient performing importing/exporting actions between SQL (Oracle, MySQL) / NoSQL (Realm, MongoDB) databases and HDFS using Sqoop. 
+
+Proficient with building tools like Apache Ant and Apache Maven.
+
+Hands on experience migrating complex MapReduce programs into Apache Spark RDD operations like transformations and actions.
+
+Hands-on expertise in Hadoop components - HDFS, MapReduce, Hive, Impala, Pig, Flume, Sqoop and HBase.
+
+Implemented, set-up and worked on various Hadoop Distributions (Cloudera, Hortonworks, Amazon AWS).
+
+Knowledgeable of deploying the application jar files into AWS instances.
+
+Knowledgeable of Hadoop Architecture and Hadoop components (HDFS, MapReduce, JobTracker, TaskTracker, NameNode, DataNode, ResourceManager, NodeManager.
+
+Knowledgeable of installation and configuration of Hive, Pig, Sqoop, Flume and Oozie on Hadoop clusters.
+
+Education
+
+Bachelor of Computer Science
+
+University of North Carolina, Charlotte, NC
+
+Technical Skills
+
+
+
+PROGRAMMING
+
+Java, C++, C#, C, Python, Scala, R
+
+
+
+SCRIPTING
+
+PIG/Pig Latin, HiveQL, MapReduce, XML, FTP, Ruby, Angular.js
+
+Python, UNIX, Shell scripting, LINUX
+
+
+
+SOFTWARE DEVELOPMENT
+
+Agile, Continuous Integration, Test-Driven Development, Unit Testing, Functional Testing, Gradle, Git, SVN, Jenkins, Travis, Jira, Puppet, Maven
+
+
+
+DEVELOPMENT ENVIRONMENTS
+
+Eclipse, IntelliJ, NetBeans, PyCharm, Visual Studio, Atom, BlueJ
+
+
+
+AMAZON CLOUD
+
+Amazon AWS (EMR, EC2, EC3, SQL, S3, DynamoDB, Cassandra, Redshift, Cloud Formation)
+
+
+
+NoSQL: MongoDB, Firebase, 
+
+
+
+SQL: SQL, MySQL, PostreSQL
+
+
+
+HADOOP DISTRIBUTIONS
+
+Cloudera, Hortonworks, MapR, Elastic
+
+
+
+QUERY/SEARCH
+
+SQL, HiveQL, Impala, Apache SOLR, Kibana, Elasticsearch
+
+
+
+BIG DATA COMPUTE
+
+Apache Spark, Spark Streaming, Storm
+
+
+
+Frameworks
+
+Hive, Pig, Ant, Yarn, Spark, Spark Streaming, Storm, Kafka
+
+
+
+Visualization
+
+Pentaho, Qlikview, Tableau
+
+
+
+Formats
+
+Parquet, Avro, Orc, JSON
+
+
+
+Data Pipeline Tools
+
+Apache Airflow, Apache Camel, Apache Flink/Stratosphere, Nifi
+
+
+
+Admin Tools
+
+Oozie, Cloudera Manager, Ambari, Zookeeper, Active Directory, PowerShell
+
+
+
+Work Experience
+
+July 2018 – Present
+
+Anthem
+
+Norfolk, VA 
+
+Lead Big Data Developer
+
+Served as Lead Big Data Developer on a new big data engine for Anthem, leading a team of 15 data engineers and developers.  Made optimal use my time and resources for the project and worked with great efficiency and effectiveness to achieve several objectives in an extremely short time allotted.
+
+Accomplishments included data integrity, POC for PySpark, and Hive queries.  Work included a legacy pipeline, fixing Hive to Hive connection and using Python and Spark to optimize performance.  I worked on architecture of code to run the Hive to Hive connection and development of the core for the same.  
+
+Baseline analysis of the project and environment when I began showed that no Dev-Ops work had been done.  Taking the initiative and responsibility, I set-up the environment for the developers and also worked as a Solution Architect for any issues that occurred.  Anthem had an on-prem service which I developed a migration plan to move the entire environment to AWS.  I was also solely responsible for creating a new core Spark engine to be used for the sole source for Anthem.  This engine will be doing all the business logic duties as an automated system.  The automated system will use Scala and Spark to process and store all data in the data lake on the production environment.
+
+
+
+Responsible for creating a Dev-Ops development environment.
+
+Created connectors (Spark to Mongo DB; Docker to Kubernetes )
+
+Created design documents (Hive to Hive documentation with naming conventions, data flow, design diagrams)
+
+Created a POC ( Used PySpark to work on deduplications, null values, and data Integrity)
+
+Assisted junior developers with their work and understanding of Apache tools
+
+Helped front-end developers on understanding of how containers work and connections needed
+
+Provided custom solutions to leads
+
+Worked with Spark 2.3 and Scala 2.11 t create data engine on business logic.
+
+Collaborated with cross-functional teams (Hadoop Admins, Mongo Admins, Tech support) to resolve issues involving back-end connectivity and infrastructure.
+
+Collaborated with offshore team on development.
+
+Environment: Hadoop	
+
+Technologies:  Spark, Scala, Control M, Hive, Pyspark
+
+
+
+
+
+March 2017 – July 2018
+
+Republic National Distributing Company
+
+Atlanta, GA
+
+
+
+
+
+
+
+Lead Hadoop Big Data Engineer
+
+Project involved supply chain or delivery route optimization. Here, geographic positioning and radio frequency identification sensors are used to track goods or delivery vehicles and optimize routes by integrating live traffic data, etc. HR business processes are also being improved using big data analytics.
+
+
+
+Designed a cost-effective archival platform for storing big data using Hadoop and its related technologies. 
+
+Worked with the Data Science team to gather requirements for various data mining projects.
+
+Implemented Spark RDD transformations to map business analysis and apply actions on top of transformations.
+
+Used Cassandra to work on JSON documented data.
+
+Worked on Redshift query to load the bulk of data and execute queries.
+
+Used HBase to store majority of data which needed to be divided based on region.
+
+Extracted real-time using Spark RDD and process data in the form of Data Frame and save the data as Parquet format in HDFS.
+
+Used Amazon Relational Database Service (RDS)to store majority of RDBMS data from SQL on premises.
+
+Moved data from Data Warehouse to Amazon DynamoDB for storage.
+
+Used the image files of an instance to create instances containing Hadoop installed and running.
+
+Developed dynamic file configurations and environment variables to run jobs in different environments.
+
+Worked on installing clusters, commissioning & decommissioning of data node, configuring slots, and on name node high availability, and capacity planning.
+
+Executed tasks for upgrading clusters on the staging platform before doing it on production cluster.
+
+Responsible for installing and configuring Apache Hadoop clusters and various tools (Hbase, Redshift, Spark, Kafka, Sqoop, Hive, Kinesis) on AWS cloud.
+
+
+
+
+
+October 2015 - March 2017
+
+Disney
+
+Seattle, WA
+
+
+
+
+
+
+
+Big Data Engineer
+
+Theme parks are using data to understand and target their patrons. RFID tags inserted into tickets and passes can cut back on fraud and wait times at attractions.  They also help predict traffic patterns, find lost children. The data can also be used to enrich user experience by showing things like daily stats and plan each day’s activities on mobile apps.  Users can have fun sharing stats with friends on social media and even have contests.
+
+Created custom Kafka producer to ingest the raw data into Kafka topics for consumption by custom Kafka Consumers.
+
+Created custom Spark Streaming app to process clickstream events.
+
+Developed workflow in Oozie to automate the tasks of loading data into HDFS and pre-processing with Pig and Hive.
+
+Integrating Kafka with Spark streaming for high speed data processing.
+
+Developed Spark code using Scala and Spark-SQL/Streaming for faster processing of data.
+
+Created modules for Spark streaming in data into Data Lake using Storm and Spark.
+
+Configured Spark Streaming to receive real time data and store the stream data to HDFS
+
+Configured scheduler to allocate resources to all the applications across the cluster.
+
+Collected log data using custom built input adapters and Sqoop.
+
+Performed maintenance, monitoring, deployments, and upgrades across infrastructure that supports all Hadoop clusters.
+
+Partitioning and bucketing done for the log file data to differentiate data on a daily basis and aggregate based on business requirements.
+
+Deployed the application jar files into AWS EC2 instances.
+
+Developed a task execution framework on EC2 instances using SQS and DynamoDB.
+
+Performed transformations of data using Hive and Pig to HDFS for aggregations.
+
+Captured and transformed real-time data from Amazon Aurora into a suitable format for scalable analytics.
+
+Created and developed the UNIX shell scripts for creating reports from Hive data.
+
+Developed internal and external tables, and used Hive DDLs to create, alter and drop tables.
+
+Manipulated and analyzed complex, high volume, and high dimensional data in AWS using various querying tools.
+
+Set-up QA environment and updated configurations for implementing scripts with Pig.
+
+
+
+
+
+May 2014 - October 2015
+
+Raytheon
+
+Waltham, MA
+
+
+
+
+
+
+
+Big Data Engineer
+
+The Raytheon Company is a major U.S. defense contractor and industrial corporation with core manufacturing concentrations in weapons and military and commercial electronics. 
+
+Worked on AWS to create, manage EC2 instances, and Hadoop Clusters.
+
+Deployed the Big Data Hadoop application using Talend on cloud AWS.
+
+Using AWS Redshift for storing the data on cloud.
+
+Performed maintenance, monitoring, deployments, and upgrades across infrastructure that supports all Hadoop clusters.
+
+Used Zookeeper and Oozie for coordinating the cluster and scheduling workflows.
+
+Involved in transforming data from legacy tables to HDFS, and HBase tables using Sqoop.
+
+Transformed the logs data into data model using Pig and written UDF functions to format the logs data.
+
+Used HBase to store majority of data which needed to be divided based on region.
+
+Experience with Spark for processing and Storm to ingest data from varied sources.
+
+Created HBase tables to store variable data formats of data coming from different portfolios.
+
+Used Spark SQL and Data Frames API to load structured and semi structured data into Spark Clusters.
+
+Collected log data using custom built input adapters and Sqoop.
+
+Wrote shell scripts for exporting log files to Hadoop cluster through automated processes.
+
+Successfully loaded files to HDFS from SQL using Spark.
+
+Used Spark-SQL and Hive Query Language (HQL) for getting customer insights
+
+Optimized Hive analytics SQL queries, created tables/views, wrote custom UDFs and Hive-based exception processing.
+
+Involved in loading data from UNIX file system to HDFS.
+
+Wrote shell scripts for automating the process of data loading.
+
+Use of Spark Data Frame and Spark SQL API extensively for processing.
+
+Designed and implemented test environment on AWS.
+
+Imported real-time logs to HDFS using Kafka.
+
+Worked on various file formats AVRO, ORC, Text, CSV, and Parquet using Snappy compression.
+
+Created both internal and external tables in Hive and developed Pig scripts to preprocess the data for analysis.
+
+Designed appropriate partitioning/bucketing schema to allow faster data retrieval during analysis using Spark.
+
+
+
+
+
+January 2013 - May 2014
+
+Nucor Corporation
+
+Charlotte, NC
+
+
+
+
+
+Big Data Administrator
+
+Nucor Corporation is a producer of steel and related products headquartered in Charlotte, North Carolina. It is the largest steel producer in the United States of America and is the largest "mini-mill" steelmaker.  
+
+
+
+Partitioning and bucketing done for the log file data to differentiate data on a daily basis and aggregate based on business requirements.
+
+Worked directly with the Big Data Architecture Team which created the foundation of this Enterprise Analytics initiative in a Hadoop-based Data Lake
+
+
+
+Apache Open source version with Mesos job scheduler; developed, designed tested Spark SQL clients with Scala, PySpark and Java clients
+
+Performed aggregations on large sets of log data using SparkSQL.
+
+Collected log data using custom built input adapters and Sqoop.
+
+Wrote Oozie configuration scripts for exporting log files to Hadoop cluster through automated processes. 
+
+Administered Hadoop cluster(CDM) and reviewed log files of all daemons.
+
+Involved in scheduling Oozie workflow engine to run multiple Hive, Sqoop and Pig jobs.
+
+Implemented workflows using Apache Oozie framework to automate tasks.
+
+Used Zookeeper for various types of centralized configurations, GIT for version control, and Maven as a build tool for deploying the code.
+
+Translated legacy MapReduce jobs to Spark to improve data ingestion.
+
+Imported data from disparate sources into Spark RDD for processing.
+
+Analyzed large sets of structures, semi-structured and unstructured data by running Hive queries and Pig scripts.
+
+Support for the clusters, topics on the Kafka manager.
+
+Involved in developing Pig Scripts for change data capture and delta record processing between newly arrived data and already existing data in HDFS.
+
+Consumed data from Kafka queue using Storm.
+
+Used Spark SQL to perform transformations and actions on data residing in Hive.
+
+Wrote MapReduce code to process and parse data from various sources and store parsed data into HBase and Hive using HBase-Hive Integration.
+
+Help to implement different components on the cloud for the Kafka application messaging.
+
+Partitioning and bucketing log file data to differentiate and aggregate.
+
+Used Spark Streaming to divide streaming data into batches as an input to Spark engine for batch processing.
+
+Worked on in setting up Kafka and Storm clusters in Amazon (AWS).
+
+Loading and transforming large sets of structured and semi structured data from HDFS through Sqoop, and placed in HDFS for further processing.
+
+Developed Kafka standalone POC's with the Confluent Schema Registry, Rest Proxy, Kafka Connectors for Redshift and HDFS(Hadoop).
+
+
+
+Education
+
+BACHELORS IN COMPUTER SCIENCES
+
+University of North Carolina, Charlotte, NC

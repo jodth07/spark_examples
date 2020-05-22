@@ -1,0 +1,326 @@
+Big Data Engineer
+
+Email:  consultant@gmail.com
+
+Phone: 999-999-9999
+
+Big Data Engineer
+
+Email:  consultant@gmail.com
+
+Phone: 999-999-9999
+
+Vincent Schneider
+
+Vincent Schneider
+
+
+
+
+
+
+
+
+
+█   █   █   █   █   █   █  Professional Profile  █   █   █   █   █   █   █    
+
+5 years of experience with the Hadoop ecosystem and Big Data tools and frameworks.
+
+Familiarity with the entire Hadoop ecosystem including, SQL, Scala, PIG, Hive, RDDs, DataFrames.
+
+Accustomed to working with large complex data sets, real-time/near real-time analytics, and distributed big data platforms.
+
+Proficient in major vendor Hadoop distribution like Cloudera, Hortonworks.
+
+Creation of UDF functions in Python or Scala.
+
+Data Governance, Security & Operations experience.
+
+Deep knowledge in incremental imports, partitioning and bucketing concepts in Hive and Spark SQL needed for optimization.
+
+Experience collecting log data from various sources and integrating it into HDFS using Flume; staging data in HDFS for further analysis.
+
+Experience collecting real-time log data from different sources like webserver logs and social media data from Facebook and Twitter using Flume, and storing in HDFS for further analysis.
+
+Experience deploying large multiple nodes of a Hadoop and Spark cluster.
+
+Experience developing custom large-scale enterprise applications using Spark for data processing.
+
+Experience developing Oozie workflows for scheduling and orchestrating the ETL process.
+
+Excellent knowledge on Hadoop Architecture and ecosystems such as HDFS, configuration of nodes, YARN, Sentry, Spark, Falcon, Hbase, Hive, Pig, Sentry, Ranger.
+
+Developed Scripts and automated data management from end to end and sync up between all the clusters.
+
+Spark SQL to perform transformations and actions on data residing in Hive.
+
+Spark Streaming to divide streaming data into batches as an input to Spark engine for batch processing.
+
+Responsible for building quality for data transfer pipelines for data transformation using Flume, Spark, Spark Streaming, and Hadoop.
+
+Able to architect and build new data models that provide intuitive analytics to customers.
+
+Able to work with existing EDS platforms and strategic initiatives that are built for future phases of EDS/EBI. 
+
+Strong hands on experience in Hadoop Framework and its ecosystem including but not limited to HDFS Architecture, Hive, Pig, Sqoop, HBase, MongoDB, Cassandra, Oozie, Spark RDDs, Spark DataFrames, Spark Datasets, Spark MLlib, etc.
+
+Worked on disaster management with Hadoop cluster.
+
+Involved in building a multi-tenant cluster.
+
+Experience in Mainframe data and batch migration to Hadoop.
+
+Hands on experience in installing, configuring Cloudera's and Horton distribution.
+
+Extending Hive and Pig core functionality by writing custom UDFs.
+
+Extensively used Apache Flume to collect logs and error messages across the cluster.
+
+
+
+
+
+█   █   █   █   █   █   █   Professional Skills   █   █   █   █   █   █   █    
+
+Programming Languages & IDEs
+
+Unix shell scripting, Object-oriented design, Object-oriented programming, Functional programming,  SQL, Java, Hive QL, MapReduce, Python, Scala, XML, Blueprint XML, Ajax, REST API, Spark API, JSON, Avro, Parquet, ORC, Jupyter Notebooks, Eclipse, IntelliJ, PyCharm, Matlab, SAS & R, CS I & II, Assembly & C Programming
+
+Data & File Management
+
+Apache Cassandra, Apache Hbase, MapR-DB, MongoDB, Oracle, SQL Server, DB2, Sybase, RDBMS, MapReduce, HDFS, Parquet, Avro, JSON, Snappy, Gzip, DAS, NAS, SAN
+
+Methodologies
+
+Agile, Kanban, Scrum, DevOps, Continuous Integration, Test-Driven Development, Unit Testing, Functional Testing, Design Thinking, Lean, Six Sigma
+
+Cloud Services & Distributions
+
+	AWS, Azure, Anaconda Cloud, Elasticsearch, Solr, Lucene, Cloudera, Databricks, Hortonworks, Elastic MapReduce
+
+Big Data Platforms, Software, & Tools
+
+Apache Ant, Apache Cassandra, Apache Flume, Apache Hadoop, Apache Hadoop YARN, Apache Hbase, Apache Hcatalog, Apache Hive, Apache Kafka, Apache MAVEN, Apache Oozie, Apache Pig, Apache Spark, Spark Streaming, Spark MLlib, GraphX, SciPy, Pandas, RDDs, DataFrames, Datasets, Mesos, Apache Tez, Apache ZooKeeper, Cloudera Impala, HDFS, Hortonworks, MapR, MapReduce, Apache Airflow and Camel, Apache Lucene, Elasticsearch, Elastic Cloud, Kibana, X-Pack, Apache SOLR, Apache Drill, Presto, Apache Hue, Sqoop, Kibana, Tableau, AWS, Cloud Foundry, GitHub, Bit Bucket
+
+
+
+
+
+
+
+
+█   █   █   █   █   █   █  Professional Experience  █   █   █   █   █   █   █    
+
+
+
+May 2016 - Present
+
+Senior Hadoop Big Data Engineer
+
+ThirdLove – San Francisco, CA
+
+ThirdLove’s distinction is it’s use of data to create a better fit- voluminous amounts of data—600 million data points such as breast shape, cup fit and band tightness from over 11 million women that it has culled from an online questionnaire—to create better-fitting bras, especially by pioneering the use of half-sizes. This has resulted in 24 bra styles in 74 sizes.  
+
+
+
+ThirdLove also used big data to identity and go after a target market that Victoria’s Secret – the major competitor was neglecting – nature women past their teens who has need of adult wear made for them.
+
+
+
+ThirdLove also used online tracking and the resulting big data to improve user experience and optimize the marketing expense.  Using online tracking the company knows if a customer if ready to buy, is comparing prices; it knows where they came from. They know if the customer saw an ad on Facebook or clicked on an email offer. They know if that customer has visited the site before, put something in their cart, and then backed out. It’s all available.
+
+
+
+This type of tracking allows companies to spend money more effectively; they can target consumers of a certain age and income, who are seeking a specific type of product. They don’t try to engage every single person, or those who aren’t interested in buying.
+
+
+
+Developed Cloud-based Big Data Architecture using Hadoop and AWS which created the foundation of this Enterprise Analytics initiative in a Hadoop-based Data Lake.
+
+Created variation of the lambda architecture consisting of near real-time using Spark SQL; Spark cluster 1.4 consisting of 25 nodes running with 200Gb ram/24 Tb
+
+Apache Open source version with Mesos job scheduler; developed, designed tested Spark SQL clients with Scala, PySpark and Java clients.
+
+Benchmarking Hadoop and Spark cluster on a TeraSort application in AWS.
+
+Created multi-node Hadoop and Spark clusters in AWS instances to generate terabytes of data and stored it in AWS HDFS.
+
+Deployed the application jar files into AWS instances.
+
+Developed a task execution framework on EC2 instances using SQL and DynamoDB.
+
+Captured and transformed real-time data from Amazon Aurora into a suitable format for scalable analytics.
+
+Manipulated and analyzed complex, high volume, and high dimensional data in AWS using various querying tools.
+
+Investigation of machine learning at scale using Amazon SageMaker on AWS.
+
+Cloud formation scripting, security and resources automation. 
+
+Cloud watch Monitor for S3 & Glacier storage management, Access control and policy.
+
+Amazon EC2, Amazon S3, Amazon SimpleDB, Amazon RDS, Amazon Elastic Load Balancing, Amazon SQS, and other services of the AWS family
+
+High-Availability, Fault Tolerance, Scalability, Database Concepts, System and Software Architecture, Security, IT Infrastructure, Virtualization, and Internet Technologies.
+
+Worked on streaming analyzed data to HBase using Sqoop to make it available for visualization and report generation by the BI team. 
+
+Developed Sqoop jobs to populate Hive external tables using incremental loads.
+
+Loaded and transformed large sets of structured and semi structured data from HDFS through Sqoop, and placed in HDFS for further processing.
+
+Using Flume to handle streaming data and loaded the data into Hadoop cluster.
+
+Integrating Kafka with Spark streaming for high speed data processing.
+
+Developed Spark code using Scala and Spark-SQL/Streaming for faster processing of data.
+
+Created modules for Spark streaming in data into Data Lake using Storm and Spark.
+
+Configured Spark Streaming to receive real time data and store the stream data to HDFS.
+
+Extract Real time feed using Kafka and Spark Streaming and convert it to RDD and process data in the form of Data Frame and save the data as Parquet format in HDFS.
+
+Handled the real time streaming data from different sources using flume and set destination as HDFS.
+
+Used Kafka producer to ingest the raw data into Kafka topics run the Spark Streaming app to process clickstream events.
+
+Collecting the real-time data from Kafka using Spark Streaming and perform transformations
+
+and aggregation on the fly to build the common learner data model and persists the data into Hbase.
+
+Integrated Kafka with Spark Streaming for real time data processing.
+
+
+
+November 2014 – May 2016
+
+Hadoop Big Data Engineer
+
+Delta Air Lines, Inc – Atlanta, GA
+
+Delta Air Lines, Inc. is a major American airline with an extensive domestic and international network. A main concern for commercial airlines is knowing exactly where a passenger’s baggage may be at all time and prevention as well as finding of lost baggage. Delta looked further into their data and created a solution that would remove the uncertainty of where a passenger’s bag might be.  This platform was constructed specifically for that purpose, and it employs data from internet input’s on customers including planes, flights and itineraries, and IoT sensor data from various machines, computers and conveyor belt scanner located in various airports as well as hand held scanners used by baggage handlers.
+
+Configuring Spark Streaming to receive real time data from IBM MQ and store the stream data to HDFS.
+
+Ran Hadoop streaming jobs to process terabytes of XML format data.
+
+Real Time/Stream processing Apache Storm, Apache Spark
+
+Transfered Streaming data from different data sources into HDFS and HBase using Apache Flume.
+
+Fetching the live stream data from DB2 to Hbase table using Spark Streaming and Apache Kafka.
+
+Involved in complete Big Data flow of the application starting from data ingestion from upstream to HDFS, processing the data into HDFS using Spark Streaming.
+
+Using Flume to handle streaming data and loaded the data into Hadoop cluster.
+
+Integrating Kafka with Spark streaming for high speed data processing.
+
+Developed Spark code using Scala and Spark-SQL/Streaming for faster processing of data.
+
+Using Flume to handle streaming data and loaded the data into Hadoop cluster.
+
+Integrating Kafka with Spark streaming for high speed data processing.
+
+Developed Spark code using Scala and Spark-SQL/Streaming for faster processing of data.
+
+Wrote Sqoop scripts to inbound and outbound data to HDFS, and validated the data before loading to check the duplicated data.
+
+Extensively worked on Datatsage sever and parallel job controls and sequencers. Designed and developed parallel jobs by using different types of stages such as transformers, Aggregator, Merge, Join, Lookup, Sort, Remove duplicate, Funnel, Filter, Pivot, Shared container for developing jobs.
+
+Implemented all SCD types using server and parallel jobs. Extensively implemented error handling concepts, testing, debugging skills and performance tuning of targets, source, transformation logics and version control to promote the jobs.
+
+Involved in loading and transforming large sets of structured, semi-structured and unstructured data.
+
+Involved in loading data from UNIX file system to HDFS.
+
+Developed ETLs to pull data from various sources and transform it for reporting applications using PL/SQL
+
+Hands-on experience extracting data from different databases and scheduling Oozie workflows to execute the task daily.
+
+Performance tuned Spark jobs for setting batch interval time, level of parallelism, and memory tuning.
+
+Manipulated and analyzed complex, high volume, and high dimensional data in AWS using various querying tools.
+
+Investigation of machine learning at scale using Amazon SageMaker on AWS.
+
+Created a POC involved in loading data from LINUX file system to AWS S3 and HDFS.
+
+Designed and implemented test environment on AWS.
+
+Transferred data using Informatica tool from AWS S3.
+
+Using AWS Redshift for storing the data on cloud.
+
+
+
+November 2012 – November 2014
+
+Hadoop Big Data Developer
+
+Wells Fargo Bank – San Francisco, CA
+
+Wells Fargo extensively redesigned its website; launched a service, now with 1.5 million users, that allows check deposits to be made through smart phones; and added the SurePay service, which allows person-to-person payments nationwide through mobile devices using an email address or mobile phone number.
+
+The bank also set-up a Big Data Lab to pioneer the use of emerging technology and data science to drive customer experience, prevent fraud and develop customer insights. They launched a Wells Fargo app for use on iPad and Android tablets, providing access to Wells Fargo accounts, transfers, payments, mobile deposit, and brokerage access and trading. Two weeks after the launch, nearly 200,000 customers downloaded the iPad app, and more than one million downloads have been incurred since. Access to Wells Fargo Advisors accounts has been added, as has the ability to trade via mobile device. 
+
+Architecting and DevOps for AWS & Google cloud services including in house Data Center for middleware system and web services. Also, managing security review and web compliance management.
+
+SAML2.0 IDP authentication & integration using Tivoli federation identity manager for SaaS applications like SFDC, BMI, Lithium Community, Cornerstone OnDemand, Perks, CID etc.
+
+AWS Cloud services planning, designing and DevOps support like
+
+IAM user, group, roles & policy management. AWS Access Key management
+
+VPC, Route 53, Security Groups, manage Route, Firewall policy, Load Balance DNS setup.
+
+EC2 Instance creation and Auto Scaling, snapshot backup and managing template.
+
+Cloud formation scripting, security and resources automation. 
+
+Cloud watch Monitor for S3 & Glacier storage management, Access control and policy
+
+Google Cloud Platform (GCP)
+
+Setup cloud compute engine managed and unmanaged mode and SSH key management. 
+
+IAM access control and policy creation, service account and access management.
+
+IAM user, group, roles & policy management. AWS Access Key management
+
+VPC setup for multiple project
+
+Setup internal and external Load Balance for application and manage Cloud DNS setup
+
+Stackdriver monitoring setup to collects metrics, events, and metadata.
+
+ndices setup, manage template & configuration. Indexing data from community, SQL & No-SQL database, CMS tool like AEM & Teamsite.
+
+Logstash configuration, setup multiple pipeline, managing worker and batch size and DevOps support
+
+Kibana setup, dashboarding and visualization configuration.
+
+Real-time data indexing using AWS SQS messaging service.
+
+Filebeat setup & configuration, DevOps activity.
+
+
+
+
+
+
+
+
+
+█   █   █   █   █   █   █  Education & Training  █   █   █   █   █   █   █    
+
+	
+
+	UNIVERSITY OF MARYLAND: BALTIMORE COUNTY: MATHEMATICS B.A.
+
+	HOWARD COMMUNITY COLLEGE: MUSIC COMPOSITION & TECHNOLOGY A.A.'s
+
+	
+
+Vincent Schneider   |   Phone  999-999-9999   |  Email@Gmail.Com

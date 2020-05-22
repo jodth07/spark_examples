@@ -1,0 +1,239 @@
+Technical Marketing Profile 
+
+Hadoop
+
+Consultant Name: Jermaine Felder
+
+
+
+
+
+
+
+Levels Explanation
+
+Notes Explanation
+
+
+
+Please refer to the explanation in the table below. I’ve left some comments regarding a performance of the skill. 
+
+
+
+0 = absolutely cannot do it at all, even with heavy technical support (“no go”)
+
+
+
+
+
+1 = cannot do without it technical assistance
+
+
+
+
+
+3 = can do it, but requires moderate support
+
+
+
+
+
+5 = can do without any technical assistance
+
+
+
+
+
+
+
+
+
+
+
+Skillsets 
+
+Level 
+
+Submit for these Keywords
+
+Explanation
+
+Distributed Filesystem
+
+
+
+
+
+1
+
+HDFS + YARN
+
+Core Hadoop good skills
+
+Distributed Programming 
+
+
+
+
+
+1
+
+Map-Reduce, Spark, Storm, Tez
+
+He does not really know how to code. He understands the concepts but not be able to use those technologies professionally. 
+
+NoSQL Databases 
+
+Column Data Model 
+
+
+
+
+
+1
+
+HBase, Cassandra, MongoDB
+
+Prefer to Cassandra, HBase and MongoDB
+
+SQL-On-Hadoop 
+
+
+
+
+
+2
+
+Hive, Impala,
+
+Preferable Hive 
+
+Data Ingestion 
+
+
+
+ 
+
+			2
+
+Flume, Sqoop, Kafka, NiFi, 
+
+Good on Kafka, Sqoop and Flume, Then Nifi and Samza
+
+Service Programming 
+
+
+
+
+
+1
+
+Zookeeper, Avro, 
+
+Worked on Zookeeper and Avro
+
+Scheduling & DR 
+
+
+
+
+
+2
+
+Oozie
+
+Limited knowledge. Knows how to implement simple job with this.
+
+Security 
+
+
+
+
+
+0
+
+Apache Knox, Apache Ranger
+
+None 
+
+
+
+System Deployment 
+
+
+
+
+
+3
+
+Ambari, HUE, Mesos, Cloudera Manager
+
+Easy to configure, done multiple times - Ambari
+
+Applications / Search
+
+
+
+ 
+
+2
+
+Elastic Search, Solr
+
+Can talk about it, worked around
+
+AWS (big data)
+
+ 
+
+1
+
+EMR, EC2, Kinesis, Redshift, DynamoDB, Amazon RDS, S3, EFS, AWS Lambda, Amazon Athena, Glue
+
+Can talk about those technologies, but not technically proficient.
+
+AZURE (big data)
+
+
+
+1
+
+HDInsight, SQL Data Warehouse, Azure Databricks, Stream Analytics, VMs, Cosmos DB, SQL,
+
+Should be able to solve it, his profile last project reflects those tools. But, very limited Knowledge
+
+
+
+Linux
+
+
+
+3
+
+RedHat, CentOS, Ubuntu
+
+Overall configuration for bigdata tools
+
+
+
+Visualization
+
+ 
+
+1
+
+Tableau, PowerBI, Google Chart
+
+Ease of Use, can talk about it
+
+General Overview of Consultants Technical Ability – Ranking 
+
+Jermain is technically weak. He is not strong in coding. However, he understands the concepts of those tools. I want him to go to positions of ‘dashboard,’ ‘admin,’ ‘big data PM,’ which don’t require a lot of coding. No lead position– senior position is okay.
+
+-Admin/PM/Engineer 
+
+-Ability to speak to resume: Proficient
+
+-Preferred job description titles to look for: Big Data Engineer / Hadoop Admin 
+
+-Could this person be a lead? - No

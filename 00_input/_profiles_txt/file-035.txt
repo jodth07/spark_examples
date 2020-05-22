@@ -1,0 +1,527 @@
+Usigbe Ataga
+
+Hadoop/Big Data Engineer
+
+
+
+
+
+
+
+Usigbe Ataga
+
+Hadoop/Big Data Engineer
+
+
+
+
+
+
+
+Usigbe Ataga 
+
+Hadoop/Big Data Engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shiva Reddy 
+
+Hadoop/Big Data Engineer
+
+
+
+
+
+6 Years Hadoop - Big Data Engineering
+
+6 Years Hadoop - Big Data Engineering
+
+Professional Summary
+
+	Troubleshooting Spark applications to make them more error tolerant.
+
+	Used Spark to fine-tune query responsiveness for better user experience.
+
+Proven track record of increasing responsibilities, turning around low performing teams & enhancing operational processes. Strong Analytical & problem-solving skills
+
+	Extremely large-scale Big Data, databases and data warehouses such as Amazon Redshift, Apache Cassandra, Oracle, Mondo DB, NoSQL, and more.
+
+	Large scale distributed systems, knowledge of all aspects of database technology from hardware to tuning to modeling.
+
+	Integrated Kafka with Spark Streaming for real time data processing.
+
+	Developed free text search solution with Hadoop and Apache Solr. Analyzing emails for compliance and eDiscovery.
+
+	Experienced in Spark Data Frames. Spark SQL,and Spark Streaming APIs.
+
+Provide mentorship and guidance to other architects to help them become independent.
+
+	Implemented Hadoop based data warehouses, integrated Hadoop with Enterprise Data Warehouse systems
+
+	Built real-time Big Data solutions using HBase handling billions of records
+
+	Expert knowledge in Hadoop/HDFS, MapReduce, HBase, Pig, Sqoop, Cloud: Amazon Elastic Map Reduce (EMR), Amazon EC2, Rackspace, Google Cloud.
+
+Connected various data centers and transferred data between them using Sqoop and various ETL tools
+
+	Implemented Big Data analytical solutions that 'close the loop' and provide actionable intelligence
+
+
+
+Professional Summary
+
+	Troubleshooting Spark applications to make them more error tolerant.
+
+	Used Spark to fine-tune query responsiveness for better user experience.
+
+Proven track record of increasing responsibilities, turning around low performing teams & enhancing operational processes. Strong Analytical & problem-solving skills
+
+	Extremely large-scale Big Data, databases and data warehouses such as Amazon Redshift, Apache Cassandra, Oracle, Mondo DB, NoSQL, and more.
+
+	Large scale distributed systems, knowledge of all aspects of database technology from hardware to tuning to modeling.
+
+	Integrated Kafka with Spark Streaming for real time data processing.
+
+	Developed free text search solution with Hadoop and Apache Solr. Analyzing emails for compliance and eDiscovery.
+
+	Experienced in Spark Data Frames. Spark SQL,and Spark Streaming APIs.
+
+Provide mentorship and guidance to other architects to help them become independent.
+
+	Implemented Hadoop based data warehouses, integrated Hadoop with Enterprise Data Warehouse systems
+
+	Built real-time Big Data solutions using HBase handling billions of records
+
+	Expert knowledge in Hadoop/HDFS, MapReduce, HBase, Pig, Sqoop, Cloud: Amazon Elastic Map Reduce (EMR), Amazon EC2, Rackspace, Google Cloud.
+
+Connected various data centers and transferred data between them using Sqoop and various ETL tools
+
+	Implemented Big Data analytical solutions that 'close the loop' and provide actionable intelligence
+
+
+
+
+
+Contact
+
+ 999-999-9999
+
+  consultant@gmail.com
+
+
+
+Expertise
+
+Hadoop
+
+Cloud Data Systems
+
+Transformation
+
+Engineering
+
+Programming & Scripting
+
+Data Pipeline
+
+
+
+
+
+
+
+Contact
+
+ 999-999-9999
+
+  consultant@gmail.com
+
+
+
+Expertise
+
+Hadoop
+
+Cloud Data Systems
+
+Transformation
+
+Engineering
+
+Programming & Scripting
+
+Data Pipeline
+
+
+
+
+
+
+
+Education
+
+Master’s in Applied Computer Science
+
+The University of Salford
+
+Manchester, United Kingdom
+
+
+
+Bachelor’s in Computer Science & Engineering
+
+University of Port Harcourt 	          Rivers, Nigeria
+
+
+
+Education
+
+AMAZON WEB SERVICES
+
+Certified Solutions Architect
+
+
+
+TOTAL EXPLORATION AND PRODUCTION LIMITED MOOC Sustainable Mobility
+
+Education
+
+Master’s in Applied Computer Science
+
+The University of Salford
+
+Manchester, United Kingdom
+
+
+
+Bachelor’s in Computer Science & Engineering
+
+University of Port Harcourt 	          Rivers, Nigeria
+
+
+
+Education
+
+AMAZON WEB SERVICES
+
+Certified Solutions Architect
+
+
+
+TOTAL EXPLORATION AND PRODUCTION LIMITED MOOC Sustainable Mobility
+
+Professional Technical Skills
+
+DATABASE
+
+Hive, Hbase, Cassandra, Phoenix, Redshift, DynamoDB, MongoDB, MS Access, SQL, MySQL, Oracle, PL/SQL, Postgres SQL, RDBMS
+
+
+
+DATABASE SKILLS
+
+Database partitioning, database optimization, building communication channels between structured and unstructured databases.
+
+
+
+DATA STORES (repositories)
+
+Data Lake, Data Warehouse, SQL Database, RDBMS, NoSQL Database, Amazon Redshift, Apache Cassandra, MongoDB, SQL, MySQL, Oracle, and more
+
+
+
+PROGRAMMING AND SCRIPTING
+
+Spark, Python, Scala, Hive, Pig, Kafka, SQL
+
+
+
+SEARCH TOOLS
+
+Apache Lucene, Elasticsearch, Elastic Cloud, Kibana, Apache SOLR
+
+
+
+DATA PIPELINES/ETL
+
+Flume, Apache Storm, Apache Spark, Nifi, Apache Kafka, Talend, ELK
+
+
+
+DATA CLEANSING
+
+Cloudera CDH 4/5, Hortonworks HDP 2.3/2.4/3.0, Amazon Web Services (AWS)
+
+
+
+BATCH & STREAM PROCESSING
+
+Apache Hadoop, Spark, Storm, Tez, Flink
+
+
+
+Professional Technical Skills
+
+DATABASE
+
+Hive, Hbase, Cassandra, Phoenix, Redshift, DynamoDB, MongoDB, MS Access, SQL, MySQL, Oracle, PL/SQL, Postgres SQL, RDBMS
+
+
+
+DATABASE SKILLS
+
+Database partitioning, database optimization, building communication channels between structured and unstructured databases.
+
+
+
+DATA STORES (repositories)
+
+Data Lake, Data Warehouse, SQL Database, RDBMS, NoSQL Database, Amazon Redshift, Apache Cassandra, MongoDB, SQL, MySQL, Oracle, and more
+
+
+
+PROGRAMMING AND SCRIPTING
+
+Spark, Python, Scala, Hive, Pig, Kafka, SQL
+
+
+
+SEARCH TOOLS
+
+Apache Lucene, Elasticsearch, Elastic Cloud, Kibana, Apache SOLR
+
+
+
+DATA PIPELINES/ETL
+
+Flume, Apache Storm, Apache Spark, Nifi, Apache Kafka, Talend, ELK
+
+
+
+DATA CLEANSING
+
+Cloudera CDH 4/5, Hortonworks HDP 2.3/2.4/3.0, Amazon Web Services (AWS)
+
+
+
+BATCH & STREAM PROCESSING
+
+Apache Hadoop, Spark, Storm, Tez, Flink
+
+
+
+
+
+Professional Experience
+
+
+
+Total
+
+Houston, Texas
+
+January 2018 – Present
+
+
+
+Hadoop Big Data Engineer
+
+
+
+Give extensive presentations about the Hadoop ecosystem, best practices, data architecture in Hadoop
+
+Created a cluster of 3 Kafka brokers to fetch structured data in structured streaming
+
+Configured a python API Producer file to ingest data from the Slack API, using Kafka, for real-time processing with Spark
+
+Handling schema changes in data stream using Kafka
+
+Integrated Kafka with Spark Streaming for real time data processing
+
+Migrated MapReduce jobs to Spark, using Spark SQL and Data Frames API to load structured data into Spark clusters
+
+Participated in development/implementation of Cloudera Hadoop and Hortonworks environment
+
+Load and transform large sets of structured, semi structured and unstructured data
+
+Configured a python Consumer file with a Spark Context for daily processing of the Kafka stream from the Slack API
+
+Transformed the data received into an RDD and performed further transformation into a DataFrame
+
+Filtered the necessary data in the created DataFrame for daily analysis
+
+Defined a schema for a custom Hbase table, to store the DataFrames processed daily, into Hbase for record purposes
+
+Implemented Spark using Python and utilized Data Frames and Spark SQL API for faster processing of data.
+
+Provide mentorship and guidance to other architects to help them become independent.
+
+Provide review and feedback for existing physical architecture, data architecture and individual code. Moved transformed data to Spark cluster where the data is set to go live on the application using Kafka.
+
+
+
+
+Slack
+
+San Francisco, CA
+
+March 2016 – January 2018
+
+
+
+Hadoop Data Engineer
+
+Responsible for building scalable distributed data solutions using Hadoop.
+
+Load and transform large sets of structured, semi structured and unstructured data working with data on Amazon Redshift, Apache Cassandra, and HDFS in Hadoop Data Lake.
+
+Configured a flume agent for ingestion of data from source APIs and store to HDFS
+
+Used Spark Streaming to set up a Flume agent called Avro, to get live data from the source using Flume, and then transfer them to Spark Streaming for processing and analysis.
+
+Provided the Spark Streaming, Flume based jar, Spark Core and dependencies for Spark Worked in installing cluster, commissioning & decommissioning of data node, name node Responsible for managing data coming from different sources.
+
+recovery, capacity planning, and cluster configuration.
+
+SQL to convert the Dstream into RDD or Data frames.
+
+Configured a filter in the Streaming Context that accepts instances from the Spark Context, to gather data according to keywords as needed, to create the instance that we employ to transfer data from Flume to Spark.
+
+Used Spark to load and process the data stored on HDFS
+
+Used Sqoop to export the data from HDFS to MYSQL database.
+
+Installed Airflow workflow engine to run multiple map-reduce programs which run independently with time and data.
+
+Performed Data scrubbing and processing with Airflow and Spark.
+
+Supported in setting up QA environment and updating configurations for implementing scripts with Sqoop.
+
+Involved in loading data from UNIX file system to HDFS.
+
+Installed and configured Hive and also written Hive UDFs
+
+Worked with Hive on MapReduce, and various configuration options for improving query performance.
+
+Involved in loading data from LINUX file system to HDFS.
+
+Experience with being a technical lead of a team of engineers.
+
+Experience with hands on data analysis and performing under pressure.
+
+
+
+
+
+
+
+
+
+
+
+
+Ups
+
+Atlanta, GA
+
+September 2015 – March 2016
+
+
+
+Hadoop Data Engineer
+
+Hands- on experience in developing web applications using Python on Linux and UNIX platform.
+
+Analyzed large amounts of data sets to determine optimal way to aggregate and report on it. 
+
+Experience in Importing and exporting data into HDFS and Hive using Sqoop.
+
+Developed Sqoop jobs to populate Hive external tables using incremental loads
+
+Provided proof of concepts converting Avro data into parquet format to improve query processing by using Hive.
+
+Load and transform large sets of structured, semi structured and unstructured data
+
+Installed Oozie workflow engine to run multiple Hive and pig jobs.
+
+Debug and solve issues with Hadoop as on-the-ground subject matter expert. This could include everything from patching components to post-mortem analysis of errors.
+
+Experience in Automation Testing, Software Development Life Cycle (SDLC) using the Waterfall Model and good understanding of Agile Methodology.
+
+Supported in setting up QA environment and updating configurations for implementing scripts with Pig and Sqoop.
+
+Crawled some websites using Python and collected information about users, questions asked, and the answers posted.
+
+Performance tuning and troubleshooting of MapReduce by reviewing and analyzing log files.
+
+Developed SQL queries to Insert, Update and Delete data in Database. 
+
+Worked on large data warehouse Analysis services servers and developed the different reports for the analysis from that servers.
+
+
+
+
+
+Disney
+
+Orlando, FL
+
+February 2013 – September 2015
+
+
+
+Big Data Developer
+
+Exported data from DB2 to HDFS using Sqoop
+
+Imported data using Sqoop to load data from MySQL to HDFS on regular basis
+
+Developed Map Reduce jobs using API
+
+Developed workflow using Oozie for running MapReduce jobs and Hive Queries
+
+Extracted the data from RDBMS (Oracle, MySQL) to HDFS using Sqoop Created Hbase tables to store variable data formats of PII data coming from different portfolios
+
+Involved in transforming data from legacy tables to HDFS, and HBase tables using Sqoop
+
+Worked on Cluster coordination services through Zookeeper
+
+Used Spark to perform additional analytics on the DataFrame created 
+
+Wrote multiple MapReduce programs in Java for data extraction, transformation, and aggregation from multiple file formats Assisted in exporting analyzed data to relational databases using Sqoop
+
+Experienced in running Hadoop streaming jobs to process terabytes of xml format data
+
+Used SparkSQL module to store the data on HDFS
+
+Responsible to manage data coming from different sources
+
+Worked on loading log data directly into HDFS using Flume
+
+Connected various data centers and transferred data between them using Sqoop and various ETL tools
+
+
+
+6 | Page
+
+
+
+
+
+6 | Page
+
+
+
+6 | Page

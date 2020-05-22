@@ -1,0 +1,413 @@
+Phone    (415) 423-0612
+
+Email    rafael.loustaunau03@gmail.com
+
+Loc    San Francisco, CA
+
+
+
+
+
+Phone    (415) 423-0612
+
+Email    rafael.loustaunau03@gmail.com
+
+Loc    San Francisco, CA
+
+
+
+
+
+Rafael Loustaunau
+
+
+
+Rafael Loustaunau
+
+
+
+CONTACT
+
+
+
+CONTACT
+
+
+
+L
+
+
+
+L
+
+
+
+R
+
+
+
+R
+
+
+
+
+
+Senior Hadoop Engineer Designer
+
+
+
+Senior Hadoop Engineer Designer
+
+
+
+
+
+
+
+
+
+
+
+
+
+	EDUCATION	 
+
+Bachelor Degree in 
+
+Computer Information Systems
+
+The University of Texas, San Marcos
+
+San Marcos, TX
+
+
+
+YEARS OF EXPERIENCE 
+
+5 Years Big Data Engineering
+
+5 Years Information Technology
+
+
+
+	PROJECTS	
+
+Wells Fargo – AWS, Spark, Scala
+
+ American Bureau of Shipping ABS – Hadoop, Spark, Cassandra
+
+GNS Healthcare – Hadoop HDFS
+
+Medline Industries – Hadoop HDFS
+
+
+
+	EDUCATION	 
+
+Bachelor Degree in 
+
+Computer Information Systems
+
+The University of Texas, San Marcos
+
+San Marcos, TX
+
+
+
+YEARS OF EXPERIENCE 
+
+5 Years Big Data Engineering
+
+5 Years Information Technology
+
+
+
+	PROJECTS	
+
+Wells Fargo – AWS, Spark, Scala
+
+ American Bureau of Shipping ABS – Hadoop, Spark, Cassandra
+
+GNS Healthcare – Hadoop HDFS
+
+Medline Industries – Hadoop HDFS
+
+PROFESSIONAL PROFILE
+
+
+
+SENIOR HADOOP/BIG DATA ENGINEER
+
+Senior Data Engineer with strong hands on experience in Hadoop Framework and its ecosystem including but not limited to HDFS Architecture, Hive, Pig, Sqoop, HBase, MongoDB, Cassandra, Oozie, Spark RDDs, Spark DataFrames, Spark Datasets, Spark MLlib, etc.
+
+
+
+PROFESSIONAL SUMMARY
+
+
+
+Experience in Apache NIFI which is a Hadoop technology and also Integrating Apache NIFI and Apache Kafka. 
+
+Strong knowledge in Upgrading MapR, CDH and HDP Cluster. 
+
+Full-stack software engineer experienced in Hadoop and other big data platforms.
+
+Proven experience showcasing technical and operational feasibility of Hadoop developer solutions.
+
+Experience in software development using Big Data/Hadoop Echo Systems, Apache Spark, Python and ETL Technologies.
+
+Hands-on Experience on major components in Hadoop Echo Systems like Spark, HDFS, HIVE, PIG, HBase, Zookeeper, Sqoop, Oozie, Flume, Kafka.
+
+Developed scalable and reliable data solutions to move data across systems from multiple sources in real time as well as batch modes.
+
+Deep knowledge in incremental imports, partitioning and bucketing concepts in Hive and Spark SQL needed for optimization.
+
+Experience collecting log data from various sources and integrating it into HDFS using Flume; staging data in HDFS for further analysis.
+
+Experience in designing and handling of various Data Ingestion patterns (Batch and Near Real Time) using Sqoop, Distcp, Apache Storm, Flume and Apache Kafka.
+
+Experience in designing and handling of various Data Transformation/Filtration patterns using Pig, Hive, and Python.
+
+Strong Knowledge on Hadoop architecture and various components such as HDFS, Job and Task Tracker, Name and Data Node, Secondary Name Node and Map Reduce programming.
+
+
+
+
+
+
+SKILLS SUMMARY
+
+
+
+	Programming & Scripting 	
+
+Linux/Unix shell scripting, SQL, MySQL, NoSQL, HTML5, CSS3, Visual Basic, Hive QL, Python, Scala, Cobol, XML, Blueprint XML, Ajax, REST API, Spark API, JSON, Avro, Parquet, ORC, Jupyter Notebooks, Eclipse, IntelliJ, PyCharm, C#, R, Java ,R, Angular, JavaScript, HTML/CSS, Hibernate, Spring,  .NET Core with C#, ASP.NET, MVC
+
+	Database 	
+
+Proficient with SQL Server, SQL Server Reporting Services, SQL Server Integration Services, TSQL, PLSQL
+
+	Data & File Management	
+
+SQL and NoSQL, RDBMS, Apache Cassandra, Apache HBase, MapR-DB, MongoDB, Oracle, SQL Server, DB2, Sybase, RDBMS, HDFS, Parquet, Avro, JSON, Snappy, Gzip, DAS, NAS, SAN, Data Analysis and Reporting, Skilled in Digital reporting, dashboards, and making presentations.
+
+	Hadoop Distributions	
+
+	Cloudera, Hortonworks
+
+	Hadoop Big Data	
+
+Apache Ant, Apache Cassandra, Apache Flume, Apache Hadoop, Apache Hadoop YARN, Apache HBase, Apache Hcatalog, Apache Hive, Apache Kafka, Apache MAVEN, Apache Oozie, Apache Pig, Apache Spark, Spark Streaming, Spark MLlib, GraphX, SciPy, Pandas, RDDs, DataFrames, Datasets, Mesos, Apache Tez, Apache ZooKeeper, Cloudera Impala, HDFS, Hortonworks, Apache Airflow and Camel, Apache Lucene, Elasticsearch, Elastic Cloud, Kibana, X-Pack, Apache SOLR, Apache Drill, Presto, Apache Hue, Sqoop, Kibana, Tableau, AWS, Cloud Foundry, AWS, Azure, Anaconda Cloud, Elasticsearch, Solr, Lucene, Databricks
+
+	Hadoop Cloud Platforms	
+
+	AWS, Google Cloud, Azure Cloud
+
+	Soft Skills	
+
+	Natural Leader, involved in the community, mentoring and advocacy for others, written and verbal communication, presentation and reporting highly motivated, self-starter, strong sense of ethics and helping others, strong interpersonal skills, communication skills, highly effective time management and productivity., hard-working, generous and fair-minded.  Skilled in analysis, critical thinking, evaluation and creative, custom solutions.
+
+
+
+
+
+
+WORK EXPERIENCE
+
+
+
+Senior Hadoop Engineer / July 2017 – Present
+
+Wells Fargo San Francisco, CA
+
+Imported the data from different sources like AWS S3, LFS into Spark RDD.
+
+Imported data from AWS S3 and into Spark RDD and performed transformations and actions on RDD's.
+
+Developed Spark scripts by using Scala Shell commands as per the requirement.
+
+Implemented Spark using Scala and utilizing Data frames and Spark SQL API for faster processing of data.
+
+Used Spark for interactive queries, processing of streaming data and integration with popular NoSQL database for huge volume of data.
+
+Developing Spark programs using Scala API s to compare the performance of Spark with Hive and SQL.
+
+Used Scala libraries to process XML data that was stored in HDFS and processed data was stored in HDFS.
+
+Used Spark API over Hortonworks Hadoop YARN to perform analytics on data in Hive.
+
+Load the data into Spark RDD and do in memory data Computation to generate the Output response.
+
+Implemented Spark using Scala and SparkSQL for faster testing and processing of data.
+
+Wrote different pig scripts to clean up the ingested data and created partitions for the daily data.
+
+Designed and created Hive external tables using shared meta-store instead of derby with partitioning, dynamic partitioning and buckets.
+
+Involved in HBASE setup and storing data into HBASE, which will be used for analysis.
+
+Used Impala for querying HDFS data to achieve better performance.
+
+Used Spark-SQL to Load JSON data and create Schema RDD and loaded it into Hive Tables and handled Structured data using SparkSQL.
+
+Implemented Apache PIG scripts to load data from and to store data into Hive.
+
+Develop Spark jobs to parse the JSON or XML data.
+
+Used the JSON and XML SerDe's for serialization and de-serialization to load JSON and XML data into HIVE tables.
+
+Involved in converting Hive/SQL queries into Spark transformations using Spark RDDs, Scala and Python.
+
+Analyzed the SQL scripts and designed the solution to implement using PySpark.
+
+Tested on MongoDB NoSQL data modeling, tuning, disaster recovery and backup.
+
+Used Avro, Parquet and ORC data formats to store in to HDFS.
+
+Used Oozie workflow to co-ordinate pig and hive scripts.
+
+Deployed to Amazon Web Services (AWS) Cloud services like EC2, S3, EBS, RDS and VPC.
+
+Deployed to various HDFS file formats like Avro, Sequence File and various compression formats like Snappy.
+
+Environment: Hadoop, HDFS, Spark, Hive, Sqoop, Kafka, HBase, Oozie, Flume, Scala, AWS, Python, Java, JSON, SQL Scripting and Linux Shell Scripting, Avro, Parquet, Hortonworks.
+
+
+
+
+
+Hadoop Engineer / April 2016 – July 2017
+
+American Bureau of Shipping ABS Houston, TX
+
+Streaming data is another type of data found in the marine and offshore industries. Streaming data refers to a sequence of message-oriented  data  in -sequence transport used to transmit or  receive information in a real-time application among the networks.
+
+In depth understanding/knowledge of Hadoop Architecture and various components such as HDFS, Application master. Node Manager, Resource Manager, NameNode, DataNode concepts.
+
+Involved in moving all log files generated from various sources to HDFS for further processing through Flume.
+
+Imported required tables from RDBMS to HDFS using Sqoop and also used Storm and Kafka to get real time streaming of data into HBase.
+
+Involved in creating Hive tables, loading with data and writing hive queries that will run internally.
+
+Good experience with NoSQL database Hbase and creating Hbase tables to load large sets of semi structured data coming from various sources.
+
+Involved in moving all log files generated from various sources to HDFS for further processing through Flume.
+
+Implemented the workflows using Apache Oozie framework to automate tasks.
+
+Write code that will take input as log files and parse the logs and structure them in tabular format to facilitate effective querying on the log data.
+
+Developed java code to generate, compare & merge AVRO schema files.
+
+Developed complex streaming jobs using Java language that are implemented Using Hive and Pig.
+
+Used Hive to analyze the partitioned and bucketed data and compute various metrics for reporting.
+
+Used hive optimization techniques during joins and best practices in writing hive scripts using HiveQL.
+
+Importing and exporting data into HDFS and Hive using Sqoop.
+
+Writing the HIVE queries to extract the data processed.
+
+Teamed up with Architects to design Spark model for the existing model and migrated models to Spark models using Scala.
+
+Developed data pipeline using Flume, Sqoop, Pig and to ingest customer behavioral data and purchase histories into HDFS for analysis.
+
+Implemented Spark using Scala and utilizing Spark Core, Spark Streaming and Spark SQL API for faster processing of data instead of in Java.
+
+Used Spark-SQL to Load JSON data and create Schema RDD and loaded it into Hive Tables and handled Structured data using Spark SQL.
+
+Developed Pig Latin scripts to extract the data from the web server output files to load into HDFS.
+
+Created Hbase tables to store variable data formats of data coming from different Legacy systems.
+
+Used HIVE to do transformations, event joins and some pre-aggregations before storing the data onto HDFS.
+
+Use of Cassandra architecture, replication strategy, gossip, snitch etc.
+
+Deployment and testing
+
+
+
+
+
+
+
+Hadoop Engineer / January 2015 – April 2016
+
+GNS Healthcare Cambridge, MA
+
+The Big Data raw material can be a rich asset to discover the underlying disease mechanisms that help improve treatment effectiveness and patient care.  Using GNS’s Big Data analytics solutions, the researchers were able to develop detailed risk profiles for individual participants that helped them gain understanding of the underlying causes of the disease and identifying groups that were at risk.
+
+Installed and configured Hadoop HDFS, developed multiple jobs in java for data cleaning and preprocessing.
+
+Developed Map/Reduce jobs using Java for data transformations.
+
+Develop different components of system like Hadoop process that involves Map Reduce, and Hive.
+
+Migration of ETL processes from Oracle to Hive to test the easy data manipulation.
+
+Responsible for developing data pipeline using Sqoop, MR and Hive to extract the data from weblogs and store the results for downstream consumption.
+
+Worked with HiveQL on big data of logs to perform a trend analysis of user behavior onvarious online	modules.
+
+Using Sqoop to extract the data back to relational database for business reporting.
+
+Involved in creating Hive tables, Pig tables, and loading data and writing hive queries and pig scripts.
+
+Involved in Hadoop Cluster environment administration that includes adding and removing cluster nodes, cluster capacity planning, performance tuning, cluster Monitoring.
+
+Developed Hive queries and UDFS to analyze/transform the data in HDFS.
+
+Designed and Implemented Partitioning (Static, Dynamic), Buckets in HIVE.
+
+Used Sqoop to efficiently transfer data between databases and HDFS and used Flume to stream the log data from servers.
+
+Debugging and identifying issues reported by QA with the Hadoop jobs by configuring to local file system.
+
+Implemented Flume to import streaming data logs and aggregating the data to HDFS.
+
+Experienced in running Hadoop streaming jobs to process terabytes data.
+
+Involved in evaluation and analysis of Hadoop cluster and different big data analytic tools including Pig, Hbase database and Sqoop.
+
+Involved in HDFS maintenance and loading of structured and unstructured data.
+
+Environment: Hadoop, Cloudera Manager, Linux, RedHat, Centos, Ubuntu Operating System, Map Reduce, Hbase, Sqoop, Pig, HDFS, Flume, Pig, Python.
+
+
+
+
+
+Hadoop Administrator / October 2013 – January 2015
+
+Medline Industries Northfield, IL
+
+Medline Industries, Inc., is a private American company based in Northfield, Illinois, it is the largest privately held manufacturer and distributor of medical supplies providing products, education and services across the continuum of care with offices in 20 different countries.
+
+Involved in architectural design cluster infrastructure, Resource mobilization, Risk analysis and reporting.
+
+Installation and configuration of Big Insight cluster with help of IBM engineers.
+
+Commissioning and de-commissioning the data nodes and involve in Name Node maintenance.
+
+Install security using Kerberos on cluster for AAA (authentication, authorization and auditing).
+
+Regular backup and clear logs from HDFS space. This is to utilize data nodes optimally. Write shell scripts for time bound commands execution.
+
+Edit and configure HDFS and tracker parameters.
+
+Script the requirements using BigSQL and provide time statistics of running jobs.
+
+Involve code review tasks in simple to complex Map/reduce Jobs using Hive and Pig
+
+Cluster Monitoring using Big Insights ionosphere tool.
+
+Importing of data from various data sources, parse into structured data region wise and date wise. Analysed the data by performing Hive queries and running Pig scripts to study customer behaviour.
+
+Worked with application teams to install operating system, Hadoop updates, patches, version upgrades as required.
+
+Installed Oozie workflow engine to run multiple Hive and Pig jobs.
+
+Environment: Linux, Hadoop, Big Insights, Hive, puppet, Java, C++.

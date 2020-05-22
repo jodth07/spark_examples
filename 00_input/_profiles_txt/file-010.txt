@@ -1,0 +1,544 @@
+humberto.avelar12@gmail.com  / (703)936-4035
+
+
+
+Humberto Acosta
+
+			Big Data Engineer	
+
+
+
+
+
+Experience Summary
+
+ 6+   Years Hadoop Architecture
+
+ 6+   Years Big Data 
+
+ 6+   Years Data Engineering
+
+10+ Years total Information Technology
+
+Contact Information
+
+Humberto Acosta
+
+Phone:  (703)936-4035
+
+Email: humberto.avelar12@gmail.com  / 
+
+
+
+
+
+Professional Summary
+
+
+
+Proficient in extracting and generating analysis using Business Intelligence Tool, Tableau for better analysis of data.
+
+Effective in HDFS, YARN, Pig, Hive, Impala, Sqoop, HBase, Cloudera. 
+
+Spark Architecture including Spark Core, Spark SQL, Spark Streaming, Spark
+
+ETL, data extraction, transformation and load using Hive, Pig and HBase.
+
+Very Good knowledge and Hands-on experience in Cassandra, Flume and YARN. 
+
+Experience in implementing User Defined Functions for Pig and Hive. 
+
+Extensive Knowledge in Development, analysis and design of ETL methodologies in all the phases of Data Warehousing life cycle. 
+
+Excellent understanding of Hadoop architecture and its components such as HDFS, Job Tracker, Task Tracker, Name Node, and Data Node. 
+
+Expertise in Python and Scala, user-defined functions (UDF) for Hive and Pig using Python.
+
+Hands-on use of Spark and Scala API's to compare the performance of Spark with Hive and SQL, and Spark SQL to manipulate Data Frames in Scala.
+
+Prepare test cases, documenting and performing unit testing and Integration testing. 
+
+Writes complex SQL queries with databases like DB2, MySQL, SQL Server and MS SQL Server.
+
+Experience in importing and exporting data using Sqoop and SFTP for Hadoop to/from RDBMS. 
+
+Extensive experience with Databases such as MySQL, Oracle 11G. 
+
+Kafka messaging system to implement real-time Streaming solutions using Spark Streaming.
+
+Expertise with the tools in Hadoop Ecosystem including HDFS, Pig, Hive, Sqoop, Storm, Spark, Kafka, Yarn, Oozie, Zookeeper etc.
+
+
+
+
+
+
+
+
+Technical Skills
+
+
+
+Programming /Scripting
+
+Spark, Scala, Kafka, MapReduce, SQL, Python
+
+
+
+IDEs
+
+Netbeans, Jupyter Notebooks, Eclipse, IntelliJ, PyCharm, Visual Studio Code
+
+
+
+Integrations
+
+Ajax, REST API, Spark API,
+
+
+
+Database
+
+Apache Cassandra, Apache HBase, MapR-DB, MongoDB, Oracle, SQL Server, DB2, Sybase, RDBMS
+
+
+
+Data Storage
+
+Data Lake, Data Warehouse, DAS, NAS, SAN
+
+
+
+Application Servers
+
+jBoss, WebLogic, WebSphere, DAS, NAS, SAN
+
+
+
+File Management
+
+HDFS, Parquet, Avro, JSON, Snappy, Gzip
+
+
+
+Data Analysis
+
+MapReduce, Hive, Hive QL, SQL, RDDs, DataFrames, Datasets, 
+
+
+
+Methodologies
+
+Agile, Kanban, Scrum, DevOps, Continuous Integration, Test-Driven Development, Unit Testing, Functional Testing, Design Thinking, Lean, Six Sigma
+
+
+
+Cloud
+
+AWS, Cloud Foundry, Elastic Cloud,
+
+
+
+Search
+
+Apache SOLR, Elasticsearch, Apache Lucene,
+
+
+
+
+
+Cloud Services & Distributions
+
+	AWS, Azure, Anaconda Cloud, Elasticsearch, Solr, Lucene, Cloudera, Databricks, Hortonworks, Elastic MapReduce
+
+
+
+Big Data Processing
+
+Apache Storm, Apache Hive, Apache Cassandra, Apache Hadoop, Apache Hadoop, Apache Hcatalog, Spark MLlib, GraphX, SciPy, Pandas, Mesos, Apache Tez, Apache ZooKeeper, X-Pack
+
+
+
+Build Tools
+
+Apache Ant, Apache Maven
+
+
+
+File Formats
+
+JSON, Avro, Parquet, ORC, XML, HDFS
+
+
+
+Version Control
+
+GitHub, BitBucket 
+
+
+
+Continuous Integration
+
+Jenkins, Hudson, Travis
+
+
+
+Testing
+
+jUnit, Unit Testing, Functional Testing, Test-Driven Development
+
+BI and Data Visualization
+
+Kibana, Tableau, Splunk
+
+
+
+Data Processing
+
+Kibana, Tableau, Sqoop, Apache Drill, Presto, Apache Flume, Apache Airflow and Camel, Apache Hue, YARN, Apache Hive, Apache Kafka, Apache MAVEN, Apache Oozie, Apache Pig, Apache Spark, Spark Streaming,
+
+
+
+Hadoop
+
+Apache SOLR, Cloudera Impala, Cloudera, Hortonworks, MapR
+
+
+
+
+
+
+
+
+
+Professional Experience
+
+
+
+	Big Data Engineer/Big Data Developer  	09.2018 – Present
+
+Capital One, McLean, VA
+
+
+
+I was involved in migrating a big data environment from an on-premise system to an AWS Cloud platform.  This data environment was for a Credit Line Increase Program to manage credit limit offers to customers according to rules based on expense, income and other criteria. Capital One collects data from different sources and runs inclusion and exclusion rules, model calculation, segmentation, and ability to pay processes to determine which customers are eligible for a Credit Line increase.
+
+
+
+Worked in a private cloud environment on Amazon AWS using a Multistage deployment environment (Dev – QA – Prod) .
+
+This project required an understanding of business rules, business logic, and use cases to be implemented.
+
+Responsible to review and understand how Quantum (Spark Wrapper) is used to ingest and process batch and real-time data using Apache Spark, Scala and SQL. 
+
+The project involved sources of data as disparate as CSV, Parquet, Avro, Kafka, Snowflake Tables, etc.
+
+Developed Quantum workflows to read parquet files from S3 buckets and apply transformations, joins, filters, and SQL queries to different dataframes and create output datasets.
+
+Synchronized and ensured high availability of data sources through AWS regions.
+
+Prepared use cases, mock data and error scenarios to test workflows execution in an EMR Cluster to be deployed from Dev to Test to QA.
+
+Verified and validated that ability-to-pay AWS Lambda triggered jobs appropriately to execute the cluster and process the accounts. 
+
+Developed and coded exclusion rules workflow to connect it to Ability-to-Pay external process using Spark, Quantum, SQL and Python.
+
+	Work within and across Agile teams to design, develop, test, implement, and support technical solutions across a full stack of development tools and technologies.
+
+Created and configured YAML files to set input, output cluster parameters, Centrify groups, jar file versions and EC2 instance information, like Security groups and Subnet IDs. 
+
+Automate deployments on AWS using GitHub and Jenkins.
+
+Set up the CI/CD pipelines using Jenkins, Maven, GitHub and AWS. 
+
+Design and implement ELK (ElasticSearch, Logstash and Kibana) stack solution for Proactive Monitoring of applications logs and statistics.
+
+Developed a consumer using J2EE technologies (Node.js) to read and send app metrics to a Kinesis Data Stream to be ingested by Logstash, Elasticsearch and visualized in Kibana dashboards.
+
+Onboard AWS Lambda and AWS Cloudwatch Logs to Splunk using HEC Token (HTTP Event Collector).
+
+Used GitHub for control version and Jira for issues and project tracking.
+
+	
+
+	Key Technologies:  Quantum (Big Data framework), Spark, SQL, Python, AWS, S3 buckets, AWS Lambda, AWS Cloudwatch, EMR Cluster, Splunk, ELK, Kibana, Elasticsearch, Node.js.
+
+	
+
+	Hadoop Cloud Architect 	11.2016 – 09.2018
+
+Thermo Fisher Scientific Inc. Waltham, MA
+
+
+
+Worked on data analysis pipelines for the company’s Affymetrix microarray analysis product line which includes products and tools used by researchers studying plant and animal genomics and transcriptomics, including basic research and industrial application of technologies for breeding, population diversity and conservation, trait analysis, and more.  This research is used in cancer research, pharmacological trials and more.  The products and tools provided collect data and the big data system provides a place to gather and make use of that data.
+
+
+
+Met with stakeholders, SMEs, and Data Scientists to gather, determine and document requirements.
+
+Created a lambda architecture variety consisting of near real-time data processing with Spark Streaming, Spark SQL; and Spark clusters.
+
+Deployed Hadoop clusters of HDFS, Spark Clusters and Kafka clusters on virtual servers in Azure environment. 
+
+Use Azure HDInsights as interface and to manage the online clusters.
+
+Worked on an Azure Cloud environment implementing Azure HDInsights.
+
+Ran the Database Migration Assistant to upgrade the existing SQL Server to Azure SQL Database.
+
+Performed streaming data ingestion to the Spark distribution environment, using Kafka.
+
+Built a prototype for real-time analysis using Spark streaming and Kafka.
+
+Setup the Automatic Tuning on production database to create index based on inheritance from Azure SQL. The improvement increases sharply to show the result in few milliseconds.
+
+Worked on escalated tasks related to interconnectivity issues and complex cloud-based identity management and user authentication, service interruptions with Virtual Machines (their host nodes) and associated virtual storage (Blobs, Tables, Queues).
+
+Used Spark DataFrame API over Azure HDConnect platform to perform analytics on Hive data.
+
+Extensively used transformations like Router, Aggregator, Normalizer, Filter, Join, Expression, Source Qualifier, Unconnected and connected lookup, Update strategy and store procedure, XML transformations along with error handling and performance tuning.
+
+Using Sqoop to extract the data back to relational databases for business reporting.
+
+Extensively worked on Datatsage sever and parallel job controls and sequencers. Designed and developed parallel jobs by using different types of stages such as transformers, Aggregator, Merge, Join, Lookup, Sort, Remove duplicates, Funnel, Filter, Pivot, Shared container for developing jobs.
+
+Implemented all SCD types using server and parallel jobs. Extensively implemented error handling concepts, testing, debugging skills and performance tuning of targets, source, transformation logics and version control to promote the jobs.
+
+Involved in loading and transforming large sets of structured, semi-structured and unstructured data.
+
+Involved in transforming data from legacy tables to HDFS and HBase tables using Sqoop.
+
+Used Hadoop streaming API with Python for RDF data files' extraction and transformation.
+
+
+
+Key Technologies:  Azure HDInsights, StateStage Python, Sqoop, Spark, Hadoop, HDFS, Spark Data Frame, Azure HDConnect, Azure internet of things, Stream Analytics,Cosmosdb ,Spark,Cloud Service,IOT ,Hadoop,Big data,,Data Analytics,Virtualization,Cloud Automation, Hive, Kafka.
+
+
+
+
+
+
+
+	Hadoop Cloud Engineer	06.2015 – 11.2016
+
+PPG Industries Inc. Pittsburgh, PA
+
+
+
+PPG is working on developing products that are geared toward sustainability, with solutions such as Sigma Air Pure, a revolutionary bio-based product that protects indoor air quality while it beautifies.  The company gathers data to analyze impact on environment, contribution to waste and greenhouse gas emissions, and impact on health and wellness.
+
+The company uses data to make its work environment safer for employees and analyzes the ROI of wellness programs it has implemented, and the impact of $10.5 million invested in hundreds of community organizations across 29 countries.  I was responsible for constructing a new data pipeline to study environmental impact on air quality.
+
+
+
+Involved in loading data from UNIX file system to HDFS.
+
+Wrote shell scripts for automating the process of data loading.
+
+Involved in transforming data from legacy tables to HDFS and HBase tables using Sqoop.
+
+Involved in running Hadoop jobs for processing millions of records and data which was updated daily/weekly.
+
+Design of Kibana dashboard over Elasticsearch for log monitoring.
+
+Extensively worked on performance optimization of Hive queries by using map-side join, parallel execution and cost-based optimization.
+
+Optimized the data storage in Hive using partitioning and bucketing on both the managed and external tables.
+
+Custom Kafka broker design to reduce message retention from default 7-day retention to 30 minute retention - architected a light weight Kafka broker
+
+Kafka consumers used with Kafka Brokers to facilitate Publish/subscribe function.
+
+Help to implement different components on the cloud for the Kafka application messaging
+
+Support for the clusters, topics on the Kafka manager.
+
+Optimized data storage in Kafka Brokers within the Kafka cluster by partitioning Kafka Topics.
+
+Used Impala where possible to achieve faster results compared to Hive during data Analysis.
+
+Real Time/Stream processing Apache Storm, Apache Spark
+
+Transferred Streaming data from different data sources into HDFS and HBase using Apache Flume.
+
+Developed Sqoop jobs to populate Hive external tables using incremental loads
+
+Hands on experience on fetching the live stream data from DB2 to Hbase table using Spark Streaming and Apache Kafka.
+
+Involved in complete Big Data flow of the application starting from data ingestion from upstream to HDFS, processing the data into HDFS using Spark Streaming.
+
+
+
+
+
+Key Technologies:  Hadoop, HDFS, Spark, Kafka, Hive, Pig, Spark Streaming, Apache Flume, Kafka Topics, Apache Zookeeper, Hbase, 
+
+
+
+
+
+	Hadoop Big Data Engineer	02.2014 – 06.2015
+
+Schreiber Foods, Greenbay, WI
+
+
+
+
+
+This large dairy supplier uses big data to collect and analyze the results of food science testing.  They derive data from their R&D labs and aggregate data from external sources involving market research and packaging.  I was involved in constructing pipeline for a new food science testing project.
+
+
+
+Responsible for installing and configuring Apache Hadoop and tools on the cloud.
+
+Used Hadoop streaming API with Python for RDF data files' extraction and transformation.
+
+Worked with various compression techniques to save data and optimize data transfer over network using Lzo, Snappy, etc.
+
+Worked on streaming analyzed data to HBase using Sqoop to make it available for visualization and report generation by the BI team. 
+
+Loaded and transformed large sets of structured, semi-structured, and unstructured data.
+
+Data transformation for proper scaling, decomposition, and aggregation of data.
+
+Created a Kafka producer to connect to different external sources and bring the data to a Kafka broker.
+
+Handling schema changes in data stream using Kafka.
+
+Created a Kafka broker in structured streaming to get structured data by schema.
+
+Implemented Tableau connected to Hive query for ad hoc reporting and Tableau for scheduled reports.
+
+Created reports and documented various retrieval times of them using the ETL tools like QlikView and Pentaho.
+
+Communicated deliverables status to stakeholders and facilitated periodic review meetings.
+
+Completed tasks and project on time, per project requirements and quality goals.
+
+Indices setup, manage template & configuration. Indexing data from community, SQL & No-SQL database, CMS tool like AEM & Teamsite.
+
+Logstash configuration, setup multiple pipeline, managing worker and batch size and DevOps support.
+
+VPC, Route 53, Security Groups, manage Route, Firewall policy, Load Balance DNS setup.
+
+EC2 Instance creation and Auto Scaling, snapshot backup and managing template.
+
+Cloud formation scripting, security and resources automation. 
+
+Cloud watch Monitor for S3 & Glacier storage management, Access control and policy
+
+Google Cloud Platform (GCP)
+
+Replaced existing MapReduce jobs and Hive scripts with Spark DataFrame transformation and actions for the faster analysis of the data.
+
+Migrated complex MapReduce programs into Apache Spark RDD operations like transformations and actions.
+
+Setup cloud compute engine managed and unmanaged mode and SSH key management.
+
+
+
+Key Technologies:  Hadoop, HDFS, Lzo, Snappy, Zookeeper, kafka, Spark, Hive, Pig, Sqoop, 
+
+
+
+
+
+	Data Engineer	12.2012 – 02.2014
+
+Parker Hannifin Corp., Cleveland, OH
+
+
+
+This company specializes in motion and control technologies. Motors and other machines have specific and distinctive signatures created by the vibration of their moving parts. A change in these patterns can indicate impending failure or long-term wear and tear that could eventually take the device off line. Assessing these signatures for signs of trouble is a long-established discipline.
+
+
+
+The advent of the Internet of Things (IoT), the cloud and big data, it now is possible to use sensors to collect the telltale signatures and send them to big data analytic engines in off-site datacenters for analysis. Predictive analytics can be used to improve manufacturing quality and maintenance.
+
+
+
+IOT, Big Data and analytics platform development using AWS to Transforming Supply Chain Management.
+
+Wrote MapReduce code to process and parse data from various sources and store parsed data into HBase and Hive using HBase-Hive Integration.
+
+Implementation of Data Lake on S3, AWS and Cloud Service: Batch Processing and Real time Processing.
+
+Implemented Amazon Redshift in the data lake as the primary storage for NoSQL data.
+
+Involved in creating Hive Tables, loading with data and writing Hive queries, which will invoke and run MapReduce jobs in the backend.
+
+Migrated complex MapReduce programs into Apache Spark RDD operations like transformations and actions.
+
+Built re-usable Hive UDF libraries for business requirements which enabled users to use these UDF's in Hive querying.
+
+Logs that are stored on HDFS were preprocessed using PIG and the processed data is imported into Hive warehouse which enabled business analysts to write Hive queries.
+
+Developed multiple MapReduce jobs in Pig and Python for data cleaning and processing.
+
+Created Hive tables and dynamic partitions, with buckets for sampling and working on them using Hive QL.
+
+Optimized Hive analytics SQL queries, created tables/views, wrote custom UDFs and Hive-based exception processing.
+
+Performed transformations of data using Hive and Pig to HDFS for aggregations.
+
+Analyzed the log data using the HiveQL.
+
+Created and developed the UNIX shell scripts for creating the reports from Hive data.
+
+Developed internal and external tables, and used Hive DDLs to create, alter and drop tables.
+
+Wrote custom UDFs in PIG and HIVE in accordance with business requirements.
+
+Created both internal and external tables in Hive, and developed Pig scripts to preprocess the data for analysis.
+
+Designed appropriate partitioning/bucketing schema to allow faster data retrieval during analysis using Hive. 
+
+Analyzed data by performing HiveQL queries,  and running Pig scripts to study data patterns.
+
+
+
+Key Technologies:  HDFS, Hive, Pig, MapReduce, UDF, Python, Unix, RDD, UDF, AWS, S3, Data lake
+
+
+
+
+
+Prior Experience
+
+
+
+	Coca-Cola 	07.2007 – 02.2012
+
+Coca Cola – FEMSA-  Mexico
+
+
+
+Database Design and Development
+
+Database Development & Administration using SQL Server as well as access support to In-house systems for sales analysis and forecasts.  Development of AD-Hoc systems for sales forecasts Extraction, download and processing of SAP BW / BO2 system information.
+
+
+
+Application Development and Systems Analysis
+
+Coordination of projects in the areas of Systems, Market Intelligence and Marketing. • Management and analysis of information in SQL databases. • Acquisition of computer equipment, servers and software for management. • Programming of systems and macros with databases. • Planning and elaboration of work plans
+
+
+
+
+
+Education
+
+Bachelor of Computer Science 
+
+University of Veracruz, VERACRUZ, MEXICO
+
+
+
+Certification
+
+Big Data 101 
+
+Cognitive Class
