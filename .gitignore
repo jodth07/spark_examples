@@ -132,3 +132,5 @@ dmypy.json
 tmp.txt
 application.properties
 file:
+
+metastore_db/*
