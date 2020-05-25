@@ -1,0 +1,2 @@
+v1
+{"path":"file:///Users/yashiro/Desktop/spark_examples/00_output/data/twitter_txt/part-00000-cd80407b-3c44-497e-9864-ca1eb2792b06-c000.snappy.parquet","size":87558,"isDir":false,"modificationTime":1590417467000,"blockReplication":1,"blockSize":33554432,"action":"add"}
