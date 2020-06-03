@@ -1,4 +1,4 @@
-set hivevar:db_path=/user/maria_dev/plants;
+set hivevar:db_path=/user/yashiro/plants;
 CREATE DATABASE IF NOT EXISTS plants;
 
 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --

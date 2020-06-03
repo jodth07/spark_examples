@@ -133,4 +133,5 @@ tmp.txt
 application.properties
 file:
 
-metastore_db/*
+metastore_db
+spark-warehouse
