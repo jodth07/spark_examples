@@ -134,3 +134,4 @@ application.properties
 file:
 
 metastore_db
+spark-warehouse
