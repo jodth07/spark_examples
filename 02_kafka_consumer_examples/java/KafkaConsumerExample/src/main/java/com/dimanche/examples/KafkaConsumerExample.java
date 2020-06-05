@@ -5,17 +5,17 @@ import org.apache.kafka.clients.consumer.Consumer;
 import org.apache.kafka.common.serialization.LongDeserializer;
 import org.apache.kafka.common.serialization.StringDeserializer;
 
+import java.util.ArrayList;
 import java.util.Collections;
+import java.util.List;
 import java.util.Properties;
 
 public class KafkaConsumerExample {
 
-    final String TOPIC = "topic_one";
-
-    private static Consumer<String, String> createConsumer() {
+    private static KafkaConsumer<String, String> createConsumer() {
         final Properties props = new Properties();
-        props.put(ConsumerConfig.BOOTSTRAP_SERVERS_CONFIG,     "10.0.0.9:9092");
-        props.put(ConsumerConfig.GROUP_ID_CONFIG,  "KafkaExampleConsumer");
+        props.put(ConsumerConfig.BOOTSTRAP_SERVERS_CONFIG,     Constants.BOOTSTRAP_SERVER);
+        props.put(ConsumerConfig.GROUP_ID_CONFIG,  Constants.GROUP_ID);
         props.put(ConsumerConfig.KEY_DESERIALIZER_CLASS_CONFIG,   StringDeserializer.class.getName());
         props.put(ConsumerConfig.VALUE_DESERIALIZER_CLASS_CONFIG,  StringDeserializer.class.getName());
 
@@ -24,37 +24,25 @@ public class KafkaConsumerExample {
 
     }
 
-    static void runConsumer() throws InterruptedException {
-        final Consumer<String, String> consumer = createConsumer();
-
-        final int giveUp = 100;
-        int noRecordsCount = 0;
-
-        while (true) {
-            final ConsumerRecords<String, String> consumerRecords = consumer.poll(1000);
-
-            if (consumerRecords.count() == 0) {
-                noRecordsCount++;
-            } else if (noRecordsCount > giveUp) {
-                break;
-            } else {
-                continue;
-            }
-
-            consumerRecords.forEach(record -> {
-                System.out.printf("Consumer Record:(%d, %s, %d, %d)\n",
-                        record.key(), record.value(),
-                        record.partition(), record.offset());
-            });
-
-            consumer.commitAsync();
-        }
-        consumer.close();
-        System.out.println("DONE");
-    }
-
     public static void main(String[] args) throws InterruptedException {
-        runConsumer();;
-    }
 
+        final KafkaConsumer<String, String> kafkaConsumer = createConsumer();
+        kafkaConsumer.subscribe(Collections.singleton(Constants.TOPIC));
+
+        Constants.TOPICS.add("topic_one");
+
+        kafkaConsumer.subscribe(Constants.TOPICS);
+        try{
+            while (true){
+                ConsumerRecords<String, String> records = kafkaConsumer.poll(10);
+                for (ConsumerRecord<String, String> record: records){
+                    System.out.println(String.format("Topic - %s, Partition - %d, Value: %s", record.topic(), record.partition(), record.value()));
+                }
+            }
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }finally {
+            kafkaConsumer.close();
+        }
+    }
 }
