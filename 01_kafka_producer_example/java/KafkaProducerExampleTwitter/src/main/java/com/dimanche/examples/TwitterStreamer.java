@@ -6,7 +6,6 @@ import twitter4j.conf.ConfigurationBuilder;
 import java.util.Map;
 import java.util.concurrent.LinkedBlockingQueue;
 
-
 public class TwitterStreamer {
 
     public static TwitterStream getStreamer() {
@@ -22,17 +21,20 @@ public class TwitterStreamer {
                 .setOAuthConsumerKey(consumerKey)
                 .setOAuthConsumerSecret(consumerSecret)
                 .setOAuthAccessToken(accessToken)
-                .setOAuthAccessTokenSecret(accessTokenSecret);
+                .setOAuthAccessTokenSecret(accessTokenSecret)
+                .setJSONStoreEnabled(true);
 
         return new TwitterStreamFactory(cb.build()).getInstance();
     }
 
 
-    public static StatusListener getListener(final LinkedBlockingQueue<Status> queue){
+    public static StatusListener getListener(final LinkedBlockingQueue<String> queue){
+
         return new StatusListener() {
 
             public void onStatus(Status status) {
-                queue.offer(status);
+                String tweets = TwitterObjectFactory.getRawJSON(status);
+                queue.offer(tweets);
             }
 
             public void onDeletionNotice(StatusDeletionNotice statusDeletionNotice) {
