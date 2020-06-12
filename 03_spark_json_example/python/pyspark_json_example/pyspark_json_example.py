@@ -1,8 +1,12 @@
+"""
+this project demonstrate a simple reading and processing of json files.
+@auth jodth07
+"""
 from pyspark.sql import SparkSession
 from pyspark.sql import DataFrame
 
-from support_module.supports import ExampleSupport
-from support_module.supports import ExampleConstants
+from .support_module.supports import ExampleSupport
+from .support_module.supports import ExampleConstants
 
 
 if __name__ == '__main__':
@@ -20,5 +24,3 @@ if __name__ == '__main__':
         data: DataFrame = spark.read.json(support.get_input_path(data_class))
         data.printSchema()
         support.output_to_json(data, support.get_output_path(data_class))
-
-
