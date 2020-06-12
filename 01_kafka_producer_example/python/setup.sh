@@ -1,2 +1,3 @@
-pip install kafka-python
-pip install tweepy
+#!/bin/bash
+
+pip install kafka-python tweepy

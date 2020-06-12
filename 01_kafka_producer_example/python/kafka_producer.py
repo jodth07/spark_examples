@@ -15,11 +15,11 @@ def send_message(topic: str, producer: KafkaProducer) -> bool:
     :param topic: topic to send the messages through
     :param producer: kafka producer used to send the message
     """
-    for e in range(10):
+    for counter in range(10):
         data = {
             "time": str(datetime.now()),
             "data_type": "Sample",
-            'value': f"the current number is {e}"
+            'value': f"the current number is {counter}"
         }
         producer.send(topic, value=data)
         sleep(2)

@@ -28,15 +28,41 @@ class Listener(StreamListener):
         self.topic = topic
         self.k_producer = producer
 
-    def on_data(self, data) -> bool:
-        """sends messages through kafka"""
-        self.k_producer.send(self.topic, value=data)
-        print(data)
+    def on_connect(self):
+        """Called once connected to streaming server.
+
+        This will be invoked once a successful response
+        is received from the server. Allows the listener
+        to perform some work prior to entering the read loop.
+        """
+        print("Tweeter Stream connected")
         return True
 
-    def on_error(self, status):
-        """prints the status in case of errors"""
-        print(status)
+    def on_data(self, raw_data):
+        """sends messages through kafka"""
+        self.k_producer.send(self.topic, value=raw_data)
+        print(raw_data)
+        return True
+
+    def on_error(self, status_code):
+        """
+        Called when a non-200 status code is returned
+        prints the status in case of errors
+        """
+        print(status_code)
+        return False
+
+    def on_warning(self, notice):
+        """Called when a disconnection warning message arrives"""
+        warning = "\n" + " * " * 10 + "\n"
+        print(warning)
+        print(notice)
+        print(warning)
+        return True
+
+    def __repr__(self):
+        output = f"This is is the listener for topic {self.topic}"
+        return output
 
 
 class TStreamer:
@@ -49,10 +75,10 @@ class TStreamer:
         requires twitter credentials to create streamer.
         can be acquired from twitter developer app page
         """
-        self.CONSUMER_KEY = key
-        self.CONSUMER_SECRET = secret
-        self.ACCESS_TOKEN = token
-        self.ACCESS_TOKEN_SECRET = token_secret
+        self.consumer_key = key
+        self.consumer_secret = secret
+        self.access_token = token
+        self.access_token_secret = token_secret
 
     def stream_tweets(self, hash_tags: list, listener: Listener):
         """
@@ -61,8 +87,8 @@ class TStreamer:
         :param listener: takes in an instance of the class listener to further process the stream
         """
         # This handles Twitter authentication and the connection to Twitter Streaming API
-        auth = OAuthHandler(self.CONSUMER_KEY, self.CONSUMER_SECRET)
-        auth.set_access_token(self.ACCESS_TOKEN, self.ACCESS_TOKEN_SECRET)
+        auth = OAuthHandler(self.consumer_key, self.consumer_secret)
+        auth.set_access_token(self.access_token, self.access_token_secret)
         stream = Stream(auth, listener)
 
         # This line filter Twitter Streams to capture data by the keywords:
@@ -70,17 +96,19 @@ class TStreamer:
 
 
 if __name__ == '__main__':
-    c_key = os.environ['API_KEY']
-    c_secret = os.environ['API_SECRET_KEY']
-    a_token = os.environ['ACCESS_TOKEN']
-    a_secret = os.environ['ACCESS_TOKEN_SECRET']
+    CONSUMER_KEY = os.environ['API_KEY']
+    CONSUMER_SECRET = os.environ['API_SECRET_KEY']
+    ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
+    ACCESS_TOKEN_SECRET = os.environ['ACCESS_TOKEN_SECRET']
 
-    hash_tag_list = ["thursday"]
+    HASH_TAG_LIST = ["thursday"]
 
-    stream_topic = "topic_one"
-    kafka_producer = KafkaProducer(bootstrap_servers=['localhost:9092'],
+    STREAM_TOPIC = "topic_one"
+    BOOTSTRAP_SERVERS = ['localhost:9092']
+
+    kafka_producer = KafkaProducer(bootstrap_servers=BOOTSTRAP_SERVERS,
                                    value_serializer=lambda x: x.encode('utf-8'))
 
-    stream_listener = Listener(stream_topic, kafka_producer)
-    t_streamer = TStreamer(c_key, c_secret, a_token, a_secret)
-    t_streamer.stream_tweets(hash_tag_list, stream_listener)
+    stream_listener = Listener(STREAM_TOPIC, kafka_producer)
+    t_streamer = TStreamer(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
+    t_streamer.stream_tweets(HASH_TAG_LIST, stream_listener)
