@@ -8,6 +8,8 @@ extension-pkg-whitelist=
 # Add files or directories to the blacklist. They should be base names, not
 # paths.
 ignore=CVS
+       setup
+       README
 
 # Add files or directories matching the regex patterns to the blacklist. The
 # regex matches against base names, not paths.
@@ -282,7 +284,7 @@ missing-member-max-choices=1
 additional-builtins=
 
 # Tells whether unused global variables should be treated as a violation.
-allow-global-unused-variables=yes
+allow-global-unused-variables=no
 
 # List of strings which can identify a callback function by name. A callback
 # name must start or end with one of those strings.
@@ -345,16 +347,16 @@ single-line-if-stmt=no
 [SIMILARITIES]
 
 # Ignore comments when computing similarities.
-ignore-comments=yes
+ignore-comments=no
 
 # Ignore docstrings when computing similarities.
-ignore-docstrings=yes
+ignore-docstrings=no
 
 # Ignore imports when computing similarities.
 ignore-imports=no
 
 # Minimum lines number of a similarity.
-min-similarity-lines=4
+min-similarity-lines=13
 
 
 [BASIC]
@@ -379,7 +381,11 @@ bad-names=foo,
           baz,
           toto,
           tutu,
-          tata
+          tata,
+          y,
+          j,
+          k,
+          ex
 
 # Naming style matching correct class attribute names.
 class-attribute-naming-style=any
@@ -396,7 +402,7 @@ class-naming-style=PascalCase
 #class-rgx=
 
 # Naming style matching correct constant names.
-const-naming-style=UPPER_CASE
+const-naming-style=any
 
 # Regular expression matching correct constant names. Overrides const-naming-
 # style.
@@ -414,15 +420,11 @@ function-naming-style=snake_case
 #function-rgx=
 
 # Good variable names which should always be accepted, separated by a comma.
-good-names=i,
-           j,
-           k,
-           ex,
-           Run,
+good-names=Run,
            _
 
 # Include a hint for the correct naming format with invalid-name.
-include-naming-hint=no
+include-naming-hint=yes
 
 # Naming style matching correct inline iteration names.
 inlinevar-naming-style=any
@@ -438,8 +440,8 @@ method-naming-style=snake_case
 # style.
 #method-rgx=
 
-# Naming style matching correct module names.
-module-naming-style=snake_case
+# Naming style matching correct module names. # snake_case
+module-naming-style=any
 
 # Regular expression matching correct module names. Overrides module-naming-
 # style.
@@ -559,7 +561,7 @@ max-returns=6
 max-statements=50
 
 # Minimum number of public methods for a class (see R0903).
-min-public-methods=2
+# min-public-methods=1
 
 
 [EXCEPTIONS]
