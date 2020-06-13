@@ -1,7 +1,12 @@
-from pyspark.sql import SparkSession
-from pyspark.sql.functions import *
-
+"""
+pyspark write to hive example
+@auth jodth07
+"""
 import os
+
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import to_date, col
+
 
 os.chdir("../..")
 BASE_DIR: str = os.getcwd()
@@ -51,10 +56,12 @@ if __name__ == '__main__':
         .csv(f"file://{INPUT_DIR}/orders.csv")
 
     # orders_df.show()
-    df = orders_df.withColumn("purchasedate", to_date(col("Date of Purchase"), "m/d/yyyy")).drop("Date of Purchase")
+    df = orders_df.withColumn("purchasedate", to_date(col("Date of Purchase"), "m/d/yyyy"))\
+        .drop("Date of Purchase")
+
     print(df.count())
     clean_df = df.na.drop(subset="purchasedate")
+
     print(clean_df.count())
     clean_df.show()
     clean_df.coalesce(1).write.mode("overwrite").insertInto("products.orders")
-

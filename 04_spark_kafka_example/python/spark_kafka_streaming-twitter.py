@@ -1,5 +1,5 @@
 """
-sample streaming project writing to parquet, as well as writing to
+sample streaming project writing to parquet, as well as writing to console.
 @auth jodth07
 """
 import os
