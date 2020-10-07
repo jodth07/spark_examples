@@ -135,3 +135,5 @@ file:
 
 metastore_db
 spark-warehouse
+checkpoints
+ipynb_checkpoints
